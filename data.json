@@ -1,0 +1,18 @@
+[
+  {
+    "date": "2026-06-06",
+    "source": "PyTorch KR",
+    "title": "사고 패치(Thought Patching): 프롬프트를 가중치로 바꾸는 모델 편집 연구",
+    "url": "https://discuss.pytorch.kr/t/thought-patching-feat-google/10554",
+    "summary": "프롬프트로 주던 지시를 모델 가중치에 새겨넣는 편집 기법. in-context로 매번 넣던 걸 영구 반영하는 방향.",
+    "tags": ["paper", "LLM", "model-editing", "Google"]
+  },
+  {
+    "date": "2026-06-06",
+    "source": "PyTorch KR",
+    "title": "Anthropic, AI 에이전트 배포용 Zero Trust 보안 프레임워크 eBook 공개",
+    "url": "https://discuss.pytorch.kr/t/anthropic-ai-zero-trust-ebook-pdf-36p/10567",
+    "summary": "에이전트를 사내에 깔 때 prompt injection·권한 문제를 Zero Trust 관점에서 정리한 36p 가이드.",
+    "tags": ["agent", "security", "MCP", "Anthropic"]
+  }
+]
