@@ -23,7 +23,6 @@ from pathlib import Path
 import os
 
 import feedparser
-from google import genai
 
 # ── 설정 (여기를 손보면 됨) ───────────────────────────────
 DATA_FILE = Path(__file__).parent / "data.json"
@@ -186,32 +185,43 @@ def fetch(src):
 
 
 def gemini_score_batch(candidates):
-    """Gemini API로 후보글 최대 20개를 한 번에 채점 (0~1). 실패 시 빈 dict 반환."""
+    """Gemini REST API로 후보글 최대 20개를 한 번에 채점 (0~1). 실패 시 빈 dict 반환."""
     api_key = os.getenv("GEMINI_API_KEY")
     if not api_key:
         return {}
-    try:
-        client = genai.Client(api_key=api_key)
-        batch = candidates[:20]
-        lines = [
-            f"{i}. 제목: {c['title']}\n   요약: {c['summary'] or '없음'}"
-            for i, c in enumerate(batch)
-        ]
-        prompt = (
-            "아래 AI 관련 글 목록을 보고 AI 실무자에게 얼마나 유용한지 0~10으로 채점해라.\n"
-            "기준: 실용적 도구·코드·가이드·튜토리얼이면 높게, 단순 뉴스·홍보·요약이면 낮게.\n"
-            "반드시 숫자만 담긴 JSON 배열로만 답해라. 예: [8,3,7,...]\n\n"
-            + "\n".join(lines)
-        )
-        response = client.models.generate_content(
-            model="gemini-1.5-flash", contents=prompt
-        )
-        match = re.search(r'\[[\d\s,]+\]', response.text)
-        if match:
-            scores = json.loads(match.group())
-            return {i: s / 10.0 for i, s in enumerate(scores) if i < len(batch)}
-    except Exception as e:
-        print(f"[warn] Gemini 채점 실패, 규칙 기반으로 폴백: {e}")
+    batch = candidates[:20]
+    lines = [
+        f"{i}. 제목: {c['title']}\n   요약: {c['summary'] or '없음'}"
+        for i, c in enumerate(batch)
+    ]
+    prompt = (
+        "아래 AI 관련 글 목록을 보고 AI 실무자에게 얼마나 유용한지 0~10으로 채점해라.\n"
+        "기준: 실용적 도구·코드·가이드·튜토리얼이면 높게, 단순 뉴스·홍보·요약이면 낮게.\n"
+        "반드시 숫자만 담긴 JSON 배열로만 답해라. 예: [8,3,7,...]\n\n"
+        + "\n".join(lines)
+    )
+    payload = json.dumps({"contents": [{"parts": [{"text": prompt}]}]}).encode()
+    # v1 → v1beta 순으로 시도, 모델도 두 가지 시도
+    endpoints = [
+        "https://generativelanguage.googleapis.com/v1/models/gemini-1.5-flash:generateContent",
+        "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent",
+    ]
+    for url in endpoints:
+        try:
+            req = urllib.request.Request(
+                f"{url}?key={api_key}", data=payload,
+                headers={"Content-Type": "application/json"}, method="POST"
+            )
+            resp = json.loads(urllib.request.urlopen(req, timeout=30).read())
+            text = resp["candidates"][0]["content"]["parts"][0]["text"]
+            match = re.search(r'\[[\d\s,]+\]', text)
+            if match:
+                scores = json.loads(match.group())
+                print(f"[info] Gemini 채점 적용 ({url.split('/models/')[1].split(':')[0]})")
+                return {i: s / 10.0 for i, s in enumerate(scores) if i < len(batch)}
+        except Exception as e:
+            print(f"[warn] {url.split('/models/')[1].split(':')[0]} 실패: {e}")
+    print("[warn] Gemini 채점 전체 실패, 규칙 기반으로 폴백")
     return {}
 
 
