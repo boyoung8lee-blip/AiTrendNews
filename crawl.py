@@ -23,7 +23,7 @@ from pathlib import Path
 import os
 
 import feedparser
-import google.generativeai as genai
+from google import genai
 
 # ── 설정 (여기를 손보면 됨) ───────────────────────────────
 DATA_FILE = Path(__file__).parent / "data.json"
@@ -191,8 +191,7 @@ def gemini_score_batch(candidates):
     if not api_key:
         return {}
     try:
-        genai.configure(api_key=api_key)
-        model = genai.GenerativeModel("gemini-2.0-flash")
+        client = genai.Client(api_key=api_key)
         batch = candidates[:20]
         lines = [
             f"{i}. 제목: {c['title']}\n   요약: {c['summary'] or '없음'}"
@@ -204,7 +203,9 @@ def gemini_score_batch(candidates):
             "반드시 숫자만 담긴 JSON 배열로만 답해라. 예: [8,3,7,...]\n\n"
             + "\n".join(lines)
         )
-        response = model.generate_content(prompt)
+        response = client.models.generate_content(
+            model="gemini-1.5-flash", contents=prompt
+        )
         match = re.search(r'\[[\d\s,]+\]', response.text)
         if match:
             scores = json.loads(match.group())
