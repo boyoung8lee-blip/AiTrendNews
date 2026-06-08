@@ -40,7 +40,7 @@ SOURCES = [
     {"name": "PyTorch KR", "type": "discourse",
      "url": "https://discuss.pytorch.kr/c/news/14.json", "ai_only": False},
     {"name": "GeekNews", "type": "rss_ranked",
-     "url": "https://news.hada.io/rss/topics", "ai_only": True},
+     "url": "https://news.hada.io/rss/news", "ai_only": True},
 ]
 
 # GeekNews에서 AI 글만 거르는 키워드
