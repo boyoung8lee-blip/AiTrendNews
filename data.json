@@ -2,6 +2,48 @@
   {
     "date": "2026-06-08",
     "source": "PyTorch KR",
+    "title": "OpenAI가 공개한, 소프트웨어 개발 주기별 AI 네이티브 엔지니어링 팀 구축 가이드 (feat. Codex)",
+    "url": "https://discuss.pytorch.kr/t/openai-ai-feat-codex/10577",
+    "summary": "OpenAI가 공개한 AI 네이티브 엔지니어링 팀 구축 가이드: SDLC 7단계와 위임, 검토, 소유 프레임워크1536×1024 243 KB AI 네이티브 엔지니어링 팀 구축 가이드 소개 OpenAI가 Codex 공식 문서에 공개한 'Building…",
+    "tags": [
+      "openai",
+      "coding-agent",
+      "codex",
+      "guide"
+    ],
+    "score": 0.51
+  },
+  {
+    "date": "2026-06-08",
+    "source": "PyTorch KR",
+    "title": "Cursor Cookbook: Cursor SDK와 Cloud Agents 실습 예제를 모은 공식 저장소",
+    "url": "https://discuss.pytorch.kr/t/cursor-cookbook-cursor-sdk-cloud-agents/10364",
+    "summary": "Cursor Cookbook의 메인 비주얼1733×907 209 KB Cursor Cookbook 소개 Cursor Cookbook은 Cursor 팀이 직접 운영하는 공식 예제 저장소로, \"small examples for building with…",
+    "tags": [
+      "typescript",
+      "coding-agent",
+      "cursor",
+      "cookbook"
+    ],
+    "score": 0.5
+  },
+  {
+    "date": "2026-06-08",
+    "source": "PyTorch KR",
+    "title": "Claude Code 동적 워크플로우(Dynamic Workflows): 작업마다 하네스를 직접 짜는 병렬 오케스트레이션",
+    "url": "https://discuss.pytorch.kr/t/claude-code-dynamic-workflows/10519",
+    "summary": "Claude Code 동적 워크플로우: 작업마다 하니스를 직접 짜는 병렬 오케스트레이션1536×1024 255 KB 동적 워크플로우(Dynamic Workflows) 소개 Anthropic이 Claude Code에 동적 워크플로우(Dynamic…",
+    "tags": [
+      "llm",
+      "claude-code",
+      "anthropic",
+      "agent"
+    ],
+    "score": 0.44
+  },
+  {
+    "date": "2026-06-08",
+    "source": "PyTorch KR",
     "title": "Paseo: Claude Code, Codex 등 코딩 에이전트를 휴대폰과 데스크톱에서 쓰는 셀프 호스팅 도구",
     "url": "https://discuss.pytorch.kr/t/paseo-claude-code-codex/10553",
     "summary": "Paseo: Claude Code, Codex 등 코딩 에이전트를 휴대폰과 데스크톱에서 쓰는 단일 인터페이스2048×1233 426 KB Paseo 소개 Paseo는 Claude Code, Codex, Copilot, OpenCode, Pi 같은…",
