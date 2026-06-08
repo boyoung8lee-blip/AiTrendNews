@@ -1,1 +1,39 @@
-[]
+[
+  {
+    "date": "2026-06-08",
+    "source": "PyTorch KR",
+    "title": "Google, 인코더 없이 노트북에서 실행하는 통합 멀티모달 모델 Gemma 4 12B 공개",
+    "url": "https://discuss.pytorch.kr/t/google-gemma-4-12b/10534",
+    "summary": "Gemma 4 12B 통합 트랜스포머 아키텍처를 표현한 공식 히어로 이미지2096×1182 211 KB Gemma 4 12B 소개 Google DeepMind가 2026년 6월 3일, Gemma 4 모델군의 새로운 중간 크기 모델인 Gemma 4…",
+    "tags": [
+      "opensource",
+      "google",
+      "multimodal",
+      "on-device"
+    ],
+    "score": 0.85
+  },
+  {
+    "date": "2026-06-08",
+    "source": "PyTorch KR",
+    "title": "OpenAI Codex, 코딩을 넘어 모든 직무로 확장하는 플러그인, 사이트, 주석 기능 공개",
+    "url": "https://discuss.pytorch.kr/t/openai-codex/10521",
+    "summary": "코딩을 넘어 모든 직무를 위한 Codex1536×1024 238 KB Codex의 확장 소개 Codex는 OpenAI가 만든 에이전트형 코딩 도구로 출발했지만, 점점 더 다양한 업무로 쓰임새가 넓어지고 있습니다. OpenAI에 따르면 현재 매주…",
+    "tags": [
+      "openai",
+      "agent",
+      "mcp",
+      "codex"
+    ],
+    "score": 0.83
+  },
+  {
+    "date": "2026-06-08",
+    "source": "GeekNews",
+    "title": "하네스 엔지니어링: 에이전트 우선 세계에서 Codex 활용하기",
+    "url": "https://news.hada.io/topic?id=30258",
+    "summary": "내부 베타 소프트웨어 제품은 수동 작성 코드 0줄을 고정 제약으로 삼아 Codex가 애플리케이션 로직, 테스트, CI 설정, 문서, 관측성, 내부 도구까지 작성한 실험 사례 빈 git 저장소에서 시작한 코드베이스는 약 5개월 뒤 약 100만 줄…",
+    "tags": [],
+    "score": 0.71
+  }
+]
