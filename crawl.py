@@ -25,7 +25,7 @@ import feedparser
 # ── 설정 (여기를 손보면 됨) ───────────────────────────────
 DATA_FILE = Path(__file__).parent / "data.json"
 MAX_KEEP = 60          # data.json에 보관할 최대 글 수
-PICK = 2               # 매일 뽑을 글 개수
+PICK = 3               # 매일 뽑을 글 개수
 
 WEIGHTS = {            # ★ 유용함 기준의 비중 (합이 1)
     "popularity": 0.40,

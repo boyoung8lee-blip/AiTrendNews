@@ -22,7 +22,7 @@ jobs:
       - name: Install deps
         run: pip install -r requirements.txt
 
-      - name: Crawl & pick 2
+      - name: Crawl & pick 3
         run: python crawl.py
 
       - name: Commit if changed
