@@ -2,6 +2,44 @@
   {
     "date": "2026-06-08",
     "source": "PyTorch KR",
+    "title": "Dnotitia, 검열을 제거하고 한국어를 강화한 Qwen 3.5/3.6 기반 오픈 LLM 패밀리 DNA 3.0 공개",
+    "url": "https://discuss.pytorch.kr/t/dnotitia-qwen-3-5-3-6-llm-dna-3-0/10472",
+    "summary": "DNA 3.0, 검열을 걷어낸 한국어 오픈 LLM 패밀리1536×1024 275 KB DNA 3.0 소개 국내 AI 기업 Dnotitia(디노티시아)가 자사의 한국어 특화 대형 언어 모델 제품군인 DNA 3.0 을 Hugging Face에…",
+    "tags": [
+      "llm",
+      "opensource",
+      "multimodal",
+      "qwen"
+    ],
+    "score": 0.38
+  },
+  {
+    "date": "2026-06-08",
+    "source": "PyTorch KR",
+    "title": "OpenClaw로 뭘 할 수 있을까? Moltbook에서 정리한 실전 활용 사례 74개",
+    "url": "https://discuss.pytorch.kr/t/openclaw-moltbook-74/10513",
+    "summary": "안녕하세요, 파이토치 코리아 여러분! openclaw-moltbook-usecases-hero1600×900 57.2 KB OpenClaw 같은 AI 에이전트를 설치하고 나면, 처음에는 코딩 보조나 간단한 파일 정리 정도부터 떠올리게 됩니다. 그런데…",
+    "tags": [
+      "ai",
+      "opensource",
+      "claude-code"
+    ],
+    "score": 0.36
+  },
+  {
+    "date": "2026-06-08",
+    "source": "PyTorch KR",
+    "title": "Seedance 2.0 실전 가이드: 이미지, 영상, 음성, 텍스트로 제어하는 AI 영상 생성",
+    "url": "https://discuss.pytorch.kr/t/seedance-2-0-ai/10536",
+    "summary": "안녕하세요, 파이토치 코리아 여러분! 지난번 OpenClaw 사례 글에 이어, 이번에는 Seedance 2.0을 실제 제작 워크플로우 관점에서 정리해봤습니다. 단순히 \"텍스트를 넣으면 영상이 나온다\"는 소개보다는, 어떤 입력을 어떻게 조합해야 결과를…",
+    "tags": [
+      "ai"
+    ],
+    "score": 0.35
+  },
+  {
+    "date": "2026-06-08",
+    "source": "PyTorch KR",
     "title": "Nango: AI 에이전트와 제품을 800여 개 API에 연결하는 통합 플랫폼",
     "url": "https://discuss.pytorch.kr/t/nango-ai-800-api/10492",
     "summary": "Nango: AI 에이전트와 제품을 800여 개 API에 연결하는 통합 플랫폼1536×1024 221 KB Nango 소개 외부 서비스와 연동하는 기능을 제품에 붙이는 일은 거의 모든 SaaS 개발에서 반복적으로 등장하지만, 막상 손대 보면 단순하지…",
