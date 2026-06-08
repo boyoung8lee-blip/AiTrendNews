@@ -1,11 +1,44 @@
 [
   {
+    "date": "2026-06-08",
+    "source": "PyTorch KR",
+    "title": "Google, 인코더 없이 노트북에서 실행하는 통합 멀티모달 모델 Gemma 4 12B 공개",
+    "url": "https://discuss.pytorch.kr/t/google-gemma-4-12b/10534",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "opensource",
+      "google",
+      "multimodal",
+      "on-device"
+    ],
+    "score": 0.85
+  },
+  {
+    "date": "2026-06-08",
+    "source": "PyTorch KR",
+    "title": "OpenAI Codex, 코딩을 넘어 모든 직무로 확장하는 플러그인, 사이트, 주석 기능 공개",
+    "url": "https://discuss.pytorch.kr/t/openai-codex/10521",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "openai",
+      "agent",
+      "mcp",
+      "codex"
+    ],
+    "score": 0.83
+  },
+  {
     "date": "2026-06-06",
     "source": "PyTorch KR",
     "title": "사고 패치(Thought Patching): 프롬프트를 가중치로 바꾸는 모델 편집 연구",
     "url": "https://discuss.pytorch.kr/t/thought-patching-feat-google/10554",
     "summary": "프롬프트로 주던 지시를 모델 가중치에 새겨넣는 편집 기법. in-context로 매번 넣던 걸 영구 반영하는 방향.",
-    "tags": ["paper", "LLM", "model-editing", "Google"]
+    "tags": [
+      "paper",
+      "LLM",
+      "model-editing",
+      "Google"
+    ]
   },
   {
     "date": "2026-06-06",
@@ -13,6 +46,11 @@
     "title": "Anthropic, AI 에이전트 배포용 Zero Trust 보안 프레임워크 eBook 공개",
     "url": "https://discuss.pytorch.kr/t/anthropic-ai-zero-trust-ebook-pdf-36p/10567",
     "summary": "에이전트를 사내에 깔 때 prompt injection·권한 문제를 Zero Trust 관점에서 정리한 36p 가이드.",
-    "tags": ["agent", "security", "MCP", "Anthropic"]
+    "tags": [
+      "agent",
+      "security",
+      "MCP",
+      "Anthropic"
+    ]
   }
 ]
