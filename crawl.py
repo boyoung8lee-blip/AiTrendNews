@@ -295,7 +295,15 @@ def main():
         candidates.sort(key=lambda x: x["_score"], reverse=True)
         print(f"[info] Gemini 채점 적용 ({len(gemini_scores)}건)")
 
-    picks = candidates[:PICK]
+    # 소스별 최소 1건 보장 후 나머지 점수순으로 채움
+    by_source = {}
+    for c in candidates:
+        by_source.setdefault(c["source"], []).append(c)
+    guaranteed = [items[0] for items in by_source.values()]  # 소스별 1위
+    guaranteed_urls = {p["url"] for p in guaranteed}
+    extras = [c for c in candidates if c["url"] not in guaranteed_urls]
+    picks = (guaranteed + extras)[:PICK]
+    picks.sort(key=lambda x: x["_score"], reverse=True)
 
     # 2-1) Discourse 글은 목록 API에 본문이 없으므로 개별 토픽에서 요약 보충
     for p in picks:
