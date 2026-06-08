@@ -273,6 +273,13 @@ def main():
         print("[info] 새 후보 없음. 종료.")
         return
 
+    # 오늘 이미 PICK개 이상 뽑았으면 중복 실행 방지
+    today = datetime.now(KST).strftime("%Y-%m-%d")
+    today_count = sum(1 for e in existing if e.get("date") == today)
+    if today_count >= PICK:
+        print(f"[info] 오늘({today}) 이미 {today_count}건 있음. 스킵.")
+        return
+
     # 2) 점수 매겨 상위 PICK개 선정
     for it in candidates:
         it["_score"] = score(it)
@@ -296,7 +303,6 @@ def main():
             p["summary"] = fetch_topic_summary(p["url"])
 
     # 3) 저장 형태로 변환 (오늘 날짜로 묶음, 점수도 기록)
-    today = datetime.now(KST).strftime("%Y-%m-%d")
     new_entries = [{
         "date": today,
         "source": p["source"],

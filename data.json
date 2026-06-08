@@ -2,207 +2,10 @@
   {
     "date": "2026-06-08",
     "source": "PyTorch KR",
-    "title": "Dnotitia, 검열을 제거하고 한국어를 강화한 Qwen 3.5/3.6 기반 오픈 LLM 패밀리 DNA 3.0 공개",
-    "url": "https://discuss.pytorch.kr/t/dnotitia-qwen-3-5-3-6-llm-dna-3-0/10472",
-    "summary": "DNA 3.0, 검열을 걷어낸 한국어 오픈 LLM 패밀리1536×1024 275 KB DNA 3.0 소개 국내 AI 기업 Dnotitia(디노티시아)가 자사의 한국어 특화 대형 언어 모델 제품군인 DNA 3.0 을 Hugging Face에…",
-    "tags": [
-      "llm",
-      "opensource",
-      "multimodal",
-      "qwen"
-    ],
-    "score": 0.38
-  },
-  {
-    "date": "2026-06-08",
-    "source": "PyTorch KR",
-    "title": "OpenClaw로 뭘 할 수 있을까? Moltbook에서 정리한 실전 활용 사례 74개",
-    "url": "https://discuss.pytorch.kr/t/openclaw-moltbook-74/10513",
-    "summary": "안녕하세요, 파이토치 코리아 여러분! openclaw-moltbook-usecases-hero1600×900 57.2 KB OpenClaw 같은 AI 에이전트를 설치하고 나면, 처음에는 코딩 보조나 간단한 파일 정리 정도부터 떠올리게 됩니다. 그런데…",
-    "tags": [
-      "ai",
-      "opensource",
-      "claude-code"
-    ],
-    "score": 0.36
-  },
-  {
-    "date": "2026-06-08",
-    "source": "PyTorch KR",
-    "title": "Seedance 2.0 실전 가이드: 이미지, 영상, 음성, 텍스트로 제어하는 AI 영상 생성",
-    "url": "https://discuss.pytorch.kr/t/seedance-2-0-ai/10536",
-    "summary": "안녕하세요, 파이토치 코리아 여러분! 지난번 OpenClaw 사례 글에 이어, 이번에는 Seedance 2.0을 실제 제작 워크플로우 관점에서 정리해봤습니다. 단순히 \"텍스트를 넣으면 영상이 나온다\"는 소개보다는, 어떤 입력을 어떻게 조합해야 결과를…",
-    "tags": [
-      "ai"
-    ],
-    "score": 0.35
-  },
-  {
-    "date": "2026-06-08",
-    "source": "PyTorch KR",
-    "title": "Nango: AI 에이전트와 제품을 800여 개 API에 연결하는 통합 플랫폼",
-    "url": "https://discuss.pytorch.kr/t/nango-ai-800-api/10492",
-    "summary": "Nango: AI 에이전트와 제품을 800여 개 API에 연결하는 통합 플랫폼1536×1024 221 KB Nango 소개 외부 서비스와 연동하는 기능을 제품에 붙이는 일은 거의 모든 SaaS 개발에서 반복적으로 등장하지만, 막상 손대 보면 단순하지…",
-    "tags": [
-      "ai-agent",
-      "mcp",
-      "typescript",
-      "integration-platform"
-    ],
-    "score": 0.42
-  },
-  {
-    "date": "2026-06-08",
-    "source": "PyTorch KR",
-    "title": "사회과학 분야에 코딩 에이전트는 얼마나 퍼졌나: 사회과학자 1,260명 설문 분석 (feat. Anthropic)",
-    "url": "https://discuss.pytorch.kr/t/1-260-feat-anthropic/10483",
-    "summary": "사회과학에 코딩 에이전트는 얼마나 퍼졌나: 사회과학자 1,260명 설문 분석 (feat. Anthropic)883×499 39.2 KB 코딩 에이전트와 사회과학 연구 한 명의 사회과학자가 새로운 연구 아이디어를 떠올렸다고 해봅시다. 과거에는 데이터를…",
-    "tags": [
-      "claude-code",
-      "anthropic",
-      "agent",
-      "coding-agent"
-    ],
-    "score": 0.42
-  },
-  {
-    "date": "2026-06-08",
-    "source": "PyTorch KR",
-    "title": "CC Gateway: Claude Code의 API 텔레메트리를 하나의 정체성으로 정규화하는 리버스 프록시",
-    "url": "https://discuss.pytorch.kr/t/cc-gateway-claude-code-api/10555",
-    "summary": "CC Gateway: Claude Code의 API 텔레메트리를 하나의 정체성으로 정규화하는 리버스 프록시1536×1024 238 KB CC Gateway 소개 CC Gateway는 Claude Code와 Anthropic API 사이에 놓여 기기…",
-    "tags": [
-      "claude-code",
-      "mit-license",
-      "privacy",
-      "telemetry"
-    ],
-    "score": 0.39
-  },
-  {
-    "date": "2026-06-08",
-    "source": "PyTorch KR",
-    "title": "OpenAI가 공개한, 소프트웨어 개발 주기별 AI 네이티브 엔지니어링 팀 구축 가이드 (feat. Codex)",
-    "url": "https://discuss.pytorch.kr/t/openai-ai-feat-codex/10577",
-    "summary": "OpenAI가 공개한 AI 네이티브 엔지니어링 팀 구축 가이드: SDLC 7단계와 위임, 검토, 소유 프레임워크1536×1024 243 KB AI 네이티브 엔지니어링 팀 구축 가이드 소개 OpenAI가 Codex 공식 문서에 공개한 'Building…",
-    "tags": [
-      "openai",
-      "coding-agent",
-      "codex",
-      "guide"
-    ],
-    "score": 0.51
-  },
-  {
-    "date": "2026-06-08",
-    "source": "PyTorch KR",
-    "title": "Cursor Cookbook: Cursor SDK와 Cloud Agents 실습 예제를 모은 공식 저장소",
-    "url": "https://discuss.pytorch.kr/t/cursor-cookbook-cursor-sdk-cloud-agents/10364",
-    "summary": "Cursor Cookbook의 메인 비주얼1733×907 209 KB Cursor Cookbook 소개 Cursor Cookbook은 Cursor 팀이 직접 운영하는 공식 예제 저장소로, \"small examples for building with…",
-    "tags": [
-      "typescript",
-      "coding-agent",
-      "cursor",
-      "cookbook"
-    ],
-    "score": 0.5
-  },
-  {
-    "date": "2026-06-08",
-    "source": "PyTorch KR",
-    "title": "Claude Code 동적 워크플로우(Dynamic Workflows): 작업마다 하네스를 직접 짜는 병렬 오케스트레이션",
-    "url": "https://discuss.pytorch.kr/t/claude-code-dynamic-workflows/10519",
-    "summary": "Claude Code 동적 워크플로우: 작업마다 하니스를 직접 짜는 병렬 오케스트레이션1536×1024 255 KB 동적 워크플로우(Dynamic Workflows) 소개 Anthropic이 Claude Code에 동적 워크플로우(Dynamic…",
-    "tags": [
-      "llm",
-      "claude-code",
-      "anthropic",
-      "agent"
-    ],
-    "score": 0.44
-  },
-  {
-    "date": "2026-06-08",
-    "source": "PyTorch KR",
-    "title": "Paseo: Claude Code, Codex 등 코딩 에이전트를 휴대폰과 데스크톱에서 쓰는 셀프 호스팅 도구",
-    "url": "https://discuss.pytorch.kr/t/paseo-claude-code-codex/10553",
-    "summary": "Paseo: Claude Code, Codex 등 코딩 에이전트를 휴대폰과 데스크톱에서 쓰는 단일 인터페이스2048×1233 426 KB Paseo 소개 Paseo는 Claude Code, Codex, Copilot, OpenCode, Pi 같은…",
-    "tags": [
-      "claude-code",
-      "coding-agent",
-      "codex",
-      "self-hosted"
-    ],
-    "score": 0.6
-  },
-  {
-    "date": "2026-06-08",
-    "source": "PyTorch KR",
-    "title": "taste-skill: AI 코딩 에이전트가 만드는 밋밋한 UI를 고급 디자인으로 끌어올리는 스킬 모음",
-    "url": "https://discuss.pytorch.kr/t/taste-skill-ai-ui/10516",
-    "summary": "taste-skill: AI 코딩 에이전트가 만드는 밋밋한 UI를 고급 디자인으로 끌어올리는 스킬 모음1983×793 166 KB taste-skill 소개 AI 코딩 에이전트에게 화면을 만들어 달라고 하면, 기능은 동작하지만 어딘가 템플릿 같고…",
-    "tags": [
-      "claude-code",
-      "codex",
-      "agent-skills",
-      "frontend"
-    ],
-    "score": 0.58
-  },
-  {
-    "date": "2026-06-08",
-    "source": "PyTorch KR",
-    "title": "HyperFrames: HTML로 작성한 화면을 MP4 영상으로 렌더링하는 AI 에이전트용 프레임워크",
-    "url": "https://discuss.pytorch.kr/t/hyperframes-html-mp4-ai/10518",
-    "summary": "HyperFrames: HTML로 작성한 화면을 MP4 영상으로 렌더링하는 AI 에이전트용 프레임워크1536×1024 262 KB HyperFrames 소개 영상을 코드로 만들려고 하면 보통 전용 타임라인 포맷이나 특정 프레임워크의 컴포넌트 모델을…",
-    "tags": [
-      "codex",
-      "agent-skills",
-      "ffmpeg",
-      "html"
-    ],
-    "score": 0.57
-  },
-  {
-    "date": "2026-06-08",
-    "source": "PyTorch KR",
-    "title": "designlang: 웹사이트의 디자인 시스템을 한 번에 추출하는 CLI와 AI 에이전트 도구",
-    "url": "https://discuss.pytorch.kr/t/designlang-cli-ai/10494",
-    "summary": "image2710×947 143 KB designlang: 웹사이트의 디자인 시스템을 한 번에 추출하는 CLI와 AI 에이전트 도구 designlang 소개 다른 사이트의 디자인을 참고해 내 프로젝트에 옮기는 작업은 보통 손으로 합니다. 개발자…",
-    "tags": [
-      "claude-code",
-      "mcp",
-      "cli",
-      "frontend"
-    ],
-    "score": 0.76
-  },
-  {
-    "date": "2026-06-08",
-    "source": "PyTorch KR",
-    "title": "Pydantic AI Harness: Pydantic AI 에이전트를 위한 공식 기능 라이브러리",
-    "url": "https://discuss.pytorch.kr/t/pydantic-ai-harness-pydantic-ai/10479",
-    "summary": "Pydantic AI Harness: Pydantic AI 에이전트를 위한 공식 기능 라이브러리1536×1024 269 KB Pydantic AI Harness 소개 LLM 에이전트를 실제 제품에 투입하려면 모델 호출 그 자체보다, 그 주위를 감싸는…",
-    "tags": [
-      "ai-agent",
-      "mcp",
-      "mit-license",
-      "code-mode"
-    ],
-    "score": 0.64
-  },
-  {
-    "date": "2026-06-08",
-    "source": "PyTorch KR",
     "title": "Google, 인코더 없이 노트북에서 실행하는 통합 멀티모달 모델 Gemma 4 12B 공개",
     "url": "https://discuss.pytorch.kr/t/google-gemma-4-12b/10534",
     "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "opensource",
-      "google",
-      "multimodal",
-      "on-device"
-    ],
+    "tags": ["opensource", "google", "multimodal", "on-device"],
     "score": 0.85
   },
   {
@@ -211,13 +14,17 @@
     "title": "OpenAI Codex, 코딩을 넘어 모든 직무로 확장하는 플러그인, 사이트, 주석 기능 공개",
     "url": "https://discuss.pytorch.kr/t/openai-codex/10521",
     "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "openai",
-      "agent",
-      "mcp",
-      "codex"
-    ],
+    "tags": ["openai", "agent", "mcp", "codex"],
     "score": 0.83
+  },
+  {
+    "date": "2026-06-08",
+    "source": "PyTorch KR",
+    "title": "designlang: 웹사이트의 디자인 시스템을 한 번에 추출하는 CLI와 AI 에이전트 도구",
+    "url": "https://discuss.pytorch.kr/t/designlang-cli-ai/10494",
+    "summary": "image2710×947 143 KB designlang: 웹사이트의 디자인 시스템을 한 번에 추출하는 CLI와 AI 에이전트 도구 designlang 소개 다른 사이트의 디자인을 참고해 내 프로젝트에 옮기는 작업은 보통 손으로 합니다. 개발자…",
+    "tags": ["claude-code", "mcp", "cli", "frontend"],
+    "score": 0.76
   },
   {
     "date": "2026-06-06",
@@ -225,12 +32,7 @@
     "title": "사고 패치(Thought Patching): 프롬프트를 가중치로 바꾸는 모델 편집 연구",
     "url": "https://discuss.pytorch.kr/t/thought-patching-feat-google/10554",
     "summary": "프롬프트로 주던 지시를 모델 가중치에 새겨넣는 편집 기법. in-context로 매번 넣던 걸 영구 반영하는 방향.",
-    "tags": [
-      "paper",
-      "LLM",
-      "model-editing",
-      "Google"
-    ]
+    "tags": ["paper", "LLM", "model-editing", "Google"]
   },
   {
     "date": "2026-06-06",
@@ -238,11 +40,6 @@
     "title": "Anthropic, AI 에이전트 배포용 Zero Trust 보안 프레임워크 eBook 공개",
     "url": "https://discuss.pytorch.kr/t/anthropic-ai-zero-trust-ebook-pdf-36p/10567",
     "summary": "에이전트를 사내에 깔 때 prompt injection·권한 문제를 Zero Trust 관점에서 정리한 36p 가이드.",
-    "tags": [
-      "agent",
-      "security",
-      "MCP",
-      "Anthropic"
-    ]
+    "tags": ["agent", "security", "MCP", "Anthropic"]
   }
 ]
