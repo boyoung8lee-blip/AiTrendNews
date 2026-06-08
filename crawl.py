@@ -203,7 +203,8 @@ def gemini_score_batch(candidates):
     payload = json.dumps({"contents": [{"parts": [{"text": prompt}]}]}).encode()
     # v1 → v1beta 순으로 시도, 모델도 두 가지 시도
     endpoints = [
-        "https://generativelanguage.googleapis.com/v1/models/gemini-1.5-flash:generateContent",
+        "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent",
+        "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-lite:generateContent",
         "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent",
     ]
     for url in endpoints:
