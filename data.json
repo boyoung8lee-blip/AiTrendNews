@@ -2,6 +2,48 @@
   {
     "date": "2026-06-08",
     "source": "PyTorch KR",
+    "title": "Paseo: Claude Code, Codex 등 코딩 에이전트를 휴대폰과 데스크톱에서 쓰는 셀프 호스팅 도구",
+    "url": "https://discuss.pytorch.kr/t/paseo-claude-code-codex/10553",
+    "summary": "Paseo: Claude Code, Codex 등 코딩 에이전트를 휴대폰과 데스크톱에서 쓰는 단일 인터페이스2048×1233 426 KB Paseo 소개 Paseo는 Claude Code, Codex, Copilot, OpenCode, Pi 같은…",
+    "tags": [
+      "claude-code",
+      "coding-agent",
+      "codex",
+      "self-hosted"
+    ],
+    "score": 0.6
+  },
+  {
+    "date": "2026-06-08",
+    "source": "PyTorch KR",
+    "title": "taste-skill: AI 코딩 에이전트가 만드는 밋밋한 UI를 고급 디자인으로 끌어올리는 스킬 모음",
+    "url": "https://discuss.pytorch.kr/t/taste-skill-ai-ui/10516",
+    "summary": "taste-skill: AI 코딩 에이전트가 만드는 밋밋한 UI를 고급 디자인으로 끌어올리는 스킬 모음1983×793 166 KB taste-skill 소개 AI 코딩 에이전트에게 화면을 만들어 달라고 하면, 기능은 동작하지만 어딘가 템플릿 같고…",
+    "tags": [
+      "claude-code",
+      "codex",
+      "agent-skills",
+      "frontend"
+    ],
+    "score": 0.58
+  },
+  {
+    "date": "2026-06-08",
+    "source": "PyTorch KR",
+    "title": "HyperFrames: HTML로 작성한 화면을 MP4 영상으로 렌더링하는 AI 에이전트용 프레임워크",
+    "url": "https://discuss.pytorch.kr/t/hyperframes-html-mp4-ai/10518",
+    "summary": "HyperFrames: HTML로 작성한 화면을 MP4 영상으로 렌더링하는 AI 에이전트용 프레임워크1536×1024 262 KB HyperFrames 소개 영상을 코드로 만들려고 하면 보통 전용 타임라인 포맷이나 특정 프레임워크의 컴포넌트 모델을…",
+    "tags": [
+      "codex",
+      "agent-skills",
+      "ffmpeg",
+      "html"
+    ],
+    "score": 0.57
+  },
+  {
+    "date": "2026-06-08",
+    "source": "PyTorch KR",
     "title": "designlang: 웹사이트의 디자인 시스템을 한 번에 추출하는 CLI와 AI 에이전트 도구",
     "url": "https://discuss.pytorch.kr/t/designlang-cli-ai/10494",
     "summary": "image2710×947 143 KB designlang: 웹사이트의 디자인 시스템을 한 번에 추출하는 CLI와 AI 에이전트 도구 designlang 소개 다른 사이트의 디자인을 참고해 내 프로젝트에 옮기는 작업은 보통 손으로 합니다. 개발자…",
