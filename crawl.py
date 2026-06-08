@@ -182,6 +182,19 @@ def fetch(src):
     return items
 
 
+def fetch_topic_summary(topic_url):
+    """Discourse 개별 토픽에서 첫 게시글 본문을 가져온다 (선정된 글만 호출)."""
+    try:
+        req = urllib.request.Request(topic_url + ".json", headers=UA)
+        data = json.loads(urllib.request.urlopen(req, timeout=10).read())
+        posts = data.get("post_stream", {}).get("posts", [])
+        if posts:
+            return clean_text(posts[0].get("cooked", ""), 140)
+    except Exception:
+        pass
+    return ""
+
+
 # ── 점수 매기기 ────────────────────────────────────────────
 def score(item):
     text = f"{item['title']} {item['summary']} {' '.join(item['tags'])}"
@@ -220,6 +233,11 @@ def main():
         it["_score"] = score(it)
     candidates.sort(key=lambda x: x["_score"], reverse=True)
     picks = candidates[:PICK]
+
+    # 2-1) Discourse 글은 목록 API에 본문이 없으므로 개별 토픽에서 요약 보충
+    for p in picks:
+        if not p["summary"] and p["source"] == "PyTorch KR":
+            p["summary"] = fetch_topic_summary(p["url"])
 
     # 3) 저장 형태로 변환 (오늘 날짜로 묶음, 점수도 기록)
     today = datetime.now(KST).strftime("%Y-%m-%d")
