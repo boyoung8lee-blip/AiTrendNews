@@ -2,6 +2,48 @@
   {
     "date": "2026-06-08",
     "source": "PyTorch KR",
+    "title": "Nango: AI 에이전트와 제품을 800여 개 API에 연결하는 통합 플랫폼",
+    "url": "https://discuss.pytorch.kr/t/nango-ai-800-api/10492",
+    "summary": "Nango: AI 에이전트와 제품을 800여 개 API에 연결하는 통합 플랫폼1536×1024 221 KB Nango 소개 외부 서비스와 연동하는 기능을 제품에 붙이는 일은 거의 모든 SaaS 개발에서 반복적으로 등장하지만, 막상 손대 보면 단순하지…",
+    "tags": [
+      "ai-agent",
+      "mcp",
+      "typescript",
+      "integration-platform"
+    ],
+    "score": 0.42
+  },
+  {
+    "date": "2026-06-08",
+    "source": "PyTorch KR",
+    "title": "사회과학 분야에 코딩 에이전트는 얼마나 퍼졌나: 사회과학자 1,260명 설문 분석 (feat. Anthropic)",
+    "url": "https://discuss.pytorch.kr/t/1-260-feat-anthropic/10483",
+    "summary": "사회과학에 코딩 에이전트는 얼마나 퍼졌나: 사회과학자 1,260명 설문 분석 (feat. Anthropic)883×499 39.2 KB 코딩 에이전트와 사회과학 연구 한 명의 사회과학자가 새로운 연구 아이디어를 떠올렸다고 해봅시다. 과거에는 데이터를…",
+    "tags": [
+      "claude-code",
+      "anthropic",
+      "agent",
+      "coding-agent"
+    ],
+    "score": 0.42
+  },
+  {
+    "date": "2026-06-08",
+    "source": "PyTorch KR",
+    "title": "CC Gateway: Claude Code의 API 텔레메트리를 하나의 정체성으로 정규화하는 리버스 프록시",
+    "url": "https://discuss.pytorch.kr/t/cc-gateway-claude-code-api/10555",
+    "summary": "CC Gateway: Claude Code의 API 텔레메트리를 하나의 정체성으로 정규화하는 리버스 프록시1536×1024 238 KB CC Gateway 소개 CC Gateway는 Claude Code와 Anthropic API 사이에 놓여 기기…",
+    "tags": [
+      "claude-code",
+      "mit-license",
+      "privacy",
+      "telemetry"
+    ],
+    "score": 0.39
+  },
+  {
+    "date": "2026-06-08",
+    "source": "PyTorch KR",
     "title": "OpenAI가 공개한, 소프트웨어 개발 주기별 AI 네이티브 엔지니어링 팀 구축 가이드 (feat. Codex)",
     "url": "https://discuss.pytorch.kr/t/openai-ai-feat-codex/10577",
     "summary": "OpenAI가 공개한 AI 네이티브 엔지니어링 팀 구축 가이드: SDLC 7단계와 위임, 검토, 소유 프레임워크1536×1024 243 KB AI 네이티브 엔지니어링 팀 구축 가이드 소개 OpenAI가 Codex 공식 문서에 공개한 'Building…",
