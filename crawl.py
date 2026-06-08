@@ -137,7 +137,7 @@ def fetch_discourse(src):
             "title": clean_text(t.get("title", "제목 없음"), 120),
             "url": f"{base}/t/{t.get('slug','topic')}/{t.get('id')}",
             "summary": "",  # JSON에는 본문 발췌가 없어 비워둠
-            "tags": (t.get("tags") or [])[:4],
+            "tags": [tag["name"] if isinstance(tag, dict) else tag for tag in (t.get("tags") or [])[:4]],
             "_dt": dt,
             # 조회수 + 좋아요(가중) 를 인기 원점수로
             "_pop_raw": t.get("views", 0) + 30 * t.get("like_count", 0),
