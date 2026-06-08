@@ -57,6 +57,56 @@
 
   .msg { margin-top:44px; color:var(--muted); font-size:15px; text-align:center; }
 
+  /* 설정 패널 */
+  .config-panel {
+    margin-top:28px; background:var(--card); border:1px solid var(--line);
+    border-radius:2px; padding:18px 22px;
+  }
+  .config-toggle {
+    display:flex; align-items:center; justify-content:space-between;
+    cursor:pointer; user-select:none;
+  }
+  .config-toggle h3 { font-family:"Gowun Batang",serif; font-size:15px; color:var(--muted); }
+  .config-toggle .arrow { font-size:12px; color:var(--muted); transition:transform .2s; }
+  .config-toggle.open .arrow { transform:rotate(180deg); }
+  .config-body { display:none; margin-top:16px; }
+  .config-body.open { display:block; }
+
+  .meta-row { display:flex; gap:8px; flex-wrap:wrap; align-items:center; margin-bottom:12px; font-size:13px; color:var(--muted); }
+  .meta-label { font-weight:600; white-space:nowrap; }
+  .meta-badge {
+    font-size:12px; color:var(--accent); border:1px solid var(--accent);
+    border-radius:999px; padding:1px 10px;
+  }
+
+  .kw-section { margin-top:12px; }
+  .kw-section label { font-size:13px; color:var(--muted); font-weight:600; display:block; margin-bottom:8px; }
+  .kw-tags { display:flex; flex-wrap:wrap; gap:6px; }
+  .kw-tag {
+    font-size:12px; color:var(--ink); background:var(--paper);
+    border:1px solid var(--line); border-radius:999px;
+    padding:3px 10px; display:flex; align-items:center; gap:5px;
+  }
+  .kw-tag .del { cursor:pointer; color:var(--muted); font-size:14px; line-height:1; }
+  .kw-tag .del:hover { color:var(--accent); }
+  .kw-add {
+    font-size:12px; color:var(--accent); border:1px dashed var(--accent);
+    border-radius:999px; padding:3px 12px; cursor:pointer; background:none;
+    font-family:inherit;
+  }
+  .kw-add:hover { background:rgba(184,71,46,.06); }
+  .kw-input {
+    font-size:12px; border:1px solid var(--accent); border-radius:999px;
+    padding:3px 10px; outline:none; font-family:inherit; background:var(--paper);
+    width:120px;
+  }
+  .config-actions { margin-top:14px; display:flex; gap:8px; }
+  .btn-reset { font-size:12px; color:var(--muted); background:none; border:1px solid var(--line); border-radius:4px; padding:4px 12px; cursor:pointer; font-family:inherit; }
+  .btn-reset:hover { border-color:var(--muted); }
+  .btn-copy { font-size:12px; color:#fff; background:var(--accent); border:none; border-radius:4px; padding:4px 12px; cursor:pointer; font-family:inherit; }
+  .btn-copy:hover { opacity:.85; }
+  .copy-hint { font-size:11px; color:var(--muted); margin-top:6px; display:none; }
+
   footer { margin-top:64px; text-align:center; color:var(--muted); font-size:13px; }
   footer a { color:var(--accent); text-decoration:none; }
 </style>
@@ -71,6 +121,32 @@
     </div>
     <p class="tagline">매일 오전 10시, 자동으로 고른 세 개.</p>
   </header>
+
+  <div class="config-panel" id="configPanel">
+    <div class="config-toggle" id="configToggle">
+      <h3>⚙ 수집 설정</h3>
+      <span class="arrow">▼</span>
+    </div>
+    <div class="config-body" id="configBody">
+      <div class="meta-row">
+        <span class="meta-label">검색 범위</span>
+        <span id="sourceBadges"></span>
+      </div>
+      <div class="meta-row">
+        <span class="meta-label">선정 주체</span>
+        <span class="meta-badge" id="scorerBadge">—</span>
+      </div>
+      <div class="kw-section">
+        <label>관심 키워드 (crawl 점수에 반영)</label>
+        <div class="kw-tags" id="kwTags"></div>
+        <div class="config-actions">
+          <button class="btn-reset" id="btnReset">기본값으로 초기화</button>
+          <button class="btn-copy" id="btnCopy">config.json 복사</button>
+        </div>
+        <p class="copy-hint" id="copyHint">✓ 클립보드에 복사됐습니다. GitHub에서 config.json에 붙여넣으면 다음 crawl에 반영됩니다.</p>
+      </div>
+    </div>
+  </div>
 
   <main id="feed"></main>
 
@@ -145,6 +221,109 @@ fetch("data.json", { cache: "no-store" })
   .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
   .then(render)
   .catch(() => render(FALLBACK));
+
+// ── 설정 패널 ──────────────────────────────────────────────
+const LS_KEY = "ai_interest_keywords";
+let defaultKeywords = [];
+
+fetch("config.json", { cache: "no-store" })
+  .then(r => r.json())
+  .then(cfg => {
+    defaultKeywords = cfg.interest_keywords || [];
+
+    // 소스 배지
+    const badges = (cfg.sources || []).map(s =>
+      `<a href="${esc(s.url)}" target="_blank" class="meta-badge">${esc(s.name)}</a>`
+    ).join(" ");
+    document.getElementById("sourceBadges").innerHTML = badges;
+
+    // 선정 주체
+    document.getElementById("scorerBadge").textContent = cfg.scorer || "규칙 기반";
+
+    renderKeywords();
+  })
+  .catch(() => renderKeywords());
+
+function getKeywords() {
+  const saved = localStorage.getItem(LS_KEY);
+  return saved ? JSON.parse(saved) : defaultKeywords;
+}
+
+function saveKeywords(kws) {
+  localStorage.setItem(LS_KEY, JSON.stringify(kws));
+}
+
+function renderKeywords() {
+  const kws = getKeywords();
+  const container = document.getElementById("kwTags");
+  container.innerHTML = "";
+
+  kws.forEach((kw, i) => {
+    const tag = document.createElement("span");
+    tag.className = "kw-tag";
+    tag.innerHTML = `${esc(kw)}<span class="del" data-i="${i}">×</span>`;
+    tag.querySelector(".del").addEventListener("click", () => {
+      const updated = getKeywords();
+      updated.splice(i, 1);
+      saveKeywords(updated);
+      renderKeywords();
+    });
+    container.appendChild(tag);
+  });
+
+  // + 추가 버튼
+  const addBtn = document.createElement("button");
+  addBtn.className = "kw-add";
+  addBtn.textContent = "+ 추가";
+  addBtn.addEventListener("click", () => {
+    addBtn.style.display = "none";
+    const input = document.createElement("input");
+    input.className = "kw-input";
+    input.placeholder = "키워드 입력";
+    container.appendChild(input);
+    input.focus();
+    const commit = () => {
+      const v = input.value.trim();
+      if (v) {
+        const updated = getKeywords();
+        updated.push(v);
+        saveKeywords(updated);
+      }
+      renderKeywords();
+    };
+    input.addEventListener("keydown", e => { if (e.key === "Enter") commit(); if (e.key === "Escape") renderKeywords(); });
+    input.addEventListener("blur", commit);
+  });
+  container.appendChild(addBtn);
+}
+
+// 토글
+document.getElementById("configToggle").addEventListener("click", () => {
+  const toggle = document.getElementById("configToggle");
+  const body = document.getElementById("configBody");
+  toggle.classList.toggle("open");
+  body.classList.toggle("open");
+});
+
+// 초기화
+document.getElementById("btnReset").addEventListener("click", () => {
+  localStorage.removeItem(LS_KEY);
+  renderKeywords();
+});
+
+// config.json 복사
+document.getElementById("btnCopy").addEventListener("click", () => {
+  fetch("config.json", { cache: "no-store" })
+    .then(r => r.json())
+    .then(cfg => {
+      cfg.interest_keywords = getKeywords();
+      navigator.clipboard.writeText(JSON.stringify(cfg, null, 2)).then(() => {
+        const hint = document.getElementById("copyHint");
+        hint.style.display = "block";
+        setTimeout(() => { hint.style.display = "none"; }, 4000);
+      });
+    });
+});
 </script>
 </body>
 </html>

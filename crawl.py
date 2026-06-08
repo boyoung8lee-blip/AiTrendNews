@@ -60,12 +60,17 @@ PRACTICAL_KEYWORDS = [
     "출시", "공개", "release", "스킬", "skill", "실전", "코드", "code", "구현",
 ]
 
-# ★ 내 관심 주제 — 여기를 네 것으로 바꿔라 (예전 대화 기반 기본값)
-INTEREST_KEYWORDS = [
-    "agent", "에이전트", "온디바이스", "on-device", "edge", "보안", "security",
-    "mcp", "langgraph", "langchain", "self-improving", "평가", "eval",
-    "워크플로우", "workflow", "orchestration",
-]
+# 관심 키워드 — config.json에서 로드 (없으면 기본값 사용)
+def _load_interest_keywords():
+    cfg = Path(__file__).parent / "config.json"
+    if cfg.exists():
+        try:
+            return json.loads(cfg.read_text(encoding="utf-8")).get("interest_keywords", [])
+        except Exception:
+            pass
+    return ["agent", "에이전트", "mcp", "워크플로우", "workflow", "on-device", "보안"]
+
+INTEREST_KEYWORDS = _load_interest_keywords()
 
 KST = timezone(timedelta(hours=9))
 UA = {"User-Agent": "ai-daily-bot/1.0 (+github actions)"}

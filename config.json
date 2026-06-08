@@ -1,0 +1,12 @@
+{
+  "interest_keywords": [
+    "agent", "에이전트", "mcp", "langgraph", "langchain",
+    "self-improving", "평가", "eval", "워크플로우", "workflow",
+    "orchestration", "온디바이스", "on-device", "edge", "보안", "security"
+  ],
+  "sources": [
+    {"name": "PyTorch KR", "url": "https://discuss.pytorch.kr/c/news/14"},
+    {"name": "GeekNews", "url": "https://news.hada.io"}
+  ],
+  "scorer": "Gemini 1.5 Flash + 규칙 기반"
+}
