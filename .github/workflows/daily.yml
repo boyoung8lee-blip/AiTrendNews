@@ -24,6 +24,8 @@ jobs:
 
       - name: Crawl & pick 3
         run: python crawl.py
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
 
       - name: Commit if changed
         run: |

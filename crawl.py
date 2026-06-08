@@ -20,7 +20,10 @@ import urllib.request
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
+import os
+
 import feedparser
+import google.generativeai as genai
 
 # ── 설정 (여기를 손보면 됨) ───────────────────────────────
 DATA_FILE = Path(__file__).parent / "data.json"
@@ -182,6 +185,35 @@ def fetch(src):
     return items
 
 
+def gemini_score_batch(candidates):
+    """Gemini API로 후보글 최대 20개를 한 번에 채점 (0~1). 실패 시 빈 dict 반환."""
+    api_key = os.getenv("GEMINI_API_KEY")
+    if not api_key:
+        return {}
+    try:
+        genai.configure(api_key=api_key)
+        model = genai.GenerativeModel("gemini-2.0-flash")
+        batch = candidates[:20]
+        lines = [
+            f"{i}. 제목: {c['title']}\n   요약: {c['summary'] or '없음'}"
+            for i, c in enumerate(batch)
+        ]
+        prompt = (
+            "아래 AI 관련 글 목록을 보고 AI 실무자에게 얼마나 유용한지 0~10으로 채점해라.\n"
+            "기준: 실용적 도구·코드·가이드·튜토리얼이면 높게, 단순 뉴스·홍보·요약이면 낮게.\n"
+            "반드시 숫자만 담긴 JSON 배열로만 답해라. 예: [8,3,7,...]\n\n"
+            + "\n".join(lines)
+        )
+        response = model.generate_content(prompt)
+        match = re.search(r'\[[\d\s,]+\]', response.text)
+        if match:
+            scores = json.loads(match.group())
+            return {i: s / 10.0 for i, s in enumerate(scores) if i < len(batch)}
+    except Exception as e:
+        print(f"[warn] Gemini 채점 실패, 규칙 기반으로 폴백: {e}")
+    return {}
+
+
 def fetch_topic_summary(topic_url):
     """Discourse 개별 토픽에서 첫 게시글 본문을 가져온다 (선정된 글만 호출)."""
     try:
@@ -232,6 +264,17 @@ def main():
     for it in candidates:
         it["_score"] = score(it)
     candidates.sort(key=lambda x: x["_score"], reverse=True)
+
+    # 2-1) Gemini로 상위 20개 재채점 (API 키 없으면 스킵)
+    gemini_scores = gemini_score_batch(candidates)
+    if gemini_scores:
+        for i, it in enumerate(candidates[:20]):
+            rule = it["_score"]
+            gem = gemini_scores.get(i, rule)
+            it["_score"] = 0.5 * gem + 0.5 * rule
+        candidates.sort(key=lambda x: x["_score"], reverse=True)
+        print(f"[info] Gemini 채점 적용 ({len(gemini_scores)}건)")
+
     picks = candidates[:PICK]
 
     # 2-1) Discourse 글은 목록 API에 본문이 없으므로 개별 토픽에서 요약 보충
