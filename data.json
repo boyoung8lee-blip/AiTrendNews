@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-06-09",
+    "source": "GeekNews",
+    "title": "Show HN: Performative-UI – 디자인 트로프 기반 React 컴포넌트 라이브러리",
+    "url": "https://news.hada.io/topic?id=30304",
+    "summary": "AI 스타트업용 AI-native React 컴포넌트 모음으로, 27개 컴포넌트와 MIT 라이선스를 제공 일반 공개 상태이며, 설치 명령은 npm install performative-ui 구성은 Atoms, Primitives, Banners,…",
+    "tags": [],
+    "score": 0.73
+  },
+  {
+    "date": "2026-06-09",
+    "source": "GeekNews",
+    "title": "Siri AI",
+    "url": "https://news.hada.io/topic?id=30313",
+    "summary": "개인형 AI 비서가 앱과 사용자 맥락에 통합되어 자연어 대화, 앱 작업, 글쓰기, 시각 검색을 지원하며, Siri AI는 올해 말 영어로 제공 예정 Siri AI는 공개형 질문, 아이디어 브레인스토밍, 개인 맥락 검색, 앱 내 작업 실행, 온라인…",
+    "tags": [],
+    "score": 0.65
+  },
+  {
+    "date": "2026-06-09",
+    "source": "PyTorch KR",
+    "title": "Finance Skills: AI 코딩 에이전트에 금융 분석과 트레이딩 능력을 더하는 스킬 모음",
+    "url": "https://discuss.pytorch.kr/t/finance-skills-ai/10590",
+    "summary": "Finance Skills: AI 코딩 에이전트에 금융 분석과 트레이딩 능력을 더하는 스킬 모음1536×1024 372 KB Finance Skills 소개 Finance Skills는 AI 코딩 에이전트에 금융 분석과 트레이딩 능력을 더해 주는…",
+    "tags": [
+      "claude-code",
+      "mit-license",
+      "agent-skills",
+      "yfinance"
+    ],
+    "score": 0.6
+  },
+  {
     "date": "2026-06-08",
     "source": "PyTorch KR",
     "title": "Google, 인코더 없이 노트북에서 실행하는 통합 멀티모달 모델 Gemma 4 12B 공개",
