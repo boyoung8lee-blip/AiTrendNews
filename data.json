@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-06-10",
+    "source": "PyTorch KR",
+    "title": "Paseo: Claude Code, Codex 등 코딩 에이전트를 휴대폰과 데스크톱에서 쓰는 셀프 호스팅 도구",
+    "url": "https://discuss.pytorch.kr/t/paseo-claude-code-codex/10553",
+    "summary": "Paseo: Claude Code, Codex 등 코딩 에이전트를 휴대폰과 데스크톱에서 쓰는 단일 인터페이스2048×1233 426 KB Paseo 소개 Paseo는 Claude Code, Codex, Copilot, OpenCode, Pi 같은…",
+    "tags": [
+      "claude-code",
+      "coding-agent",
+      "codex",
+      "self-hosted"
+    ],
+    "score": 0.97
+  },
+  {
+    "date": "2026-06-10",
+    "source": "GeekNews",
+    "title": "Show GN: Claude Code에 Hermes Agent식 자기개선 루프를 붙이는 플러그인",
+    "url": "https://news.hada.io/topic?id=30327",
+    "summary": "복잡한 작업에서 배운 절차를 자동으로 SKILL.md로 증류하고, 다음 세션에서 Claude Code가 다시 활용하게 만드는 플러그인입니다. Hermes Agent의 self-improving skills/curator 아이디어를 Claude…",
+    "tags": [],
+    "score": 0.81
+  },
+  {
+    "date": "2026-06-10",
+    "source": "GeekNews",
+    "title": "취향(taste)을 갖춘 30배 AI 엔지니어가 되는 법",
+    "url": "https://news.hada.io/topic?id=30338",
+    "summary": "AI가 코드를 대량 생성하는 시대에 엔지니어의 가치를 가르는 핵심 역량은 속도·지식·경력이 아니라 ‘취향(taste)’, 즉 무엇을 만들지 판단하는 평가 능력 OpenAI Codex 팀 구성원들이 독립적으로 같은 결론에 도달했으며, 좋은 소프트웨어…",
+    "tags": [],
+    "score": 0.8
+  },
+  {
     "date": "2026-06-09",
     "source": "GeekNews",
     "title": "Show HN: Performative-UI – 디자인 트로프 기반 React 컴포넌트 라이브러리",
