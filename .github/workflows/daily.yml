@@ -3,8 +3,9 @@ name: Daily AI digest
 on:
   schedule:
     # GitHub Actions는 UTC 기준. 예약 실행은 지연/누락이 잦아 두 번 건다.
-    - cron: "5 1 * * *"    # 01:05 UTC = KST 10:05 (정각 혼잡 회피)
-    - cron: "30 1 * * *"   # 01:30 UTC = KST 10:30 (1차 누락 시 보완)
+    # 정각·매시 근처는 GitHub 부하가 커 누락이 잦으므로 한산한 새벽 시간대 + odd-minute로 분산.
+    - cron: "27 18 * * *"   # 18:27 UTC = KST 03:27 (한산한 시간대)
+    - cron: "53 19 * * *"   # 19:53 UTC = KST 04:53 (1차 누락 시 보완)
   workflow_dispatch:   # Actions 탭에서 수동 실행 버튼
 
 permissions:
@@ -14,9 +15,9 @@ jobs:
   crawl:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
 
