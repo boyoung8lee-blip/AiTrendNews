@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-06-12",
+    "source": "GeekNews",
+    "title": "사이버보안 연구자들이 Anthropic의 Fable 가드레일에 불만을 표하고 있음",
+    "url": "https://news.hada.io/topic?id=30398",
+    "summary": "Fable은 강력한 사이버보안 모델 Mythos의 공개·제한 버전으로 출시됐지만, 사이버보안 관련 요청을 폭넓게 차단해 연구자와 전문가의 불만을 삼 가드레일이 작동하면 채팅이 중단되고 “사이버보안 또는 생물학 주제” 이기 때문에 안전 조치가 메시지를…",
+    "tags": [],
+    "score": 0.85
+  },
+  {
+    "date": "2026-06-12",
+    "source": "GeekNews",
+    "title": "Claude Fable 5의 고신호 활용 사례 저장소에 오신 것을 환영합니다.",
+    "url": "https://news.hada.io/topic?id=30395",
+    "summary": "공개 크리에이터, 개발자, 벤치마크 팀, 도구 제작자가 공유한 선별된 Claude Fable 5 사례 60개. 코딩 에이전트, 장시간 자동화, 게임, 비주얼 디자인, 3D 시뮬레이션, 지식 작업, 튜토리얼, API 통합, 벤치마크, 가격, 출시…",
+    "tags": [],
+    "score": 0.82
+  },
+  {
+    "date": "2026-06-12",
+    "source": "PyTorch KR",
+    "title": "Product Manager Skills: AI 에이전트를 위한 49가지 제품 관리 스킬 프레임워크",
+    "url": "https://discuss.pytorch.kr/t/product-manager-skills-ai-49/10582",
+    "summary": "Product Manager Skills: AI 에이전트를 위한 49가지 제품 관리 스킬 프레임워크1510×811 54.8 KB Product Manager Skills 소개 Product Manager Skills는 제품 관리(Product…",
+    "tags": [
+      "claude-code",
+      "claude-skills",
+      "ai-agents",
+      "pm-frameworks"
+    ],
+    "score": 0.64
+  },
+  {
     "date": "2026-06-11",
     "source": "PyTorch KR",
     "title": "Anthropic, 역대 가장 강력한 모델 Claude Fable 5와 사이버 방어용 Mythos 5 공개",
