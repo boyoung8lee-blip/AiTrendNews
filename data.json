@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-06-13",
+    "source": "GeekNews",
+    "title": "Claude Fable 5: 코딩 작업에서 중간 수준 결과를 냄",
+    "url": "https://news.hada.io/topic?id=30433",
+    "summary": "실제 코드에서 취약점을 수정하고 기능을 유지하는 200개 작업에서 Claude Fable 5는 중간 수준 성능과 일부 예외적 성공을 동시에 보임 Claude Code와 함께 실행한 결과 FuncPass 59.8%, SecPass 19.0% 를 기록해…",
+    "tags": [],
+    "score": 0.79
+  },
+  {
+    "date": "2026-06-13",
+    "source": "GeekNews",
+    "title": "코드 라인 수가 더 나은 홍보 담당자를 얻었다",
+    "url": "https://news.hada.io/topic?id=30432",
+    "summary": "개발자 생산성 평가는 코드 양보다 고객 가치, 매출, 신뢰성 같은 결과 지표로 판단해야 함 Google, Anthropic, OpenAI, Cursor의 최근 AI 코딩 홍보 수치는 모두 코드 생성 비율이나 코드 라인 수 같은 양적 주장에 집중함…",
+    "tags": [],
+    "score": 0.73
+  },
+  {
+    "date": "2026-06-13",
+    "source": "PyTorch KR",
+    "title": "Open Code Review: 결정론적 엔진과 LLM 에이전트를 결합한 Alibaba의 코드 리뷰 도구",
+    "url": "https://discuss.pytorch.kr/t/open-code-review-llm-alibaba/10622",
+    "summary": "Open Code Review: 결정론적 엔진과 LLM 에이전트를 결합한 Alibaba의 코드 리뷰 도구1536×1024 255 KB Open Code Review 소개 Open Code Review는 Git diff를 읽어 변경된 파일을 설정…",
+    "tags": [
+      "llm",
+      "ai-agent",
+      "alibaba",
+      "cli"
+    ],
+    "score": 0.65
+  },
+  {
     "date": "2026-06-12",
     "source": "GeekNews",
     "title": "사이버보안 연구자들이 Anthropic의 Fable 가드레일에 불만을 표하고 있음",
