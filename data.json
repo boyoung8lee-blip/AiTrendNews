@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-06-14",
+    "source": "GeekNews",
+    "title": "Moonshot AI가 Kimi K2.7-Code를 출시했습니다.",
+    "url": "https://news.hada.io/topic?id=30454",
+    "summary": "문샷 AI가 이전 모델 대비 코딩 성능을 대폭 향상시키고 추론 토큰 소모량을 30% 줄인 에이전트 중심의 오픈 가중치 코딩 모델 '키미 K2.7-Code'를 출시했습니다. 전문 번역 이번 주, 문샷 AI(Moonshot AI)가 키미…",
+    "tags": [],
+    "score": 0.82
+  },
+  {
+    "date": "2026-06-14",
+    "source": "GeekNews",
+    "title": "macOS에서 로컬 코딩 에이전트 설정하는 방법",
+    "url": "https://news.hada.io/topic?id=30461",
+    "summary": "로컬 코딩 에이전트 구성은 인터넷 장애 때도 macOS에서 OpenAI 호환 API로 모델을 실행하고 Pi에서 텍스트와 이미지 입력을 처리하도록 만드는 설정임 Apple M1 Max 64GB, macOS 15.7.7에서 llama.cpp Metal과…",
+    "tags": [],
+    "score": 0.73
+  },
+  {
+    "date": "2026-06-14",
+    "source": "PyTorch KR",
+    "title": "Claude Code Harness: 계획과 구현, 검토와 출시를 강제하는 Claude Code 개발 하네스",
+    "url": "https://discuss.pytorch.kr/t/claude-code-harness-claude-code/10648",
+    "summary": "Claude Code Harness: 계획과 구현, 검토와 출시를 강제하는 Claude Code 개발 하네스1536×1024 198 KB Claude Code Harness 소개 Claude Code Harness는 Claude Code의 에이전트…",
+    "tags": [
+      "claude-code",
+      "coding-agent",
+      "code-review",
+      "harness"
+    ],
+    "score": 0.66
+  },
+  {
     "date": "2026-06-13",
     "source": "GeekNews",
     "title": "Claude Fable 5: 코딩 작업에서 중간 수준 결과를 냄",
