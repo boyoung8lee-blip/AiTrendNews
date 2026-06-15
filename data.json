@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-06-16",
+    "source": "GeekNews",
+    "title": "Show GN: hera-agent-unity - CLI로 Unity를 제어하는 MCP 대안 (런타임 의존성 0)",
+    "url": "https://news.hada.io/topic?id=30510",
+    "summary": "LLM은 여러분의 프로젝트를 모르고, 작년에 학습한 Unity API와 뭉뚱그린 패턴을 기억할 뿐입니다. hera-agent-unity는 AI가 코드를 넘겨짚기 전에 살아있는 Unity 에디터에서 직접 실행하고 결과를 가져오게 해줍니다 — 추측 대신…",
+    "tags": [],
+    "score": 0.95
+  },
+  {
+    "date": "2026-06-16",
+    "source": "GeekNews",
+    "title": "Show GN: tradingcodex - 코덱스를 자산운용사로 만들어주는 하네스",
+    "url": "https://news.hada.io/topic?id=30508",
+    "summary": "코덱스에서 바이브 코딩이 아닌, 바이브 인베스팅을 하기 위한 하네스입니다. codex 설정파일(23skills, 9 subagent config, hooks) + django서버(mcp 기능 포함)로 구성되어있습니다. 에이전트 구성 중앙에는 head…",
+    "tags": [],
+    "score": 0.94
+  },
+  {
+    "date": "2026-06-16",
+    "source": "PyTorch KR",
+    "title": "Open Knowledge Format(OKF): Google이 제안한 AI 에이전트 지식 공유 개방형 표준 (feat. LLM-Wiki)",
+    "url": "https://discuss.pytorch.kr/t/open-knowledge-format-okf-google-ai-feat-llm-wiki/10701",
+    "summary": "Open Knowledge Format(OKF) 소개, 흩어진 지식을 하나의 마크다운 포맷으로 통합1536×1024 252 KB Open Knowledge Format(OKF) 소개 파운데이션 모델(Foundation Model)의 성능이 빠르게…",
+    "tags": [
+      "llm",
+      "google",
+      "agent",
+      "context-engineering"
+    ],
+    "score": 0.57
+  },
+  {
     "date": "2026-06-15",
     "source": "GeekNews",
     "title": "GLM 5.2 출시",
