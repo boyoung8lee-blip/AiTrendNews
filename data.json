@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-06-17",
+    "source": "GeekNews",
+    "title": "Apple Foundation Models에 Claude 탑재하기",
+    "url": "https://news.hada.io/topic?id=30529",
+    "summary": "Apple의 Foundation Models 프레임워크에 Claude를 서버 사이드 모델로 연결하는 Swift 패키지로, 개발자가 Apple 온디바이스 모델과 똑같은 코드 경로로 Claude를 호출할 수 있게 됨 WWDC 2026에서 Apple이…",
+    "tags": [],
+    "score": 0.79
+  },
+  {
+    "date": "2026-06-17",
+    "source": "GeekNews",
+    "title": "내 홈랩 AI 개발 플랫폼",
+    "url": "https://news.hada.io/topic?id=30523",
+    "summary": "홈랩 서비스 관리를 위해 OpenCode Web UI에 Git 접근을 붙이고, AI 변경은 PR 검토 뒤 GitOps가 배포하는 흐름으로 구성함 약 12개의 docker compose 스택을 Arcane으로 옮겨 GitOps로 관리하며, AI 도구를…",
+    "tags": [],
+    "score": 0.64
+  },
+  {
+    "date": "2026-06-17",
+    "source": "PyTorch KR",
+    "title": "Omnigent: Databricks가 공개 및 제안하는, 여러 AI 에이전트를 묶는 메타 하네스 프로젝트",
+    "url": "https://discuss.pytorch.kr/t/omnigent-databricks-ai/10705",
+    "summary": "메타 하네스 Omnigent 소개1536×1024 208 KB Omnigent 소개 요즘 AI 에이전트로 일하는 방식을 떠올려 보면, 한 가지 도구만 쓰는 사람은 드뭅니다. Claude Code로 코드를 작성하다가, Codex에 같은 문제를 한 번…",
+    "tags": [
+      "llm",
+      "opensource",
+      "claude-code",
+      "agent"
+    ],
+    "score": 0.6
+  },
+  {
     "date": "2026-06-16",
     "source": "GeekNews",
     "title": "Show GN: hera-agent-unity - CLI로 Unity를 제어하는 MCP 대안 (런타임 의존성 0)",
