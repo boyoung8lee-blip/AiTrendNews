@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-06-18",
+    "source": "GeekNews",
+    "title": "연구자들 “Fable 5 논란은 탈옥이 아니라 ‘fix this code’에서 시작됐다”",
+    "url": "https://news.hada.io/topic?id=30565",
+    "summary": "미국 정부의 Anthropic Fable 5·Mythos 5 접근 제한은 알려진 탈옥이 아니라, 취약 코드에 “fix this code”를 입력한 단순 요청에서 비롯됐다고 Katie Moussouris가 주장함 Luta Security CEO인…",
+    "tags": [],
+    "score": 0.75
+  },
+  {
+    "date": "2026-06-18",
+    "source": "GeekNews",
+    "title": "Claude Code의 수석 디자이너가 AI로 빌드하는 방법 [유튜브]",
+    "url": "https://news.hada.io/topic?id=30562",
+    "summary": "실제 제품 개발에서 클로드 코드를 어떻게 쓰는지, Excalidraw에 autocomplete 기능을 직접 추가하며 실전 워크플로우를 시연 디자이너의 발표지만 내용은 거의 개발자 워크플로우에 가까우며, worktree로 여러 Claude 세션을 병렬…",
+    "tags": [],
+    "score": 0.72
+  },
+  {
+    "date": "2026-06-18",
+    "source": "PyTorch KR",
+    "title": "Nothing Design Skill: Nothing 디자인 언어로 모노크롬 UI를 생성하는 Claude Code 스킬",
+    "url": "https://discuss.pytorch.kr/t/nothing-design-skill-nothing-ui-claude-code/10729",
+    "summary": "Nothing Design Skill: Nothing 디자인 언어로 모노크롬 UI를 생성하는 Claude Code 스킬1536×1024 233 KB Nothing Design Skill 소개 AI 코딩 에이전트로 화면을 만들다 보면, 매번 같은…",
+    "tags": [
+      "claude-code",
+      "coding-agent",
+      "mit-license",
+      "frontend"
+    ],
+    "score": 0.57
+  },
+  {
     "date": "2026-06-17",
     "source": "GeekNews",
     "title": "Apple Foundation Models에 Claude 탑재하기",
