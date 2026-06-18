@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-06-19",
+    "source": "GeekNews",
+    "title": "창업자 플레이북: AI-native 스타트업 만들기",
+    "url": "https://news.hada.io/topic?id=30598",
+    "summary": "Claude는 창업자가 아이디어 검증부터 확장까지 AI를 활용하는 방식을 정리한 실전 플레이북을 공개하고, 연습·프레임워크·프롬프트를 함께 제공 코딩 경험이 없는 창업자도 프로덕션 애플리케이션을 출시하고, 인력 확충 전에 매출에 도달하며, ...",
+    "tags": [],
+    "score": 0.68
+  },
+  {
+    "date": "2026-06-19",
+    "source": "GeekNews",
+    "title": "AI는 엔지니어링 규율을 덜이 아니라 더 요구함",
+    "url": "https://news.hada.io/topic?id=30612",
+    "summary": "AI 코드 생성 품질이 높아진 것은 코드 리뷰를 버리라는 신호가 아니라, 코드가 싸고 빠르게 재생성되는 환경에서 검증과 운영 규율을 더 강하게 요구함 2025년 말 Opus 4.5 이후 AI는 흔한 패턴에서 중간 수준 소프트웨어 엔지니어에 가까운…",
+    "tags": [],
+    "score": 0.62
+  },
+  {
+    "date": "2026-06-19",
+    "source": "PyTorch KR",
+    "title": "LLM Wiki: 문서를 자동으로 위키 형태 지식 베이스로 컴파일하는 데스크톱 애플리케이션 (feat. Karpathy LLM Wiki 패턴)",
+    "url": "https://discuss.pytorch.kr/t/llm-wiki-feat-karpathy-llm-wiki/10139",
+    "summary": "LLM Wiki, 문서를 자동으로 위키 형태 지식 베이스로 컴파일하는 데스크톱 애플리케이션1200×600 66.2 KB LLM Wiki 소개 개인 지식 관리에 LLM을 도입하면 흔히 RAG(Retrieval-Augmented Generation,…",
+    "tags": [
+      "knowledge-graph",
+      "desktop-app",
+      "knowledge-base",
+      "obsidian"
+    ],
+    "score": 0.51
+  },
+  {
     "date": "2026-06-18",
     "source": "GeekNews",
     "title": "연구자들 “Fable 5 논란은 탈옥이 아니라 ‘fix this code’에서 시작됐다”",
