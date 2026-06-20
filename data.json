@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-06-21",
+    "source": "GeekNews",
+    "title": "Klorn – 중요한 것만 빼고 다 조용히 시키는 오픈소스 이메일 방화벽",
+    "url": "https://news.hada.io/topic?id=30667",
+    "summary": "요즘 나오는 AI 메일 도구들을 보면 공통점이 하나 있습니다. 문제를 줄이기보다, 화면을 더 늘리고 메일마다 제안 카드가 붙거나 “AI가 답장하라고 추천합니다” 같은 배지가 생기고, 검토 안 한 초안이 계속 쌓입니다. 그래서 인박스가 조용해지냐고…",
+    "tags": [],
+    "score": 0.78
+  },
+  {
+    "date": "2026-06-21",
+    "source": "GeekNews",
+    "title": "AI 시대에 K-공문서(HWP)를 못 여는 진짜 이유, 그리고 해법을 논의합니다",
+    "url": "https://news.hada.io/topic?id=30663",
+    "summary": "표준 명세만 있으면 호환 앱이든 렌더러든 어떻게든 만들어내는 게 AI 시대입니다. 그런데 왜 공문서 HWP는 못 열까요? 한컴오피스(아래아한글)가 처음 나온 1989년은 '오픈소스'라는 용어조차 없던 시절입니다. 오픈소스 폰트요? 당연히 없었습니다.…",
+    "tags": [],
+    "score": 0.6
+  },
+  {
+    "date": "2026-06-21",
+    "source": "PyTorch KR",
+    "title": "코딩은 더 이상 병목이 아니다, Spotify의 코딩 에이전트 Honk (feat. Code with Claude 2026)",
+    "url": "https://discuss.pytorch.kr/t/spotify-honk-feat-code-with-claude-2026/10775",
+    "summary": "코딩은 더 이상 병목이 아니다, Spotify의 AI 전환과 코딩 에이전트1536×1024 234 KB Spotify의 AI 전환 소개 코딩이 더 이상 소프트웨어 개발의 병목(bottleneck)이 아니게 된다면 무슨 일이 벌어질까요?…",
+    "tags": [
+      "anthropic",
+      "agent",
+      "claude",
+      "coding-agent"
+    ],
+    "score": 0.45
+  },
+  {
     "date": "2026-06-20",
     "source": "GeekNews",
     "title": "Show GN: 토스증권 Open API용 Agent Skill",
