@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-06-22",
+    "source": "GeekNews",
+    "title": "open-code-review — Alibaba의 AI 코드 리뷰 도구",
+    "url": "https://news.hada.io/topic?id=30677",
+    "summary": "알리바바가 내부에서 사용하던 AI 코드 리뷰 어시스턴트로 2년간 수만 명의 개발자가 수백만 건의 코드 결함을 식별한 뒤 오픈소스로 공개 Git diff를 읽고 변경 파일을 도구 사용 에이전트를 통해 LLM에 전달하고, 라인...",
+    "tags": [],
+    "score": 0.73
+  },
+  {
+    "date": "2026-06-22",
+    "source": "PyTorch KR",
+    "title": "'코딩 실력보다 도메인 전문성', Anthropic이 Claude Code 세션 40만 건으로 분석한 연구 보고서",
+    "url": "https://discuss.pytorch.kr/t/anthropic-claude-code-40/10794",
+    "summary": "코딩 실력보다 도메인 전문성, Anthropic이 분석한 Claude Code 세션 40만 건1536×1024 234 KB Claude Code 사용 행태 연구 소개 Anthropic이 2026년 6월 16일 발표한 연구 보고서 Agentic…",
+    "tags": [
+      "llm",
+      "claude-code",
+      "anthropic",
+      "agent"
+    ],
+    "score": 0.71
+  },
+  {
+    "date": "2026-06-22",
+    "source": "GeekNews",
+    "title": "도서관에서 재봉틀을 빌리는 핀란드 모델",
+    "url": "https://news.hada.io/topic?id=30693",
+    "summary": "핀란드 공공도서관은 책 대출을 넘어 시민이 공간·도구·디지털 서비스를 함께 쓰는 공공 커뮤니티 서비스 센터로 확장되고 있음 인구 560만 명의 핀란드는 700개 넘는 도서관에서 팟캐스트 스튜디오, 3D 프린팅, 테니스 라켓, 수영장 이용권,…",
+    "tags": [],
+    "score": 0.62
+  },
+  {
     "date": "2026-06-21",
     "source": "GeekNews",
     "title": "Klorn – 중요한 것만 빼고 다 조용히 시키는 오픈소스 이메일 방화벽",
