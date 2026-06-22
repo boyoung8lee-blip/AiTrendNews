@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-06-23",
+    "source": "PyTorch KR",
+    "title": "llm-wiki: Karpathy의 방법론으로 흩어진 정보를 지식 그래프로 키우는 에이전트 스킬",
+    "url": "https://discuss.pytorch.kr/t/llm-wiki-karpathy/10843",
+    "summary": "llm-wiki: Karpathy의 방법론으로 흩어진 정보를 지식 그래프로 키우는 에이전트 스킬1536×1024 255 KB llm-wiki 소개 논문, 블로그 글, 트윗, 메모처럼 매일 접하는 정보는 대개 한 번 읽고 흩어집니다. 필요할 때마다…",
+    "tags": [
+      "claude-code",
+      "knowledge-graph",
+      "agent-skills",
+      "knowledge-base"
+    ],
+    "score": 0.8
+  },
+  {
+    "date": "2026-06-23",
+    "source": "GeekNews",
+    "title": "Show GN: Agent-Blackbox - Claude Code/OpenCode 실행을 세션 맵과 토큰 낭비 분석으로 보는 도구",
+    "url": "https://news.hada.io/topic?id=30719",
+    "summary": "Claude Code / OpenCode 실행을 로컬에서 기록하고, 세션 맵과 컨텍스트 효율 점수로 보여주는 Agent-Blackbox를 만들었습니다. AI에게 “이 작업에 토큰을 얼마나 쓸 것 같아?”라고 물으면 실제 비용과의 상관관계가 0.39에…",
+    "tags": [],
+    "score": 0.79
+  },
+  {
+    "date": "2026-06-23",
+    "source": "GeekNews",
+    "title": "요즘 작품 이미지의 LLM 학습 방해 방법은?",
+    "url": "https://news.hada.io/topic?id=30731",
+    "summary": "한 사용자는 아내가 자신의 작품 이미지가 LLM 학습에 쓰이는 것을 원치 않아 온라인 공개를 망설이고 있다고 밝힘 질문의 핵심은 이미지를 사전에 처리해 LLM 학습을 방해하는 라이브러리나 방법이 현재 실용적인지임 사용자는 아내를 위한 맞춤...",
+    "tags": [],
+    "score": 0.79
+  },
+  {
     "date": "2026-06-22",
     "source": "GeekNews",
     "title": "open-code-review — Alibaba의 AI 코드 리뷰 도구",
