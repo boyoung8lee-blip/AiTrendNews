@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-06-25",
+    "source": "GeekNews",
+    "title": "Google Workspace CLI를 만든 개발자, 구글에서 해고됨",
+    "url": "https://news.hada.io/topic?id=30790",
+    "summary": "gws는 Google Drive, Gmail, Calendar 등 모든 Workspace API를 다루며 사람과 에이전트 양쪽을 위해 설계된 오픈소스 CLI 공개 며칠 만에 Hacker News 1위에 오르고 수천 개의 GitHub 스타와 수천 명의…",
+    "tags": [],
+    "score": 0.86
+  },
+  {
+    "date": "2026-06-25",
+    "source": "GeekNews",
+    "title": "다가오는 루프",
+    "url": "https://news.hada.io/topic?id=30799",
+    "summary": "코딩 에이전트 바깥에서 작업 큐와 하네스가 반복을 관리하는 하네스 레벨 루프가 에이전트 엔지니어링의 새 중심 패턴으로 떠오르고 있음 모델이 오래 자율 실행될수록 강한 불변식보다 국소적 방어와 fallback을 덧붙이기 쉬워, 장기 유지 코드에서는…",
+    "tags": [],
+    "score": 0.75
+  },
+  {
+    "date": "2026-06-25",
+    "source": "PyTorch KR",
+    "title": "Text-to-Lottie: 코딩 에이전트로 프로덕션급 Lottie 애니메이션을 만드는 에이전트 스킬",
+    "url": "https://discuss.pytorch.kr/t/text-to-lottie-lottie/10828",
+    "summary": "Text-to-Lottie 소개 Text-to-Lottie는 Claude Code, Codex처럼 스킬을 지원하는 코딩 에이전트에게 프롬프트를 주어 프로덕션급 Lottie 애니메이션을 생성하는 오픈소스 프레임워크입니다. Lottie는 웹과 모바일에서…",
+    "tags": [
+      "claude-code",
+      "mit-license",
+      "codex",
+      "agent-skill"
+    ],
+    "score": 0.61
+  },
+  {
     "date": "2026-06-24",
     "source": "PyTorch KR",
     "title": "ponytail: AI 코딩 에이전트가 꼭 필요한 코드만 쓰게 만드는 규칙셋",
