@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-06-26",
+    "source": "PyTorch KR",
+    "title": "LLM Graph Builder: 비정형 데이터를 LLM으로 Neo4j 지식 그래프로 바꾸는 오픈소스 도구",
+    "url": "https://discuss.pytorch.kr/t/llm-graph-builder-llm-neo4j/10812",
+    "summary": "LLM Graph Builder: 비정형 데이터를 LLM으로 Neo4j 지식 그래프로 바꾸는 오픈소스 도구1536×1024 291 KB LLM Graph Builder 소개 PDF, 문서, 유튜브 영상, 웹 페이지처럼 구조가 없는 데이터는 그 안에…",
+    "tags": [
+      "rag",
+      "langchain",
+      "knowledge-graph",
+      "graphrag"
+    ],
+    "score": 0.89
+  },
+  {
+    "date": "2026-06-26",
+    "source": "GeekNews",
+    "title": "Code as Agent Harness — 코드를 에이전트의 실행 기반으로 보는 102페이지 서베이",
+    "url": "https://news.hada.io/topic?id=30815",
+    "summary": "UIUC × Meta × Stanford 합작. 5월 arXiv에 올라온 서베이 논문인데, 관점이 꽤 재밌다. 핵심 주장 \"코드는 더 이상 LLM이 생성하는 결과물이 아니다. 에이전트가 추론하고, 행동하고, 상태를 저장하고, 피드백을 검증하는…",
+    "tags": [],
+    "score": 0.88
+  },
+  {
+    "date": "2026-06-26",
+    "source": "GeekNews",
+    "title": "Cafe24, LLM Router 공개",
+    "url": "https://news.hada.io/topic?id=30813",
+    "summary": "Claude, Gemini, Qwen, Llama, DeepSeek 등 100개 이상 모델을 단일 엔드포인트로 호출하는 통합 LLM 인프라 OpenAI 호환 단일 API를 제공해, Provider마다 다른 API 명세·재시도 로직·스트리밍 포맷을…",
+    "tags": [],
+    "score": 0.67
+  },
+  {
     "date": "2026-06-25",
     "source": "GeekNews",
     "title": "Google Workspace CLI를 만든 개발자, 구글에서 해고됨",
