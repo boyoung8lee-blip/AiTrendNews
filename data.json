@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-06-27",
+    "source": "PyTorch KR",
+    "title": "drawio-skill: 자연어 설명을 draw.io 다이어그램으로 만드는 에이전트 스킬",
+    "url": "https://discuss.pytorch.kr/t/drawio-skill-draw-io/10750",
+    "summary": "drawio-skill: 자연어 설명을 draw.io 다이어그램으로 만드는 에이전트 스킬1536×1024 286 KB drawio-skill 소개 drawio-skill은 자연어로 적은 설명을 .drawio XML로 바꾸고, draw.io 데스크톱…",
+    "tags": [
+      "claude-code",
+      "agent-skill",
+      "diagram",
+      "uml"
+    ],
+    "score": 0.98
+  },
+  {
+    "date": "2026-06-27",
+    "source": "GeekNews",
+    "title": "Show HN: OpenKnowledge – Obsidian/Notion의 오픈소스 AI 우선 대안",
+    "url": "https://news.hada.io/topic?id=30860",
+    "summary": "개인 노트, 지식 베이스, 스펙, LLM 위키를 위한 로컬 우선 WYSIWYG Markdown 편집기이며 Claude, Codex 등 하네스와의 통합을 제공함 Markdown 파일 편집을 Google Doc이나 Notion 페이지 편집처럼 느끼게…",
+    "tags": [],
+    "score": 0.89
+  },
+  {
+    "date": "2026-06-27",
+    "source": "GeekNews",
+    "title": "Show GN: 당근전톡 — 당근마켓 가기 전에 카톡으로 동네 공개매물 먼저 둘러보기",
+    "url": "https://news.hada.io/topic?id=30852",
+    "summary": "안녕하세요. 카카오 PlayMCP 기반으로 당근전톡이라는 작은 MCP 서비스를 만들어봤습니다. 당근전톡은 당근마켓 앱을 열기 전에, 카톡에서 자연어로 동네 공개매물을 먼저 찾아볼 수 있는 읽기 전용 리서치 도구입니다. 예를 들면 이렇게 물어볼 수…",
+    "tags": [],
+    "score": 0.83
+  },
+  {
     "date": "2026-06-26",
     "source": "PyTorch KR",
     "title": "LLM Graph Builder: 비정형 데이터를 LLM으로 Neo4j 지식 그래프로 바꾸는 오픈소스 도구",
