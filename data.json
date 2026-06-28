@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-06-29",
+    "source": "GeekNews",
+    "title": "Paca - 인간과 AI 에이전트 협업을 위한 오픈소스 프로젝트 관리 도구",
+    "url": "https://news.hada.io/topic?id=30901",
+    "summary": "AI 네이티브 셀프 호스팅 프로젝트 관리 플랫폼으로, Jira/Trello/ClickUp/Monday의 무료 오픈소스 대체제 AI 에이전트가 챗봇 애드온이 아니라 Scrum 팀의 동등한 팀원으로 참여 스프린트에 배정되어 통합 Scrumban 보드에…",
+    "tags": [],
+    "score": 0.82
+  },
+  {
+    "date": "2026-06-29",
+    "source": "GeekNews",
+    "title": "NLnet Labs의 LLM 사용 정책",
+    "url": "https://news.hada.io/topic?id=30898",
+    "summary": "NLnet Labs는 프로젝트 기여와 커뮤니케이션에서 LLM 사용을 제한하며, 정책 위반 제출물은 사전 통지 없이 닫히거나 삭제될 수 있음 코드와 문서 기여는 사람이 직접 작성해야 하며, LLM이나 다른 확률적 도구가 생성한 내용은 포함할 수 없음…",
+    "tags": [],
+    "score": 0.69
+  },
+  {
+    "date": "2026-06-29",
+    "source": "PyTorch KR",
+    "title": "agentic-stack: 코딩 에이전트 도구를 바꿔도 메모리와 스킬을 유지하는 이식형 브레인",
+    "url": "https://discuss.pytorch.kr/t/agentic-stack/10829",
+    "summary": "agentic-stack: 코딩 에이전트 도구를 바꿔도 메모리와 스킬을 유지하는 이식형 브레인1536×1024 263 KB agentic-stack 소개 코딩 에이전트를 쓰다 보면 도구를 갈아탈 일이 자주 생깁니다. Claude Code로 작업하다가…",
+    "tags": [
+      "claude-code",
+      "ai-agent",
+      "mcp",
+      "coding-agent"
+    ],
+    "score": 0.65
+  },
+  {
     "date": "2026-06-28",
     "source": "GeekNews",
     "title": "오픈소스 보안을 함께 지키기 위한 Akrites 공개서한",
@@ -614,37 +646,5 @@
     "summary": "AI가 코드를 대량 생성하는 시대에 엔지니어의 가치를 가르는 핵심 역량은 속도·지식·경력이 아니라 ‘취향(taste)’, 즉 무엇을 만들지 판단하는 평가 능력 OpenAI Codex 팀 구성원들이 독립적으로 같은 결론에 도달했으며, 좋은 소프트웨어…",
     "tags": [],
     "score": 0.8
-  },
-  {
-    "date": "2026-06-09",
-    "source": "GeekNews",
-    "title": "Show HN: Performative-UI – 디자인 트로프 기반 React 컴포넌트 라이브러리",
-    "url": "https://news.hada.io/topic?id=30304",
-    "summary": "AI 스타트업용 AI-native React 컴포넌트 모음으로, 27개 컴포넌트와 MIT 라이선스를 제공 일반 공개 상태이며, 설치 명령은 npm install performative-ui 구성은 Atoms, Primitives, Banners,…",
-    "tags": [],
-    "score": 0.73
-  },
-  {
-    "date": "2026-06-09",
-    "source": "GeekNews",
-    "title": "Siri AI",
-    "url": "https://news.hada.io/topic?id=30313",
-    "summary": "개인형 AI 비서가 앱과 사용자 맥락에 통합되어 자연어 대화, 앱 작업, 글쓰기, 시각 검색을 지원하며, Siri AI는 올해 말 영어로 제공 예정 Siri AI는 공개형 질문, 아이디어 브레인스토밍, 개인 맥락 검색, 앱 내 작업 실행, 온라인…",
-    "tags": [],
-    "score": 0.65
-  },
-  {
-    "date": "2026-06-09",
-    "source": "PyTorch KR",
-    "title": "Finance Skills: AI 코딩 에이전트에 금융 분석과 트레이딩 능력을 더하는 스킬 모음",
-    "url": "https://discuss.pytorch.kr/t/finance-skills-ai/10590",
-    "summary": "Finance Skills: AI 코딩 에이전트에 금융 분석과 트레이딩 능력을 더하는 스킬 모음1536×1024 372 KB Finance Skills 소개 Finance Skills는 AI 코딩 에이전트에 금융 분석과 트레이딩 능력을 더해 주는…",
-    "tags": [
-      "claude-code",
-      "mit-license",
-      "agent-skills",
-      "yfinance"
-    ],
-    "score": 0.6
   }
 ]
