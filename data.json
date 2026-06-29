@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-06-30",
+    "source": "GeekNews",
+    "title": "Show GN: 당근전톡 — 당근마켓 가기 전에 카톡으로 동네 공개매물 먼저 둘러보기",
+    "url": "https://news.hada.io/topic?id=30936",
+    "summary": "안녕하세요. 카카오 PlayMCP 기반으로 당근전톡이라는 작은 MCP 서비스를 만들어봤습니다. 당근전톡은 당근마켓 앱을 열기 전에, 카톡에서 자연어로 동네 공개매물을 먼저 찾아볼 수 있는 읽기 전용 리서치 도구입니다. 예를 들면 이렇게 물어볼 수…",
+    "tags": [],
+    "score": 0.87
+  },
+  {
+    "date": "2026-06-30",
+    "source": "GeekNews",
+    "title": "Show GN: AI 코딩 에이전트 여러 개를 한 창에서 조율하는 올인원 데스크톱 터미널 — Orch term",
+    "url": "https://news.hada.io/topic?id=30932",
+    "summary": "터미널·코드 에디터·브라우저·Git을 한 창에 담고, 그 위에서 여러 AI 코딩 에이전트(Claude Code, Codex, Gemini CLI 등)를 동시에 돌려 조율하는 데스크톱 앱입니다. Windows와 macOS를 지원합니다. 왜 만들었나…",
+    "tags": [],
+    "score": 0.83
+  },
+  {
+    "date": "2026-06-30",
+    "source": "PyTorch KR",
+    "title": "im-not-ai: 기존의 의미를 보존하면서, 'AI스러움'을 자연스럽게 다듬는 Claude Code 윤문 스킬",
+    "url": "https://discuss.pytorch.kr/t/im-not-ai-ai-claude-code/10666",
+    "summary": "im-not-ai: 한국어 글의 AI스러움을 의미 보존하며 자연스럽게 다듬는 Claude Code 윤문 스킬1280×640 50.3 KB im-not-ai 소개 im-not-ai(Humanize KR)는 ChatGPT, Claude, Gemini…",
+    "tags": [
+      "claude-code",
+      "mit-license",
+      "codex-cli",
+      "ai-slop"
+    ],
+    "score": 0.76
+  },
+  {
     "date": "2026-06-29",
     "source": "GeekNews",
     "title": "Paca - 인간과 AI 에이전트 협업을 위한 오픈소스 프로젝트 관리 도구",
@@ -614,37 +646,5 @@
       "multi-agent"
     ],
     "score": 0.69
-  },
-  {
-    "date": "2026-06-10",
-    "source": "PyTorch KR",
-    "title": "Paseo: Claude Code, Codex 등 코딩 에이전트를 휴대폰과 데스크톱에서 쓰는 셀프 호스팅 도구",
-    "url": "https://discuss.pytorch.kr/t/paseo-claude-code-codex/10553",
-    "summary": "Paseo: Claude Code, Codex 등 코딩 에이전트를 휴대폰과 데스크톱에서 쓰는 단일 인터페이스2048×1233 426 KB Paseo 소개 Paseo는 Claude Code, Codex, Copilot, OpenCode, Pi 같은…",
-    "tags": [
-      "claude-code",
-      "coding-agent",
-      "codex",
-      "self-hosted"
-    ],
-    "score": 0.97
-  },
-  {
-    "date": "2026-06-10",
-    "source": "GeekNews",
-    "title": "Show GN: Claude Code에 Hermes Agent식 자기개선 루프를 붙이는 플러그인",
-    "url": "https://news.hada.io/topic?id=30327",
-    "summary": "복잡한 작업에서 배운 절차를 자동으로 SKILL.md로 증류하고, 다음 세션에서 Claude Code가 다시 활용하게 만드는 플러그인입니다. Hermes Agent의 self-improving skills/curator 아이디어를 Claude…",
-    "tags": [],
-    "score": 0.81
-  },
-  {
-    "date": "2026-06-10",
-    "source": "GeekNews",
-    "title": "취향(taste)을 갖춘 30배 AI 엔지니어가 되는 법",
-    "url": "https://news.hada.io/topic?id=30338",
-    "summary": "AI가 코드를 대량 생성하는 시대에 엔지니어의 가치를 가르는 핵심 역량은 속도·지식·경력이 아니라 ‘취향(taste)’, 즉 무엇을 만들지 판단하는 평가 능력 OpenAI Codex 팀 구성원들이 독립적으로 같은 결론에 도달했으며, 좋은 소프트웨어…",
-    "tags": [],
-    "score": 0.8
   }
 ]
