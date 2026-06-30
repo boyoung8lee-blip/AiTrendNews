@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-07-01",
+    "source": "GeekNews",
+    "title": "Go Micro - Go를 위한 에이전트 하네스",
+    "url": "https://news.hada.io/topic?id=30958",
+    "summary": "에이전트/서비스/워크플로우를 하나의 런타임 위에서 구축하는 Go 프레임워크 도구, 메모리, 가드레일, 트리거 워크플로우, 의존 서비스, 다른 에이전트가 접근하는 프로토콜까지 하나의 하네스로 묶음 서비스의 모든 엔드포인트가 자동으로 AI 호...",
+    "tags": [],
+    "score": 0.87
+  },
+  {
+    "date": "2026-07-01",
+    "source": "PyTorch KR",
+    "title": "Ornith-1.0: 스캐폴드를 스스로 학습하는 에이전트 코딩 LLM (feat. DeepReinforce)",
+    "url": "https://discuss.pytorch.kr/t/ornith-1-0-llm-feat-deepreinforce/10951",
+    "summary": "Ornith-1.0: 에이전트 코딩에 특화된 자기개선형 오픈소스 LLM 패밀리 / Ornith-1.0, a self-improving open-source LLM family for agentic coding2880×1503 285 KB…",
+    "tags": [
+      "llm",
+      "paper",
+      "opensource",
+      "agent"
+    ],
+    "score": 0.78
+  },
+  {
+    "date": "2026-07-01",
+    "source": "GeekNews",
+    "title": "Show GN: AI한테 메일 맡기지 마라 — 인박스엔 비서가 아니라 '방화벽'이 필요하다 (오픈소스)",
+    "url": "https://news.hada.io/topic?id=30972",
+    "summary": "요즘 \"AI 이메일\" 도구는 전부 같은 방향입니다. 메일마다 초안 깔고, \"AI가 답장하래요\" 배지 붙이고, 자동 전송 버튼 답니다. 결과는? 인박스가 조용해지는 게 아니라 더 시끄러워집니다. 화면 위에 화면을 또 얹는 거예요. 저는 정반대로…",
+    "tags": [],
+    "score": 0.76
+  },
+  {
     "date": "2026-06-30",
     "source": "GeekNews",
     "title": "Show GN: 당근전톡 — 당근마켓 가기 전에 카톡으로 동네 공개매물 먼저 둘러보기",
@@ -609,42 +641,5 @@
       "pm-frameworks"
     ],
     "score": 0.64
-  },
-  {
-    "date": "2026-06-11",
-    "source": "PyTorch KR",
-    "title": "Anthropic, 역대 가장 강력한 모델 Claude Fable 5와 사이버 방어용 Mythos 5 공개",
-    "url": "https://discuss.pytorch.kr/t/anthropic-claude-fable-5-mythos-5/10630",
-    "summary": "하나의 모델, 두 얼굴: Claude Fable 5와 Mythos 51536×1024 273 KB Claude Fable 5와 Mythos 5 소개 Anthropic이 2026년 6월 9일, 지금까지 일반에 공개한 어떤 모델보다도 능력이 앞선다고…",
-    "tags": [
-      "llm",
-      "anthropic",
-      "agent",
-      "claude"
-    ],
-    "score": 0.74
-  },
-  {
-    "date": "2026-06-11",
-    "source": "GeekNews",
-    "title": "Show GN: SlopGuard – AI 슬롭 PR/이슈를 점수 매겨 격리하는 GitHub 앱 (자동으로 안 닫음)",
-    "url": "https://news.hada.io/topic?id=30360",
-    "summary": "오픈소스 메인테이너들이 AI가 생성한 저품질 PR/이슈에 시달리는 게 요즘 흔한 문제입니다. 처음 30초는 그럴듯해 보여서 안 볼 수도 없고, 일일이 거르다 보면 시간이 갈려나갑니다. 그렇다고 패턴만 보고 막 닫으면 진짜 첫 기여자를 내칠 위험이…",
-    "tags": [],
-    "score": 0.72
-  },
-  {
-    "date": "2026-06-11",
-    "source": "PyTorch KR",
-    "title": "Google Research가 공개한 Agentic RAG: 부족한 정보를 끝까지 찾아내는 멀티 에이전트 검색",
-    "url": "https://discuss.pytorch.kr/t/google-research-agentic-rag/10599",
-    "summary": "Google Research가 공개한, 부족한 정보를 끝까지 찾아내는 Agentic RAG (feat. Gemini Enterprise Platform)1380×752 165 KB Gemini Enterprise의 Agentic RAG 소개 검색…",
-    "tags": [
-      "llm",
-      "google",
-      "rag",
-      "multi-agent"
-    ],
-    "score": 0.69
   }
 ]
