@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-07-03",
+    "source": "GeekNews",
+    "title": "ZCode: GLM-5.2용 공식 하네스",
+    "url": "https://news.hada.io/topic?id=31047",
+    "summary": "ZCode는 개발 도구와 AI 에이전트를 묶어 계획, 코딩, 리뷰, 배포를 한 흐름에서 처리하려는 GLM-5.2 공식 하네스임 ZCode 3.0은 GLM-5.2 최적화와 멀티 에이전트 협업 개선을 내세우며, 추론·코딩 작업 전반에서 GLM과의 통합을…",
+    "tags": [],
+    "score": 0.83
+  },
+  {
+    "date": "2026-07-03",
+    "source": "GeekNews",
+    "title": "Show GN: AI를 위한, 대한민국 대중교통 경로 & 비용 탐색 CLI, MCP 서버",
+    "url": "https://news.hada.io/topic?id=31046",
+    "summary": "대중교통 경로 & 비용을 알려주는 CLI 및 MCP 서버입니다 https://github.com/GyeongHoKim/naeryeo homebrew, scoop, npm으로 설치가 가능합니다. 사용예시 다음과 같습니다. # API 키를 OS 키체인에…",
+    "tags": [],
+    "score": 0.82
+  },
+  {
+    "date": "2026-07-03",
+    "source": "PyTorch KR",
+    "title": "Anthropic, Opus급 성능에 근접한 가장 에이전틱한 Sonnet 모델 Claude Sonnet 5 출시",
+    "url": "https://discuss.pytorch.kr/t/anthropic-opus-sonnet-claude-sonnet-5/11015",
+    "summary": "가장 에이전틱한 Sonnet 모델 Claude Sonnet 5 출시1536×1024 210 KB Claude Sonnet 5 소개 Anthropic이 2026년 6월 30일, Sonnet 계열의 최신 모델인 Claude Sonnet 5를…",
+    "tags": [
+      "llm",
+      "anthropic",
+      "agent",
+      "claude"
+    ],
+    "score": 0.72
+  },
+  {
     "date": "2026-07-02",
     "source": "GeekNews",
     "title": "TS 컴파일러로 만든 코드 그래프 MCP, Claude Code 토큰 10배 절감",
@@ -609,37 +641,5 @@
       "harness"
     ],
     "score": 0.66
-  },
-  {
-    "date": "2026-06-13",
-    "source": "GeekNews",
-    "title": "Claude Fable 5: 코딩 작업에서 중간 수준 결과를 냄",
-    "url": "https://news.hada.io/topic?id=30433",
-    "summary": "실제 코드에서 취약점을 수정하고 기능을 유지하는 200개 작업에서 Claude Fable 5는 중간 수준 성능과 일부 예외적 성공을 동시에 보임 Claude Code와 함께 실행한 결과 FuncPass 59.8%, SecPass 19.0% 를 기록해…",
-    "tags": [],
-    "score": 0.79
-  },
-  {
-    "date": "2026-06-13",
-    "source": "GeekNews",
-    "title": "코드 라인 수가 더 나은 홍보 담당자를 얻었다",
-    "url": "https://news.hada.io/topic?id=30432",
-    "summary": "개발자 생산성 평가는 코드 양보다 고객 가치, 매출, 신뢰성 같은 결과 지표로 판단해야 함 Google, Anthropic, OpenAI, Cursor의 최근 AI 코딩 홍보 수치는 모두 코드 생성 비율이나 코드 라인 수 같은 양적 주장에 집중함…",
-    "tags": [],
-    "score": 0.73
-  },
-  {
-    "date": "2026-06-13",
-    "source": "PyTorch KR",
-    "title": "Open Code Review: 결정론적 엔진과 LLM 에이전트를 결합한 Alibaba의 코드 리뷰 도구",
-    "url": "https://discuss.pytorch.kr/t/open-code-review-llm-alibaba/10622",
-    "summary": "Open Code Review: 결정론적 엔진과 LLM 에이전트를 결합한 Alibaba의 코드 리뷰 도구1536×1024 255 KB Open Code Review 소개 Open Code Review는 Git diff를 읽어 변경된 파일을 설정…",
-    "tags": [
-      "llm",
-      "ai-agent",
-      "alibaba",
-      "cli"
-    ],
-    "score": 0.65
   }
 ]
