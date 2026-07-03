@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-07-04",
+    "source": "GeekNews",
+    "title": "로컬 인텔리전스에 대한 권리",
+    "url": "https://news.hada.io/topic?id=31092",
+    "summary": "RTI는 플랫폼 계정이나 클라우드 API에 묶이지 않고 자기 기기에서 로컬 AI를 실행할 권리를 보호하려는 활동임 공개 AI 모델의 다운로드·소유·실행·연구·수정·공유는 합법적 사용으로 보장하되, 실제 피해 행위는 계속 단속해야 한다는 입장임 사기,…",
+    "tags": [],
+    "score": 0.8
+  },
+  {
+    "date": "2026-07-04",
+    "source": "GeekNews",
+    "title": "Show GN: VHK - 모델·에이전트를 갈아타도 안 무너지는 풀사이클 AI 코딩 하네스",
+    "url": "https://news.hada.io/topic?id=31080",
+    "summary": "바이브코딩하다 보면 도구를 자주 갈아탑니다. Claude Code 쓰다가 Cursor, 또 Codex... 그때마다 규칙 파일이랑 맥락이 흩어지고, 에이전트는 \"다 됐다\"는데 실제론 테스트도 안 돌아간 경우가 많더라고요. 매번 손으로 정리하기 싫어서…",
+    "tags": [],
+    "score": 0.79
+  },
+  {
+    "date": "2026-07-04",
+    "source": "PyTorch KR",
+    "title": "DevSpace: ChatGPT를 내 컴퓨터의 로컬 코드에 연결하는 자체 호스팅 MCP 서버",
+    "url": "https://discuss.pytorch.kr/t/devspace-chatgpt-mcp/10994",
+    "summary": "DevSpace: ChatGPT를 내 컴퓨터의 로컬 코드에 연결하는 자체 호스팅 MCP 서버1536×1024 154 KB DevSpace 소개 ChatGPT에게 코드를 다루게 하려면 보통 파일을 복사해 붙여넣거나 별도 서비스에 업로드해야 합니다.…",
+    "tags": [
+      "chatgpt",
+      "claude",
+      "mcp",
+      "coding-agent"
+    ],
+    "score": 0.67
+  },
+  {
     "date": "2026-07-03",
     "source": "GeekNews",
     "title": "ZCode: GLM-5.2용 공식 하네스",
@@ -609,37 +641,5 @@
       "ai"
     ],
     "score": 0.69
-  },
-  {
-    "date": "2026-06-14",
-    "source": "GeekNews",
-    "title": "Moonshot AI가 Kimi K2.7-Code를 출시했습니다.",
-    "url": "https://news.hada.io/topic?id=30454",
-    "summary": "문샷 AI가 이전 모델 대비 코딩 성능을 대폭 향상시키고 추론 토큰 소모량을 30% 줄인 에이전트 중심의 오픈 가중치 코딩 모델 '키미 K2.7-Code'를 출시했습니다. 전문 번역 이번 주, 문샷 AI(Moonshot AI)가 키미…",
-    "tags": [],
-    "score": 0.82
-  },
-  {
-    "date": "2026-06-14",
-    "source": "GeekNews",
-    "title": "macOS에서 로컬 코딩 에이전트 설정하는 방법",
-    "url": "https://news.hada.io/topic?id=30461",
-    "summary": "로컬 코딩 에이전트 구성은 인터넷 장애 때도 macOS에서 OpenAI 호환 API로 모델을 실행하고 Pi에서 텍스트와 이미지 입력을 처리하도록 만드는 설정임 Apple M1 Max 64GB, macOS 15.7.7에서 llama.cpp Metal과…",
-    "tags": [],
-    "score": 0.73
-  },
-  {
-    "date": "2026-06-14",
-    "source": "PyTorch KR",
-    "title": "Claude Code Harness: 계획과 구현, 검토와 출시를 강제하는 Claude Code 개발 하네스",
-    "url": "https://discuss.pytorch.kr/t/claude-code-harness-claude-code/10648",
-    "summary": "Claude Code Harness: 계획과 구현, 검토와 출시를 강제하는 Claude Code 개발 하네스1536×1024 198 KB Claude Code Harness 소개 Claude Code Harness는 Claude Code의 에이전트…",
-    "tags": [
-      "claude-code",
-      "coding-agent",
-      "code-review",
-      "harness"
-    ],
-    "score": 0.66
   }
 ]
