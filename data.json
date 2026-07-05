@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-07-06",
+    "source": "GeekNews",
+    "title": "Show GN: Cluedoc: 코드베이스 이해를 돕는 문서 작성 에이전트 스킬",
+    "url": "https://news.hada.io/topic?id=31133",
+    "summary": "혹시 코딩 에이전트가 쏟아내는 코드에 지치셨나요? 그래서 여러분의 소프트웨어를 이해하는 걸 포기하셨나요? 에이전트가 코드를 작성하면, 이해하는 것이 가장 중요한 일이 됩니다. 단 한 줄도 직접 타이핑하지 않았고 코드베이스는 계속 바뀌는데, 시스템이…",
+    "tags": [],
+    "score": 0.77
+  },
+  {
+    "date": "2026-07-06",
+    "source": "GeekNews",
+    "title": "웹 개발자를 위한 Safari MCP 서버",
+    "url": "https://news.hada.io/topic?id=31131",
+    "summary": "Safari MCP 서버는 코딩 에이전트를 실제 Safari 창에 연결해, 웹 개발·디버깅 중 브라우저에서 보이는 상태를 직접 확인하게 함 에이전트는 DOM, 네트워크 요청, 스크린샷, 콘솔 출력에 접근해 코드만으로는 알기 어려운 렌더링 결과와…",
+    "tags": [],
+    "score": 0.7
+  },
+  {
+    "date": "2026-07-06",
+    "source": "PyTorch KR",
+    "title": "Loop Library: 반복 가능한 AI 에이전트 워크플로우를 만들고 공유하는 루프 라이브러리",
+    "url": "https://discuss.pytorch.kr/t/loop-library-ai/11050",
+    "summary": "Loop Library: 반복 가능한 AI 에이전트 워크플로우를 만들고 공유하는 루프 라이브러리1536×1024 246 KB Loop Library 소개 대부분의 프롬프트는 에이전트에게 무언가를 한 번 시키고 끝납니다. 하지만 실제 작업은 첫 시도가…",
+    "tags": [
+      "ai-agent",
+      "prompt-engineering",
+      "agent-skills",
+      "automation"
+    ],
+    "score": 0.57
+  },
+  {
     "date": "2026-07-05",
     "source": "PyTorch KR",
     "title": "Anthropic이 공개한 Claude Fable 5 프롬프팅 가이드: 강력해진 모델에 맞춰 프롬프트 다시 쓰기",
@@ -611,37 +643,5 @@
       "agent"
     ],
     "score": 0.6
-  },
-  {
-    "date": "2026-06-16",
-    "source": "GeekNews",
-    "title": "Show GN: hera-agent-unity - CLI로 Unity를 제어하는 MCP 대안 (런타임 의존성 0)",
-    "url": "https://news.hada.io/topic?id=30510",
-    "summary": "LLM은 여러분의 프로젝트를 모르고, 작년에 학습한 Unity API와 뭉뚱그린 패턴을 기억할 뿐입니다. hera-agent-unity는 AI가 코드를 넘겨짚기 전에 살아있는 Unity 에디터에서 직접 실행하고 결과를 가져오게 해줍니다 — 추측 대신…",
-    "tags": [],
-    "score": 0.95
-  },
-  {
-    "date": "2026-06-16",
-    "source": "GeekNews",
-    "title": "Show GN: tradingcodex - 코덱스를 자산운용사로 만들어주는 하네스",
-    "url": "https://news.hada.io/topic?id=30508",
-    "summary": "코덱스에서 바이브 코딩이 아닌, 바이브 인베스팅을 하기 위한 하네스입니다. codex 설정파일(23skills, 9 subagent config, hooks) + django서버(mcp 기능 포함)로 구성되어있습니다. 에이전트 구성 중앙에는 head…",
-    "tags": [],
-    "score": 0.94
-  },
-  {
-    "date": "2026-06-16",
-    "source": "PyTorch KR",
-    "title": "Open Knowledge Format(OKF): Google이 제안한 AI 에이전트 지식 공유 개방형 표준 (feat. LLM-Wiki)",
-    "url": "https://discuss.pytorch.kr/t/open-knowledge-format-okf-google-ai-feat-llm-wiki/10701",
-    "summary": "Open Knowledge Format(OKF) 소개, 흩어진 지식을 하나의 마크다운 포맷으로 통합1536×1024 252 KB Open Knowledge Format(OKF) 소개 파운데이션 모델(Foundation Model)의 성능이 빠르게…",
-    "tags": [
-      "llm",
-      "google",
-      "agent",
-      "context-engineering"
-    ],
-    "score": 0.57
   }
 ]
