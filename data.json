@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-07-07",
+    "source": "GeekNews",
+    "title": "AI 시대, Figma를 다시 생각하다",
+    "url": "https://news.hada.io/topic?id=31169",
+    "summary": "Config 2026에서 Figma는 AI 압박에 대응해 캔버스를 코드, 모션, 셰이더, 에이전트 워크플로로 확장하며 생존을 건 승부수를 던지는 중 10여 년간 제품 디자인의 기본 작업 공간이었으나, AI가 기획·프로토타이핑·출시 방식을 재편하며…",
+    "tags": [],
+    "score": 0.78
+  },
+  {
+    "date": "2026-07-07",
+    "source": "GeekNews",
+    "title": "OpenTag - Slack용 Claude Tag의 오픈소스 대안",
+    "url": "https://news.hada.io/topic?id=31158",
+    "summary": "Slack 스레드를 읽고 답변하며 도구를 호출해 결과를 대화창에 바로 렌더링하는 셀프 호스팅 AI 에이전트 락인없이 런타임을 소유하며, 원하는 모델을 자신의 도구에 연동 가능 CopilotKit의 오픈 SDK인 @copilotkit/bot 위에…",
+    "tags": [],
+    "score": 0.69
+  },
+  {
+    "date": "2026-07-07",
+    "source": "PyTorch KR",
+    "title": "Google Stitch 살펴보기: 프롬프트로 UI를 만드는 Google Labs 디자인 도구와 Stitch SDK 출시 (MCP, DESIGN.md, Agent Skills)",
+    "url": "https://discuss.pytorch.kr/t/google-stitch-ui-google-labs-stitch-sdk-mcp-design-md-agent-skills/11094",
+    "summary": "Google Stitch: 프롬프트로 UI를 생성하고 Figma와 HTML/CSS로 내보내는 Google Labs 디자인 도구1536×1024 232 KB Google Stitch 소개 Google Stitch는 Google Labs가 만든 AI…",
+    "tags": [
+      "mcp",
+      "typescript",
+      "google-labs",
+      "generative-ui"
+    ],
+    "score": 0.6
+  },
+  {
     "date": "2026-07-06",
     "source": "GeekNews",
     "title": "Show GN: Cluedoc: 코드베이스 이해를 돕는 문서 작성 에이전트 스킬",
@@ -611,37 +643,5 @@
       "frontend"
     ],
     "score": 0.57
-  },
-  {
-    "date": "2026-06-17",
-    "source": "GeekNews",
-    "title": "Apple Foundation Models에 Claude 탑재하기",
-    "url": "https://news.hada.io/topic?id=30529",
-    "summary": "Apple의 Foundation Models 프레임워크에 Claude를 서버 사이드 모델로 연결하는 Swift 패키지로, 개발자가 Apple 온디바이스 모델과 똑같은 코드 경로로 Claude를 호출할 수 있게 됨 WWDC 2026에서 Apple이…",
-    "tags": [],
-    "score": 0.79
-  },
-  {
-    "date": "2026-06-17",
-    "source": "GeekNews",
-    "title": "내 홈랩 AI 개발 플랫폼",
-    "url": "https://news.hada.io/topic?id=30523",
-    "summary": "홈랩 서비스 관리를 위해 OpenCode Web UI에 Git 접근을 붙이고, AI 변경은 PR 검토 뒤 GitOps가 배포하는 흐름으로 구성함 약 12개의 docker compose 스택을 Arcane으로 옮겨 GitOps로 관리하며, AI 도구를…",
-    "tags": [],
-    "score": 0.64
-  },
-  {
-    "date": "2026-06-17",
-    "source": "PyTorch KR",
-    "title": "Omnigent: Databricks가 공개 및 제안하는, 여러 AI 에이전트를 묶는 메타 하네스 프로젝트",
-    "url": "https://discuss.pytorch.kr/t/omnigent-databricks-ai/10705",
-    "summary": "메타 하네스 Omnigent 소개1536×1024 208 KB Omnigent 소개 요즘 AI 에이전트로 일하는 방식을 떠올려 보면, 한 가지 도구만 쓰는 사람은 드뭅니다. Claude Code로 코드를 작성하다가, Codex에 같은 문제를 한 번…",
-    "tags": [
-      "llm",
-      "opensource",
-      "claude-code",
-      "agent"
-    ],
-    "score": 0.6
   }
 ]
