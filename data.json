@@ -1,5 +1,42 @@
 [
   {
+    "date": "2026-07-08",
+    "source": "PyTorch KR",
+    "title": "Awesome Claude Skills: 1,000개 넘는 Claude 스킬을 정리한 목록",
+    "url": "https://discuss.pytorch.kr/t/awesome-claude-skills-1-000-claude/11063",
+    "summary": "Awesome Claude Skills: 1,000개 넘는 Claude 스킬을 정리한 목록1536×1024 272 KB Awesome Claude Skills 소개 Claude Skills는 Claude가 특정 유형의 작업을 처리하는 방법을 담은…",
+    "tags": [
+      "claude-code",
+      "anthropic",
+      "mcp",
+      "automation"
+    ],
+    "score": 0.85
+  },
+  {
+    "date": "2026-07-08",
+    "source": "GeekNews",
+    "title": "Anthropic이 개발자 호감을 잃는 몇 가지 방법",
+    "url": "https://news.hada.io/topic?id=31201",
+    "summary": "Anthropic은 Claude 구독을 자사 도구 중심 체계에 묶고 제3자 에이전트 사용에 별도 과금을 붙이면서, 개발자가 기대한 구독 가치와 실제 사용 조건 사이의 간극을 키움 Claude 구독 사용처는 Claude Code CLI/Desktop,…",
+    "tags": [],
+    "score": 0.79
+  },
+  {
+    "date": "2026-07-08",
+    "source": "PyTorch KR",
+    "title": "OpenWiki: 코딩 에이전트를 위한 코드베이스 문서를 작성하고 관리하는 CLI 도구",
+    "url": "https://discuss.pytorch.kr/t/openwiki-cli/11089",
+    "summary": "OpenWiki: 코딩 에이전트를 위한 코드베이스 문서를 작성하고 관리하는 CLI 도구1302×930 70.8 KB OpenWiki 소개 OpenWiki는 코드베이스의 문서를 자동으로 작성하고 최신 상태로 유지하는 CLI 도구로, 사람보다 코딩…",
+    "tags": [
+      "llm",
+      "coding-agent",
+      "langchain",
+      "cli"
+    ],
+    "score": 0.74
+  },
+  {
     "date": "2026-07-07",
     "source": "GeekNews",
     "title": "AI 시대, Figma를 다시 생각하다",
@@ -611,37 +648,5 @@
       "obsidian"
     ],
     "score": 0.51
-  },
-  {
-    "date": "2026-06-18",
-    "source": "GeekNews",
-    "title": "연구자들 “Fable 5 논란은 탈옥이 아니라 ‘fix this code’에서 시작됐다”",
-    "url": "https://news.hada.io/topic?id=30565",
-    "summary": "미국 정부의 Anthropic Fable 5·Mythos 5 접근 제한은 알려진 탈옥이 아니라, 취약 코드에 “fix this code”를 입력한 단순 요청에서 비롯됐다고 Katie Moussouris가 주장함 Luta Security CEO인…",
-    "tags": [],
-    "score": 0.75
-  },
-  {
-    "date": "2026-06-18",
-    "source": "GeekNews",
-    "title": "Claude Code의 수석 디자이너가 AI로 빌드하는 방법 [유튜브]",
-    "url": "https://news.hada.io/topic?id=30562",
-    "summary": "실제 제품 개발에서 클로드 코드를 어떻게 쓰는지, Excalidraw에 autocomplete 기능을 직접 추가하며 실전 워크플로우를 시연 디자이너의 발표지만 내용은 거의 개발자 워크플로우에 가까우며, worktree로 여러 Claude 세션을 병렬…",
-    "tags": [],
-    "score": 0.72
-  },
-  {
-    "date": "2026-06-18",
-    "source": "PyTorch KR",
-    "title": "Nothing Design Skill: Nothing 디자인 언어로 모노크롬 UI를 생성하는 Claude Code 스킬",
-    "url": "https://discuss.pytorch.kr/t/nothing-design-skill-nothing-ui-claude-code/10729",
-    "summary": "Nothing Design Skill: Nothing 디자인 언어로 모노크롬 UI를 생성하는 Claude Code 스킬1536×1024 233 KB Nothing Design Skill 소개 AI 코딩 에이전트로 화면을 만들다 보면, 매번 같은…",
-    "tags": [
-      "claude-code",
-      "coding-agent",
-      "mit-license",
-      "frontend"
-    ],
-    "score": 0.57
   }
 ]
