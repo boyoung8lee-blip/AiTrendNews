@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-07-09",
+    "source": "GeekNews",
+    "title": "Davit - Apple Containers용 네이티브 macOS UI",
+    "url": "https://news.hada.io/topic?id=31243",
+    "summary": "Davit은 Apple silicon Mac에서 Apple의 container 플랫폼으로 Linux 컨테이너를 실행·관리하는 네이티브 macOS 앱이며, Docker Desktop 없이 쓸 수 있음 Apple의 오픈소스 container 데몬과…",
+    "tags": [],
+    "score": 0.64
+  },
+  {
+    "date": "2026-07-09",
+    "source": "GeekNews",
+    "title": "루프 시작하기",
+    "url": "https://news.hada.io/topic?id=31225",
+    "summary": "코딩 에이전트에 매 프롬프트를 지시하는 방식 대신, 정지 조건이 충족될 때까지 작업 사이클을 반복하는 에이전트 운영 패턴으로 전환 중 Claude Code 팀은 루프를 트리거 방식, 정지 방식, 사용 primitive, 적합 작업 유형 네 기준으로…",
+    "tags": [],
+    "score": 0.62
+  },
+  {
+    "date": "2026-07-09",
+    "source": "PyTorch KR",
+    "title": "SkillComposer: 스킬을 몇 개나 어떤 순서로 쓸지 한 번에 예측하는 LLM 에이전트 스킬 조합 방식에 대한 연구",
+    "url": "https://discuss.pytorch.kr/t/skillcomposer-llm/11090",
+    "summary": "SkillComposer: 스킬을 몇 개나 어떤 순서로 쓸지 한 번에 예측하는 LLM 에이전트 스킬 조합 방식에 대한 연구1536×1024 207 KB SkillComposer 연구 소개 여행 가방을 쌀 때를 떠올려 봅시다. 옷장에 있는 모든 옷을…",
+    "tags": [
+      "llm",
+      "paper",
+      "agent",
+      "coding-agent"
+    ],
+    "score": 0.61
+  },
+  {
     "date": "2026-07-08",
     "source": "PyTorch KR",
     "title": "Awesome Claude Skills: 1,000개 넘는 Claude 스킬을 정리한 목록",
@@ -616,37 +648,5 @@
       "long-context"
     ],
     "score": 0.49
-  },
-  {
-    "date": "2026-06-19",
-    "source": "GeekNews",
-    "title": "창업자 플레이북: AI-native 스타트업 만들기",
-    "url": "https://news.hada.io/topic?id=30598",
-    "summary": "Claude는 창업자가 아이디어 검증부터 확장까지 AI를 활용하는 방식을 정리한 실전 플레이북을 공개하고, 연습·프레임워크·프롬프트를 함께 제공 코딩 경험이 없는 창업자도 프로덕션 애플리케이션을 출시하고, 인력 확충 전에 매출에 도달하며, ...",
-    "tags": [],
-    "score": 0.68
-  },
-  {
-    "date": "2026-06-19",
-    "source": "GeekNews",
-    "title": "AI는 엔지니어링 규율을 덜이 아니라 더 요구함",
-    "url": "https://news.hada.io/topic?id=30612",
-    "summary": "AI 코드 생성 품질이 높아진 것은 코드 리뷰를 버리라는 신호가 아니라, 코드가 싸고 빠르게 재생성되는 환경에서 검증과 운영 규율을 더 강하게 요구함 2025년 말 Opus 4.5 이후 AI는 흔한 패턴에서 중간 수준 소프트웨어 엔지니어에 가까운…",
-    "tags": [],
-    "score": 0.62
-  },
-  {
-    "date": "2026-06-19",
-    "source": "PyTorch KR",
-    "title": "LLM Wiki: 문서를 자동으로 위키 형태 지식 베이스로 컴파일하는 데스크톱 애플리케이션 (feat. Karpathy LLM Wiki 패턴)",
-    "url": "https://discuss.pytorch.kr/t/llm-wiki-feat-karpathy-llm-wiki/10139",
-    "summary": "LLM Wiki, 문서를 자동으로 위키 형태 지식 베이스로 컴파일하는 데스크톱 애플리케이션1200×600 66.2 KB LLM Wiki 소개 개인 지식 관리에 LLM을 도입하면 흔히 RAG(Retrieval-Augmented Generation,…",
-    "tags": [
-      "knowledge-graph",
-      "desktop-app",
-      "knowledge-base",
-      "obsidian"
-    ],
-    "score": 0.51
   }
 ]
