@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-07-11",
+    "source": "GeekNews",
+    "title": "Tencent, 오픈소스 모델 Hy3 공개",
+    "url": "https://news.hada.io/topic?id=31290",
+    "summary": "비슷한 크기 모델보다 높은 성능을 목표로 하며, 2~5배 많은 파라미터를 가진 플래그십 오픈소스 모델과도 경쟁 가능한 수준 270명 전문가의 실제 업무 기반 블라인드 평가에서 Hy3는 2.67/4로 GLM-5.1의 2.51/4를 앞섰고, 프론트엔드…",
+    "tags": [],
+    "score": 0.81
+  },
+  {
+    "date": "2026-07-11",
+    "source": "GeekNews",
+    "title": "Muse Spark 1.1 공개",
+    "url": "https://news.hada.io/topic?id=31279",
+    "summary": "Meta Superintelligence Labs가 공개한 Muse Spark 1.1은 에이전트 작업을 겨냥한 멀티모달 추론 모델로, 도구·컴퓨터 사용, 코딩, 멀티모달 이해를 전작보다 강화함 외부 앱과 서비스 전반의 계획·오케스트레이션을 맡고,…",
+    "tags": [],
+    "score": 0.72
+  },
+  {
+    "date": "2026-07-11",
+    "source": "PyTorch KR",
+    "title": "Tencent, 295B 규모(활성 21B)의 오픈소스 MoE 추론 및 에이전트 모델 Hy3 공개",
+    "url": "https://discuss.pytorch.kr/t/tencent-295b-21b-moe-hy3/11147",
+    "summary": "Tencent Hy3 오픈소스 MoE 추론 에이전트 모델 소개1536×1024 263 KB Hy3 소개 Hy3 는 텐센트 훈위안(Tencent Hy, 舊 Hunyuan) 팀이 공개한 오픈소스 대규모 언어 모델(Large Language…",
+    "tags": [
+      "llm",
+      "opensource",
+      "agent",
+      "moe"
+    ],
+    "score": 0.64
+  },
+  {
     "date": "2026-07-10",
     "source": "GeekNews",
     "title": "Show GN: Agentic FC - AI 에이전트가 MCP로 플레이하는 오픈소스 축구 매니지먼트 시뮬레이션",
@@ -616,37 +648,5 @@
     "summary": "핀란드 공공도서관은 책 대출을 넘어 시민이 공간·도구·디지털 서비스를 함께 쓰는 공공 커뮤니티 서비스 센터로 확장되고 있음 인구 560만 명의 핀란드는 700개 넘는 도서관에서 팟캐스트 스튜디오, 3D 프린팅, 테니스 라켓, 수영장 이용권,…",
     "tags": [],
     "score": 0.62
-  },
-  {
-    "date": "2026-06-21",
-    "source": "GeekNews",
-    "title": "Klorn – 중요한 것만 빼고 다 조용히 시키는 오픈소스 이메일 방화벽",
-    "url": "https://news.hada.io/topic?id=30667",
-    "summary": "요즘 나오는 AI 메일 도구들을 보면 공통점이 하나 있습니다. 문제를 줄이기보다, 화면을 더 늘리고 메일마다 제안 카드가 붙거나 “AI가 답장하라고 추천합니다” 같은 배지가 생기고, 검토 안 한 초안이 계속 쌓입니다. 그래서 인박스가 조용해지냐고…",
-    "tags": [],
-    "score": 0.78
-  },
-  {
-    "date": "2026-06-21",
-    "source": "GeekNews",
-    "title": "AI 시대에 K-공문서(HWP)를 못 여는 진짜 이유, 그리고 해법을 논의합니다",
-    "url": "https://news.hada.io/topic?id=30663",
-    "summary": "표준 명세만 있으면 호환 앱이든 렌더러든 어떻게든 만들어내는 게 AI 시대입니다. 그런데 왜 공문서 HWP는 못 열까요? 한컴오피스(아래아한글)가 처음 나온 1989년은 '오픈소스'라는 용어조차 없던 시절입니다. 오픈소스 폰트요? 당연히 없었습니다.…",
-    "tags": [],
-    "score": 0.6
-  },
-  {
-    "date": "2026-06-21",
-    "source": "PyTorch KR",
-    "title": "코딩은 더 이상 병목이 아니다, Spotify의 코딩 에이전트 Honk (feat. Code with Claude 2026)",
-    "url": "https://discuss.pytorch.kr/t/spotify-honk-feat-code-with-claude-2026/10775",
-    "summary": "코딩은 더 이상 병목이 아니다, Spotify의 AI 전환과 코딩 에이전트1536×1024 234 KB Spotify의 AI 전환 소개 코딩이 더 이상 소프트웨어 개발의 병목(bottleneck)이 아니게 된다면 무슨 일이 벌어질까요?…",
-    "tags": [
-      "anthropic",
-      "agent",
-      "claude",
-      "coding-agent"
-    ],
-    "score": 0.45
   }
 ]
