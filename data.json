@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-07-12",
+    "source": "PyTorch KR",
+    "title": "OpenAI가 공개한 GPT-5.6 공식 활용 가이드: 마이그레이션부터 프롬프팅, Pro 모드까지",
+    "url": "https://discuss.pytorch.kr/t/openai-gpt-5-6-pro/11195",
+    "summary": "OpenAI GPT-5.6 공식 활용 가이드의 네 가지 핵심 정리1536×1024 246 KB GPT-5.6 모델 가이드 소개 OpenAI가 개발자 문서 사이트에 GPT-5.6 모델 패밀리를 위한 공식 활용 가이드(Model Guidance)를…",
+    "tags": [
+      "llm",
+      "openai",
+      "agent",
+      "prompt-engineering"
+    ],
+    "score": 0.88
+  },
+  {
+    "date": "2026-07-12",
+    "source": "GeekNews",
+    "title": "‘터미네이터 2’ 기술의 구술사(2017)",
+    "url": "https://news.hada.io/topic?id=31335",
+    "summary": "1991년작 Terminator 2: Judgment Day의 T-1000은 약 50개 CG 숏을 위해 당시 12~20명 규모였던 ILM 컴퓨터 그래픽스 팀이 모델링·애니메이션·렌더링·합성 도구를 직접 만들며 완성한 디지털 캐릭터임 액체 금속이…",
+    "tags": [],
+    "score": 0.64
+  },
+  {
+    "date": "2026-07-12",
+    "source": "GeekNews",
+    "title": "AI 2040: 플랜 A",
+    "url": "https://news.hada.io/topic?id=31327",
+    "summary": "Plan A는 초지능 경쟁을 피하기 위한 국제 합의로, AI 연구를 공개하고 여러 국가·기업이 최전선에 합류한 뒤 인간 능력 범위에서 천천히 확장해 2040년에 초지능으로 전환하는 정책 시나리오임 핵심 수단은 AI R&D의 완전한 투명성, 국가 간…",
+    "tags": [],
+    "score": 0.59
+  },
+  {
     "date": "2026-07-11",
     "source": "GeekNews",
     "title": "Tencent, 오픈소스 모델 Hy3 공개",
@@ -616,37 +648,5 @@
     "summary": "한 사용자는 아내가 자신의 작품 이미지가 LLM 학습에 쓰이는 것을 원치 않아 온라인 공개를 망설이고 있다고 밝힘 질문의 핵심은 이미지를 사전에 처리해 LLM 학습을 방해하는 라이브러리나 방법이 현재 실용적인지임 사용자는 아내를 위한 맞춤...",
     "tags": [],
     "score": 0.79
-  },
-  {
-    "date": "2026-06-22",
-    "source": "GeekNews",
-    "title": "open-code-review — Alibaba의 AI 코드 리뷰 도구",
-    "url": "https://news.hada.io/topic?id=30677",
-    "summary": "알리바바가 내부에서 사용하던 AI 코드 리뷰 어시스턴트로 2년간 수만 명의 개발자가 수백만 건의 코드 결함을 식별한 뒤 오픈소스로 공개 Git diff를 읽고 변경 파일을 도구 사용 에이전트를 통해 LLM에 전달하고, 라인...",
-    "tags": [],
-    "score": 0.73
-  },
-  {
-    "date": "2026-06-22",
-    "source": "PyTorch KR",
-    "title": "'코딩 실력보다 도메인 전문성', Anthropic이 Claude Code 세션 40만 건으로 분석한 연구 보고서",
-    "url": "https://discuss.pytorch.kr/t/anthropic-claude-code-40/10794",
-    "summary": "코딩 실력보다 도메인 전문성, Anthropic이 분석한 Claude Code 세션 40만 건1536×1024 234 KB Claude Code 사용 행태 연구 소개 Anthropic이 2026년 6월 16일 발표한 연구 보고서 Agentic…",
-    "tags": [
-      "llm",
-      "claude-code",
-      "anthropic",
-      "agent"
-    ],
-    "score": 0.71
-  },
-  {
-    "date": "2026-06-22",
-    "source": "GeekNews",
-    "title": "도서관에서 재봉틀을 빌리는 핀란드 모델",
-    "url": "https://news.hada.io/topic?id=30693",
-    "summary": "핀란드 공공도서관은 책 대출을 넘어 시민이 공간·도구·디지털 서비스를 함께 쓰는 공공 커뮤니티 서비스 센터로 확장되고 있음 인구 560만 명의 핀란드는 700개 넘는 도서관에서 팟캐스트 스튜디오, 3D 프린팅, 테니스 라켓, 수영장 이용권,…",
-    "tags": [],
-    "score": 0.62
   }
 ]
