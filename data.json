@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-07-13",
+    "source": "GeekNews",
+    "title": "AI 2040과 지능 숭배",
+    "url": "https://news.hada.io/topic?id=31360",
+    "summary": "재귀적 자기 개선이 곧바로 하드 테이크오프로 이어진다는 전망은 물리적 제약과 공급망의 병목을 과소평가하며, 높은 품질의 토큰만으로 물질 세계를 마음대로 바꿀 수는 없음 휴대전화 수준의 복잡한 하드웨어를 생산하려면 규격 미달 부품, 무작위 고장,…",
+    "tags": [],
+    "score": 0.6
+  },
+  {
+    "date": "2026-07-13",
+    "source": "GeekNews",
+    "title": "Mesh LLM - iroh 기반 분산 AI 컴퓨팅",
+    "url": "https://news.hada.io/topic?id=31351",
+    "summary": "여러 머신에 흩어진 GPU와 메모리를 하나의 컴퓨팅 자원으로 묶어, 로컬 실행·피어 전달·분할 실행을 OpenAI 호환 API 하나로 제공함 요청은 로컬 GPU나 모델을 적재한 피어에서 처리되며, 한 머신에 들어가지 않는 모델은 여러 노드에…",
+    "tags": [],
+    "score": 0.57
+  },
+  {
+    "date": "2026-07-13",
+    "source": "PyTorch KR",
+    "title": "TestSprite CLI: 코딩 에이전트가 만든 코드를 실제 앱에서 검증하는 테스트 도구",
+    "url": "https://discuss.pytorch.kr/t/testsprite-cli/11160",
+    "summary": "TestSprite CLI: 코딩 에이전트가 만든 코드를 실제 앱에서 검증하는 테스트 도구1536×1024 344 KB TestSprite CLI 소개 코딩 에이전트는 몇 분 만에 코드를 쏟아내지만, 그 코드가 실제로 동작하는지 확인하는 속도는…",
+    "tags": [
+      "coding-agent",
+      "apache-2",
+      "test-automation",
+      "e2e-testing"
+    ],
+    "score": 0.56
+  },
+  {
     "date": "2026-07-12",
     "source": "PyTorch KR",
     "title": "OpenAI가 공개한 GPT-5.6 공식 활용 가이드: 마이그레이션부터 프롬프팅, Pro 모드까지",
@@ -616,37 +648,5 @@
     "summary": "Claude Code는 세션을 디스크에 기록하지만, 로컬 로그의 thinking block에는 실제 추론 텍스트 대신 600자 길이의 signature만 남아 있었음 Claude의 추론은 signature로 암호화되며, 키는 Anthropic이…",
     "tags": [],
     "score": 0.64
-  },
-  {
-    "date": "2026-06-23",
-    "source": "PyTorch KR",
-    "title": "llm-wiki: Karpathy의 방법론으로 흩어진 정보를 지식 그래프로 키우는 에이전트 스킬",
-    "url": "https://discuss.pytorch.kr/t/llm-wiki-karpathy/10843",
-    "summary": "llm-wiki: Karpathy의 방법론으로 흩어진 정보를 지식 그래프로 키우는 에이전트 스킬1536×1024 255 KB llm-wiki 소개 논문, 블로그 글, 트윗, 메모처럼 매일 접하는 정보는 대개 한 번 읽고 흩어집니다. 필요할 때마다…",
-    "tags": [
-      "claude-code",
-      "knowledge-graph",
-      "agent-skills",
-      "knowledge-base"
-    ],
-    "score": 0.8
-  },
-  {
-    "date": "2026-06-23",
-    "source": "GeekNews",
-    "title": "Show GN: Agent-Blackbox - Claude Code/OpenCode 실행을 세션 맵과 토큰 낭비 분석으로 보는 도구",
-    "url": "https://news.hada.io/topic?id=30719",
-    "summary": "Claude Code / OpenCode 실행을 로컬에서 기록하고, 세션 맵과 컨텍스트 효율 점수로 보여주는 Agent-Blackbox를 만들었습니다. AI에게 “이 작업에 토큰을 얼마나 쓸 것 같아?”라고 물으면 실제 비용과의 상관관계가 0.39에…",
-    "tags": [],
-    "score": 0.79
-  },
-  {
-    "date": "2026-06-23",
-    "source": "GeekNews",
-    "title": "요즘 작품 이미지의 LLM 학습 방해 방법은?",
-    "url": "https://news.hada.io/topic?id=30731",
-    "summary": "한 사용자는 아내가 자신의 작품 이미지가 LLM 학습에 쓰이는 것을 원치 않아 온라인 공개를 망설이고 있다고 밝힘 질문의 핵심은 이미지를 사전에 처리해 LLM 학습을 방해하는 라이브러리나 방법이 현재 실용적인지임 사용자는 아내를 위한 맞춤...",
-    "tags": [],
-    "score": 0.79
   }
 ]
