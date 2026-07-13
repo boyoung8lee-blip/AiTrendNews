@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-07-14",
+    "source": "GeekNews",
+    "title": "gpt-5.6-sol이 PowerShell의 $HOME 변수 충돌로 사용자 홈 디렉터리를 날려버릴 뻔한 건에 대하여",
+    "url": "https://news.hada.io/topic?id=31390",
+    "summary": "Codex에서 최신 플래그십 모델인 gpt-5.6-sol을 사용하던 중, 방금 겪은 심각한 안전성 결함(Safety Incident)을 공유하고자 합니다. Sol 모델이 에이전트 워크플로우와 도구 실행 벤치마크에서 믿기 힘들 정도로 놀라운 성적을…",
+    "tags": [],
+    "score": 0.9
+  },
+  {
+    "date": "2026-07-14",
+    "source": "GeekNews",
+    "title": "AgentsView - 여러 AI 코딩 에이전트의 세션 검색/분석/비용 추적 도구",
+    "url": "https://news.hada.io/topic?id=31370",
+    "summary": "Claude Code, Codex, Cursor, Gemini CLI, OpenCode 등 다양한 코딩 에이전트의 세션을 자동 수집 대화 검색, 토큰/비용 통계, 활동 분석, 변경 파일 추적을 로컬 웹 UI 및 CLI에서 제공 Go 단일 바이너리로…",
+    "tags": [],
+    "score": 0.74
+  },
+  {
+    "date": "2026-07-14",
+    "source": "PyTorch KR",
+    "title": "Skills for Design Engineers: 코딩 에이전트에 UI 애니메이션 감각을 더하는 스킬",
+    "url": "https://discuss.pytorch.kr/t/skills-for-design-engineers-ui/11206",
+    "summary": "Skills for Design Engineers: 코딩 에이전트에 UI 애니메이션 감각을 더하는 스킬1536×1024 215 KB Skills for Design Engineers 소개 코딩 에이전트에게 \"버튼에 진입 애니메이션을 넣어줘\"라고…",
+    "tags": [
+      "claude-code",
+      "mit-license",
+      "agent-skills",
+      "motion-design"
+    ],
+    "score": 0.6
+  },
+  {
     "date": "2026-07-13",
     "source": "GeekNews",
     "title": "AI 2040과 지능 숭배",
@@ -611,42 +643,5 @@
       "agent-skill"
     ],
     "score": 0.61
-  },
-  {
-    "date": "2026-06-24",
-    "source": "PyTorch KR",
-    "title": "ponytail: AI 코딩 에이전트가 꼭 필요한 코드만 쓰게 만드는 규칙셋",
-    "url": "https://discuss.pytorch.kr/t/ponytail-ai/10859",
-    "summary": "ponytail: AI 코딩 에이전트가 꼭 필요한 코드만 쓰게 만드는 규칙셋1536×1024 220 KB ponytail 소개 AI 코딩 에이전트에게 날짜 선택기를 만들어 달라고 하면, 에이전트는 flatpickr 같은 라이브러리를 설치하고 래퍼…",
-    "tags": [
-      "claude-code",
-      "prompt-engineering",
-      "developer-tools",
-      "ai-coding-agent"
-    ],
-    "score": 0.8
-  },
-  {
-    "date": "2026-06-24",
-    "source": "PyTorch KR",
-    "title": "agents-best-practices: Codex와 Claude Code용 에이전트 하니스 설계 모범 사례 스킬",
-    "url": "https://discuss.pytorch.kr/t/agents-best-practices-codex-claude-code/10842",
-    "summary": "agents-best-practices: Codex와 Claude Code용 에이전트 하니스 설계 모범 사례 스킬1536×1024 286 KB agents-best-practices 소개 AI 에이전트를 실제 시스템에 붙여 일을 시키려고 하면, 모델…",
-    "tags": [
-      "claude-code",
-      "mcp",
-      "codex",
-      "agent-skills"
-    ],
-    "score": 0.67
-  },
-  {
-    "date": "2026-06-24",
-    "source": "GeekNews",
-    "title": "Claude Code의 “Extended Thinking” 출력 텍스트는 실제 추론이 아님",
-    "url": "https://news.hada.io/topic?id=30766",
-    "summary": "Claude Code는 세션을 디스크에 기록하지만, 로컬 로그의 thinking block에는 실제 추론 텍스트 대신 600자 길이의 signature만 남아 있었음 Claude의 추론은 signature로 암호화되며, 키는 Anthropic이…",
-    "tags": [],
-    "score": 0.64
   }
 ]
