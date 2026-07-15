@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-07-16",
+    "source": "GeekNews",
+    "title": "Codex가 서브에이전트 프롬프트 암호화를 시작함",
+    "url": "https://news.hada.io/topic?id=31449",
+    "summary": "Codex CLI의 MultiAgentV2가 spawn_agent, send_message, followup_task 메시지를 암호화하면서, 부모 롤아웃·이력·추적에서 위임 내용을 사람이 읽을 수 없게 되는 감사 추적 회귀가 발생함 2026년 6월…",
+    "tags": [],
+    "score": 0.86
+  },
+  {
+    "date": "2026-07-16",
+    "source": "GeekNews",
+    "title": "코드를 거의 보지 않고 만든 70배 빠른 SQL 파서",
+    "url": "https://news.hada.io/topic?id=31457",
+    "summary": "PostHog는 ANTLR 기반 C++ SQL 파서를 여러 Claude Code 세션으로 재작성해 16K줄의 Rust 파서와 5K줄의 도구, 수천 줄의 테스트를 만들었으며 노트북 기준 약 70배의 속도 향상을 얻음 새 구현은 예측형 재귀 하강 파서와…",
+    "tags": [],
+    "score": 0.72
+  },
+  {
+    "date": "2026-07-16",
+    "source": "PyTorch KR",
+    "title": "BigSet: 문장 하나로 웹에서 검증된 데이터셋을 만들고 자동으로 갱신하는 에이전트 도구",
+    "url": "https://discuss.pytorch.kr/t/bigset/11225",
+    "summary": "BigSet: 문장 하나로 웹에서 검증된 데이터셋을 만들고 자동으로 갱신하는 에이전트 도구1536×1024 283 KB BigSet 소개 BigSet은 원하는 데이터를 평범한 문장으로 설명하면, 자율 에이전트가 살아 있는 웹을 조사해 검증된 구조화…",
+    "tags": [
+      "ai-agent",
+      "dataset",
+      "web-scraping",
+      "data-extraction"
+    ],
+    "score": 0.58
+  },
+  {
     "date": "2026-07-15",
     "source": "GeekNews",
     "title": "Show GN: Brain-AI Memory – 장기 실행 LLM 에이전트의 메모리 실패를 진단하는 오픈 아키텍처",
@@ -611,37 +643,5 @@
     "summary": "안녕하세요. 카카오 PlayMCP 기반으로 당근전톡이라는 작은 MCP 서비스를 만들어봤습니다. 당근전톡은 당근마켓 앱을 열기 전에, 카톡에서 자연어로 동네 공개매물을 먼저 찾아볼 수 있는 읽기 전용 리서치 도구입니다. 예를 들면 이렇게 물어볼 수…",
     "tags": [],
     "score": 0.83
-  },
-  {
-    "date": "2026-06-26",
-    "source": "PyTorch KR",
-    "title": "LLM Graph Builder: 비정형 데이터를 LLM으로 Neo4j 지식 그래프로 바꾸는 오픈소스 도구",
-    "url": "https://discuss.pytorch.kr/t/llm-graph-builder-llm-neo4j/10812",
-    "summary": "LLM Graph Builder: 비정형 데이터를 LLM으로 Neo4j 지식 그래프로 바꾸는 오픈소스 도구1536×1024 291 KB LLM Graph Builder 소개 PDF, 문서, 유튜브 영상, 웹 페이지처럼 구조가 없는 데이터는 그 안에…",
-    "tags": [
-      "rag",
-      "langchain",
-      "knowledge-graph",
-      "graphrag"
-    ],
-    "score": 0.89
-  },
-  {
-    "date": "2026-06-26",
-    "source": "GeekNews",
-    "title": "Code as Agent Harness — 코드를 에이전트의 실행 기반으로 보는 102페이지 서베이",
-    "url": "https://news.hada.io/topic?id=30815",
-    "summary": "UIUC × Meta × Stanford 합작. 5월 arXiv에 올라온 서베이 논문인데, 관점이 꽤 재밌다. 핵심 주장 \"코드는 더 이상 LLM이 생성하는 결과물이 아니다. 에이전트가 추론하고, 행동하고, 상태를 저장하고, 피드백을 검증하는…",
-    "tags": [],
-    "score": 0.88
-  },
-  {
-    "date": "2026-06-26",
-    "source": "GeekNews",
-    "title": "Cafe24, LLM Router 공개",
-    "url": "https://news.hada.io/topic?id=30813",
-    "summary": "Claude, Gemini, Qwen, Llama, DeepSeek 등 100개 이상 모델을 단일 엔드포인트로 호출하는 통합 LLM 인프라 OpenAI 호환 단일 API를 제공해, Provider마다 다른 API 명세·재시도 로직·스트리밍 포맷을…",
-    "tags": [],
-    "score": 0.67
   }
 ]
