@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-07-18",
+    "source": "GeekNews",
+    "title": "개발자를 해킹하는 LinkedIn 채용 과제 사기",
+    "url": "https://news.hada.io/topic?id=31514",
+    "summary": "LinkedIn에서 소프트웨어 엔지니어 채용을 제안한 뒤 정상적인 React/Web3 과제로 위장한 비공개 GitHub 저장소를 전달했으며, 실행하면 tailwind.config.js에 숨겨진 JavaScript 악성코드가 개발자 컴퓨터에서 작동함…",
+    "tags": [],
+    "score": 0.71
+  },
+  {
+    "date": "2026-07-18",
+    "source": "GeekNews",
+    "title": "Show GN: browser-rs-mcp - 초경량 멀티 에이전트 스텔스 브라우저 컨트롤러",
+    "url": "https://news.hada.io/topic?id=31524",
+    "summary": "1. Motivation? 에이전트 하나에 크롬 하나. 이게 기본값이면 에이전트당 RAM이 500MB~1GB씩 나갑니다. 에이전트 5개만 굴려도 브라우저만으로 RAM 2.5~5GB. 거기다 Playwright는 CDP 세션 자체가 기본으로 하나에…",
+    "tags": [],
+    "score": 0.68
+  },
+  {
+    "date": "2026-07-18",
+    "source": "PyTorch KR",
+    "title": "scroll-world: 스크롤에 맞춰 브랜드를 3D 월드처럼 비행하는 랜딩페이지를 만드는 에이전트 스킬",
+    "url": "https://discuss.pytorch.kr/t/scroll-world-3d/11268",
+    "summary": "scroll-world: 스크롤에 맞춰 브랜드를 3D 월드처럼 비행하는 랜딩페이지를 만드는 에이전트 스킬1536×1024 411 KB scroll-world 소개 scroll-world는 브랜드나 서비스를 소개하는 랜딩페이지를, 스크롤에 맞춰…",
+    "tags": [
+      "claude-code",
+      "mit-license",
+      "agent-skill",
+      "landing-page"
+    ],
+    "score": 0.59
+  },
+  {
     "date": "2026-07-17",
     "source": "GeekNews",
     "title": "Grok Build가 오픈 소스로 공개됨",
@@ -611,37 +643,5 @@
       "coding-agent"
     ],
     "score": 0.65
-  },
-  {
-    "date": "2026-06-28",
-    "source": "GeekNews",
-    "title": "오픈소스 보안을 함께 지키기 위한 Akrites 공개서한",
-    "url": "https://news.hada.io/topic?id=30869",
-    "summary": "AI 기반 취약점 발견이 유지관리자의 대응 속도를 앞지르면서, Akrites는 핵심 오픈소스 소프트웨어를 공동으로 보강하기 위한 산업계 협력으로 출범함 심각한 취약점 발견은 과거 전문가에게 몇 주 걸리던 작업이었지만, 이제는 AI 모델이 몇 분 만에…",
-    "tags": [],
-    "score": 0.77
-  },
-  {
-    "date": "2026-06-28",
-    "source": "GeekNews",
-    "title": "2천 명이 내 AI 어시스턴트를 해킹하려 한 뒤 벌어진 일",
-    "url": "https://news.hada.io/topic?id=30881",
-    "summary": "hackmyclaw.com은 이메일로 AI 어시스턴트 Fiu를 속여 secrets.env를 유출시키는 공개 실험이었고, Hacker News 1위 이후 2,000명 이상이 6,000건 넘게 시도했지만 비밀은 새지 않음 방어는 VPS에서 동작하는…",
-    "tags": [],
-    "score": 0.76
-  },
-  {
-    "date": "2026-06-28",
-    "source": "PyTorch KR",
-    "title": "1Code: Claude Code와 Codex를 한 앱에서 실행하는 오픈소스 코딩 에이전트 클라이언트",
-    "url": "https://discuss.pytorch.kr/t/1code-claude-code-codex/10811",
-    "summary": "1Code: Claude Code와 Codex를 한 앱에서 실행하는 오픈소스 코딩 에이전트 클라이언트1536×1024 294 KB 1Code 소개 코딩 에이전트를 본격적으로 쓰기 시작하면 도구마다 실행 환경이 갈리는 문제에 부딪힙니다. Claude…",
-    "tags": [
-      "claude-code",
-      "coding-agent",
-      "codex",
-      "desktop-app"
-    ],
-    "score": 0.69
   }
 ]
