@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-07-19",
+    "source": "GeekNews",
+    "title": "Claude Code의 잘못 설계된 자동 진행 기능 해부",
+    "url": "https://news.hada.io/topic?id=31549",
+    "summary": "Claude Code 2.1.198은 AskUserQuestion에 60초간 답이 없으면 모델이 자체 판단으로 작업을 계속하는 자동 진행 기능을 기본 활성화했지만, 출시 당시 변경 로그와 문서에는 기록하지 않았음 권한 요청을 자동 승인하지는…",
+    "tags": [],
+    "score": 0.71
+  },
+  {
+    "date": "2026-07-19",
+    "source": "GeekNews",
+    "title": "Kimi K3와 펠리컨 벤치마크에서 여전히 배울 수 있는 것",
+    "url": "https://news.hada.io/topic?id=31547",
+    "summary": "Moonshot AI가 공개한 Kimi K3는 2.8조 개 매개변수를 갖춘 자사 최고 성능 모델로, 웹사이트와 API에서 제공되며 오픈 가중치는 2026년 7월 27일까지 공개될 예정임 자체 벤치마크에서는 Claude Opus 4.8 max와…",
+    "tags": [],
+    "score": 0.7
+  },
+  {
+    "date": "2026-07-19",
+    "source": "PyTorch KR",
+    "title": "ASO App Store Screenshots: 앱 코드를 분석해 앱스토어 스크린샷을 만드는 Claude 스킬",
+    "url": "https://discuss.pytorch.kr/t/aso-app-store-screenshots-claude/11278",
+    "summary": "ASO App Store Screenshots: 앱 코드를 분석해 앱스토어 스크린샷을 만드는 Claude 스킬1536×1024 282 KB ASO App Store Screenshots 소개 앱을 만들고 나면 마지막 관문으로 앱스토어에 올릴…",
+    "tags": [
+      "claude-code",
+      "agent-skill",
+      "nano-banana",
+      "gemini-mcp"
+    ],
+    "score": 0.58
+  },
+  {
     "date": "2026-07-18",
     "source": "GeekNews",
     "title": "개발자를 해킹하는 LinkedIn 채용 과제 사기",
@@ -611,37 +643,5 @@
       "ai-slop"
     ],
     "score": 0.76
-  },
-  {
-    "date": "2026-06-29",
-    "source": "GeekNews",
-    "title": "Paca - 인간과 AI 에이전트 협업을 위한 오픈소스 프로젝트 관리 도구",
-    "url": "https://news.hada.io/topic?id=30901",
-    "summary": "AI 네이티브 셀프 호스팅 프로젝트 관리 플랫폼으로, Jira/Trello/ClickUp/Monday의 무료 오픈소스 대체제 AI 에이전트가 챗봇 애드온이 아니라 Scrum 팀의 동등한 팀원으로 참여 스프린트에 배정되어 통합 Scrumban 보드에…",
-    "tags": [],
-    "score": 0.82
-  },
-  {
-    "date": "2026-06-29",
-    "source": "GeekNews",
-    "title": "NLnet Labs의 LLM 사용 정책",
-    "url": "https://news.hada.io/topic?id=30898",
-    "summary": "NLnet Labs는 프로젝트 기여와 커뮤니케이션에서 LLM 사용을 제한하며, 정책 위반 제출물은 사전 통지 없이 닫히거나 삭제될 수 있음 코드와 문서 기여는 사람이 직접 작성해야 하며, LLM이나 다른 확률적 도구가 생성한 내용은 포함할 수 없음…",
-    "tags": [],
-    "score": 0.69
-  },
-  {
-    "date": "2026-06-29",
-    "source": "PyTorch KR",
-    "title": "agentic-stack: 코딩 에이전트 도구를 바꿔도 메모리와 스킬을 유지하는 이식형 브레인",
-    "url": "https://discuss.pytorch.kr/t/agentic-stack/10829",
-    "summary": "agentic-stack: 코딩 에이전트 도구를 바꿔도 메모리와 스킬을 유지하는 이식형 브레인1536×1024 263 KB agentic-stack 소개 코딩 에이전트를 쓰다 보면 도구를 갈아탈 일이 자주 생깁니다. Claude Code로 작업하다가…",
-    "tags": [
-      "claude-code",
-      "ai-agent",
-      "mcp",
-      "coding-agent"
-    ],
-    "score": 0.65
   }
 ]
