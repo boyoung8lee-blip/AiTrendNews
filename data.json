@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-07-20",
+    "source": "GeekNews",
+    "title": "Gleam 저장소가 Tangled에 공개됨",
+    "url": "https://news.hada.io/topic?id=31589",
+    "summary": "타입 안전하고 확장 가능한 시스템을 지향하는 Gleam 저장소를 Tangled에서도 이용할 수 있음 기본 브랜치는 main 하나이며 약 11,000개 커밋, 스타 254개, 포크 2개를 기록함 저장소 코드는 Rust 92.9% 가 대부분이고…",
+    "tags": [],
+    "score": 0.8
+  },
+  {
+    "date": "2026-07-20",
+    "source": "GeekNews",
+    "title": "Mindwalk - 코딩 에이전트 세션을 코드베이스의 3D 지도 위에서 재생하는 시각화 도구",
+    "url": "https://news.hada.io/topic?id=31569",
+    "summary": "세션 로그는 에이전트가 무엇을 했는지 기록하지만, 작업을 어떻게 이해했는지(관련 영역 판단, 탐색 위치, 작업 범위 일치 여부)는 담지 못하며, 원본 JSONL을 읽어서는 알 수 없음 저장소를 야간 지도로 그려, 에이전트가 검색/읽기/수정한 위치는…",
+    "tags": [],
+    "score": 0.76
+  },
+  {
+    "date": "2026-07-20",
+    "source": "PyTorch KR",
+    "title": "local-llm: 최신 LLM을 로컬에서 직접 돌리는 GPU 하드웨어 구성 가이드",
+    "url": "https://discuss.pytorch.kr/t/local-llm-llm-gpu/11274",
+    "summary": "local-llm: 최신 LLM을 로컬에서 직접 돌리는 GPU 하드웨어 구성 가이드1536×1024 366 KB local-llm 소개 클라우드 LLM API에 의존하지 않고 최신 모델을 자기 하드웨어에서 직접 돌리려면, 어떤 GPU를 몇 장 사고…",
+    "tags": [
+      "local-llm",
+      "vllm",
+      "multi-gpu",
+      "self-hosting"
+    ],
+    "score": 0.61
+  },
+  {
     "date": "2026-07-19",
     "source": "GeekNews",
     "title": "Claude Code의 잘못 설계된 자동 진행 기능 해부",
@@ -610,38 +642,6 @@
     "url": "https://news.hada.io/topic?id=30972",
     "summary": "요즘 \"AI 이메일\" 도구는 전부 같은 방향입니다. 메일마다 초안 깔고, \"AI가 답장하래요\" 배지 붙이고, 자동 전송 버튼 답니다. 결과는? 인박스가 조용해지는 게 아니라 더 시끄러워집니다. 화면 위에 화면을 또 얹는 거예요. 저는 정반대로…",
     "tags": [],
-    "score": 0.76
-  },
-  {
-    "date": "2026-06-30",
-    "source": "GeekNews",
-    "title": "Show GN: 당근전톡 — 당근마켓 가기 전에 카톡으로 동네 공개매물 먼저 둘러보기",
-    "url": "https://news.hada.io/topic?id=30936",
-    "summary": "안녕하세요. 카카오 PlayMCP 기반으로 당근전톡이라는 작은 MCP 서비스를 만들어봤습니다. 당근전톡은 당근마켓 앱을 열기 전에, 카톡에서 자연어로 동네 공개매물을 먼저 찾아볼 수 있는 읽기 전용 리서치 도구입니다. 예를 들면 이렇게 물어볼 수…",
-    "tags": [],
-    "score": 0.87
-  },
-  {
-    "date": "2026-06-30",
-    "source": "GeekNews",
-    "title": "Show GN: AI 코딩 에이전트 여러 개를 한 창에서 조율하는 올인원 데스크톱 터미널 — Orch term",
-    "url": "https://news.hada.io/topic?id=30932",
-    "summary": "터미널·코드 에디터·브라우저·Git을 한 창에 담고, 그 위에서 여러 AI 코딩 에이전트(Claude Code, Codex, Gemini CLI 등)를 동시에 돌려 조율하는 데스크톱 앱입니다. Windows와 macOS를 지원합니다. 왜 만들었나…",
-    "tags": [],
-    "score": 0.83
-  },
-  {
-    "date": "2026-06-30",
-    "source": "PyTorch KR",
-    "title": "im-not-ai: 기존의 의미를 보존하면서, 'AI스러움'을 자연스럽게 다듬는 Claude Code 윤문 스킬",
-    "url": "https://discuss.pytorch.kr/t/im-not-ai-ai-claude-code/10666",
-    "summary": "im-not-ai: 한국어 글의 AI스러움을 의미 보존하며 자연스럽게 다듬는 Claude Code 윤문 스킬1280×640 50.3 KB im-not-ai 소개 im-not-ai(Humanize KR)는 ChatGPT, Claude, Gemini…",
-    "tags": [
-      "claude-code",
-      "mit-license",
-      "codex-cli",
-      "ai-slop"
-    ],
     "score": 0.76
   }
 ]
