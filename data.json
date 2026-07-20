@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-07-21",
+    "source": "GeekNews",
+    "title": "Codex CLI의 Subagent 세션 로그가 수백 GB까지 증가해 디스크를 소진하는 문제",
+    "url": "https://news.hada.io/topic?id=31618",
+    "summary": "Codex CLI가 Resume된 장기 세션에서 Subagent를 반복 생성할 때, ~/.codex/sessions 아래의 JSONL 세션 파일이 비정상적으로 증가하는 문제가 보고됨 공개 사례에서는 하나의 Resume된 부모 세션에서 2,393개의…",
+    "tags": [],
+    "score": 0.85
+  },
+  {
+    "date": "2026-07-21",
+    "source": "GeekNews",
+    "title": "OpenAI, Codex 모델 컨텍스트 크기를 372k에서 272k로 축소",
+    "url": "https://news.hada.io/topic?id=31611",
+    "summary": "OpenAI Codex의 번들 모델 메타데이터를 갱신하면서 모델 컨텍스트 크기를 372k에서 272k로 줄인 변경을 release/0.144 브랜치에 백포트함 PR #33972는 agent/hotfix-0.144-model-metadata 브랜치에서…",
+    "tags": [],
+    "score": 0.81
+  },
+  {
+    "date": "2026-07-21",
+    "source": "PyTorch KR",
+    "title": "NVIDIA, RTEB 1위 오픈 임베딩 모델 Nemotron 3 Embed 공개 (feat. RAG, 에이전트 검색)",
+    "url": "https://discuss.pytorch.kr/t/nvidia-rteb-1-nemotron-3-embed-feat-rag/11308",
+    "summary": "정확도와 효율의 최전선을 넓힌 오픈 임베딩 모델 Nemotron 3 Embed1536×1024 189 KB Nemotron 3 Embed 소개 검색 증강 생성(Retrieval-Augmented Generation, RAG)이나 여러 단계를 거치는…",
+    "tags": [
+      "llm",
+      "opensource",
+      "rag",
+      "agent"
+    ],
+    "score": 0.61
+  },
+  {
     "date": "2026-07-20",
     "source": "GeekNews",
     "title": "Gleam 저장소가 Tangled에 공개됨",
@@ -611,37 +643,5 @@
       "multi-agent"
     ],
     "score": 0.65
-  },
-  {
-    "date": "2026-07-01",
-    "source": "GeekNews",
-    "title": "Go Micro - Go를 위한 에이전트 하네스",
-    "url": "https://news.hada.io/topic?id=30958",
-    "summary": "에이전트/서비스/워크플로우를 하나의 런타임 위에서 구축하는 Go 프레임워크 도구, 메모리, 가드레일, 트리거 워크플로우, 의존 서비스, 다른 에이전트가 접근하는 프로토콜까지 하나의 하네스로 묶음 서비스의 모든 엔드포인트가 자동으로 AI 호...",
-    "tags": [],
-    "score": 0.87
-  },
-  {
-    "date": "2026-07-01",
-    "source": "PyTorch KR",
-    "title": "Ornith-1.0: 스캐폴드를 스스로 학습하는 에이전트 코딩 LLM (feat. DeepReinforce)",
-    "url": "https://discuss.pytorch.kr/t/ornith-1-0-llm-feat-deepreinforce/10951",
-    "summary": "Ornith-1.0: 에이전트 코딩에 특화된 자기개선형 오픈소스 LLM 패밀리 / Ornith-1.0, a self-improving open-source LLM family for agentic coding2880×1503 285 KB…",
-    "tags": [
-      "llm",
-      "paper",
-      "opensource",
-      "agent"
-    ],
-    "score": 0.78
-  },
-  {
-    "date": "2026-07-01",
-    "source": "GeekNews",
-    "title": "Show GN: AI한테 메일 맡기지 마라 — 인박스엔 비서가 아니라 '방화벽'이 필요하다 (오픈소스)",
-    "url": "https://news.hada.io/topic?id=30972",
-    "summary": "요즘 \"AI 이메일\" 도구는 전부 같은 방향입니다. 메일마다 초안 깔고, \"AI가 답장하래요\" 배지 붙이고, 자동 전송 버튼 답니다. 결과는? 인박스가 조용해지는 게 아니라 더 시끄러워집니다. 화면 위에 화면을 또 얹는 거예요. 저는 정반대로…",
-    "tags": [],
-    "score": 0.76
   }
 ]
