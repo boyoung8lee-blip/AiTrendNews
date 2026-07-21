@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-07-22",
+    "source": "GeekNews",
+    "title": "OpenCode의 성가시고 불안한 문제들",
+    "url": "https://news.hada.io/topic?id=31641",
+    "summary": "GitHub 스타 16.1만 개를 받은 오픈소스 AI 코딩 에이전트 OpenCode를 로컬 Qwen3.6-27B로 시험한 결과, 도구 품질과 보안 설계 모두 사용을 중단해야 할 수준이었음 AGENTS.md 재로딩, 고정 거리 컨텍스트 가지치기, 현재…",
+    "tags": [],
+    "score": 0.87
+  },
+  {
+    "date": "2026-07-22",
+    "source": "GeekNews",
+    "title": "구글 제미나이 새 모델(3.6 Flash, 3.5 Flash-Lite, 3.5 Flash Cyber) 출시",
+    "url": "https://news.hada.io/topic?id=31662",
+    "summary": "• 구글은 AI 에이전트 개발의 효율성, 낮은 지연 시간, 신뢰성을 위해 설계된 새로운 제미나이 모델인 3.6 Flash, 3.5 Flash-Lite, 3.5 Flash Cyber를 출시 • Gemini 3.6 Flash는 3.5 Flash에 비해…",
+    "tags": [],
+    "score": 0.74
+  },
+  {
+    "date": "2026-07-22",
+    "source": "PyTorch KR",
+    "title": "Kimi K3, Moonshot AI가 공개한 세계 첫 3T급 오픈 웨이트 모델 (전체 가중치 공개는 7월 27일 예정)",
+    "url": "https://discuss.pytorch.kr/t/kimi-k3-moonshot-ai-3t-7-27/11301",
+    "summary": "문샷 AI의 세계 첫 오픈 3T급 모델 Kimi K3 소개1536×1024 275 KB Kimi K3 소개 Kimi를 만드는 문샷 AI(Moonshot AI)가 자사 최고 성능 모델인 Kimi K3 를 공개했습니다. Kimi K3는 2.8조…",
+    "tags": [
+      "llm",
+      "agent",
+      "open-weights",
+      "moe"
+    ],
+    "score": 0.71
+  },
+  {
     "date": "2026-07-21",
     "source": "GeekNews",
     "title": "Codex CLI의 Subagent 세션 로그가 수백 GB까지 증가해 디스크를 소진하는 문제",
@@ -611,37 +643,5 @@
       "claude"
     ],
     "score": 0.72
-  },
-  {
-    "date": "2026-07-02",
-    "source": "GeekNews",
-    "title": "TS 컴파일러로 만든 코드 그래프 MCP, Claude Code 토큰 10배 절감",
-    "url": "https://news.hada.io/topic?id=31006",
-    "summary": "코딩 에이전트가 \"이거 어떻게 동작해?\" 같은 구조 질문에 답할 때, 보통 grep → 파일 열기 → import 추적을 수십 번 반복하며 토큰을 태움 @ttsc/graph는 TypeScript 컴파일러가 이미 해석해둔 코드 그래프(무엇이 무엇을…",
-    "tags": [],
-    "score": 0.91
-  },
-  {
-    "date": "2026-07-02",
-    "source": "GeekNews",
-    "title": "pi-subagents - Pi를 위한 서브에이전트",
-    "url": "https://news.hada.io/topic?id=30989",
-    "summary": "Pi 코딩 에이전트가 작업을 자식 Pi 세션에 위임하도록 해주는 확장 기능 코드 리뷰/코드 정찰/구현/병렬 감사/백그라운드 작업 등 추가적인 시각이 필요한 작업에 활용 설치 후 별도 설정/슬래시 명령 학습 없이 자연어 요청...",
-    "tags": [],
-    "score": 0.78
-  },
-  {
-    "date": "2026-07-02",
-    "source": "PyTorch KR",
-    "title": "Code as Agent Harness: 코드를 AI 에이전트의 운영 기반(하네스)으로 보는 서베이 논문",
-    "url": "https://discuss.pytorch.kr/t/code-as-agent-harness-ai/10920",
-    "summary": "Code as Agent Harness: 코드를 AI 에이전트의 운영 기반(하네스)으로 보는 서베이 논문1372×731 178 KB Code as Agent Harness 소개 처음으로 규모가 큰 소프트웨어 프로젝트를 맡았던 순간을 떠올려 봅시다.…",
-    "tags": [
-      "llm",
-      "agent",
-      "survey-paper",
-      "multi-agent"
-    ],
-    "score": 0.65
   }
 ]
