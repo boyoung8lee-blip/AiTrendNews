@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-07-23",
+    "source": "GeekNews",
+    "title": "Jack Dorsey, 팀 채팅·AI 에이전트·Git 호스팅을 결합한 Buzz 출시",
+    "url": "https://news.hada.io/topic?id=31701",
+    "summary": "Block이 직원과 AI 에이전트, 대화, 소프트웨어 저장소를 하나의 신원 체계로 연결하는 오픈소스 워크스페이스 Buzz를 출시해 Slack과 GitHub 의존도를 줄이려 함 메시지·반응·워크플로 단계·코드 이벤트·승인을 서명된 Nostr 이벤트로…",
+    "tags": [],
+    "score": 0.89
+  },
+  {
+    "date": "2026-07-23",
+    "source": "GeekNews",
+    "title": "OpenMMO - AI Agent와 인간 플레이어가 동등하게 대우받는 MMORPG",
+    "url": "https://news.hada.io/topic?id=31687",
+    "summary": "엑스엘게임즈 창업자 송재경님이 공개한 1인 프로젝트입니다. 특징: Agent-인간 동등성 : Agent와 인간 플레이어는 완전히 동일한 WebSocket 프로토콜을 사용합니다. 별도의 API나 엔드포인트가 필요하지 않습니다. 서버는 Agent와…",
+    "tags": [],
+    "score": 0.82
+  },
+  {
+    "date": "2026-07-23",
+    "source": "PyTorch KR",
+    "title": "PIKE-RAG: 전문 지식과 추론으로 정확도를 높인 Microsoft의 산업용 RAG 프레임워크",
+    "url": "https://discuss.pytorch.kr/t/pike-rag-microsoft-rag/11323",
+    "summary": "PIKE-RAG: 전문 지식과 추론으로 정확도를 높인 Microsoft의 산업용 RAG 프레임워크1536×1024 231 KB PIKE-RAG 소개 PIKE-RAG는 검색 증강 생성(RAG)이 전문 분야의 복잡한 질의에서 겪는 한계를 해결하기 위해…",
+    "tags": [
+      "rag",
+      "mit-license",
+      "microsoft",
+      "knowledge-graph"
+    ],
+    "score": 0.71
+  },
+  {
     "date": "2026-07-22",
     "source": "GeekNews",
     "title": "OpenCode의 성가시고 불안한 문제들",
@@ -611,37 +643,5 @@
       "coding-agent"
     ],
     "score": 0.67
-  },
-  {
-    "date": "2026-07-03",
-    "source": "GeekNews",
-    "title": "ZCode: GLM-5.2용 공식 하네스",
-    "url": "https://news.hada.io/topic?id=31047",
-    "summary": "ZCode는 개발 도구와 AI 에이전트를 묶어 계획, 코딩, 리뷰, 배포를 한 흐름에서 처리하려는 GLM-5.2 공식 하네스임 ZCode 3.0은 GLM-5.2 최적화와 멀티 에이전트 협업 개선을 내세우며, 추론·코딩 작업 전반에서 GLM과의 통합을…",
-    "tags": [],
-    "score": 0.83
-  },
-  {
-    "date": "2026-07-03",
-    "source": "GeekNews",
-    "title": "Show GN: AI를 위한, 대한민국 대중교통 경로 & 비용 탐색 CLI, MCP 서버",
-    "url": "https://news.hada.io/topic?id=31046",
-    "summary": "대중교통 경로 & 비용을 알려주는 CLI 및 MCP 서버입니다 https://github.com/GyeongHoKim/naeryeo homebrew, scoop, npm으로 설치가 가능합니다. 사용예시 다음과 같습니다. # API 키를 OS 키체인에…",
-    "tags": [],
-    "score": 0.82
-  },
-  {
-    "date": "2026-07-03",
-    "source": "PyTorch KR",
-    "title": "Anthropic, Opus급 성능에 근접한 가장 에이전틱한 Sonnet 모델 Claude Sonnet 5 출시",
-    "url": "https://discuss.pytorch.kr/t/anthropic-opus-sonnet-claude-sonnet-5/11015",
-    "summary": "가장 에이전틱한 Sonnet 모델 Claude Sonnet 5 출시1536×1024 210 KB Claude Sonnet 5 소개 Anthropic이 2026년 6월 30일, Sonnet 계열의 최신 모델인 Claude Sonnet 5를…",
-    "tags": [
-      "llm",
-      "anthropic",
-      "agent",
-      "claude"
-    ],
-    "score": 0.72
   }
 ]
