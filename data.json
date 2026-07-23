@@ -1,5 +1,42 @@
 [
   {
+    "date": "2026-07-24",
+    "source": "GeekNews",
+    "title": "Show GN: 로컬 LLM 에이전트 개발과 테스트를 한곳에서, 툴 검색과 HITL, MCP 연동까지 (한국 통계 MCP 데모)",
+    "url": "https://news.hada.io/topic?id=31719",
+    "summary": "국가통계포털(KOSIS)이 공식 MCP 시범서비스를 열어서, 노트북에서 도는 9B 로컬 모델에 붙여봤습니다. API 키 없이 합계출산율을 찾아 차트를 그리고, CSV로 저장하려는 순간에는 승인 창이 뜹니다. 파일 쓰기처럼 사람이 승인(HITL)해야만…",
+    "tags": [],
+    "score": 0.92
+  },
+  {
+    "date": "2026-07-24",
+    "source": "PyTorch KR",
+    "title": "Auto Company: 내 PC에서 24시간 돌아가는 14인 AI 에이전트 자율 회사",
+    "url": "https://discuss.pytorch.kr/t/auto-company-pc-24-14-ai/11378",
+    "summary": "Auto Company: 내 PC에서 24시간 돌아가는 14인 AI 에이전트 자율 회사1536×1024 266 KB Auto Company 소개 Auto Company는 사람의 개입 없이 24시간 스스로 돌아가는 자율 AI 회사를 표방하는 오픈소스…",
+    "tags": [
+      "claude-code",
+      "ai-agent",
+      "multi-agent",
+      "codex"
+    ],
+    "score": 0.67
+  },
+  {
+    "date": "2026-07-24",
+    "source": "PyTorch KR",
+    "title": "Chops: Claude Code, Cursor, Codex 등의 에이전트 스킬을 한곳에서 관리하는 macOS 앱",
+    "url": "https://discuss.pytorch.kr/t/chops-claude-code-cursor-codex-macos/11351",
+    "summary": "Chops: Claude Code, Cursor, Codex 등의 에이전트 스킬을 한곳에서 관리하는 macOS 앱1536×1024 250 KB Chops 소개 여러 코딩 에이전트를 함께 쓰다 보면 스킬(skill)과 에이전트(agent) 정의 파일이…",
+    "tags": [
+      "claude-code",
+      "agent-skills",
+      "developer-tools",
+      "macos"
+    ],
+    "score": 0.64
+  },
+  {
     "date": "2026-07-23",
     "source": "GeekNews",
     "title": "Jack Dorsey, 팀 채팅·AI 에이전트·Git 호스팅을 결합한 Buzz 출시",
@@ -611,37 +648,5 @@
     "summary": "Claude Fable 5 작업의 핵심은 사용자가 주는 지도(map, 프롬프트·스킬·컨텍스트) 와 작업이 실제 일어나는 영토(territory, 코드베이스·현실·제약) 의 간극, 즉 미지(unknowns) 를 찾아 좁히는 것 Fable은 작업 품질이…",
     "tags": [],
     "score": 0.68
-  },
-  {
-    "date": "2026-07-04",
-    "source": "GeekNews",
-    "title": "로컬 인텔리전스에 대한 권리",
-    "url": "https://news.hada.io/topic?id=31092",
-    "summary": "RTI는 플랫폼 계정이나 클라우드 API에 묶이지 않고 자기 기기에서 로컬 AI를 실행할 권리를 보호하려는 활동임 공개 AI 모델의 다운로드·소유·실행·연구·수정·공유는 합법적 사용으로 보장하되, 실제 피해 행위는 계속 단속해야 한다는 입장임 사기,…",
-    "tags": [],
-    "score": 0.8
-  },
-  {
-    "date": "2026-07-04",
-    "source": "GeekNews",
-    "title": "Show GN: VHK - 모델·에이전트를 갈아타도 안 무너지는 풀사이클 AI 코딩 하네스",
-    "url": "https://news.hada.io/topic?id=31080",
-    "summary": "바이브코딩하다 보면 도구를 자주 갈아탑니다. Claude Code 쓰다가 Cursor, 또 Codex... 그때마다 규칙 파일이랑 맥락이 흩어지고, 에이전트는 \"다 됐다\"는데 실제론 테스트도 안 돌아간 경우가 많더라고요. 매번 손으로 정리하기 싫어서…",
-    "tags": [],
-    "score": 0.79
-  },
-  {
-    "date": "2026-07-04",
-    "source": "PyTorch KR",
-    "title": "DevSpace: ChatGPT를 내 컴퓨터의 로컬 코드에 연결하는 자체 호스팅 MCP 서버",
-    "url": "https://discuss.pytorch.kr/t/devspace-chatgpt-mcp/10994",
-    "summary": "DevSpace: ChatGPT를 내 컴퓨터의 로컬 코드에 연결하는 자체 호스팅 MCP 서버1536×1024 154 KB DevSpace 소개 ChatGPT에게 코드를 다루게 하려면 보통 파일을 복사해 붙여넣거나 별도 서비스에 업로드해야 합니다.…",
-    "tags": [
-      "chatgpt",
-      "claude",
-      "mcp",
-      "coding-agent"
-    ],
-    "score": 0.67
   }
 ]
