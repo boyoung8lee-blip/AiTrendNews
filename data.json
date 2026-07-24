@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-07-25",
+    "source": "GeekNews",
+    "title": "Show GN: ADHDev 1.0 - 로컬 코딩 에이전트를 웹/모바일에서 제어하고 병렬 작업 후 자동 병합하는 도구",
+    "url": "https://news.hada.io/topic?id=31773",
+    "summary": "안녕하세요, ADHDev 만든 개발자입니다. 스탠드얼론 에디션은 AGPL로 공개했고, 클라우드 버전으로 운영비를 벌 생각입니다. Claude Code, Codex 같은 터미널 에이전트를 머신 두세 대에서 돌리다 보니 두 가지가 계속 발목을…",
+    "tags": [],
+    "score": 0.85
+  },
+  {
+    "date": "2026-07-25",
+    "source": "GeekNews",
+    "title": "오픈소스 AI에 반대하는 논거가 설득력 없는 이유",
+    "url": "https://news.hada.io/topic?id=31779",
+    "summary": "Kimi K3 공개 이후 오픈소스 AI를 위험한 위협으로 보는 목소리가 커졌지만, 독점 소프트웨어도 오픈소스 기반 위에 구축되며 AI 모델 역시 같은 소프트웨어 제품임 상용 기업은 차별화되지 않는 하위 구성요소를 공동 개발하고 상위 제품에서…",
+    "tags": [],
+    "score": 0.8
+  },
+  {
+    "date": "2026-07-25",
+    "source": "PyTorch KR",
+    "title": "Logo Generator: SVG 로고와 전문가급 쇼케이스를 만드는 Claude Code 스킬",
+    "url": "https://discuss.pytorch.kr/t/logo-generator-svg-claude-code/11295",
+    "summary": "Logo Generator: SVG 로고와 전문가급 쇼케이스를 만드는 Claude Code 스킬1536×1024 200 KB Logo Generator 소개 로고 제작은 보통 디자이너와의 반복적인 협의를 거쳐야 하고, 반대로 AI로 급하게 만든…",
+    "tags": [
+      "claude-code",
+      "gemini",
+      "nano-banana",
+      "image-generation"
+    ],
+    "score": 0.71
+  },
+  {
     "date": "2026-07-24",
     "source": "GeekNews",
     "title": "Show GN: 로컬 LLM 에이전트 개발과 테스트를 한곳에서, 툴 검색과 HITL, MCP 연동까지 (한국 통계 MCP 데모)",
@@ -616,37 +648,5 @@
       "automation"
     ],
     "score": 0.57
-  },
-  {
-    "date": "2026-07-05",
-    "source": "PyTorch KR",
-    "title": "Anthropic이 공개한 Claude Fable 5 프롬프팅 가이드: 강력해진 모델에 맞춰 프롬프트 다시 쓰기",
-    "url": "https://discuss.pytorch.kr/t/anthropic-claude-fable-5/11062",
-    "summary": "Claude Fable 5 프롬프팅 가이드 소개1536×1024 292 KB Claude Fable 5 프롬프팅 가이드 소개 Anthropic이 Claude Fable 5와 Claude Mythos 5를 공개하면서, 이 모델을 실제로 잘 쓰기 위한…",
-    "tags": [
-      "llm",
-      "anthropic",
-      "agent",
-      "claude"
-    ],
-    "score": 0.88
-  },
-  {
-    "date": "2026-07-05",
-    "source": "GeekNews",
-    "title": "Fable을 이기는 ‘짧은 목줄’ AI 코딩 방법",
-    "url": "https://news.hada.io/topic?id=31113",
-    "summary": "보안 중요 소프트웨어에서 AI 코딩 에이전트를 쓰려면 자율 실행을 맡기기보다, 개발자가 변경을 계속 통제하는 Short Leash 방식이 필요함 여러 에이전트가 병렬로 코드를 만들고 검토하는 “vibe”식 접근은 코드베이스 이해를 약화시키고, AI가…",
-    "tags": [],
-    "score": 0.76
-  },
-  {
-    "date": "2026-07-05",
-    "source": "GeekNews",
-    "title": "Fable 필드 가이드: 나의 미지(Unknowns) 찾기",
-    "url": "https://news.hada.io/topic?id=31107",
-    "summary": "Claude Fable 5 작업의 핵심은 사용자가 주는 지도(map, 프롬프트·스킬·컨텍스트) 와 작업이 실제 일어나는 영토(territory, 코드베이스·현실·제약) 의 간극, 즉 미지(unknowns) 를 찾아 좁히는 것 Fable은 작업 품질이…",
-    "tags": [],
-    "score": 0.68
   }
 ]
