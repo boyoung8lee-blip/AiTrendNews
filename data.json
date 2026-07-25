@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-07-26",
+    "source": "GeekNews",
+    "title": "Claude Cookbook: 에이전트부터 RAG·멀티모달·운영까지",
+    "url": "https://news.hada.io/topic?id=31793",
+    "summary": "Claude 애플리케이션을 구현하는 실전 가이드와 예제를 모아 에이전트 구축부터 RAG·도구 사용·멀티모달·평가까지 폭넓게 다룸 Claude Agent SDK·Managed Agents 예제에는 멀티에이전트 조율, 세션 관리, 배포, 장애 대응,…",
+    "tags": [],
+    "score": 0.89
+  },
+  {
+    "date": "2026-07-26",
+    "source": "GeekNews",
+    "title": "Show GN: 에이전트의 토큰낭비를 잡는 CLI를 만들었습니다! (공개 트레이스 6,780개)",
+    "url": "https://news.hada.io/topic?id=31802",
+    "summary": "토큰 낭비가 안 보이는 이유는 실패가 아니라 중복이라서입니다 같은 파일 두 번 읽기, 같은 인자로 재시도, 같은 도구 재호출. 그래서 끝난 트레이스를 읽어서 어느 스텝이 이미 한 일을 또 했는지 짚어주는 CLI를 만들었습니다! [써보기] pip…",
+    "tags": [],
+    "score": 0.86
+  },
+  {
+    "date": "2026-07-26",
+    "source": "PyTorch KR",
+    "title": "Hallmark: AI 티가 나지 않는 웹 디자인을 만드는 코딩 에이전트 스킬",
+    "url": "https://discuss.pytorch.kr/t/hallmark-ai/11348",
+    "summary": "Hallmark: AI 티가 나지 않는 웹 디자인을 만드는 코딩 에이전트 스킬1536×1024 240 KB Hallmark 소개 LLM 코딩 에이전트에게 웹페이지 디자인을 맡기면 결과물이 서로 비슷해지는 경향이 있습니다. 같은 그라디언트, 같은 카드…",
+    "tags": [
+      "claude-code",
+      "mit-license",
+      "frontend",
+      "ai-design"
+    ],
+    "score": 0.72
+  },
+  {
     "date": "2026-07-25",
     "source": "GeekNews",
     "title": "Show GN: ADHDev 1.0 - 로컬 코딩 에이전트를 웹/모바일에서 제어하고 병렬 작업 후 자동 병합하는 도구",
@@ -616,37 +648,5 @@
       "generative-ui"
     ],
     "score": 0.6
-  },
-  {
-    "date": "2026-07-06",
-    "source": "GeekNews",
-    "title": "Show GN: Cluedoc: 코드베이스 이해를 돕는 문서 작성 에이전트 스킬",
-    "url": "https://news.hada.io/topic?id=31133",
-    "summary": "혹시 코딩 에이전트가 쏟아내는 코드에 지치셨나요? 그래서 여러분의 소프트웨어를 이해하는 걸 포기하셨나요? 에이전트가 코드를 작성하면, 이해하는 것이 가장 중요한 일이 됩니다. 단 한 줄도 직접 타이핑하지 않았고 코드베이스는 계속 바뀌는데, 시스템이…",
-    "tags": [],
-    "score": 0.77
-  },
-  {
-    "date": "2026-07-06",
-    "source": "GeekNews",
-    "title": "웹 개발자를 위한 Safari MCP 서버",
-    "url": "https://news.hada.io/topic?id=31131",
-    "summary": "Safari MCP 서버는 코딩 에이전트를 실제 Safari 창에 연결해, 웹 개발·디버깅 중 브라우저에서 보이는 상태를 직접 확인하게 함 에이전트는 DOM, 네트워크 요청, 스크린샷, 콘솔 출력에 접근해 코드만으로는 알기 어려운 렌더링 결과와…",
-    "tags": [],
-    "score": 0.7
-  },
-  {
-    "date": "2026-07-06",
-    "source": "PyTorch KR",
-    "title": "Loop Library: 반복 가능한 AI 에이전트 워크플로우를 만들고 공유하는 루프 라이브러리",
-    "url": "https://discuss.pytorch.kr/t/loop-library-ai/11050",
-    "summary": "Loop Library: 반복 가능한 AI 에이전트 워크플로우를 만들고 공유하는 루프 라이브러리1536×1024 246 KB Loop Library 소개 대부분의 프롬프트는 에이전트에게 무언가를 한 번 시키고 끝납니다. 하지만 실제 작업은 첫 시도가…",
-    "tags": [
-      "ai-agent",
-      "prompt-engineering",
-      "agent-skills",
-      "automation"
-    ],
-    "score": 0.57
   }
 ]
