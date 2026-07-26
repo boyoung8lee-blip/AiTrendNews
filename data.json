@@ -1,5 +1,42 @@
 [
   {
+    "date": "2026-07-27",
+    "source": "PyTorch KR",
+    "title": "OfficeCLI: AI 에이전트가 Word, Excel, PowerPoint 문서를 다루는 명령줄 도구",
+    "url": "https://discuss.pytorch.kr/t/officecli-ai-word-excel-powerpoint/11347",
+    "summary": "OfficeCLI: AI 에이전트가 Word, Excel, PowerPoint 문서를 다루는 명령줄 도구1536×1024 292 KB OfficeCLI 소개 Word, Excel, PowerPoint 파일을 코드로 만들거나 고치는 일은 지금까지…",
+    "tags": [
+      "ai-agent",
+      "mcp-server",
+      "apache-2",
+      "cli"
+    ],
+    "score": 0.69
+  },
+  {
+    "date": "2026-07-27",
+    "source": "PyTorch KR",
+    "title": "video-shotcraft: Claude Code와 Codex를 영상 스튜디오로 바꾸는 AI 스킬",
+    "url": "https://discuss.pytorch.kr/t/video-shotcraft-claude-code-codex-ai/11377",
+    "summary": "video-shotcraft: Claude Code와 Codex를 영상 스튜디오로 바꾸는 AI 스킬1536×1024 317 KB video-shotcraft 소개 제품 홍보 영상을 만들려면 보통 모션 디자이너와 편집 도구, 그리고 촬영·편집·사운드…",
+    "tags": [
+      "claude-code",
+      "agent-skill",
+      "motion-design",
+      "remotion"
+    ],
+    "score": 0.64
+  },
+  {
+    "date": "2026-07-27",
+    "source": "GeekNews",
+    "title": "Show GN: 엄랭으로 틱택토 AI를 만들어 봤습니다.",
+    "url": "https://news.hada.io/topic?id=31827",
+    "summary": "엄랭(UmmLang)으로 틱택토 AI를 구현해봤습니다. 엄랭은 변수, 입출력, 조건문, 라인 점프 정도만 제공하는 난해한 프로그래밍 언어로 [ 어어엄어어어,,,,,,,, 식어어어ㅋ 동탄어?준. ] 이러한 생김새를 가지고 있습니다. 반복문이나 함수…",
+    "tags": [],
+    "score": 0.58
+  },
+  {
     "date": "2026-07-26",
     "source": "GeekNews",
     "title": "Claude Cookbook: 에이전트부터 RAG·멀티모달·운영까지",
@@ -616,37 +653,5 @@
       "cli"
     ],
     "score": 0.74
-  },
-  {
-    "date": "2026-07-07",
-    "source": "GeekNews",
-    "title": "AI 시대, Figma를 다시 생각하다",
-    "url": "https://news.hada.io/topic?id=31169",
-    "summary": "Config 2026에서 Figma는 AI 압박에 대응해 캔버스를 코드, 모션, 셰이더, 에이전트 워크플로로 확장하며 생존을 건 승부수를 던지는 중 10여 년간 제품 디자인의 기본 작업 공간이었으나, AI가 기획·프로토타이핑·출시 방식을 재편하며…",
-    "tags": [],
-    "score": 0.78
-  },
-  {
-    "date": "2026-07-07",
-    "source": "GeekNews",
-    "title": "OpenTag - Slack용 Claude Tag의 오픈소스 대안",
-    "url": "https://news.hada.io/topic?id=31158",
-    "summary": "Slack 스레드를 읽고 답변하며 도구를 호출해 결과를 대화창에 바로 렌더링하는 셀프 호스팅 AI 에이전트 락인없이 런타임을 소유하며, 원하는 모델을 자신의 도구에 연동 가능 CopilotKit의 오픈 SDK인 @copilotkit/bot 위에…",
-    "tags": [],
-    "score": 0.69
-  },
-  {
-    "date": "2026-07-07",
-    "source": "PyTorch KR",
-    "title": "Google Stitch 살펴보기: 프롬프트로 UI를 만드는 Google Labs 디자인 도구와 Stitch SDK 출시 (MCP, DESIGN.md, Agent Skills)",
-    "url": "https://discuss.pytorch.kr/t/google-stitch-ui-google-labs-stitch-sdk-mcp-design-md-agent-skills/11094",
-    "summary": "Google Stitch: 프롬프트로 UI를 생성하고 Figma와 HTML/CSS로 내보내는 Google Labs 디자인 도구1536×1024 232 KB Google Stitch 소개 Google Stitch는 Google Labs가 만든 AI…",
-    "tags": [
-      "mcp",
-      "typescript",
-      "google-labs",
-      "generative-ui"
-    ],
-    "score": 0.6
   }
 ]
