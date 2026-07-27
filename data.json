@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-07-28",
+    "source": "GeekNews",
+    "title": "Cerebras가 사내 지식 베이스를 구축한 방법",
+    "url": "https://news.hada.io/topic?id=31850",
+    "summary": "Slack/코드 저장소/문서/내부 데이터베이스를 기존 위치에서 직접 수집하는 Cerebras Knowledge를 구축해 출시 3개월 만에 직원/자동화/에이전트로부터 하루 15,000건 이상의 질문을 처리함 모든 데이터를 하나의 도구로 옮기는 대신…",
+    "tags": [],
+    "score": 0.8
+  },
+  {
+    "date": "2026-07-28",
+    "source": "GeekNews",
+    "title": "Show GN: 에이전트를 22개까지 늘렸다가 17개로 줄인 이야기",
+    "url": "https://news.hada.io/topic?id=31873",
+    "summary": "Claude Code로 프로젝트를 여러 개 굴리다 보니 서브에이전트가 계속 늘었습니다. 필요할 때마다 하나씩 만들었더니 22개가 됐습니다. 지난달에 17개로 줄였습니다. 그런데 접을 때 왜 접는지를 안 적어놨습니다. 3개월 뒤에 아카이브 폴더를…",
+    "tags": [],
+    "score": 0.69
+  },
+  {
+    "date": "2026-07-28",
+    "source": "PyTorch KR",
+    "title": "open-kritt: 여러 AI 에이전트로 코드 취약점을 찾는 오픈소스 보안 연구 플랫폼",
+    "url": "https://discuss.pytorch.kr/t/open-kritt-ai/11418",
+    "summary": "open-kritt: 여러 AI 에이전트로 코드 취약점을 찾는 오픈소스 보안 연구 플랫폼1536×1024 239 KB open-kritt 소개 LLM에게 저장소 전체를 던지며 \"여기서 취약점을 찾아줘\" 라고 요청하는 방식은 대개 잘 동작하지…",
+    "tags": [
+      "ai-agent",
+      "agpl-3",
+      "vulnerability",
+      "bug-bounty"
+    ],
+    "score": 0.64
+  },
+  {
     "date": "2026-07-27",
     "source": "PyTorch KR",
     "title": "OfficeCLI: AI 에이전트가 Word, Excel, PowerPoint 문서를 다루는 명령줄 도구",
@@ -616,42 +648,5 @@
       "coding-agent"
     ],
     "score": 0.61
-  },
-  {
-    "date": "2026-07-08",
-    "source": "PyTorch KR",
-    "title": "Awesome Claude Skills: 1,000개 넘는 Claude 스킬을 정리한 목록",
-    "url": "https://discuss.pytorch.kr/t/awesome-claude-skills-1-000-claude/11063",
-    "summary": "Awesome Claude Skills: 1,000개 넘는 Claude 스킬을 정리한 목록1536×1024 272 KB Awesome Claude Skills 소개 Claude Skills는 Claude가 특정 유형의 작업을 처리하는 방법을 담은…",
-    "tags": [
-      "claude-code",
-      "anthropic",
-      "mcp",
-      "automation"
-    ],
-    "score": 0.85
-  },
-  {
-    "date": "2026-07-08",
-    "source": "GeekNews",
-    "title": "Anthropic이 개발자 호감을 잃는 몇 가지 방법",
-    "url": "https://news.hada.io/topic?id=31201",
-    "summary": "Anthropic은 Claude 구독을 자사 도구 중심 체계에 묶고 제3자 에이전트 사용에 별도 과금을 붙이면서, 개발자가 기대한 구독 가치와 실제 사용 조건 사이의 간극을 키움 Claude 구독 사용처는 Claude Code CLI/Desktop,…",
-    "tags": [],
-    "score": 0.79
-  },
-  {
-    "date": "2026-07-08",
-    "source": "PyTorch KR",
-    "title": "OpenWiki: 코딩 에이전트를 위한 코드베이스 문서를 작성하고 관리하는 CLI 도구",
-    "url": "https://discuss.pytorch.kr/t/openwiki-cli/11089",
-    "summary": "OpenWiki: 코딩 에이전트를 위한 코드베이스 문서를 작성하고 관리하는 CLI 도구1302×930 70.8 KB OpenWiki 소개 OpenWiki는 코드베이스의 문서를 자동으로 작성하고 최신 상태로 유지하는 CLI 도구로, 사람보다 코딩…",
-    "tags": [
-      "llm",
-      "coding-agent",
-      "langchain",
-      "cli"
-    ],
-    "score": 0.74
   }
 ]
