@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-07-29",
+    "source": "GeekNews",
+    "title": "Show GN: faster-enhancer.c – 안정적인 온디바이스 실시간 음성 잡음제거 C 라이브러리",
+    "url": "https://news.hada.io/topic?id=31910",
+    "summary": "직접 만든 프로젝트임. FastEnhancer-Medium(48 kHz 스트리밍 음성향상 모델)의 런타임을 순수 C로 다시 구현한 라이브러리임 원본 모델: https://github.com/aask1357/fastenhancer (Ahn 외,…",
+    "tags": [],
+    "score": 0.85
+  },
+  {
+    "date": "2026-07-29",
+    "source": "PyTorch KR",
+    "title": "Anthropic이 공개한 Claude Opus 5 프롬프트 작성법 및 Opus 4.8 마이그레이션 가이드",
+    "url": "https://discuss.pytorch.kr/t/anthropic-claude-opus-5-opus-4-8/11439",
+    "summary": "Claude Opus 5 프롬프트 작성 가이드, 응답 분량과 과잉 검증과 서브에이전트 위임1536×1024 216 KB Claude Opus 5 프롬프트 가이드 소개 Anthropic이 공식 문서에 Claude Opus 5 전용 프롬프트 가이드를…",
+    "tags": [
+      "llm",
+      "anthropic",
+      "agent",
+      "claude"
+    ],
+    "score": 0.71
+  },
+  {
+    "date": "2026-07-29",
+    "source": "GeekNews",
+    "title": "개발자를 위한 데이터 도구 지형 가이드",
+    "url": "https://news.hada.io/topic?id=31899",
+    "summary": "데이터 분야에 처음 참여한 소프트웨어 개발자가 도구의 이름만 외우지 않고, 데이터의 수집/저장/처리/활용 단계에서 각 도구가 맡는 역할과 연결 관계를 파악하도록 전체 지형을 정리함 데이터 직군은 대략 분석/과학/엔지니어링/머신러닝 유형으로 나뉘며,…",
+    "tags": [],
+    "score": 0.68
+  },
+  {
     "date": "2026-07-28",
     "source": "GeekNews",
     "title": "Cerebras가 사내 지식 베이스를 구축한 방법",
@@ -616,37 +648,5 @@
       "llm-security"
     ],
     "score": 0.6
-  },
-  {
-    "date": "2026-07-09",
-    "source": "GeekNews",
-    "title": "Davit - Apple Containers용 네이티브 macOS UI",
-    "url": "https://news.hada.io/topic?id=31243",
-    "summary": "Davit은 Apple silicon Mac에서 Apple의 container 플랫폼으로 Linux 컨테이너를 실행·관리하는 네이티브 macOS 앱이며, Docker Desktop 없이 쓸 수 있음 Apple의 오픈소스 container 데몬과…",
-    "tags": [],
-    "score": 0.64
-  },
-  {
-    "date": "2026-07-09",
-    "source": "GeekNews",
-    "title": "루프 시작하기",
-    "url": "https://news.hada.io/topic?id=31225",
-    "summary": "코딩 에이전트에 매 프롬프트를 지시하는 방식 대신, 정지 조건이 충족될 때까지 작업 사이클을 반복하는 에이전트 운영 패턴으로 전환 중 Claude Code 팀은 루프를 트리거 방식, 정지 방식, 사용 primitive, 적합 작업 유형 네 기준으로…",
-    "tags": [],
-    "score": 0.62
-  },
-  {
-    "date": "2026-07-09",
-    "source": "PyTorch KR",
-    "title": "SkillComposer: 스킬을 몇 개나 어떤 순서로 쓸지 한 번에 예측하는 LLM 에이전트 스킬 조합 방식에 대한 연구",
-    "url": "https://discuss.pytorch.kr/t/skillcomposer-llm/11090",
-    "summary": "SkillComposer: 스킬을 몇 개나 어떤 순서로 쓸지 한 번에 예측하는 LLM 에이전트 스킬 조합 방식에 대한 연구1536×1024 207 KB SkillComposer 연구 소개 여행 가방을 쌀 때를 떠올려 봅시다. 옷장에 있는 모든 옷을…",
-    "tags": [
-      "llm",
-      "paper",
-      "agent",
-      "coding-agent"
-    ],
-    "score": 0.61
   }
 ]
