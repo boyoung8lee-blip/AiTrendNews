@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-07-30",
+    "source": "GeekNews",
+    "title": "Ask GN: MCP 도구를 여러 개 붙여 에이전트를 운영하시는 분들 중 중복 실행 겪어보신분 계실까요?",
+    "url": "https://news.hada.io/topic?id=31946",
+    "summary": "공개 벤치마크 트레이스에서 에이전트의 중복 실행을 측정해봤습니다. 같은 도구를 같은 인자로 두 번 호출하고 결과까지 같은 경우를 세는 방식입니다. 6,780개 트레이스에서 8,042건이 나왔는데, 절반 가까이는 작업 완료 선언 반복 같은 것 빼면…",
+    "tags": [],
+    "score": 0.89
+  },
+  {
+    "date": "2026-07-30",
+    "source": "GeekNews",
+    "title": "Superlogical",
+    "url": "https://news.hada.io/topic?id=31959",
+    "summary": "로컬 개발부터 원격 접속, 코딩 에이전트, 백그라운드 작업, 프로덕션 운영까지 하나의 지속적인 세션으로 연결하는 작업 멀티플렉서를 개발 중임 사람의 대화형 작업과 CI·에이전트의 자동 작업이 별도 도구와 로그로 흩어지는 문제를 해결하고, 환경을…",
+    "tags": [],
+    "score": 0.74
+  },
+  {
+    "date": "2026-07-30",
+    "source": "PyTorch KR",
+    "title": "OpenWorker: 채팅이 아닌 완성된 결과물을 만드는 오픈소스 AI 동료 (feat. Andrew Ng)",
+    "url": "https://discuss.pytorch.kr/t/openworker-ai-feat-andrew-ng/11406",
+    "summary": "OpenWorker: 채팅이 아닌 완성된 결과물을 만드는 오픈소스 AI 동료1536×1024 262 KB OpenWorker 소개 OpenWorker는 대화나 초안 작성에서 멈추지 않고 완성된 업무 결과물을 직접 만들어 내는 것을 목표로 하는…",
+    "tags": [
+      "ai-agent",
+      "mcp",
+      "desktop-app",
+      "local-first"
+    ],
+    "score": 0.52
+  },
+  {
     "date": "2026-07-29",
     "source": "GeekNews",
     "title": "Show GN: faster-enhancer.c – 안정적인 온디바이스 실시간 음성 잡음제거 C 라이브러리",
@@ -616,37 +648,5 @@
       "moe"
     ],
     "score": 0.64
-  },
-  {
-    "date": "2026-07-10",
-    "source": "GeekNews",
-    "title": "Show GN: Agentic FC - AI 에이전트가 MCP로 플레이하는 오픈소스 축구 매니지먼트 시뮬레이션",
-    "url": "https://news.hada.io/topic?id=31268",
-    "summary": "안녕하세요. Agentic FC라는 오픈소스 축구 매니지먼트 시뮬레이션을 만들고 첫 공개 릴리즈(v0.1.0)를 올려봅니다. GitHub에서 소스와 릴리즈 바이너리를 받을 수 있고, macOS/Linux/Windows에서 로컬로 실행해 볼 수…",
-    "tags": [],
-    "score": 0.95
-  },
-  {
-    "date": "2026-07-10",
-    "source": "GeekNews",
-    "title": "GitLost: GitHub AI 에이전트를 속여 비공개 저장소 유출",
-    "url": "https://news.hada.io/topic?id=31255",
-    "summary": "Noma Labs는 GitHub Agentic Workflows에서 간접 프롬프트 인젝션 취약점 GitLost를 발견했으며, 공개 저장소 이슈만으로 같은 조직의 비공개 저장소 데이터를 공개 댓글에 노출시킬 수 있었음 이 기능은 Markdown…",
-    "tags": [],
-    "score": 0.86
-  },
-  {
-    "date": "2026-07-10",
-    "source": "PyTorch KR",
-    "title": "DeepTeam: LLM과 AI 에이전트를 레드팀하는 오픈소스 보안 테스트 프레임워크",
-    "url": "https://discuss.pytorch.kr/t/deepteam-llm-ai/11161",
-    "summary": "DeepTeam: LLM과 AI 에이전트를 레드팀하는 오픈소스 보안 테스트 프레임워크1536×1024 298 KB DeepTeam 소개 LLM 애플리케이션을 배포하기 전에, 악의적인 사용자가 던질 법한 공격을 미리 던져 보는 일은 점점 더 중요해지고…",
-    "tags": [
-      "apache-2",
-      "prompt-injection",
-      "guardrails",
-      "llm-security"
-    ],
-    "score": 0.6
   }
 ]
