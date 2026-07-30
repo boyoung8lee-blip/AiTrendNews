@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-07-31",
+    "source": "GeekNews",
+    "title": "Anthropic의 새로운 AI 암호분석 결과에 대한 평가",
+    "url": "https://news.hada.io/topic?id=31995",
+    "summary": "미공개 고급 모델 Claude Mythos가 HAWK 키 복구 공격과 7라운드 AES 공격 개선안을 만들어, 기존 암호분석 기법을 이해·결합·확장하는 AI의 능력을 보여줌 HAWK 공격은 배포된 체계를 즉시 깨지는 않지만 보안 비트 수를 대략…",
+    "tags": [],
+    "score": 0.83
+  },
+  {
+    "date": "2026-07-31",
+    "source": "GeekNews",
+    "title": "Show GN: UFO - 누워있거나 식사할 때도 개발하려고 만든 슬랙 비슷한 무언가",
+    "url": "https://news.hada.io/topic?id=31985",
+    "summary": "폰으로 모든 업무를 다 하고 싶은 열망에 만든 AI Agent 클라이언트 입니다. 컴퓨터에 설치하고 폰에도 스토어에서 설치하면 -> 폰에서 에이전트를 시켜 컴퓨터를 조작 -> 누워서 일하기 가능... Claude Remote, Codex…",
+    "tags": [],
+    "score": 0.77
+  },
+  {
+    "date": "2026-07-31",
+    "source": "PyTorch KR",
+    "title": "CodeBurn: AI 코딩 도구 36종의 토큰 사용량과 비용을 로컬에서 추적하는 대시보드",
+    "url": "https://discuss.pytorch.kr/t/codeburn-ai-36/11469",
+    "summary": "CodeBurn: AI 코딩 도구 36종의 토큰 사용량과 비용을 로컬에서 추적하는 대시보드1536×1024 263 KB CodeBurn 소개 CodeBurn은 AI 코딩 도구가 이미 디스크에 기록해 둔 세션 파일을 읽어, 토큰 사용량과 비용을 작업…",
+    "tags": [
+      "claude-code",
+      "mcp",
+      "coding-agent",
+      "cli"
+    ],
+    "score": 0.61
+  },
+  {
     "date": "2026-07-30",
     "source": "GeekNews",
     "title": "Ask GN: MCP 도구를 여러 개 붙여 에이전트를 운영하시는 분들 중 중복 실행 겪어보신분 계실까요?",
@@ -616,37 +648,5 @@
     "summary": "Plan A는 초지능 경쟁을 피하기 위한 국제 합의로, AI 연구를 공개하고 여러 국가·기업이 최전선에 합류한 뒤 인간 능력 범위에서 천천히 확장해 2040년에 초지능으로 전환하는 정책 시나리오임 핵심 수단은 AI R&D의 완전한 투명성, 국가 간…",
     "tags": [],
     "score": 0.59
-  },
-  {
-    "date": "2026-07-11",
-    "source": "GeekNews",
-    "title": "Tencent, 오픈소스 모델 Hy3 공개",
-    "url": "https://news.hada.io/topic?id=31290",
-    "summary": "비슷한 크기 모델보다 높은 성능을 목표로 하며, 2~5배 많은 파라미터를 가진 플래그십 오픈소스 모델과도 경쟁 가능한 수준 270명 전문가의 실제 업무 기반 블라인드 평가에서 Hy3는 2.67/4로 GLM-5.1의 2.51/4를 앞섰고, 프론트엔드…",
-    "tags": [],
-    "score": 0.81
-  },
-  {
-    "date": "2026-07-11",
-    "source": "GeekNews",
-    "title": "Muse Spark 1.1 공개",
-    "url": "https://news.hada.io/topic?id=31279",
-    "summary": "Meta Superintelligence Labs가 공개한 Muse Spark 1.1은 에이전트 작업을 겨냥한 멀티모달 추론 모델로, 도구·컴퓨터 사용, 코딩, 멀티모달 이해를 전작보다 강화함 외부 앱과 서비스 전반의 계획·오케스트레이션을 맡고,…",
-    "tags": [],
-    "score": 0.72
-  },
-  {
-    "date": "2026-07-11",
-    "source": "PyTorch KR",
-    "title": "Tencent, 295B 규모(활성 21B)의 오픈소스 MoE 추론 및 에이전트 모델 Hy3 공개",
-    "url": "https://discuss.pytorch.kr/t/tencent-295b-21b-moe-hy3/11147",
-    "summary": "Tencent Hy3 오픈소스 MoE 추론 에이전트 모델 소개1536×1024 263 KB Hy3 소개 Hy3 는 텐센트 훈위안(Tencent Hy, 舊 Hunyuan) 팀이 공개한 오픈소스 대규모 언어 모델(Large Language…",
-    "tags": [
-      "llm",
-      "opensource",
-      "agent",
-      "moe"
-    ],
-    "score": 0.64
   }
 ]
