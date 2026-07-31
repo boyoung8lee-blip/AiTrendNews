@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-08-01",
+    "source": "GeekNews",
+    "title": "DeepSeek-V4-Flash 모델 공개",
+    "url": "https://news.hada.io/topic?id=32016",
+    "summary": "DeepSeek-V4-Flash API 정식 버전이 공개 베타로 출시됐으며, 기존 호출 방식에서 모델 이름만 deepseek-v4-flash로 지정해 사용할 수 있음 에이전트 성능은 V4-Pro-Preview를 크게 앞섰고 Terminal Bench…",
+    "tags": [],
+    "score": 0.85
+  },
+  {
+    "date": "2026-08-01",
+    "source": "GeekNews",
+    "title": "가져갈 수 없는 세션: 추론 API가 만드는 새로운 종속성",
+    "url": "https://news.hada.io/topic?id=32014",
+    "summary": "추론 API가 암호화된 추론·검색 결과·압축 상태·서브에이전트 메시지를 공급자 내부에 숨기면서, 사용자가 보유한 대화 기록은 완전한 세션이 아니라 일부만 보이는 사본이 되고 있음 세션 이식성은 다른 모델에서 같은 출력을 재현하는 것이 아니라, 기존…",
+    "tags": [],
+    "score": 0.69
+  },
+  {
+    "date": "2026-08-01",
+    "source": "PyTorch KR",
+    "title": "html-ppt: 테마 36종과 레이아웃 31종을 갖춘 HTML 프레젠테이션 제작 에이전트 스킬",
+    "url": "https://discuss.pytorch.kr/t/html-ppt-36-31-html/11470",
+    "summary": "html-ppt: 테마 36종과 레이아웃 31종을 갖춘 HTML 프레젠테이션 제작 에이전트 스킬1536×1024 207 KB html-ppt 소개 html-ppt는 AI 코딩 에이전트가 정적 HTML 슬라이드 덱을 만들 때 참고할 테마와 레이아웃,…",
+    "tags": [
+      "claude-code",
+      "mit-license",
+      "agent-skill",
+      "design-system"
+    ],
+    "score": 0.61
+  },
+  {
     "date": "2026-07-31",
     "source": "GeekNews",
     "title": "Anthropic의 새로운 AI 암호분석 결과에 대한 평가",
@@ -616,37 +648,5 @@
       "e2e-testing"
     ],
     "score": 0.56
-  },
-  {
-    "date": "2026-07-12",
-    "source": "PyTorch KR",
-    "title": "OpenAI가 공개한 GPT-5.6 공식 활용 가이드: 마이그레이션부터 프롬프팅, Pro 모드까지",
-    "url": "https://discuss.pytorch.kr/t/openai-gpt-5-6-pro/11195",
-    "summary": "OpenAI GPT-5.6 공식 활용 가이드의 네 가지 핵심 정리1536×1024 246 KB GPT-5.6 모델 가이드 소개 OpenAI가 개발자 문서 사이트에 GPT-5.6 모델 패밀리를 위한 공식 활용 가이드(Model Guidance)를…",
-    "tags": [
-      "llm",
-      "openai",
-      "agent",
-      "prompt-engineering"
-    ],
-    "score": 0.88
-  },
-  {
-    "date": "2026-07-12",
-    "source": "GeekNews",
-    "title": "‘터미네이터 2’ 기술의 구술사(2017)",
-    "url": "https://news.hada.io/topic?id=31335",
-    "summary": "1991년작 Terminator 2: Judgment Day의 T-1000은 약 50개 CG 숏을 위해 당시 12~20명 규모였던 ILM 컴퓨터 그래픽스 팀이 모델링·애니메이션·렌더링·합성 도구를 직접 만들며 완성한 디지털 캐릭터임 액체 금속이…",
-    "tags": [],
-    "score": 0.64
-  },
-  {
-    "date": "2026-07-12",
-    "source": "GeekNews",
-    "title": "AI 2040: 플랜 A",
-    "url": "https://news.hada.io/topic?id=31327",
-    "summary": "Plan A는 초지능 경쟁을 피하기 위한 국제 합의로, AI 연구를 공개하고 여러 국가·기업이 최전선에 합류한 뒤 인간 능력 범위에서 천천히 확장해 2040년에 초지능으로 전환하는 정책 시나리오임 핵심 수단은 AI R&D의 완전한 투명성, 국가 간…",
-    "tags": [],
-    "score": 0.59
   }
 ]
