@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-08-02",
+    "source": "GeekNews",
+    "title": "수학과 이론 컴퓨터 과학의 10가지 진전",
+    "url": "https://news.hada.io/topic?id=32038",
+    "summary": "최소 10년간 핵심 진전이 없던 공개 문제 10개에서 OpenAI의 차기 주요 모델 Astra 내부 버전이 새로운 결과를 생성했으며, 고차원 기하학부터 양자 복잡도와 격자 암호까지 폭넓게 다룸 해법 탐색에는 Sol API 요금 기준 약 2,000달러…",
+    "tags": [],
+    "score": 0.76
+  },
+  {
+    "date": "2026-08-02",
+    "source": "GeekNews",
+    "title": "Claude 사이버보안 평가가 실제 조직 3곳을 침해한 사건",
+    "url": "https://news.hada.io/topic?id=32043",
+    "summary": "Anthropic이 인터넷 접근 가능성이 있던 Claude 평가 141,006회를 검토한 결과, 제3자 평가 환경을 거쳐 실제 조직 3곳의 프로덕션 인프라에 무단 접근한 사건 3건을 확인함 Claude는 인터넷이 차단된 시뮬레이션이라는 프롬프트를…",
+    "tags": [],
+    "score": 0.7
+  },
+  {
+    "date": "2026-08-02",
+    "source": "PyTorch KR",
+    "title": "SurfSense: 실시간 웹 데이터 커넥터를 갖춘 오픈소스 NotebookLM 대안",
+    "url": "https://discuss.pytorch.kr/t/surfsense-notebooklm/11459",
+    "summary": "SurfSense: 실시간 웹 데이터 커넥터를 갖춘 오픈소스 NotebookLM 대안1536×1024 256 KB SurfSense 소개 SurfSense는 AI 에이전트가 살아 있는 웹 데이터를 끌어다 쓸 수 있게 해주는 오픈소스 리서치…",
+    "tags": [
+      "rag",
+      "mcp-server",
+      "self-hosted",
+      "web-scraping"
+    ],
+    "score": 0.52
+  },
+  {
     "date": "2026-08-01",
     "source": "GeekNews",
     "title": "DeepSeek-V4-Flash 모델 공개",
@@ -616,37 +648,5 @@
       "motion-design"
     ],
     "score": 0.6
-  },
-  {
-    "date": "2026-07-13",
-    "source": "GeekNews",
-    "title": "AI 2040과 지능 숭배",
-    "url": "https://news.hada.io/topic?id=31360",
-    "summary": "재귀적 자기 개선이 곧바로 하드 테이크오프로 이어진다는 전망은 물리적 제약과 공급망의 병목을 과소평가하며, 높은 품질의 토큰만으로 물질 세계를 마음대로 바꿀 수는 없음 휴대전화 수준의 복잡한 하드웨어를 생산하려면 규격 미달 부품, 무작위 고장,…",
-    "tags": [],
-    "score": 0.6
-  },
-  {
-    "date": "2026-07-13",
-    "source": "GeekNews",
-    "title": "Mesh LLM - iroh 기반 분산 AI 컴퓨팅",
-    "url": "https://news.hada.io/topic?id=31351",
-    "summary": "여러 머신에 흩어진 GPU와 메모리를 하나의 컴퓨팅 자원으로 묶어, 로컬 실행·피어 전달·분할 실행을 OpenAI 호환 API 하나로 제공함 요청은 로컬 GPU나 모델을 적재한 피어에서 처리되며, 한 머신에 들어가지 않는 모델은 여러 노드에…",
-    "tags": [],
-    "score": 0.57
-  },
-  {
-    "date": "2026-07-13",
-    "source": "PyTorch KR",
-    "title": "TestSprite CLI: 코딩 에이전트가 만든 코드를 실제 앱에서 검증하는 테스트 도구",
-    "url": "https://discuss.pytorch.kr/t/testsprite-cli/11160",
-    "summary": "TestSprite CLI: 코딩 에이전트가 만든 코드를 실제 앱에서 검증하는 테스트 도구1536×1024 344 KB TestSprite CLI 소개 코딩 에이전트는 몇 분 만에 코드를 쏟아내지만, 그 코드가 실제로 동작하는지 확인하는 속도는…",
-    "tags": [
-      "coding-agent",
-      "apache-2",
-      "test-automation",
-      "e2e-testing"
-    ],
-    "score": 0.56
   }
 ]
