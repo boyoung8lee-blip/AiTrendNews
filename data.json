@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-08-03",
+    "source": "GeekNews",
+    "title": "wiff",
+    "url": "https://news.hada.io/topic?id=32056",
+    "summary": "wiff는 diff를 캡처해 구문 강조로 탐색하고 주석을 남길 수 있는 터미널 코드 리뷰 도구임 리뷰를 로컬 세션에 저장하며, 사람은 TUI로, 에이전트는 CLI와 스킬로 같은 세션을 읽고 쓸 수 있음 작업 트리·인덱스·히스토리의 변경 사항을...",
+    "tags": [],
+    "score": 0.83
+  },
+  {
+    "date": "2026-08-03",
+    "source": "GeekNews",
+    "title": "Go 1.27 인터랙티브 투어",
+    "url": "https://news.hada.io/topic?id=32059",
+    "summary": "이번 릴리스는 제네릭 메서드를 중심으로 구조체 리터럴과 타입 추론을 개선하고, 표준 라이브러리·런타임·도구 체계까지 폭넓게 확장함 80바이트 미만 일부 할당은 최대 30% 빨라지고, 할당이 많은 실제 프로그램은 약 1% 성능 향상이 예상되지만…",
+    "tags": [],
+    "score": 0.74
+  },
+  {
+    "date": "2026-08-03",
+    "source": "PyTorch KR",
+    "title": "Kimi K3 모델 가중치 및 기술 문서 공개: 2.8T 오픈 모델의 아키텍처와 학습 레시피 심층 분석",
+    "url": "https://discuss.pytorch.kr/t/kimi-k3-2-8t/11455",
+    "summary": "Kimi K3 기술 문서 공개: 2.8T 오픈 모델의 아키텍처와 학습 레시피1536×1024 276 KB Kimi K3 기술 문서 소개 건물을 더 높이 올리려면 층을 더 쌓는 것만으로는 되지 않습니다. 어느 높이를 넘어서면 기둥의 재질, 배관이 물을…",
+    "tags": [
+      "llm",
+      "paper",
+      "agent",
+      "open-weights"
+    ],
+    "score": 0.68
+  },
+  {
     "date": "2026-08-02",
     "source": "GeekNews",
     "title": "수학과 이론 컴퓨터 과학의 10가지 진전",
@@ -616,37 +648,5 @@
       "agent-skills"
     ],
     "score": 0.58
-  },
-  {
-    "date": "2026-07-14",
-    "source": "GeekNews",
-    "title": "gpt-5.6-sol이 PowerShell의 $HOME 변수 충돌로 사용자 홈 디렉터리를 날려버릴 뻔한 건에 대하여",
-    "url": "https://news.hada.io/topic?id=31390",
-    "summary": "Codex에서 최신 플래그십 모델인 gpt-5.6-sol을 사용하던 중, 방금 겪은 심각한 안전성 결함(Safety Incident)을 공유하고자 합니다. Sol 모델이 에이전트 워크플로우와 도구 실행 벤치마크에서 믿기 힘들 정도로 놀라운 성적을…",
-    "tags": [],
-    "score": 0.9
-  },
-  {
-    "date": "2026-07-14",
-    "source": "GeekNews",
-    "title": "AgentsView - 여러 AI 코딩 에이전트의 세션 검색/분석/비용 추적 도구",
-    "url": "https://news.hada.io/topic?id=31370",
-    "summary": "Claude Code, Codex, Cursor, Gemini CLI, OpenCode 등 다양한 코딩 에이전트의 세션을 자동 수집 대화 검색, 토큰/비용 통계, 활동 분석, 변경 파일 추적을 로컬 웹 UI 및 CLI에서 제공 Go 단일 바이너리로…",
-    "tags": [],
-    "score": 0.74
-  },
-  {
-    "date": "2026-07-14",
-    "source": "PyTorch KR",
-    "title": "Skills for Design Engineers: 코딩 에이전트에 UI 애니메이션 감각을 더하는 스킬",
-    "url": "https://discuss.pytorch.kr/t/skills-for-design-engineers-ui/11206",
-    "summary": "Skills for Design Engineers: 코딩 에이전트에 UI 애니메이션 감각을 더하는 스킬1536×1024 215 KB Skills for Design Engineers 소개 코딩 에이전트에게 \"버튼에 진입 애니메이션을 넣어줘\"라고…",
-    "tags": [
-      "claude-code",
-      "mit-license",
-      "agent-skills",
-      "motion-design"
-    ],
-    "score": 0.6
   }
 ]
