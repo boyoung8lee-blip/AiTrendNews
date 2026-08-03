@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-08-04",
+    "source": "GeekNews",
+    "title": "개발 도구가 오픈소스여야 하는 이유",
+    "url": "https://news.hada.io/topic?id=32114",
+    "summary": "코딩 에이전트가 소스 수정부터 업스트림 동기화와 유지보수까지 자동화하면서, 자신만의 소프트웨어를 만드는 비용이 크게 낮아짐 소스를 내려받아 로컬 빌드를 만들고 변경 동기를 버전 관리에 기록한 뒤, 매일 업스트림 변경 위로 로컬 수정을 리베이스할 수…",
+    "tags": [],
+    "score": 0.88
+  },
+  {
+    "date": "2026-08-04",
+    "source": "GeekNews",
+    "title": "Bonsai - Jane Street의 UI 라이브러리",
+    "url": "https://news.hada.io/topic?id=32116",
+    "summary": "Bonsai는 Elm에서 일부 영감을 받아 OCaml로 고성능 반응형 웹 애플리케이션을 만드는 UI 라이브러리로, Jane Street의 사내 웹 애플리케이션 대부분에 사용됨 컴포넌트를 순수 함수형 상태 머신으로 구현하며, 상태·증분 계산·렌더링을…",
+    "tags": [],
+    "score": 0.8
+  },
+  {
+    "date": "2026-08-04",
+    "source": "PyTorch KR",
+    "title": "darwin-skill: 평가와 회귀 테스트로 에이전트 스킬을 진화시키는 최적화 루프",
+    "url": "https://discuss.pytorch.kr/t/darwin-skill/11492",
+    "summary": "darwin-skill: 평가와 회귀 테스트로 에이전트 스킬을 진화시키는 최적화 루프1536×1024 249 KB darwin-skill 소개 에이전트 스킬(SKILL.md) 생태계가 빠르게 커지면서 새로운 유지보수 문제가 생겼습니다. Claude…",
+    "tags": [
+      "claude-code",
+      "mit-license",
+      "agent-skills",
+      "autoresearch"
+    ],
+    "score": 0.76
+  },
+  {
     "date": "2026-08-03",
     "source": "GeekNews",
     "title": "wiff",
@@ -614,38 +646,6 @@
       "dataset",
       "web-scraping",
       "data-extraction"
-    ],
-    "score": 0.58
-  },
-  {
-    "date": "2026-07-15",
-    "source": "GeekNews",
-    "title": "Show GN: Brain-AI Memory – 장기 실행 LLM 에이전트의 메모리 실패를 진단하는 오픈 아키텍처",
-    "url": "https://news.hada.io/topic?id=31435",
-    "summary": "에이전트가 오래된 기억을 사용하거나, 이미 기록한 것을 다시 묻거나, 규칙을 무시하거나, fallback 절차를 중간에 포기하는 문제를 모두 “retrieval 문제”로 보면 원인을 찾기 어렵습니다. Brain-AI Memory는 RAG, hook,…",
-    "tags": [],
-    "score": 0.66
-  },
-  {
-    "date": "2026-07-15",
-    "source": "GeekNews",
-    "title": "이해가 새로운 병목이다",
-    "url": "https://news.hada.io/topic?id=31429",
-    "summary": "에이전트가 작성한 코드가 사람 주변에 계속 쌓이는 상황에서 개발 속도를 제한하는 요소는 코드 생성 능력이 아니라 시스템을 따라가며 다음 변화를 구상할 수 있는 인간의 이해 속도로 이동하고 있음 코드를 이해하는 목적은 결과를 승인하거나 거부하는 검증에…",
-    "tags": [],
-    "score": 0.66
-  },
-  {
-    "date": "2026-07-15",
-    "source": "PyTorch KR",
-    "title": "Social Media Skills: Claude 에이전트로 소셜 미디어 콘텐츠를 만드는 스킬 모음",
-    "url": "https://discuss.pytorch.kr/t/social-media-skills-claude/11224",
-    "summary": "Social Media Skills: Claude 에이전트로 소셜 미디어 콘텐츠를 만드는 스킬 모음1536×1024 199 KB Social Media Skills 소개 Social Media Skills는 Claude 같은 AI 에이전트에 소셜…",
-    "tags": [
-      "claude-code",
-      "ai-agent",
-      "claude",
-      "agent-skills"
     ],
     "score": 0.58
   }
