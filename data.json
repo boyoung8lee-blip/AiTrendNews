@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-08-06",
+    "source": "GeekNews",
+    "title": "Warp Agent CLI",
+    "url": "https://news.hada.io/topic?id=32177",
+    "summary": "Warp Terminal의 다중 모델 코딩 에이전트를 독립형 CLI로 제공해 Ghostty, iTerm 2, VS Code, Windows·Mac 기본 터미널에서도 사용할 수 있음 tmux와 유사한 멀티플렉싱 구조로 에이전트와 셸 사이의 PTY…",
+    "tags": [],
+    "score": 0.92
+  },
+  {
+    "date": "2026-08-06",
+    "source": "GeekNews",
+    "title": "Cloudflare OS: 에이전트·앱·업무를 위한 개방형 플랫폼",
+    "url": "https://news.hada.io/topic?id=32185",
+    "summary": "Cloudflare가 전 직원을 대상으로 운영해 온 Cloudflare OS의 새 버전을 오픈소스로 공개해, 조직별 지식·업무 절차·내부 시스템을 활용하는 에이전트 작업 공간을 직접 배포할 수 있게 함 플랫폼은 회사가 선별한 맥락과 기술을 사용하는…",
+    "tags": [],
+    "score": 0.89
+  },
+  {
+    "date": "2026-08-06",
+    "source": "PyTorch KR",
+    "title": "Qwen, Max 계열 최초로 가중치를 공개하는 2.4T 규모 플래그십 모델 Qwen3.8-Max 출시 및 공개 예정",
+    "url": "https://discuss.pytorch.kr/t/qwen-max-2-4t-qwen3-8-max/11509",
+    "summary": "Qwen3.8-Max 출시와 자율 코딩, 실무 작업, 멀티모달 에이전트 개선을 정리한 이미지1536×1024 240 KB Qwen3.8-Max 소개 Qwen 팀이 2026년 8월 3일 새로운 플래그십 모델 Qwen3.8-Max 를 공개했습니다. 전체…",
+    "tags": [
+      "llm",
+      "agent",
+      "open-weights",
+      "product-launch"
+    ],
+    "score": 0.65
+  },
+  {
     "date": "2026-08-05",
     "source": "GeekNews",
     "title": "Show GN: 구독형 CLI를 API로 — Gemini/Grok OAuth 프록시",
@@ -616,37 +648,5 @@
       "landing-page"
     ],
     "score": 0.59
-  },
-  {
-    "date": "2026-07-17",
-    "source": "GeekNews",
-    "title": "Grok Build가 오픈 소스로 공개됨",
-    "url": "https://news.hada.io/topic?id=31492",
-    "summary": "SpaceXAI의 터미널 기반 AI 코딩 에이전트 Grok Build를 구성하는 Rust 소스와 에이전트 런타임이 공개됐으며, 저장소는 SpaceXAI 모노레포에서 주기적으로 동기화됨 전체 화면 TUI에서 코드베이스 이해, 파일 수정, 셸 명령…",
-    "tags": [],
-    "score": 0.84
-  },
-  {
-    "date": "2026-07-17",
-    "source": "GeekNews",
-    "title": "Show GN: Claude 공식 업타임 99.55%인데 6월 인시던트 45건 — 6월 AI 서비스 신뢰도 리포트",
-    "url": "https://news.hada.io/topic?id=31485",
-    "summary": "AIWatch는 Claude·OpenAI·Gemini 등 41개 AI 서비스(LLM API·코딩 에이전트·음성·인프라·AI 앱)의 업타임·인시던트·지연을 실시간으로 모니터링합니다. 6월 리포트(6/1–30)를 공개했습니다. 리포트:…",
-    "tags": [],
-    "score": 0.79
-  },
-  {
-    "date": "2026-07-17",
-    "source": "PyTorch KR",
-    "title": "pdf-inspector: OCR 없이 PDF를 분류하고 마크다운으로 추출하는 Rust 라이브러리 (feat. firecrawl)",
-    "url": "https://discuss.pytorch.kr/t/pdf-inspector-ocr-pdf-rust-feat-firecrawl/11255",
-    "summary": "pdf-inspector: OCR 없이 PDF를 분류하고 마크다운으로 추출하는 Rust 라이브러리1536×1024 212 KB pdf-inspector 소개 문서를 다루는 파이프라인에서 PDF는 가장 까다로운 입력 중 하나입니다. 어떤 PDF는 이미…",
-    "tags": [
-      "rag",
-      "mit-license",
-      "rust",
-      "pdf"
-    ],
-    "score": 0.62
   }
 ]
