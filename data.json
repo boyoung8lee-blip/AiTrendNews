@@ -1,5 +1,42 @@
 [
   {
+    "date": "2026-08-08",
+    "source": "GeekNews",
+    "title": "인간은 AI 에이전트 명령 승인 과정에서 위협 3개 중 1개를 놓침",
+    "url": "https://news.hada.io/topic?id=32240",
+    "summary": "AI 코딩 에이전트 명령을 승인·거부하는 게임의 4만 회 이상 실행과 40만9천 건의 결정을 분석한 결과, 평균 위협 탐지 정확도는 66.3% 에 그쳐 인간 승인을 최후의 보안 경계로 삼기 어려웠음 명백한 파괴 명령의 누락률은 11.7%였지만 자격…",
+    "tags": [],
+    "score": 0.69
+  },
+  {
+    "date": "2026-08-08",
+    "source": "PyTorch KR",
+    "title": "Archify: 코드베이스를 검증된 대화형 시스템 맵으로 바꾸는 에이전트 스킬",
+    "url": "https://discuss.pytorch.kr/t/archify/11536",
+    "summary": "Archify: 코드베이스를 검증된 대화형 시스템 맵으로 바꾸는 에이전트 스킬1536×1024 263 KB Archify 소개 시스템 구조를 남에게 설명해야 하는 순간은 자주 찾아옵니다. 신규 입사자에게 서비스 전체 흐름을 알려줄 때, 설계 리뷰에서…",
+    "tags": [
+      "claude-code",
+      "developer-tools",
+      "agent-skill",
+      "codex-cli"
+    ],
+    "score": 0.63
+  },
+  {
+    "date": "2026-08-08",
+    "source": "PyTorch KR",
+    "title": "Cloudflare OS: Cloudflare 오픈소스로 공개한 사내 AI 에이전트 워크스페이스 도구 (및 커뮤니티 의견들)",
+    "url": "https://discuss.pytorch.kr/t/cloudflare-os-cloudflare-ai/11545",
+    "summary": "Cloudflare OS, 사내 AI 워크스페이스를 오픈소스로1536×1024 210 KB Cloudflare OS 소개 Cloudflare가 2026년 8월 5일, 사내에서 써 온 AI 업무 플랫폼 Cloudflare OS를 오픈소스로…",
+    "tags": [
+      "opensource",
+      "agent",
+      "mcp",
+      "product-launch"
+    ],
+    "score": 0.62
+  },
+  {
     "date": "2026-08-07",
     "source": "GeekNews",
     "title": "Muse Code와 Muse Spark 1.2 공개",
@@ -616,37 +653,5 @@
       "self-hosting"
     ],
     "score": 0.61
-  },
-  {
-    "date": "2026-07-19",
-    "source": "GeekNews",
-    "title": "Claude Code의 잘못 설계된 자동 진행 기능 해부",
-    "url": "https://news.hada.io/topic?id=31549",
-    "summary": "Claude Code 2.1.198은 AskUserQuestion에 60초간 답이 없으면 모델이 자체 판단으로 작업을 계속하는 자동 진행 기능을 기본 활성화했지만, 출시 당시 변경 로그와 문서에는 기록하지 않았음 권한 요청을 자동 승인하지는…",
-    "tags": [],
-    "score": 0.71
-  },
-  {
-    "date": "2026-07-19",
-    "source": "GeekNews",
-    "title": "Kimi K3와 펠리컨 벤치마크에서 여전히 배울 수 있는 것",
-    "url": "https://news.hada.io/topic?id=31547",
-    "summary": "Moonshot AI가 공개한 Kimi K3는 2.8조 개 매개변수를 갖춘 자사 최고 성능 모델로, 웹사이트와 API에서 제공되며 오픈 가중치는 2026년 7월 27일까지 공개될 예정임 자체 벤치마크에서는 Claude Opus 4.8 max와…",
-    "tags": [],
-    "score": 0.7
-  },
-  {
-    "date": "2026-07-19",
-    "source": "PyTorch KR",
-    "title": "ASO App Store Screenshots: 앱 코드를 분석해 앱스토어 스크린샷을 만드는 Claude 스킬",
-    "url": "https://discuss.pytorch.kr/t/aso-app-store-screenshots-claude/11278",
-    "summary": "ASO App Store Screenshots: 앱 코드를 분석해 앱스토어 스크린샷을 만드는 Claude 스킬1536×1024 282 KB ASO App Store Screenshots 소개 앱을 만들고 나면 마지막 관문으로 앱스토어에 올릴…",
-    "tags": [
-      "claude-code",
-      "agent-skill",
-      "nano-banana",
-      "gemini-mcp"
-    ],
-    "score": 0.58
   }
 ]
