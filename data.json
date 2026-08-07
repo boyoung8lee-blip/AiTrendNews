@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-08-07",
+    "source": "GeekNews",
+    "title": "Muse Code와 Muse Spark 1.2 공개",
+    "url": "https://news.hada.io/topic?id=32213",
+    "summary": "Meta가 대규모 저장소에서 계획 수립부터 코드 작성·검증까지 수행하는 터미널 코딩 에이전트 Muse Code 베타와 기반 모델 Muse Spark 1.2를 공개함 세션 내내 유지되는 여러 비동기 백그라운드 에이전트가 정보 수집과 후속 작업을 분담해…",
+    "tags": [],
+    "score": 0.83
+  },
+  {
+    "date": "2026-08-07",
+    "source": "GeekNews",
+    "title": "Qwen3.8 Max, Agentic Index 종합 1위",
+    "url": "https://news.hada.io/topic?id=32216",
+    "summary": "Qwen3.8 Max가 도구 사용·계획·자율성·복합 문제 해결을 측정하는 Artificial Analysis Agentic Index에서 종합 최고 모델로 평가됨 Agentic Index는 특정 역량과 산업별 성능을 측정하는 Capability…",
+    "tags": [],
+    "score": 0.81
+  },
+  {
+    "date": "2026-08-07",
+    "source": "PyTorch KR",
+    "title": "MiniMax, 영상과 음향을 함께 만드는 33B 옴니모달 모델 H3 웨이트 공개 (단, 한국 사용 금지🫠)",
+    "url": "https://discuss.pytorch.kr/t/minimax-33b-h3/11523",
+    "summary": "MiniMax H3 옴니모달 생성 모델, 텍스트와 이미지, 영상, 음성 입력을 33B 단일 스트림 트랜스포머가 받아 24fps 영상과 스테레오 음향을 함께 만드는 구조1536×1024 286 KB MiniMax H3 소개 MiniMax가 공개한…",
+    "tags": [
+      "multimodal",
+      "open-weights",
+      "vllm",
+      "video-generation"
+    ],
+    "score": 0.61
+  },
+  {
     "date": "2026-08-06",
     "source": "GeekNews",
     "title": "Warp Agent CLI",
@@ -616,37 +648,5 @@
       "gemini-mcp"
     ],
     "score": 0.58
-  },
-  {
-    "date": "2026-07-18",
-    "source": "GeekNews",
-    "title": "개발자를 해킹하는 LinkedIn 채용 과제 사기",
-    "url": "https://news.hada.io/topic?id=31514",
-    "summary": "LinkedIn에서 소프트웨어 엔지니어 채용을 제안한 뒤 정상적인 React/Web3 과제로 위장한 비공개 GitHub 저장소를 전달했으며, 실행하면 tailwind.config.js에 숨겨진 JavaScript 악성코드가 개발자 컴퓨터에서 작동함…",
-    "tags": [],
-    "score": 0.71
-  },
-  {
-    "date": "2026-07-18",
-    "source": "GeekNews",
-    "title": "Show GN: browser-rs-mcp - 초경량 멀티 에이전트 스텔스 브라우저 컨트롤러",
-    "url": "https://news.hada.io/topic?id=31524",
-    "summary": "1. Motivation? 에이전트 하나에 크롬 하나. 이게 기본값이면 에이전트당 RAM이 500MB~1GB씩 나갑니다. 에이전트 5개만 굴려도 브라우저만으로 RAM 2.5~5GB. 거기다 Playwright는 CDP 세션 자체가 기본으로 하나에…",
-    "tags": [],
-    "score": 0.68
-  },
-  {
-    "date": "2026-07-18",
-    "source": "PyTorch KR",
-    "title": "scroll-world: 스크롤에 맞춰 브랜드를 3D 월드처럼 비행하는 랜딩페이지를 만드는 에이전트 스킬",
-    "url": "https://discuss.pytorch.kr/t/scroll-world-3d/11268",
-    "summary": "scroll-world: 스크롤에 맞춰 브랜드를 3D 월드처럼 비행하는 랜딩페이지를 만드는 에이전트 스킬1536×1024 411 KB scroll-world 소개 scroll-world는 브랜드나 서비스를 소개하는 랜딩페이지를, 스크롤에 맞춰…",
-    "tags": [
-      "claude-code",
-      "mit-license",
-      "agent-skill",
-      "landing-page"
-    ],
-    "score": 0.59
   }
 ]
