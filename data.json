@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-08-09",
+    "source": "GeekNews",
+    "title": "평가 주도 개발 (Eval-driven development)",
+    "url": "https://news.hada.io/topic?id=32257",
+    "summary": "Airbnb는 비결정적 출력과 주관적 정답, 검색·추론·도구 호출의 연쇄 실패를 다루기 위해 평가를 사후 검증이 아닌 핵심 엔지니어링 규율로 취급함 평가 주도 개발(EDD) 은 실제 오류를 발견해 평가 기준으로 만들고 지속적으로 검사하며, 출시…",
+    "tags": [],
+    "score": 0.86
+  },
+  {
+    "date": "2026-08-09",
+    "source": "GeekNews",
+    "title": "AI가 재편하는 차세대 사이버보안 스택",
+    "url": "https://news.hada.io/topic?id=32256",
+    "summary": "AI가 취약점을 찾아 악용하는 속도가 빨라지면서 평균 악용까지 걸리는 시간(TTE) 은 공개 9시간 전인 -9시간까지 줄었고, 공개 전 제로데이로 악용되는 취약점 비율도 5년 전 약 30%에서 현재 80% 이상으로 증가함 보안 조직은 여러 도구를…",
+    "tags": [],
+    "score": 0.75
+  },
+  {
+    "date": "2026-08-09",
+    "source": "PyTorch KR",
+    "title": "Prime Intellect, 컨텍스트를 변수로 다루는 자기개선형 코딩 에이전트 Prime Agent 공개",
+    "url": "https://discuss.pytorch.kr/t/prime-intellect-prime-agent/11544",
+    "summary": "Prime Agent 소개, 컨텍스트를 변수로 다루고 하네스를 스스로 고치는 코딩 에이전트1536×1024 225 KB Prime Agent 소개 Prime Intellect가 공개한 Prime Agent 는 코딩과 장시간 자율 작업을 위한 오픈소스…",
+    "tags": [
+      "opensource",
+      "coding-agent",
+      "llm-agent",
+      "agent-harness"
+    ],
+    "score": 0.62
+  },
+  {
     "date": "2026-08-08",
     "source": "GeekNews",
     "title": "인간은 AI 에이전트 명령 승인 과정에서 위협 3개 중 1개를 놓침",
@@ -619,38 +651,6 @@
       "opensource",
       "rag",
       "agent"
-    ],
-    "score": 0.61
-  },
-  {
-    "date": "2026-07-20",
-    "source": "GeekNews",
-    "title": "Gleam 저장소가 Tangled에 공개됨",
-    "url": "https://news.hada.io/topic?id=31589",
-    "summary": "타입 안전하고 확장 가능한 시스템을 지향하는 Gleam 저장소를 Tangled에서도 이용할 수 있음 기본 브랜치는 main 하나이며 약 11,000개 커밋, 스타 254개, 포크 2개를 기록함 저장소 코드는 Rust 92.9% 가 대부분이고…",
-    "tags": [],
-    "score": 0.8
-  },
-  {
-    "date": "2026-07-20",
-    "source": "GeekNews",
-    "title": "Mindwalk - 코딩 에이전트 세션을 코드베이스의 3D 지도 위에서 재생하는 시각화 도구",
-    "url": "https://news.hada.io/topic?id=31569",
-    "summary": "세션 로그는 에이전트가 무엇을 했는지 기록하지만, 작업을 어떻게 이해했는지(관련 영역 판단, 탐색 위치, 작업 범위 일치 여부)는 담지 못하며, 원본 JSONL을 읽어서는 알 수 없음 저장소를 야간 지도로 그려, 에이전트가 검색/읽기/수정한 위치는…",
-    "tags": [],
-    "score": 0.76
-  },
-  {
-    "date": "2026-07-20",
-    "source": "PyTorch KR",
-    "title": "local-llm: 최신 LLM을 로컬에서 직접 돌리는 GPU 하드웨어 구성 가이드",
-    "url": "https://discuss.pytorch.kr/t/local-llm-llm-gpu/11274",
-    "summary": "local-llm: 최신 LLM을 로컬에서 직접 돌리는 GPU 하드웨어 구성 가이드1536×1024 366 KB local-llm 소개 클라우드 LLM API에 의존하지 않고 최신 모델을 자기 하드웨어에서 직접 돌리려면, 어떤 GPU를 몇 장 사고…",
-    "tags": [
-      "local-llm",
-      "vllm",
-      "multi-gpu",
-      "self-hosting"
     ],
     "score": 0.61
   }
