@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-08-10",
+    "source": "GeekNews",
+    "title": "내 잘못입니다 — Dark Hours",
+    "url": "https://news.hada.io/topic?id=32306",
+    "summary": "밤하늘의 천체를 안내하는 Dark Hours를 Claude로 제작해 공개했으나, 기존 오픈소스 웹 앱 DarkHours.app과 이름과 기능이 매우 비슷했음 처음에는 이름을 바꾸고 기능을 차별화하려 했지만, 약 한 시간 뒤 기존 프로젝트가 수정한…",
+    "tags": [],
+    "score": 0.8
+  },
+  {
+    "date": "2026-08-10",
+    "source": "GeekNews",
+    "title": "Show GN: Ungate — API 토큰 비용을 지불하는 대신 Cursor에서 Claude 및 ChatGPT 구독 서비스를 이용하세요.",
+    "url": "https://news.hada.io/topic?id=32286",
+    "summary": "Ungate를 사용하면 API 토큰을 위해 별도로 비용을 지불할 필요 없이, Cursor에서 기존 Claude 및 ChatGPT 구독을 그대로 활용할 수 있습니다. 이 프로젝트는 AI 구독 서비스와 API 접근이 필요한 코딩 도구 간의 격차를…",
+    "tags": [],
+    "score": 0.7
+  },
+  {
+    "date": "2026-08-10",
+    "source": "PyTorch KR",
+    "title": "Meta, 터미널 코딩 에이전트 Muse Code와 코딩 특화 모델 Muse Spark 1.2 출시",
+    "url": "https://discuss.pytorch.kr/t/meta-muse-code-muse-spark-1-2/11554",
+    "summary": "Meta, 터미널 코딩 에이전트 Muse Code와 코딩 특화 모델 Muse Spark 1.2 출시1536×1024 261 KB Muse Code와 Muse Spark 1.2 소개 Meta가 터미널에서 동작하는 코딩 에이전트 Muse Code를…",
+    "tags": [
+      "llm",
+      "agent",
+      "coding-agent",
+      "meta"
+    ],
+    "score": 0.6
+  },
+  {
     "date": "2026-08-09",
     "source": "GeekNews",
     "title": "평가 주도 개발 (Eval-driven development)",
@@ -621,37 +653,5 @@
       "moe"
     ],
     "score": 0.71
-  },
-  {
-    "date": "2026-07-21",
-    "source": "GeekNews",
-    "title": "Codex CLI의 Subagent 세션 로그가 수백 GB까지 증가해 디스크를 소진하는 문제",
-    "url": "https://news.hada.io/topic?id=31618",
-    "summary": "Codex CLI가 Resume된 장기 세션에서 Subagent를 반복 생성할 때, ~/.codex/sessions 아래의 JSONL 세션 파일이 비정상적으로 증가하는 문제가 보고됨 공개 사례에서는 하나의 Resume된 부모 세션에서 2,393개의…",
-    "tags": [],
-    "score": 0.85
-  },
-  {
-    "date": "2026-07-21",
-    "source": "GeekNews",
-    "title": "OpenAI, Codex 모델 컨텍스트 크기를 372k에서 272k로 축소",
-    "url": "https://news.hada.io/topic?id=31611",
-    "summary": "OpenAI Codex의 번들 모델 메타데이터를 갱신하면서 모델 컨텍스트 크기를 372k에서 272k로 줄인 변경을 release/0.144 브랜치에 백포트함 PR #33972는 agent/hotfix-0.144-model-metadata 브랜치에서…",
-    "tags": [],
-    "score": 0.81
-  },
-  {
-    "date": "2026-07-21",
-    "source": "PyTorch KR",
-    "title": "NVIDIA, RTEB 1위 오픈 임베딩 모델 Nemotron 3 Embed 공개 (feat. RAG, 에이전트 검색)",
-    "url": "https://discuss.pytorch.kr/t/nvidia-rteb-1-nemotron-3-embed-feat-rag/11308",
-    "summary": "정확도와 효율의 최전선을 넓힌 오픈 임베딩 모델 Nemotron 3 Embed1536×1024 189 KB Nemotron 3 Embed 소개 검색 증강 생성(Retrieval-Augmented Generation, RAG)이나 여러 단계를 거치는…",
-    "tags": [
-      "llm",
-      "opensource",
-      "rag",
-      "agent"
-    ],
-    "score": 0.61
   }
 ]
