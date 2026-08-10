@@ -1,5 +1,42 @@
 [
   {
+    "date": "2026-08-11",
+    "source": "PyTorch KR",
+    "title": "anydoc: 오피스 문서를 LLM이 읽을 Markdown으로 5밀리초 안에 바꾸는 Rust 라이브러리",
+    "url": "https://discuss.pytorch.kr/t/anydoc-llm-markdown-5-rust/11552",
+    "summary": "anydoc: 오피스 문서를 LLM이 읽을 Markdown으로 5밀리초 안에 바꾸는 Rust 라이브러리1536×1024 274 KB anydoc 소개 문서를 입력으로 받는 AI 파이프라인은 대체로 같은 자리에서 막힙니다. 사용자가 올리는 파일은…",
+    "tags": [
+      "llm",
+      "rust",
+      "agent-skill",
+      "markdown"
+    ],
+    "score": 0.88
+  },
+  {
+    "date": "2026-08-11",
+    "source": "GeekNews",
+    "title": "Claude Code, Auto mode를 기본 권한 모드로 전환",
+    "url": "https://news.hada.io/topic?id=32365",
+    "summary": "2026년 8월 14일부터 Claude Code의 Pro·Max·Team 신규 세션은 Auto mode로 시작하며, 도구 호출의 위험을 자동 판별해 더 긴 자율 작업과 안전한 실행을 지원함 되돌릴 수 없거나 파괴적이거나 작업 환경 외부를 향하는…",
+    "tags": [],
+    "score": 0.8
+  },
+  {
+    "date": "2026-08-11",
+    "source": "PyTorch KR",
+    "title": "Liquid AI, 휴대폰에서 실행 가능한 온-디바이스 에이전트 모델 LFM2.5-2.6B 공개",
+    "url": "https://discuss.pytorch.kr/t/liquid-ai-lfm2-5-2-6b/11549",
+    "summary": "휴대폰에서 도는 온디바이스 에이전트 모델 LFM2.5-2.6B1536×1024 227 KB LFM2.5-2.6B 소개 Liquid AI가 온디바이스(on-device) 환경에서 에이전트를 직접 돌리는 것을 목표로 만든 2.6B 파라미터 모델…",
+    "tags": [
+      "llm",
+      "agent",
+      "on-device",
+      "product-launch"
+    ],
+    "score": 0.78
+  },
+  {
     "date": "2026-08-10",
     "source": "GeekNews",
     "title": "내 잘못입니다 — Dark Hours",
@@ -619,38 +656,6 @@
       "mit-license",
       "microsoft",
       "knowledge-graph"
-    ],
-    "score": 0.71
-  },
-  {
-    "date": "2026-07-22",
-    "source": "GeekNews",
-    "title": "OpenCode의 성가시고 불안한 문제들",
-    "url": "https://news.hada.io/topic?id=31641",
-    "summary": "GitHub 스타 16.1만 개를 받은 오픈소스 AI 코딩 에이전트 OpenCode를 로컬 Qwen3.6-27B로 시험한 결과, 도구 품질과 보안 설계 모두 사용을 중단해야 할 수준이었음 AGENTS.md 재로딩, 고정 거리 컨텍스트 가지치기, 현재…",
-    "tags": [],
-    "score": 0.87
-  },
-  {
-    "date": "2026-07-22",
-    "source": "GeekNews",
-    "title": "구글 제미나이 새 모델(3.6 Flash, 3.5 Flash-Lite, 3.5 Flash Cyber) 출시",
-    "url": "https://news.hada.io/topic?id=31662",
-    "summary": "• 구글은 AI 에이전트 개발의 효율성, 낮은 지연 시간, 신뢰성을 위해 설계된 새로운 제미나이 모델인 3.6 Flash, 3.5 Flash-Lite, 3.5 Flash Cyber를 출시 • Gemini 3.6 Flash는 3.5 Flash에 비해…",
-    "tags": [],
-    "score": 0.74
-  },
-  {
-    "date": "2026-07-22",
-    "source": "PyTorch KR",
-    "title": "Kimi K3, Moonshot AI가 공개한 세계 첫 3T급 오픈 웨이트 모델 (전체 가중치 공개는 7월 27일 예정)",
-    "url": "https://discuss.pytorch.kr/t/kimi-k3-moonshot-ai-3t-7-27/11301",
-    "summary": "문샷 AI의 세계 첫 오픈 3T급 모델 Kimi K3 소개1536×1024 275 KB Kimi K3 소개 Kimi를 만드는 문샷 AI(Moonshot AI)가 자사 최고 성능 모델인 Kimi K3 를 공개했습니다. Kimi K3는 2.8조…",
-    "tags": [
-      "llm",
-      "agent",
-      "open-weights",
-      "moe"
     ],
     "score": 0.71
   }
