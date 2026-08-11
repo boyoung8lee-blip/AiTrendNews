@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-08-12",
+    "source": "GeekNews",
+    "title": "프로그래밍 언어가 코딩 에이전트의 토큰 효율과 정확성에 미치는 영향",
+    "url": "https://news.hada.io/topic?id=32378",
+    "summary": "Zstd와 Pandoc 구현 평가에서는 동적 언어가 정적 언어보다 토큰 효율적이라는 기존의 강한 관계가 재현되지 않았으며, 과제와 추론 노력 수준에 따라 정확도·비용·시간 순위가 달라짐 70~109토큰으로 풀리는 Rosetta Code 같은 소형…",
+    "tags": [],
+    "score": 0.79
+  },
+  {
+    "date": "2026-08-12",
+    "source": "GeekNews",
+    "title": "OpenChamber - AI 코딩을 위한 에이전트 개발 환경",
+    "url": "https://news.hada.io/topic?id=32381",
+    "summary": "OpenChamber는 작업 목표 설정부터 다중 모델 실행, 코드 변경 검토, 앱 미리보기, GitHub 워크플로까지 한곳에 통합한 개발 환경임 Session Goals는 앱을 닫아도 목표 달성을 위한 작업을 이어가며, Multi-run and…",
+    "tags": [],
+    "score": 0.72
+  },
+  {
+    "date": "2026-08-12",
+    "source": "PyTorch KR",
+    "title": "과기정통부와 KISA가 발간한 AI 보안 레드티밍 가이드, AI 레드팀 구성부터 결과 보고까지 [국문/PDF/69p]",
+    "url": "https://discuss.pytorch.kr/t/kisa-ai-ai-pdf-69p/11535",
+    "summary": "AI 보안 레드티밍 가이드, 준비와 이행, 결과 보고 3단계로 정리한 AI 레드팀 절차1536×1024 200 KB AI 보안 레드티밍 가이드 소개 AI 보안 레드티밍 가이드는 과학기술정보통신부와 한국인터넷진흥원(KISA)이 2026년 7월에 발간한…",
+    "tags": [
+      "agent",
+      "ai-security",
+      "guide",
+      "prompt-injection"
+    ],
+    "score": 0.67
+  },
+  {
     "date": "2026-08-11",
     "source": "PyTorch KR",
     "title": "anydoc: 오피스 문서를 LLM이 읽을 Markdown으로 5밀리초 안에 바꾸는 Rust 라이브러리",
@@ -626,37 +658,5 @@
       "macos"
     ],
     "score": 0.64
-  },
-  {
-    "date": "2026-07-23",
-    "source": "GeekNews",
-    "title": "Jack Dorsey, 팀 채팅·AI 에이전트·Git 호스팅을 결합한 Buzz 출시",
-    "url": "https://news.hada.io/topic?id=31701",
-    "summary": "Block이 직원과 AI 에이전트, 대화, 소프트웨어 저장소를 하나의 신원 체계로 연결하는 오픈소스 워크스페이스 Buzz를 출시해 Slack과 GitHub 의존도를 줄이려 함 메시지·반응·워크플로 단계·코드 이벤트·승인을 서명된 Nostr 이벤트로…",
-    "tags": [],
-    "score": 0.89
-  },
-  {
-    "date": "2026-07-23",
-    "source": "GeekNews",
-    "title": "OpenMMO - AI Agent와 인간 플레이어가 동등하게 대우받는 MMORPG",
-    "url": "https://news.hada.io/topic?id=31687",
-    "summary": "엑스엘게임즈 창업자 송재경님이 공개한 1인 프로젝트입니다. 특징: Agent-인간 동등성 : Agent와 인간 플레이어는 완전히 동일한 WebSocket 프로토콜을 사용합니다. 별도의 API나 엔드포인트가 필요하지 않습니다. 서버는 Agent와…",
-    "tags": [],
-    "score": 0.82
-  },
-  {
-    "date": "2026-07-23",
-    "source": "PyTorch KR",
-    "title": "PIKE-RAG: 전문 지식과 추론으로 정확도를 높인 Microsoft의 산업용 RAG 프레임워크",
-    "url": "https://discuss.pytorch.kr/t/pike-rag-microsoft-rag/11323",
-    "summary": "PIKE-RAG: 전문 지식과 추론으로 정확도를 높인 Microsoft의 산업용 RAG 프레임워크1536×1024 231 KB PIKE-RAG 소개 PIKE-RAG는 검색 증강 생성(RAG)이 전문 분야의 복잡한 질의에서 겪는 한계를 해결하기 위해…",
-    "tags": [
-      "rag",
-      "mit-license",
-      "microsoft",
-      "knowledge-graph"
-    ],
-    "score": 0.71
   }
 ]
