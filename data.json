@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-08-14",
+    "source": "GeekNews",
+    "title": "DeepSeek Harness - 모든 구성 요소를 플러그인으로 만든 오픈소스 코딩 에이전트",
+    "url": "https://news.hada.io/topic?id=32474",
+    "summary": "핵심은 “Everything is a Plugin” 구조로, Model Adapter와 Tool뿐 아니라 Session Log, Agent Loop 자체까지 플러그인으로 구성 고정된 Core를 직접 수정하는 대신 필요한 플러그인을 추가하거나 기존…",
+    "tags": [],
+    "score": 0.98
+  },
+  {
+    "date": "2026-08-14",
+    "source": "GeekNews",
+    "title": "Unsloth Desktop - 로컬 AI 모델 실행/학습/에이전트를 하나로 묶은 오픈소스 앱",
+    "url": "https://news.hada.io/topic?id=32455",
+    "summary": "빠른 파인튜닝 도구 Unsloth가 Desktop 버전을 출시 LLM뿐 아니라 diffusion 이미지/비디오, embedding, vision, TTS/STT 모델을 실행/학습하며, GGUF/MLX/safetensors 포맷 지원…",
+    "tags": [],
+    "score": 0.77
+  },
+  {
+    "date": "2026-08-14",
+    "source": "PyTorch KR",
+    "title": "Skill Recorder: Microsoft가 공개한, 화면 녹화를 에이전트 스킬로 바꾸는 도구",
+    "url": "https://discuss.pytorch.kr/t/skill-recorder-microsoft/11606",
+    "summary": "Skill Recorder: Microsoft가 공개한, 화면 녹화를 에이전트 스킬로 바꾸는 도구1536×1024 226 KB Skill Recorder 소개 에이전트에게 반복 업무를 맡기려면 그 업무의 절차를 글로 옮겨 적어야 합니다. 문제는 손에…",
+    "tags": [
+      "mit-license",
+      "agent-skills",
+      "github-copilot",
+      "electron"
+    ],
+    "score": 0.63
+  },
+  {
     "date": "2026-08-13",
     "source": "GeekNews",
     "title": "Show GN: LiteDeck – EC2부터 홈서버까지, SSH 포트 하나로 Claude·Codex와 함께 개발 및 모니터링하기",
@@ -621,37 +653,5 @@
       "ai-design"
     ],
     "score": 0.72
-  },
-  {
-    "date": "2026-07-25",
-    "source": "GeekNews",
-    "title": "Show GN: ADHDev 1.0 - 로컬 코딩 에이전트를 웹/모바일에서 제어하고 병렬 작업 후 자동 병합하는 도구",
-    "url": "https://news.hada.io/topic?id=31773",
-    "summary": "안녕하세요, ADHDev 만든 개발자입니다. 스탠드얼론 에디션은 AGPL로 공개했고, 클라우드 버전으로 운영비를 벌 생각입니다. Claude Code, Codex 같은 터미널 에이전트를 머신 두세 대에서 돌리다 보니 두 가지가 계속 발목을…",
-    "tags": [],
-    "score": 0.85
-  },
-  {
-    "date": "2026-07-25",
-    "source": "GeekNews",
-    "title": "오픈소스 AI에 반대하는 논거가 설득력 없는 이유",
-    "url": "https://news.hada.io/topic?id=31779",
-    "summary": "Kimi K3 공개 이후 오픈소스 AI를 위험한 위협으로 보는 목소리가 커졌지만, 독점 소프트웨어도 오픈소스 기반 위에 구축되며 AI 모델 역시 같은 소프트웨어 제품임 상용 기업은 차별화되지 않는 하위 구성요소를 공동 개발하고 상위 제품에서…",
-    "tags": [],
-    "score": 0.8
-  },
-  {
-    "date": "2026-07-25",
-    "source": "PyTorch KR",
-    "title": "Logo Generator: SVG 로고와 전문가급 쇼케이스를 만드는 Claude Code 스킬",
-    "url": "https://discuss.pytorch.kr/t/logo-generator-svg-claude-code/11295",
-    "summary": "Logo Generator: SVG 로고와 전문가급 쇼케이스를 만드는 Claude Code 스킬1536×1024 200 KB Logo Generator 소개 로고 제작은 보통 디자이너와의 반복적인 협의를 거쳐야 하고, 반대로 AI로 급하게 만든…",
-    "tags": [
-      "claude-code",
-      "gemini",
-      "nano-banana",
-      "image-generation"
-    ],
-    "score": 0.71
   }
 ]
