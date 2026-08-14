@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-08-15",
+    "source": "GeekNews",
+    "title": "넓게 만들고, 좁게 출시하기",
+    "url": "https://news.hada.io/topic?id=32507",
+    "summary": "AI가 구현과 브랜치 분해 비용을 낮추면서, 작업 경계를 처음부터 확정하는 대신 전체 기능을 먼저 구현하고 실제 코드에 드러난 경계에 따라 작은 PR로 나눌 수 있게 됨 설계를 생략하는 방식은 아니며, 계획을 충분히 검증하고 새로운 설계라면 명세를…",
+    "tags": [],
+    "score": 0.77
+  },
+  {
+    "date": "2026-08-15",
+    "source": "GeekNews",
+    "title": "Qwen3.8-27B Upcoming release",
+    "url": "https://news.hada.io/topic?id=32494",
+    "summary": "한국 시간으로 8월 15일 00시에 공개될 것 같습니다. 모델에 대한 내용은 있는데 벤치마크 결과는 아직 공개되지 않은 것 같습니다. 확장 가능한 토큰이 Qwen3.5, Qwen3.6, Qwen3.8-2.4T-A95B 까지는 1,010,000…",
+    "tags": [],
+    "score": 0.67
+  },
+  {
+    "date": "2026-08-15",
+    "source": "PyTorch KR",
+    "title": "9arm-skills: Claude Code에 디버깅 규율과 코드 리뷰 절차를 심는 에이전트 스킬 모음",
+    "url": "https://discuss.pytorch.kr/t/9arm-skills-claude-code/11605",
+    "summary": "9arm-skills: Claude Code에 디버깅 규율과 코드 리뷰 절차를 심는 에이전트 스킬 모음1536×1024 239 KB 9arm-skills 소개 코딩 에이전트에게 버그를 던지면 대개 몇 초 안에 수정안이 돌아옵니다. 곤란한 지점은 그…",
+    "tags": [
+      "claude-code",
+      "coding-agent",
+      "agent-skills",
+      "code-review"
+    ],
+    "score": 0.66
+  },
+  {
     "date": "2026-08-14",
     "source": "GeekNews",
     "title": "DeepSeek Harness - 모든 구성 요소를 플러그인으로 만든 오픈소스 코딩 에이전트",
@@ -621,37 +653,5 @@
     "summary": "엄랭(UmmLang)으로 틱택토 AI를 구현해봤습니다. 엄랭은 변수, 입출력, 조건문, 라인 점프 정도만 제공하는 난해한 프로그래밍 언어로 [ 어어엄어어어,,,,,,,, 식어어어ㅋ 동탄어?준. ] 이러한 생김새를 가지고 있습니다. 반복문이나 함수…",
     "tags": [],
     "score": 0.58
-  },
-  {
-    "date": "2026-07-26",
-    "source": "GeekNews",
-    "title": "Claude Cookbook: 에이전트부터 RAG·멀티모달·운영까지",
-    "url": "https://news.hada.io/topic?id=31793",
-    "summary": "Claude 애플리케이션을 구현하는 실전 가이드와 예제를 모아 에이전트 구축부터 RAG·도구 사용·멀티모달·평가까지 폭넓게 다룸 Claude Agent SDK·Managed Agents 예제에는 멀티에이전트 조율, 세션 관리, 배포, 장애 대응,…",
-    "tags": [],
-    "score": 0.89
-  },
-  {
-    "date": "2026-07-26",
-    "source": "GeekNews",
-    "title": "Show GN: 에이전트의 토큰낭비를 잡는 CLI를 만들었습니다! (공개 트레이스 6,780개)",
-    "url": "https://news.hada.io/topic?id=31802",
-    "summary": "토큰 낭비가 안 보이는 이유는 실패가 아니라 중복이라서입니다 같은 파일 두 번 읽기, 같은 인자로 재시도, 같은 도구 재호출. 그래서 끝난 트레이스를 읽어서 어느 스텝이 이미 한 일을 또 했는지 짚어주는 CLI를 만들었습니다! [써보기] pip…",
-    "tags": [],
-    "score": 0.86
-  },
-  {
-    "date": "2026-07-26",
-    "source": "PyTorch KR",
-    "title": "Hallmark: AI 티가 나지 않는 웹 디자인을 만드는 코딩 에이전트 스킬",
-    "url": "https://discuss.pytorch.kr/t/hallmark-ai/11348",
-    "summary": "Hallmark: AI 티가 나지 않는 웹 디자인을 만드는 코딩 에이전트 스킬1536×1024 240 KB Hallmark 소개 LLM 코딩 에이전트에게 웹페이지 디자인을 맡기면 결과물이 서로 비슷해지는 경향이 있습니다. 같은 그라디언트, 같은 카드…",
-    "tags": [
-      "claude-code",
-      "mit-license",
-      "frontend",
-      "ai-design"
-    ],
-    "score": 0.72
   }
 ]
