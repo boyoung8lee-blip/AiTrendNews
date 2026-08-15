@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-08-16",
+    "source": "GeekNews",
+    "title": "실전 루프 엔지니어링",
+    "url": "https://news.hada.io/topic?id=32519",
+    "summary": "AI 에이전트에 작업을 반복 실행시키는 핵심은 자율성을 높이는 것보다 완료 조건과 제약을 명확히 정의하고, 어떤 판단은 사람이 계속 맡을지 결정하는 데 있음 Claude Code의 /goal 은 측정 가능한 목표가 충족될 때까지 한 작업을 반복하고,",
+    "tags": [],
+    "score": 0.79
+  },
+  {
+    "date": "2026-08-16",
+    "source": "GeekNews",
+    "title": "Google, 동형 암호화로 프라이빗 AI를 실용화",
+    "url": "https://news.hada.io/topic?id=32522",
+    "summary": "Google은 암호화된 데이터를 복호화하지 않고 AI 추론에 활용하는 오픈소스 컴파일러 HEIR를 Private Computing Toolkit에 추가함 동형 암호화를 이용하면 서버가 암호문을 처리해 암호화된 결과를 반환하므로, 사용자 데이터와…",
+    "tags": [],
+    "score": 0.72
+  },
+  {
+    "date": "2026-08-16",
+    "source": "PyTorch KR",
+    "title": "ai-knowledge-graph: 비정형 텍스트에서 지식 그래프를 뽑아 시각화하는 파이썬 도구",
+    "url": "https://discuss.pytorch.kr/t/ai-knowledge-graph/11583",
+    "summary": "ai-knowledge-graph: 비정형 텍스트에서 지식 그래프를 뽑아 시각화하는 파이썬 도구1536×1024 266 KB ai-knowledge-graph 소개 사내 위키나 회의록, 조사 보고서처럼 쌓여만 가는 문서 더미에서 \"무엇이 무엇과…",
+    "tags": [
+      "llm",
+      "knowledge-graph",
+      "ollama",
+      "python"
+    ],
+    "score": 0.6
+  },
+  {
     "date": "2026-08-15",
     "source": "GeekNews",
     "title": "넓게 만들고, 좁게 출시하기",
@@ -616,42 +648,5 @@
       "bug-bounty"
     ],
     "score": 0.64
-  },
-  {
-    "date": "2026-07-27",
-    "source": "PyTorch KR",
-    "title": "OfficeCLI: AI 에이전트가 Word, Excel, PowerPoint 문서를 다루는 명령줄 도구",
-    "url": "https://discuss.pytorch.kr/t/officecli-ai-word-excel-powerpoint/11347",
-    "summary": "OfficeCLI: AI 에이전트가 Word, Excel, PowerPoint 문서를 다루는 명령줄 도구1536×1024 292 KB OfficeCLI 소개 Word, Excel, PowerPoint 파일을 코드로 만들거나 고치는 일은 지금까지…",
-    "tags": [
-      "ai-agent",
-      "mcp-server",
-      "apache-2",
-      "cli"
-    ],
-    "score": 0.69
-  },
-  {
-    "date": "2026-07-27",
-    "source": "PyTorch KR",
-    "title": "video-shotcraft: Claude Code와 Codex를 영상 스튜디오로 바꾸는 AI 스킬",
-    "url": "https://discuss.pytorch.kr/t/video-shotcraft-claude-code-codex-ai/11377",
-    "summary": "video-shotcraft: Claude Code와 Codex를 영상 스튜디오로 바꾸는 AI 스킬1536×1024 317 KB video-shotcraft 소개 제품 홍보 영상을 만들려면 보통 모션 디자이너와 편집 도구, 그리고 촬영·편집·사운드…",
-    "tags": [
-      "claude-code",
-      "agent-skill",
-      "motion-design",
-      "remotion"
-    ],
-    "score": 0.64
-  },
-  {
-    "date": "2026-07-27",
-    "source": "GeekNews",
-    "title": "Show GN: 엄랭으로 틱택토 AI를 만들어 봤습니다.",
-    "url": "https://news.hada.io/topic?id=31827",
-    "summary": "엄랭(UmmLang)으로 틱택토 AI를 구현해봤습니다. 엄랭은 변수, 입출력, 조건문, 라인 점프 정도만 제공하는 난해한 프로그래밍 언어로 [ 어어엄어어어,,,,,,,, 식어어어ㅋ 동탄어?준. ] 이러한 생김새를 가지고 있습니다. 반복문이나 함수…",
-    "tags": [],
-    "score": 0.58
   }
 ]
