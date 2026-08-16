@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-08-17",
+    "source": "GeekNews",
+    "title": "소프트웨어 엔지니어링 기본기가 어느 때보다 중요해짐",
+    "url": "https://news.hada.io/topic?id=32552",
+    "summary": "에이전트 하네스와 모델은 소프트웨어를 구현하는 강력한 도구가 됐지만, 무엇을 어떻게 조합할지 결정하는 엔지니어링 판단력까지 대신하지는 못함 프롬프트로 red/green TDD를 요구하면 작동하고 테스트 가능한 코드를 얻을 수 있으나, 인터페이스와…",
+    "tags": [],
+    "score": 0.83
+  },
+  {
+    "date": "2026-08-17",
+    "source": "GeekNews",
+    "title": "celld - 셀프호스팅 가능한 분산 Durable Objects",
+    "url": "https://news.hada.io/topic?id=32545",
+    "summary": "Deno가 공개한 오픈소스 런타임으로, Cloudflare Workers와 Durable Objects 모델을 자신의 서버에서 실행할 수 있게 함 Cloudflare용 코드를 비교적 적은 변경으로 셀프호스팅하는 것이 목표: 기존 Wrangler…",
+    "tags": [],
+    "score": 0.68
+  },
+  {
+    "date": "2026-08-17",
+    "source": "PyTorch KR",
+    "title": "Gathered Scenes Zine: 사진을 종이 질감의 편집 디자인 작품으로 바꾸는 Codex 스킬",
+    "url": "https://discuss.pytorch.kr/t/gathered-scenes-zine-codex/11607",
+    "summary": "Gathered Scenes Zine: 사진을 종이 질감의 편집 디자인 작품으로 바꾸는 Codex 스킬1536×1024 422 KB Gathered Scenes Zine 소개 이미지 생성 모델에 사진을 넣고 스타일을 입혀 달라고 하면 대개 필터를…",
+    "tags": [
+      "codex",
+      "agent-skills",
+      "image-generation",
+      "non-commercial-license"
+    ],
+    "score": 0.56
+  },
+  {
     "date": "2026-08-16",
     "source": "GeekNews",
     "title": "실전 루프 엔지니어링",
@@ -616,37 +648,5 @@
     "summary": "데이터 분야에 처음 참여한 소프트웨어 개발자가 도구의 이름만 외우지 않고, 데이터의 수집/저장/처리/활용 단계에서 각 도구가 맡는 역할과 연결 관계를 파악하도록 전체 지형을 정리함 데이터 직군은 대략 분석/과학/엔지니어링/머신러닝 유형으로 나뉘며,…",
     "tags": [],
     "score": 0.68
-  },
-  {
-    "date": "2026-07-28",
-    "source": "GeekNews",
-    "title": "Cerebras가 사내 지식 베이스를 구축한 방법",
-    "url": "https://news.hada.io/topic?id=31850",
-    "summary": "Slack/코드 저장소/문서/내부 데이터베이스를 기존 위치에서 직접 수집하는 Cerebras Knowledge를 구축해 출시 3개월 만에 직원/자동화/에이전트로부터 하루 15,000건 이상의 질문을 처리함 모든 데이터를 하나의 도구로 옮기는 대신…",
-    "tags": [],
-    "score": 0.8
-  },
-  {
-    "date": "2026-07-28",
-    "source": "GeekNews",
-    "title": "Show GN: 에이전트를 22개까지 늘렸다가 17개로 줄인 이야기",
-    "url": "https://news.hada.io/topic?id=31873",
-    "summary": "Claude Code로 프로젝트를 여러 개 굴리다 보니 서브에이전트가 계속 늘었습니다. 필요할 때마다 하나씩 만들었더니 22개가 됐습니다. 지난달에 17개로 줄였습니다. 그런데 접을 때 왜 접는지를 안 적어놨습니다. 3개월 뒤에 아카이브 폴더를…",
-    "tags": [],
-    "score": 0.69
-  },
-  {
-    "date": "2026-07-28",
-    "source": "PyTorch KR",
-    "title": "open-kritt: 여러 AI 에이전트로 코드 취약점을 찾는 오픈소스 보안 연구 플랫폼",
-    "url": "https://discuss.pytorch.kr/t/open-kritt-ai/11418",
-    "summary": "open-kritt: 여러 AI 에이전트로 코드 취약점을 찾는 오픈소스 보안 연구 플랫폼1536×1024 239 KB open-kritt 소개 LLM에게 저장소 전체를 던지며 \"여기서 취약점을 찾아줘\" 라고 요청하는 방식은 대개 잘 동작하지…",
-    "tags": [
-      "ai-agent",
-      "agpl-3",
-      "vulnerability",
-      "bug-bounty"
-    ],
-    "score": 0.64
   }
 ]
