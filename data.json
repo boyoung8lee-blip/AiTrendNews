@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-08-18",
+    "source": "GeekNews",
+    "title": "Qwen 3.8 27B는 뛰어나지만 기본 설정에서 지나치게 오래 추론함",
+    "url": "https://news.hada.io/topic?id=32578",
+    "summary": "Alibaba Qwen 연구소의 Qwen 3.8 27B는 Apache 2 라이선스와 비전 기능, 262,144토큰 문맥을 갖췄으며, 17GB 양자화 파일로 노트북에서 코드 작성·도구 호출·이미지 분석을 수행함 기본 추론 강도인 xhigh 는 단순…",
+    "tags": [],
+    "score": 0.72
+  },
+  {
+    "date": "2026-08-18",
+    "source": "GeekNews",
+    "title": "플랫폼 엔지니어링은 여전히 중요함",
+    "url": "https://news.hada.io/topic?id=32569",
+    "summary": "Agentic Coding으로 코드 작성 비용이 크게 낮아졌어도 재사용의 경제성까지 사라진 것은 아님. 매번 전체 스택을 새로 생성하는 것보다 이미 잘 만들어진 하위 플랫폼을 활용해 필요한 부분만 만드는 편이 여전히 저렴함 \"코드 작성 비용이 0으로…",
+    "tags": [],
+    "score": 0.62
+  },
+  {
+    "date": "2026-08-18",
+    "source": "PyTorch KR",
+    "title": "누구나 AI로 신약 발견을 할 수 있는 시대, 신약개발 공익 챌린지가 허깅페이스에 공개되다",
+    "url": "https://discuss.pytorch.kr/t/ai/11625",
+    "summary": "AI가 만든 신약 후보, 과연 믿을 수 있을까? 말라리아 치료제 발굴을 위한 공개 검증 프로젝트, Open Discovery Challenge AI는 이제 하루에도 수천 개의 새로운 분자를 만들어낼 수 있다. 그러나 신약 개발에서 정말 어려운 문제는…",
+    "tags": [
+      "ai",
+      "vidraft",
+      "비드래프트",
+      "신약"
+    ],
+    "score": 0.51
+  },
+  {
     "date": "2026-08-17",
     "source": "GeekNews",
     "title": "소프트웨어 엔지니어링 기본기가 어느 때보다 중요해짐",
@@ -616,37 +648,5 @@
       "local-first"
     ],
     "score": 0.52
-  },
-  {
-    "date": "2026-07-29",
-    "source": "GeekNews",
-    "title": "Show GN: faster-enhancer.c – 안정적인 온디바이스 실시간 음성 잡음제거 C 라이브러리",
-    "url": "https://news.hada.io/topic?id=31910",
-    "summary": "직접 만든 프로젝트임. FastEnhancer-Medium(48 kHz 스트리밍 음성향상 모델)의 런타임을 순수 C로 다시 구현한 라이브러리임 원본 모델: https://github.com/aask1357/fastenhancer (Ahn 외,…",
-    "tags": [],
-    "score": 0.85
-  },
-  {
-    "date": "2026-07-29",
-    "source": "PyTorch KR",
-    "title": "Anthropic이 공개한 Claude Opus 5 프롬프트 작성법 및 Opus 4.8 마이그레이션 가이드",
-    "url": "https://discuss.pytorch.kr/t/anthropic-claude-opus-5-opus-4-8/11439",
-    "summary": "Claude Opus 5 프롬프트 작성 가이드, 응답 분량과 과잉 검증과 서브에이전트 위임1536×1024 216 KB Claude Opus 5 프롬프트 가이드 소개 Anthropic이 공식 문서에 Claude Opus 5 전용 프롬프트 가이드를…",
-    "tags": [
-      "llm",
-      "anthropic",
-      "agent",
-      "claude"
-    ],
-    "score": 0.71
-  },
-  {
-    "date": "2026-07-29",
-    "source": "GeekNews",
-    "title": "개발자를 위한 데이터 도구 지형 가이드",
-    "url": "https://news.hada.io/topic?id=31899",
-    "summary": "데이터 분야에 처음 참여한 소프트웨어 개발자가 도구의 이름만 외우지 않고, 데이터의 수집/저장/처리/활용 단계에서 각 도구가 맡는 역할과 연결 관계를 파악하도록 전체 지형을 정리함 데이터 직군은 대략 분석/과학/엔지니어링/머신러닝 유형으로 나뉘며,…",
-    "tags": [],
-    "score": 0.68
   }
 ]
