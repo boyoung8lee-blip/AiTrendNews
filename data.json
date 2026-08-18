@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-08-19",
+    "source": "GeekNews",
+    "title": "GitHub Copilot이 놓친 수정으로 Snowflake Jira 침해 가능해져",
+    "url": "https://news.hada.io/topic?id=32595",
+    "summary": "Wiz의 자율 보안 도구 Red Agent가 Snowflake 공개 저장소에서 GitHub 이슈 제목만으로 임의 명령을 실행하고 Jira 자격 증명을 탈취할 수 있는 GitHub Actions 취약점을 발견함 2026년 6월 18일 병합된 PR…",
+    "tags": [],
+    "score": 0.82
+  },
+  {
+    "date": "2026-08-19",
+    "source": "GeekNews",
+    "title": "Show GN: Codex 한도 차감 없이 ChatGPT 웹 채팅으로 코딩해보기",
+    "url": "https://news.hada.io/topic?id=32606",
+    "summary": "ChatGPT 웹 채팅은 Codex 한도와 별도로 사용할 수 있습니다. 최근 변경 이후 ChatGPT는 무료 사용자에게도 관대한 (Luna 모델) 채팅 사용량을 제공하고 있습니다. 웹 채팅에는 간단한 코드를 직접 실행할 수 있는 작업 컨테이너 환경도…",
+    "tags": [],
+    "score": 0.69
+  },
+  {
+    "date": "2026-08-19",
+    "source": "PyTorch KR",
+    "title": "Andrew Ng의 AI Engineering Skills Map: 개발자가 갖춰야 할 4가지 핵심 역량들",
+    "url": "https://discuss.pytorch.kr/t/andrew-ng-ai-engineering-skills-map-4/11638",
+    "summary": "Andrew Ng의 AI Engineering Skills Map, 네 갈래 경로가 뻗어 나가는 역량 지도 일러스트1536×1024 186 KB AI Engineering Skills Map 소개 AI Engineering Skills Map은…",
+    "tags": [
+      "coding-agent",
+      "andrew-ng",
+      "ai-engineering",
+      "career"
+    ],
+    "score": 0.58
+  },
+  {
     "date": "2026-08-18",
     "source": "GeekNews",
     "title": "Qwen 3.8 27B는 뛰어나지만 기본 설정에서 지나치게 오래 추론함",
@@ -616,37 +648,5 @@
       "cli"
     ],
     "score": 0.61
-  },
-  {
-    "date": "2026-07-30",
-    "source": "GeekNews",
-    "title": "Ask GN: MCP 도구를 여러 개 붙여 에이전트를 운영하시는 분들 중 중복 실행 겪어보신분 계실까요?",
-    "url": "https://news.hada.io/topic?id=31946",
-    "summary": "공개 벤치마크 트레이스에서 에이전트의 중복 실행을 측정해봤습니다. 같은 도구를 같은 인자로 두 번 호출하고 결과까지 같은 경우를 세는 방식입니다. 6,780개 트레이스에서 8,042건이 나왔는데, 절반 가까이는 작업 완료 선언 반복 같은 것 빼면…",
-    "tags": [],
-    "score": 0.89
-  },
-  {
-    "date": "2026-07-30",
-    "source": "GeekNews",
-    "title": "Superlogical",
-    "url": "https://news.hada.io/topic?id=31959",
-    "summary": "로컬 개발부터 원격 접속, 코딩 에이전트, 백그라운드 작업, 프로덕션 운영까지 하나의 지속적인 세션으로 연결하는 작업 멀티플렉서를 개발 중임 사람의 대화형 작업과 CI·에이전트의 자동 작업이 별도 도구와 로그로 흩어지는 문제를 해결하고, 환경을…",
-    "tags": [],
-    "score": 0.74
-  },
-  {
-    "date": "2026-07-30",
-    "source": "PyTorch KR",
-    "title": "OpenWorker: 채팅이 아닌 완성된 결과물을 만드는 오픈소스 AI 동료 (feat. Andrew Ng)",
-    "url": "https://discuss.pytorch.kr/t/openworker-ai-feat-andrew-ng/11406",
-    "summary": "OpenWorker: 채팅이 아닌 완성된 결과물을 만드는 오픈소스 AI 동료1536×1024 262 KB OpenWorker 소개 OpenWorker는 대화나 초안 작성에서 멈추지 않고 완성된 업무 결과물을 직접 만들어 내는 것을 목표로 하는…",
-    "tags": [
-      "ai-agent",
-      "mcp",
-      "desktop-app",
-      "local-first"
-    ],
-    "score": 0.52
   }
 ]
