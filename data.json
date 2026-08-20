@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-08-21",
+    "source": "GeekNews",
+    "title": "fx - Unix 셸처럼 가볍게 쓰고 임베드할 수 있는 코딩 에이전트",
+    "url": "https://news.hada.io/topic?id=32686",
+    "summary": "Vercel Labs가 만든 작고 빠른 오픈소스 코딩 에이전트 하네스/CLI로, Zig로 작성됐으며 바이너리 크기는 약 7.8MiB Claude Code 같은 무거운 터미널 IDE 형태보다 Unix 셸에 가까운 단순한 인터페이스를 지향하며, 프로젝트…",
+    "tags": [],
+    "score": 0.73
+  },
+  {
+    "date": "2026-08-21",
+    "source": "GeekNews",
+    "title": "일반 텍스트 회계가 꽤 멋진 이유",
+    "url": "https://news.hada.io/topic?id=32684",
+    "summary": "계좌 연결이 불안정한 금융 서비스에서 벗어나 hledger 기반 복식부기로 거래를 직접 관리하고, 순자산·지출·저축률 보고서를 생성함 회계 데이터를 일반 텍스트로 보관하면 편집기·Git·자체 도구·Claude Code로 다룰 수 있고,…",
+    "tags": [],
+    "score": 0.72
+  },
+  {
+    "date": "2026-08-21",
+    "source": "PyTorch KR",
+    "title": "Cindy: Claude Code와 Codex를 작업 도중에 바꿔 가며 쓰는 오픈소스 AI 에이전트 클라이언트",
+    "url": "https://discuss.pytorch.kr/t/cindy-claude-code-codex-ai/11657",
+    "summary": "Cindy: Claude Code와 Codex를 작업 도중에 바꿔 가며 쓰는 오픈소스 AI 에이전트 클라이언트1536×1024 261 KB Cindy 소개 코딩 에이전트를 두 개 이상 쓰다 보면 도구를 바꾸는 순간마다 작업이 처음으로 돌아갑니다.…",
+    "tags": [
+      "claude-code",
+      "ai-agent",
+      "codex",
+      "agent-harness"
+    ],
+    "score": 0.69
+  },
+  {
     "date": "2026-08-20",
     "source": "GeekNews",
     "title": "Show GN: Oh My Portal - 브라우저에서 CLI 에이전트를 원격으로 사용하기",
@@ -616,37 +648,5 @@
       "web-scraping"
     ],
     "score": 0.52
-  },
-  {
-    "date": "2026-08-01",
-    "source": "GeekNews",
-    "title": "DeepSeek-V4-Flash 모델 공개",
-    "url": "https://news.hada.io/topic?id=32016",
-    "summary": "DeepSeek-V4-Flash API 정식 버전이 공개 베타로 출시됐으며, 기존 호출 방식에서 모델 이름만 deepseek-v4-flash로 지정해 사용할 수 있음 에이전트 성능은 V4-Pro-Preview를 크게 앞섰고 Terminal Bench…",
-    "tags": [],
-    "score": 0.85
-  },
-  {
-    "date": "2026-08-01",
-    "source": "GeekNews",
-    "title": "가져갈 수 없는 세션: 추론 API가 만드는 새로운 종속성",
-    "url": "https://news.hada.io/topic?id=32014",
-    "summary": "추론 API가 암호화된 추론·검색 결과·압축 상태·서브에이전트 메시지를 공급자 내부에 숨기면서, 사용자가 보유한 대화 기록은 완전한 세션이 아니라 일부만 보이는 사본이 되고 있음 세션 이식성은 다른 모델에서 같은 출력을 재현하는 것이 아니라, 기존…",
-    "tags": [],
-    "score": 0.69
-  },
-  {
-    "date": "2026-08-01",
-    "source": "PyTorch KR",
-    "title": "html-ppt: 테마 36종과 레이아웃 31종을 갖춘 HTML 프레젠테이션 제작 에이전트 스킬",
-    "url": "https://discuss.pytorch.kr/t/html-ppt-36-31-html/11470",
-    "summary": "html-ppt: 테마 36종과 레이아웃 31종을 갖춘 HTML 프레젠테이션 제작 에이전트 스킬1536×1024 207 KB html-ppt 소개 html-ppt는 AI 코딩 에이전트가 정적 HTML 슬라이드 덱을 만들 때 참고할 테마와 레이아웃,…",
-    "tags": [
-      "claude-code",
-      "mit-license",
-      "agent-skill",
-      "design-system"
-    ],
-    "score": 0.61
   }
 ]
