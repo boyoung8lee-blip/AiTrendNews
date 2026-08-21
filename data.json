@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-08-22",
+    "source": "GeekNews",
+    "title": "인간의 판단은 소프트웨어 공장을 떠나지 않고 위치를 바꿈",
+    "url": "https://news.hada.io/topic?id=32737",
+    "summary": "소프트웨어 공장이 코드 생성을 자동화해도 제품 의도·시스템 설계·품질 기준·최종 배포에는 인간의 판단과 책임이 필요함 Claude Code나 Codex만으로 충분할 수 있지만, 작업을 이벤트 기반 큐로 반복 처리하고 에이전트 사이에 상태·맥락·증거를…",
+    "tags": [],
+    "score": 0.86
+  },
+  {
+    "date": "2026-08-22",
+    "source": "GeekNews",
+    "title": "기능 요청: AGENTS.md 지원",
+    "url": "https://news.hada.io/topic?id=32716",
+    "summary": "Claude Code가 여러 코딩 에이전트의 공통 프로젝트 지침 파일인 AGENTS.md를 읽어, CLAUDE.md를 별도로 복제하지 않아도 코드베이스 맥락을 활용하게 해달라는 요청임 제안된 이중 파일 방식은 CLAUDE.md를 우선 로드하고, 없을…",
+    "tags": [],
+    "score": 0.81
+  },
+  {
+    "date": "2026-08-22",
+    "source": "PyTorch KR",
+    "title": "DeepSeek Harness: 에이전트 루프까지 설정으로 교체하는 플러그인 구조의 코딩 에이전트",
+    "url": "https://discuss.pytorch.kr/t/deepseek-harness/11628",
+    "summary": "DeepSeek Harness: 에이전트 루프까지 설정으로 교체하는 플러그인 구조의 코딩 에이전트1536×1024 206 KB DeepSeek Harness 소개 코딩 에이전트를 자기 환경에 맞게 고쳐 쓰려는 사람은 대체로 같은 자리에서 멈춥니다.…",
+    "tags": [
+      "coding-agent",
+      "agent-framework",
+      "typescript",
+      "deepseek"
+    ],
+    "score": 0.66
+  },
+  {
     "date": "2026-08-21",
     "source": "GeekNews",
     "title": "fx - Unix 셸처럼 가볍게 쓰고 임베드할 수 있는 코딩 에이전트",
@@ -616,37 +648,5 @@
       "open-weights"
     ],
     "score": 0.68
-  },
-  {
-    "date": "2026-08-02",
-    "source": "GeekNews",
-    "title": "수학과 이론 컴퓨터 과학의 10가지 진전",
-    "url": "https://news.hada.io/topic?id=32038",
-    "summary": "최소 10년간 핵심 진전이 없던 공개 문제 10개에서 OpenAI의 차기 주요 모델 Astra 내부 버전이 새로운 결과를 생성했으며, 고차원 기하학부터 양자 복잡도와 격자 암호까지 폭넓게 다룸 해법 탐색에는 Sol API 요금 기준 약 2,000달러…",
-    "tags": [],
-    "score": 0.76
-  },
-  {
-    "date": "2026-08-02",
-    "source": "GeekNews",
-    "title": "Claude 사이버보안 평가가 실제 조직 3곳을 침해한 사건",
-    "url": "https://news.hada.io/topic?id=32043",
-    "summary": "Anthropic이 인터넷 접근 가능성이 있던 Claude 평가 141,006회를 검토한 결과, 제3자 평가 환경을 거쳐 실제 조직 3곳의 프로덕션 인프라에 무단 접근한 사건 3건을 확인함 Claude는 인터넷이 차단된 시뮬레이션이라는 프롬프트를…",
-    "tags": [],
-    "score": 0.7
-  },
-  {
-    "date": "2026-08-02",
-    "source": "PyTorch KR",
-    "title": "SurfSense: 실시간 웹 데이터 커넥터를 갖춘 오픈소스 NotebookLM 대안",
-    "url": "https://discuss.pytorch.kr/t/surfsense-notebooklm/11459",
-    "summary": "SurfSense: 실시간 웹 데이터 커넥터를 갖춘 오픈소스 NotebookLM 대안1536×1024 256 KB SurfSense 소개 SurfSense는 AI 에이전트가 살아 있는 웹 데이터를 끌어다 쓸 수 있게 해주는 오픈소스 리서치…",
-    "tags": [
-      "rag",
-      "mcp-server",
-      "self-hosted",
-      "web-scraping"
-    ],
-    "score": 0.52
   }
 ]
