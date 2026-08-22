@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-08-23",
+    "source": "GeekNews",
+    "title": "TUI를 그만 만드세요",
+    "url": "https://news.hada.io/topic?id=32771",
+    "summary": "LLM 에이전트가 SwiftUI 네이티브 UI를 실용적인 수준으로 생성하면서, 시스템 프로그래머도 개인용 도구를 더 이상 터미널 화면으로 만들 필요가 없어짐 CLI는 자동화와 원격 제어에 대체 불가능하지만, TUI는 스크롤·드래그 앤드 드롭·텍스트…",
+    "tags": [],
+    "score": 0.9
+  },
+  {
+    "date": "2026-08-23",
+    "source": "GeekNews",
+    "title": "Computer Use와 Skills/Files API로 프로덕션 에이전트 구축하기",
+    "url": "https://news.hada.io/topic?id=32754",
+    "summary": "Claude Platform의 Computer Use·Skills API·Files API를 결합하면 소프트웨어 조작부터 조직 지식 적용, 완성된 파일 반환까지 하나의 에이전트 흐름으로 구성할 수 있음 새로운 Browser Use Tool은 페이지…",
+    "tags": [],
+    "score": 0.79
+  },
+  {
+    "date": "2026-08-23",
+    "source": "PyTorch KR",
+    "title": "Oil Motion: AI 생성 영상을 스크롤과 마우스가 제어하는 웹 애니메이션으로 바꾸는 에이전트 스킬",
+    "url": "https://discuss.pytorch.kr/t/oil-motion-ai/11668",
+    "summary": "Oil Motion: AI 생성 영상을 스크롤과 마우스가 제어하는 웹 애니메이션으로 바꾸는 에이전트 스킬1536×1024 206 KB Oil Motion 소개 AI로 만든 영상은 처음부터 끝까지 재생되는 것 말고는 할 수 있는 일이 없습니다. 제품…",
+    "tags": [
+      "mit-license",
+      "agent-skill",
+      "video-generation",
+      "minimax-h3"
+    ],
+    "score": 0.66
+  },
+  {
     "date": "2026-08-22",
     "source": "GeekNews",
     "title": "인간의 판단은 소프트웨어 공장을 떠나지 않고 위치를 바꿈",
@@ -616,37 +648,5 @@
       "autoresearch"
     ],
     "score": 0.76
-  },
-  {
-    "date": "2026-08-03",
-    "source": "GeekNews",
-    "title": "wiff",
-    "url": "https://news.hada.io/topic?id=32056",
-    "summary": "wiff는 diff를 캡처해 구문 강조로 탐색하고 주석을 남길 수 있는 터미널 코드 리뷰 도구임 리뷰를 로컬 세션에 저장하며, 사람은 TUI로, 에이전트는 CLI와 스킬로 같은 세션을 읽고 쓸 수 있음 작업 트리·인덱스·히스토리의 변경 사항을...",
-    "tags": [],
-    "score": 0.83
-  },
-  {
-    "date": "2026-08-03",
-    "source": "GeekNews",
-    "title": "Go 1.27 인터랙티브 투어",
-    "url": "https://news.hada.io/topic?id=32059",
-    "summary": "이번 릴리스는 제네릭 메서드를 중심으로 구조체 리터럴과 타입 추론을 개선하고, 표준 라이브러리·런타임·도구 체계까지 폭넓게 확장함 80바이트 미만 일부 할당은 최대 30% 빨라지고, 할당이 많은 실제 프로그램은 약 1% 성능 향상이 예상되지만…",
-    "tags": [],
-    "score": 0.74
-  },
-  {
-    "date": "2026-08-03",
-    "source": "PyTorch KR",
-    "title": "Kimi K3 모델 가중치 및 기술 문서 공개: 2.8T 오픈 모델의 아키텍처와 학습 레시피 심층 분석",
-    "url": "https://discuss.pytorch.kr/t/kimi-k3-2-8t/11455",
-    "summary": "Kimi K3 기술 문서 공개: 2.8T 오픈 모델의 아키텍처와 학습 레시피1536×1024 276 KB Kimi K3 기술 문서 소개 건물을 더 높이 올리려면 층을 더 쌓는 것만으로는 되지 않습니다. 어느 높이를 넘어서면 기둥의 재질, 배관이 물을…",
-    "tags": [
-      "llm",
-      "paper",
-      "agent",
-      "open-weights"
-    ],
-    "score": 0.68
   }
 ]
