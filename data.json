@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-08-24",
+    "source": "GeekNews",
+    "title": "소프트웨어가 계속 느린 데는 이유가 있다",
+    "url": "https://news.hada.io/topic?id=32798",
+    "summary": "LLM이 최적화 구현 비용을 낮춰도 성능 예산·우선순위와 프로덕션 출시 비용까지 해결하지는 못하므로, 소프트웨어가 더 이상 느릴 이유가 없다는 전제는 현실에서 자주 무너짐 에이전트 작업이 비동기화되고 기능이 늘면서 사용자가 지연을 받아들이는 범위는…",
+    "tags": [],
+    "score": 0.81
+  },
+  {
+    "date": "2026-08-24",
+    "source": "GeekNews",
+    "title": "로컬 LLM이 실제 성능보다 더 멍청하게 느껴지는 이유",
+    "url": "https://news.hada.io/topic?id=32791",
+    "summary": "같은 모델이라도 GPU·추론 엔진·어텐션 구현·양자화 방식이 달라지면 계산 결과가 조금씩 달라지고, 긴 문맥에서는 그 차이가 실제 응답과 도구 호출 실패로 이어질 수 있음 약 10만 토큰의 실제 에이전트 작업 문맥에서 Qwen3.6-27B를 비교한…",
+    "tags": [],
+    "score": 0.76
+  },
+  {
+    "date": "2026-08-24",
+    "source": "PyTorch KR",
+    "title": "IP as Logo: 일관되게 제약조건을 적용하여 일관성있는 기업 IP 마스코트 로고를 만드는 에이전트 스킬",
+    "url": "https://discuss.pytorch.kr/t/ip-as-logo-ip/11687",
+    "summary": "IP as Logo: 3가지 방향과 6장의 후보로 기업 IP 마스코트 로고를 만드는 에이전트 스킬1536×1024 205 KB IP as Logo 소개 이미지 생성 모델로 회사 마스코트를 만들어 본 사람이라면, 문제가 생성 품질이 아니라 일관성이라는…",
+    "tags": [
+      "codex",
+      "agent-skills",
+      "image-generation",
+      "logo-design"
+    ],
+    "score": 0.59
+  },
+  {
     "date": "2026-08-23",
     "source": "GeekNews",
     "title": "TUI를 그만 만드세요",
@@ -616,37 +648,5 @@
       "cli"
     ],
     "score": 0.73
-  },
-  {
-    "date": "2026-08-04",
-    "source": "GeekNews",
-    "title": "개발 도구가 오픈소스여야 하는 이유",
-    "url": "https://news.hada.io/topic?id=32114",
-    "summary": "코딩 에이전트가 소스 수정부터 업스트림 동기화와 유지보수까지 자동화하면서, 자신만의 소프트웨어를 만드는 비용이 크게 낮아짐 소스를 내려받아 로컬 빌드를 만들고 변경 동기를 버전 관리에 기록한 뒤, 매일 업스트림 변경 위로 로컬 수정을 리베이스할 수…",
-    "tags": [],
-    "score": 0.88
-  },
-  {
-    "date": "2026-08-04",
-    "source": "GeekNews",
-    "title": "Bonsai - Jane Street의 UI 라이브러리",
-    "url": "https://news.hada.io/topic?id=32116",
-    "summary": "Bonsai는 Elm에서 일부 영감을 받아 OCaml로 고성능 반응형 웹 애플리케이션을 만드는 UI 라이브러리로, Jane Street의 사내 웹 애플리케이션 대부분에 사용됨 컴포넌트를 순수 함수형 상태 머신으로 구현하며, 상태·증분 계산·렌더링을…",
-    "tags": [],
-    "score": 0.8
-  },
-  {
-    "date": "2026-08-04",
-    "source": "PyTorch KR",
-    "title": "darwin-skill: 평가와 회귀 테스트로 에이전트 스킬을 진화시키는 최적화 루프",
-    "url": "https://discuss.pytorch.kr/t/darwin-skill/11492",
-    "summary": "darwin-skill: 평가와 회귀 테스트로 에이전트 스킬을 진화시키는 최적화 루프1536×1024 249 KB darwin-skill 소개 에이전트 스킬(SKILL.md) 생태계가 빠르게 커지면서 새로운 유지보수 문제가 생겼습니다. Claude…",
-    "tags": [
-      "claude-code",
-      "mit-license",
-      "agent-skills",
-      "autoresearch"
-    ],
-    "score": 0.76
   }
 ]
