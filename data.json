@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-08-25",
+    "source": "GeekNews",
+    "title": "agent.md로 LLM 생성 코드의 품질 높이기",
+    "url": "https://news.hada.io/topic?id=32833",
+    "summary": "2025년에는 컴파일조차 못 하던 LLM이 2026년에는 복잡한 구현과 버그 분석까지 해냈지만, 스파게티 코드와 부족한 주석·구조 탓에 프로덕션에 바로 쓰기 어려웠음 세션마다 반복하던 코드 리뷰 지침을 agent.md에 모아 프롬프트에 자동…",
+    "tags": [],
+    "score": 0.78
+  },
+  {
+    "date": "2026-08-25",
+    "source": "GeekNews",
+    "title": "Show GN: 내 GPU로 어떤 LLM을 돌릴 수 있는지 계산해주는 오픈소스 도구 만들었습니다",
+    "url": "https://news.hada.io/topic?id=32834",
+    "summary": "AI 인프라 견적/자문 일을 하면서 \"이 GPU로 이 모델 돌아가요?\"라는 질문에 매번 VRAM을 손으로 계산해서 답하는 게 반복돼서, 이걸 자동화하는 계산기를 만들어 오픈소스로 공개했습니다. 무엇을 하는지: GPU를 고르면 실행 가능한…",
+    "tags": [],
+    "score": 0.69
+  },
+  {
+    "date": "2026-08-25",
+    "source": "PyTorch KR",
+    "title": "hyperresearch: 읽은 자료를 보관해 다음 리서치에 재사용하는 Claude Code용 16단계 조사 파이프라인",
+    "url": "https://discuss.pytorch.kr/t/hyperresearch-claude-code-16/11646",
+    "summary": "hyperresearch: 읽은 자료를 보관해 다음 리서치에 재사용하는 Claude Code용 16단계 조사 파이프라인1536×1024 236 KB hyperresearch 소개 심층 조사(deep research) 기능을 한 번 써 보면 두 가지가…",
+    "tags": [
+      "claude-code",
+      "agent",
+      "mit-license",
+      "deep-research"
+    ],
+    "score": 0.66
+  },
+  {
     "date": "2026-08-24",
     "source": "GeekNews",
     "title": "소프트웨어가 계속 느린 데는 이유가 있다",
@@ -616,37 +648,5 @@
       "product-launch"
     ],
     "score": 0.65
-  },
-  {
-    "date": "2026-08-05",
-    "source": "GeekNews",
-    "title": "Show GN: 구독형 CLI를 API로 — Gemini/Grok OAuth 프록시",
-    "url": "https://news.hada.io/topic?id=32144",
-    "summary": "ChatGPT의 oauth 정보를 공유하여 OpenAI API와 호환되는 HTTP 프록시를 생성해주는 오픈소스 프로젝트를 애플리케이션 개발에 활용하고 있습니다. 이를 참고하여 다른 CLI 도구에 대해서도 동일한 방식의 프록시를 직접 개발했습니다.…",
-    "tags": [],
-    "score": 0.75
-  },
-  {
-    "date": "2026-08-05",
-    "source": "GeekNews",
-    "title": "Show GN: 코딩 에이전트에 엮어서 진화하는 코드베이스 위키를 만들어봤습니다.",
-    "url": "https://news.hada.io/topic?id=32134",
-    "summary": "코딩 모델을 사용하면서, 이런 생각을 했어요. -> '얘를 더 똑똑하게 부스팅할 방법이 없을까?' -> '내재화된 지식이 없다면, 외부 소스에서 끌어와 쓰면 안 될까?' 해서 고려했던 게 context7 같은 mcp 서버였습니다. 하지만, 유료…",
-    "tags": [],
-    "score": 0.74
-  },
-  {
-    "date": "2026-08-05",
-    "source": "PyTorch KR",
-    "title": "autoskills: 프로젝트 기술 스택을 감지해 AI 에이전트 스킬을 자동 설치하는 CLI",
-    "url": "https://discuss.pytorch.kr/t/autoskills-ai-cli/11489",
-    "summary": "autoskills: 프로젝트 기술 스택을 감지해 AI 에이전트 스킬을 자동 설치하는 CLI1536×1024 239 KB autoskills 소개 Claude Code나 Cursor 같은 AI 코딩 어시스턴트가 스킬(skill) 형태로 확장되면서,…",
-    "tags": [
-      "claude-code",
-      "coding-agent",
-      "agent-skills",
-      "cli"
-    ],
-    "score": 0.73
   }
 ]
