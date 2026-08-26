@@ -1,5 +1,42 @@
 [
   {
+    "date": "2026-08-27",
+    "source": "PyTorch KR",
+    "title": "BrowserCode: 정해진 동작 API 대신 자바스크립트를 작성해 실제 Chrome을 조작하는 브라우저 에이전트",
+    "url": "https://discuss.pytorch.kr/t/browsercode-api-chrome/11714",
+    "summary": "BrowserCode: 정해진 동작 API 대신 자바스크립트를 작성해 실제 Chrome을 조작하는 브라우저 에이전트1536×1024 235 KB BrowserCode 소개 웹을 다루는 AI 에이전트는 대개 정해진 동작 목록을 도구로 받습니다. 클릭,…",
+    "tags": [
+      "coding-agent",
+      "browser-use",
+      "cdp",
+      "bu-bench"
+    ],
+    "score": 0.68
+  },
+  {
+    "date": "2026-08-27",
+    "source": "PyTorch KR",
+    "title": "PandaProbe: 에이전트의 실패를 추적/평가하여 스스로 고치는 자기 치유 하네스를 구현한 오픈소스 플랫폼",
+    "url": "https://discuss.pytorch.kr/t/pandaprobe/11715",
+    "summary": "PandaProbe: 에이전트의 실패를 추적/평가하여 스스로 고치는 자기 치유 하네스를 구현한 오픈소스 플랫폼1536×1024 228 KB PandaProbe 소개 에이전트 애플리케이션을 운영하면 같은 실패를 여러 번 만나게 됩니다. 도구 호출의…",
+    "tags": [
+      "self-hosted",
+      "llmops",
+      "agent-evaluation",
+      "agent-observability"
+    ],
+    "score": 0.67
+  },
+  {
+    "date": "2026-08-27",
+    "source": "GeekNews",
+    "title": "Headlong - 스스로 계속 생각하는 지속형 에이전트를 위한 마이크로 하네스",
+    "url": "https://news.hada.io/topic?id=32906",
+    "summary": "사용자의 요청이 없어도 스스로 계속 생각하고 행동하는 지속형 에이전시를 실험하는 오픈소스 에이전트 하네스 일반 에이전트가 요청을 처리한 뒤 멈추는 것과 달리, 하나의 생각 흐름을 계속 유지하면서 관심사·우선순위·프로젝트를 스스로 정하고 필요하면 먼저…",
+    "tags": [],
+    "score": 0.65
+  },
+  {
     "date": "2026-08-26",
     "source": "GeekNews",
     "title": "Show GN: forge-harness — AI가 쓴 코드를 커밋 전에 막는 Claude Code 게이트 하네스 (오픈소스)",
@@ -616,37 +653,5 @@
       "product-launch"
     ],
     "score": 0.62
-  },
-  {
-    "date": "2026-08-07",
-    "source": "GeekNews",
-    "title": "Muse Code와 Muse Spark 1.2 공개",
-    "url": "https://news.hada.io/topic?id=32213",
-    "summary": "Meta가 대규모 저장소에서 계획 수립부터 코드 작성·검증까지 수행하는 터미널 코딩 에이전트 Muse Code 베타와 기반 모델 Muse Spark 1.2를 공개함 세션 내내 유지되는 여러 비동기 백그라운드 에이전트가 정보 수집과 후속 작업을 분담해…",
-    "tags": [],
-    "score": 0.83
-  },
-  {
-    "date": "2026-08-07",
-    "source": "GeekNews",
-    "title": "Qwen3.8 Max, Agentic Index 종합 1위",
-    "url": "https://news.hada.io/topic?id=32216",
-    "summary": "Qwen3.8 Max가 도구 사용·계획·자율성·복합 문제 해결을 측정하는 Artificial Analysis Agentic Index에서 종합 최고 모델로 평가됨 Agentic Index는 특정 역량과 산업별 성능을 측정하는 Capability…",
-    "tags": [],
-    "score": 0.81
-  },
-  {
-    "date": "2026-08-07",
-    "source": "PyTorch KR",
-    "title": "MiniMax, 영상과 음향을 함께 만드는 33B 옴니모달 모델 H3 웨이트 공개 (단, 한국 사용 금지🫠)",
-    "url": "https://discuss.pytorch.kr/t/minimax-33b-h3/11523",
-    "summary": "MiniMax H3 옴니모달 생성 모델, 텍스트와 이미지, 영상, 음성 입력을 33B 단일 스트림 트랜스포머가 받아 24fps 영상과 스테레오 음향을 함께 만드는 구조1536×1024 286 KB MiniMax H3 소개 MiniMax가 공개한…",
-    "tags": [
-      "multimodal",
-      "open-weights",
-      "vllm",
-      "video-generation"
-    ],
-    "score": 0.61
   }
 ]
