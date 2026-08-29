@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-08-30",
+    "source": "GeekNews",
+    "title": "버그 소문만으로 익스플로잇이 만들어지는 시대",
+    "url": "https://news.hada.io/topic?id=33005",
+    "summary": "OCaml cohttp 6.3.0의 경로 순회 취약점 수정 PR을 공개하자 약 10분 만에 실제 서버로 같은 패턴의 탐색 요청이 들어왔으며, AI 에이전트는 대략적인 취약점 유형만으로 1분 안에 공격 코드를 생성함 에이전트가 상세 패치 없이도…",
+    "tags": [],
+    "score": 0.81
+  },
+  {
+    "date": "2026-08-30",
+    "source": "GeekNews",
+    "title": "LLM 메모리를 만들다 우연히 프로그램 분석 엔진이 된 이야기",
+    "url": "https://news.hada.io/topic?id=33015",
+    "summary": "장시간 취약점 조사에서 폐기된 가정과 그에 의존한 결론이 되살아나는 문제를 해결하려다, 지식을 검색하는 메모리 대신 현재 유효한 분석 상태를 유지하는 Datalog 엔진 Lemmalog를 개발함 LLM은 자연어·코드·디버거 출력을 구조화된 사실로…",
+    "tags": [],
+    "score": 0.64
+  },
+  {
+    "date": "2026-08-30",
+    "source": "PyTorch KR",
+    "title": "Vibe-Research: AI가 의사 결정을 하기 위해 필요한 데이터만 모아 주는 개인용 투자 리서치 대시보드",
+    "url": "https://discuss.pytorch.kr/t/vibe-research-ai/11726",
+    "summary": "Vibe-Research: AI가 의사 결정을 하기 위해 필요한 데이터만 모아 주는 개인용 투자 리서치 대시보드1536×1024 231 KB Vibe-Research 소개 LLM으로 시장 데이터를 다루는 오픈소스 프로젝트는 대부분 파이프라인 끝에…",
+    "tags": [
+      "mcp",
+      "multi-agent",
+      "fastapi",
+      "fintech"
+    ],
+    "score": 0.59
+  },
+  {
     "date": "2026-08-29",
     "source": "GeekNews",
     "title": "백만 마리의 카카포",
@@ -616,37 +648,5 @@
       "product-launch"
     ],
     "score": 0.78
-  },
-  {
-    "date": "2026-08-10",
-    "source": "GeekNews",
-    "title": "내 잘못입니다 — Dark Hours",
-    "url": "https://news.hada.io/topic?id=32306",
-    "summary": "밤하늘의 천체를 안내하는 Dark Hours를 Claude로 제작해 공개했으나, 기존 오픈소스 웹 앱 DarkHours.app과 이름과 기능이 매우 비슷했음 처음에는 이름을 바꾸고 기능을 차별화하려 했지만, 약 한 시간 뒤 기존 프로젝트가 수정한…",
-    "tags": [],
-    "score": 0.8
-  },
-  {
-    "date": "2026-08-10",
-    "source": "GeekNews",
-    "title": "Show GN: Ungate — API 토큰 비용을 지불하는 대신 Cursor에서 Claude 및 ChatGPT 구독 서비스를 이용하세요.",
-    "url": "https://news.hada.io/topic?id=32286",
-    "summary": "Ungate를 사용하면 API 토큰을 위해 별도로 비용을 지불할 필요 없이, Cursor에서 기존 Claude 및 ChatGPT 구독을 그대로 활용할 수 있습니다. 이 프로젝트는 AI 구독 서비스와 API 접근이 필요한 코딩 도구 간의 격차를…",
-    "tags": [],
-    "score": 0.7
-  },
-  {
-    "date": "2026-08-10",
-    "source": "PyTorch KR",
-    "title": "Meta, 터미널 코딩 에이전트 Muse Code와 코딩 특화 모델 Muse Spark 1.2 출시",
-    "url": "https://discuss.pytorch.kr/t/meta-muse-code-muse-spark-1-2/11554",
-    "summary": "Meta, 터미널 코딩 에이전트 Muse Code와 코딩 특화 모델 Muse Spark 1.2 출시1536×1024 261 KB Muse Code와 Muse Spark 1.2 소개 Meta가 터미널에서 동작하는 코딩 에이전트 Muse Code를…",
-    "tags": [
-      "llm",
-      "agent",
-      "coding-agent",
-      "meta"
-    ],
-    "score": 0.6
   }
 ]
