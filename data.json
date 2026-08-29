@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-08-29",
+    "source": "GeekNews",
+    "title": "백만 마리의 카카포",
+    "url": "https://news.hada.io/topic?id=32975",
+    "summary": "LLM 코딩 에이전트가 코드 작성의 희소성을 낮추면서, 개발자들이 공동 기반을 유지하던 오픈소스 생태계가 개인·기업별 소프트웨어가 난립하는 환경으로 이동할 수 있음 판다와 카카포처럼 특정 환경에 최적화된 생물은 변화에 취약하지만, 바퀴벌레와 상어는…",
+    "tags": [],
+    "score": 0.71
+  },
+  {
+    "date": "2026-08-29",
+    "source": "GeekNews",
+    "title": "GLM-5.3, 오픈 웨이트로 공개",
+    "url": "https://news.hada.io/topic?id=32989",
+    "summary": "Z.ai가 복잡한 코딩과 장기 에이전트 작업을 강화한 GLM-5.3의 가중치를 공개해, 자체 환경에 배포하거나 목적에 맞게 미세 조정할 수 있게 함 GLM-5.2와 동일한 기반 모델을 사용하면서 후속 학습만으로 성능을 개선했으며, 자체 Z.ai…",
+    "tags": [],
+    "score": 0.66
+  },
+  {
+    "date": "2026-08-29",
+    "source": "PyTorch KR",
+    "title": "FreeToken: 프론티어급 MoE 모델을 게이밍 데스크톱 수준에서 서빙하기 위한 Edge-Serving에 대한 연구",
+    "url": "https://discuss.pytorch.kr/t/freetoken-moe-edge-serving/11696",
+    "summary": "데이터센터 랙에만 올라가던 초대형 MoE 모델을 개인 데스크톱의 GPU와 CPU, 메모리가 함께 서빙하는 모습을 나타낸 히어로 이미지1536×1024 370 KB FreeToken 소개 가중치는 공개되었지만, 돌릴 수 있는 사람은 따로 있습니다 새로…",
+    "tags": [
+      "llm",
+      "paper",
+      "agent",
+      "local-llm"
+    ],
+    "score": 0.64
+  },
+  {
     "date": "2026-08-28",
     "source": "GeekNews",
     "title": "이력서를 꾸미려 오픈소스 프로젝트를 AI 쓰레기로 뒤덮지 말아 주세요",
@@ -616,37 +648,5 @@
       "meta"
     ],
     "score": 0.6
-  },
-  {
-    "date": "2026-08-09",
-    "source": "GeekNews",
-    "title": "평가 주도 개발 (Eval-driven development)",
-    "url": "https://news.hada.io/topic?id=32257",
-    "summary": "Airbnb는 비결정적 출력과 주관적 정답, 검색·추론·도구 호출의 연쇄 실패를 다루기 위해 평가를 사후 검증이 아닌 핵심 엔지니어링 규율로 취급함 평가 주도 개발(EDD) 은 실제 오류를 발견해 평가 기준으로 만들고 지속적으로 검사하며, 출시…",
-    "tags": [],
-    "score": 0.86
-  },
-  {
-    "date": "2026-08-09",
-    "source": "GeekNews",
-    "title": "AI가 재편하는 차세대 사이버보안 스택",
-    "url": "https://news.hada.io/topic?id=32256",
-    "summary": "AI가 취약점을 찾아 악용하는 속도가 빨라지면서 평균 악용까지 걸리는 시간(TTE) 은 공개 9시간 전인 -9시간까지 줄었고, 공개 전 제로데이로 악용되는 취약점 비율도 5년 전 약 30%에서 현재 80% 이상으로 증가함 보안 조직은 여러 도구를…",
-    "tags": [],
-    "score": 0.75
-  },
-  {
-    "date": "2026-08-09",
-    "source": "PyTorch KR",
-    "title": "Prime Intellect, 컨텍스트를 변수로 다루는 자기개선형 코딩 에이전트 Prime Agent 공개",
-    "url": "https://discuss.pytorch.kr/t/prime-intellect-prime-agent/11544",
-    "summary": "Prime Agent 소개, 컨텍스트를 변수로 다루고 하네스를 스스로 고치는 코딩 에이전트1536×1024 225 KB Prime Agent 소개 Prime Intellect가 공개한 Prime Agent 는 코딩과 장시간 자율 작업을 위한 오픈소스…",
-    "tags": [
-      "opensource",
-      "coding-agent",
-      "llm-agent",
-      "agent-harness"
-    ],
-    "score": 0.62
   }
 ]
