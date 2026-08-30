@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-08-31",
+    "source": "GeekNews",
+    "title": "Tencent Hy4 프리뷰 공개",
+    "url": "https://news.hada.io/topic?id=33023",
+    "summary": "Tencent가 전체 770B·활성 49B 매개변수와 100만 토큰이 넘는 컨텍스트 창을 갖춘 차세대 LLM Hy4 프리뷰를 공개하고 오픈소스로 배포함 코딩·문서 작업·게임 개발·과학 연구 같은 실제 생산성 작업에 초점을 맞췄으며, Tencent...",
+    "tags": [],
+    "score": 0.66
+  },
+  {
+    "date": "2026-08-31",
+    "source": "GeekNews",
+    "title": "Show GN: memnest, 세션이 바뀌어도 AI 코딩 에이전트가 기억을 잃지 않게 하는 로컬 메모리 서비스",
+    "url": "https://news.hada.io/topic?id=33025",
+    "summary": "세션이 끝나면 에이전트가 전부 잊어버리는 게 계속 불편했습니다. 서비스가 어느 포트에서 도는지, 왜 이 라이브러리를 골랐는지, 두 번이나 고친 버그의 해결책이 뭐였는지를 매번 다시 설명하고 있었습니다. 하네스마다 반쪽짜리 메모리 기능이 따로 있긴…",
+    "tags": [],
+    "score": 0.62
+  },
+  {
+    "date": "2026-08-31",
+    "source": "PyTorch KR",
+    "title": "OpenAI의 내부 모델 평가 중 Hugging Face를 해킹한 사건에 대한 조사 보고서 3편 정리: OpenAI, Hugging Face, METR 등",
+    "url": "https://discuss.pytorch.kr/t/openai-hugging-face-3-openai-hugging-face-metr/11734",
+    "summary": "채점기를 속이려 Hugging Face를 뚫은 에이전트 1200대, METR과 Redwood의 독립 조사1536×1024 387 KB METR과 Redwood Research의 독립 조사 소개 2026년 8월 26일, METR과 Redwood…",
+    "tags": [
+      "llm",
+      "openai",
+      "agent",
+      "ai-safety"
+    ],
+    "score": 0.58
+  },
+  {
     "date": "2026-08-30",
     "source": "GeekNews",
     "title": "버그 소문만으로 익스플로잇이 만들어지는 시대",
@@ -611,42 +643,5 @@
       "prompt-injection"
     ],
     "score": 0.67
-  },
-  {
-    "date": "2026-08-11",
-    "source": "PyTorch KR",
-    "title": "anydoc: 오피스 문서를 LLM이 읽을 Markdown으로 5밀리초 안에 바꾸는 Rust 라이브러리",
-    "url": "https://discuss.pytorch.kr/t/anydoc-llm-markdown-5-rust/11552",
-    "summary": "anydoc: 오피스 문서를 LLM이 읽을 Markdown으로 5밀리초 안에 바꾸는 Rust 라이브러리1536×1024 274 KB anydoc 소개 문서를 입력으로 받는 AI 파이프라인은 대체로 같은 자리에서 막힙니다. 사용자가 올리는 파일은…",
-    "tags": [
-      "llm",
-      "rust",
-      "agent-skill",
-      "markdown"
-    ],
-    "score": 0.88
-  },
-  {
-    "date": "2026-08-11",
-    "source": "GeekNews",
-    "title": "Claude Code, Auto mode를 기본 권한 모드로 전환",
-    "url": "https://news.hada.io/topic?id=32365",
-    "summary": "2026년 8월 14일부터 Claude Code의 Pro·Max·Team 신규 세션은 Auto mode로 시작하며, 도구 호출의 위험을 자동 판별해 더 긴 자율 작업과 안전한 실행을 지원함 되돌릴 수 없거나 파괴적이거나 작업 환경 외부를 향하는…",
-    "tags": [],
-    "score": 0.8
-  },
-  {
-    "date": "2026-08-11",
-    "source": "PyTorch KR",
-    "title": "Liquid AI, 휴대폰에서 실행 가능한 온-디바이스 에이전트 모델 LFM2.5-2.6B 공개",
-    "url": "https://discuss.pytorch.kr/t/liquid-ai-lfm2-5-2-6b/11549",
-    "summary": "휴대폰에서 도는 온디바이스 에이전트 모델 LFM2.5-2.6B1536×1024 227 KB LFM2.5-2.6B 소개 Liquid AI가 온디바이스(on-device) 환경에서 에이전트를 직접 돌리는 것을 목표로 만든 2.6B 파라미터 모델…",
-    "tags": [
-      "llm",
-      "agent",
-      "on-device",
-      "product-launch"
-    ],
-    "score": 0.78
   }
 ]
