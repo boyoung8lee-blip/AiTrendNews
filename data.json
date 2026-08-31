@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-09-01",
+    "source": "GeekNews",
+    "title": "NVIDIA-labs OO Agents (NOOA) - Python 클래스로 에이전트를 정의하는 프레임워크",
+    "url": "https://news.hada.io/topic?id=33059",
+    "summary": "에이전트의 상태/기능/프롬프트/입출력 규칙을 하나의 Python 클래스 안에 함께 정의하는 모델 독립적 프레임워크 클래스의 필드는 상태, 메서드는 기능, 독스트링은 프롬프트, 타입 어노테이션은 입출력 계약 역할을 함 일반 Python 코드가 들어…",
+    "tags": [],
+    "score": 0.82
+  },
+  {
+    "date": "2026-09-01",
+    "source": "GeekNews",
+    "title": "mu - 에이전트가 들어 있는 개인 서버",
+    "url": "https://news.hada.io/topic?id=33054",
+    "summary": "메일/채팅/파일/노트/캘린더/연락처/셸과 AI 에이전트를 하나의 Go 바이너리로 직접 운영하는 개인 서버 뉴스/웹 검색/날씨/시장/영상/장소/파일/문서 등 30여 개 서비스와 100여 개 도구를 웹/REST API/CLI/MCP에서 동일하게 제공…",
+    "tags": [],
+    "score": 0.78
+  },
+  {
+    "date": "2026-09-01",
+    "source": "PyTorch KR",
+    "title": "SlideOps: 저장소로 만든 슬라이드가 코드와 어긋난 시점을 토큰 없이 찾아내는 에이전트 스킬",
+    "url": "https://discuss.pytorch.kr/t/slideops/11769",
+    "summary": "SlideOps: 저장소로 만든 슬라이드가 코드와 어긋난 시점을 토큰 없이 찾아내는 에이전트 스킬1536×1024 204 KB SlideOps 소개 문서를 쓰는 일은 더 이상 병목이 아닙니다. SlideOps를 만든 Gleb Lukicov는 저장소…",
+    "tags": [
+      "claude-code",
+      "agent-skills",
+      "developer-tools",
+      "slides"
+    ],
+    "score": 0.76
+  },
+  {
     "date": "2026-08-31",
     "source": "GeekNews",
     "title": "Tencent Hy4 프리뷰 공개",
@@ -609,38 +641,6 @@
       "codex",
       "agent-skills",
       "code-review"
-    ],
-    "score": 0.67
-  },
-  {
-    "date": "2026-08-12",
-    "source": "GeekNews",
-    "title": "프로그래밍 언어가 코딩 에이전트의 토큰 효율과 정확성에 미치는 영향",
-    "url": "https://news.hada.io/topic?id=32378",
-    "summary": "Zstd와 Pandoc 구현 평가에서는 동적 언어가 정적 언어보다 토큰 효율적이라는 기존의 강한 관계가 재현되지 않았으며, 과제와 추론 노력 수준에 따라 정확도·비용·시간 순위가 달라짐 70~109토큰으로 풀리는 Rosetta Code 같은 소형…",
-    "tags": [],
-    "score": 0.79
-  },
-  {
-    "date": "2026-08-12",
-    "source": "GeekNews",
-    "title": "OpenChamber - AI 코딩을 위한 에이전트 개발 환경",
-    "url": "https://news.hada.io/topic?id=32381",
-    "summary": "OpenChamber는 작업 목표 설정부터 다중 모델 실행, 코드 변경 검토, 앱 미리보기, GitHub 워크플로까지 한곳에 통합한 개발 환경임 Session Goals는 앱을 닫아도 목표 달성을 위한 작업을 이어가며, Multi-run and…",
-    "tags": [],
-    "score": 0.72
-  },
-  {
-    "date": "2026-08-12",
-    "source": "PyTorch KR",
-    "title": "과기정통부와 KISA가 발간한 AI 보안 레드티밍 가이드, AI 레드팀 구성부터 결과 보고까지 [국문/PDF/69p]",
-    "url": "https://discuss.pytorch.kr/t/kisa-ai-ai-pdf-69p/11535",
-    "summary": "AI 보안 레드티밍 가이드, 준비와 이행, 결과 보고 3단계로 정리한 AI 레드팀 절차1536×1024 200 KB AI 보안 레드티밍 가이드 소개 AI 보안 레드티밍 가이드는 과학기술정보통신부와 한국인터넷진흥원(KISA)이 2026년 7월에 발간한…",
-    "tags": [
-      "agent",
-      "ai-security",
-      "guide",
-      "prompt-injection"
     ],
     "score": 0.67
   }
