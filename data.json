@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-09-03",
+    "source": "GeekNews",
+    "title": "Gemini 3.8 Flash와 보안 특화 모델 Flash Cyber 공개",
+    "url": "https://news.hada.io/topic?id=33161",
+    "summary": "Google이 6주 사이 세 번째 Flash 모델을 출시하며, Gemini 3.8 Flash는 장기 코딩·에이전트 작업을, Flash Cyber는 취약점 탐지·자동 패치를 강화함 3.8 Flash는 3.7 Flash와 같은 속도와 도입 가격인 입력…",
+    "tags": [],
+    "score": 0.98
+  },
+  {
+    "date": "2026-09-03",
+    "source": "GeekNews",
+    "title": "TrueForge - LLM을 실제 에이전트로 실행하는 오픈소스 하네스",
+    "url": "https://news.hada.io/topic?id=33138",
+    "summary": "모델 호출부터 도구 사용/샌드박스/승인/컨텍스트/세션까지 에이전트 실행 루프 전체를 관리하는 런타임 에이전트를 직접 구현할 때 필요한 스트리밍, 대화 저장, MCP 연결, 권한 확인과 UI를 한곳에서 처리 내장 채팅 화면과 HTTP…",
+    "tags": [],
+    "score": 0.85
+  },
+  {
+    "date": "2026-09-03",
+    "source": "PyTorch KR",
+    "title": "WikiSkill: 에이전트의 실행 경험을 위키에 쌓아 스킬을 진화시키는 3계층 구조에 대한 연구",
+    "url": "https://discuss.pytorch.kr/t/wikiskill-3/11772",
+    "summary": "WikiSkill의 3계층 작업 공간을 나타낸 그림. 아래에서부터 실행 로그를 봉인해 보관하는 원본 계층, 색인과 패턴 문서로 지식을 누적하는 위키 계층, 실행 가능한 절차 문서를 담는 스킬 계층이 쌓여 있고 왼쪽 화살표가 순환을…",
+    "tags": [
+      "llm",
+      "paper",
+      "agent",
+      "agent-skills"
+    ],
+    "score": 0.82
+  },
+  {
     "date": "2026-09-02",
     "source": "GeekNews",
     "title": "ChatGPT Work 도구와 스킬 레퍼런스",
@@ -611,37 +643,5 @@
       "code-review"
     ],
     "score": 0.66
-  },
-  {
-    "date": "2026-08-14",
-    "source": "GeekNews",
-    "title": "DeepSeek Harness - 모든 구성 요소를 플러그인으로 만든 오픈소스 코딩 에이전트",
-    "url": "https://news.hada.io/topic?id=32474",
-    "summary": "핵심은 “Everything is a Plugin” 구조로, Model Adapter와 Tool뿐 아니라 Session Log, Agent Loop 자체까지 플러그인으로 구성 고정된 Core를 직접 수정하는 대신 필요한 플러그인을 추가하거나 기존…",
-    "tags": [],
-    "score": 0.98
-  },
-  {
-    "date": "2026-08-14",
-    "source": "GeekNews",
-    "title": "Unsloth Desktop - 로컬 AI 모델 실행/학습/에이전트를 하나로 묶은 오픈소스 앱",
-    "url": "https://news.hada.io/topic?id=32455",
-    "summary": "빠른 파인튜닝 도구 Unsloth가 Desktop 버전을 출시 LLM뿐 아니라 diffusion 이미지/비디오, embedding, vision, TTS/STT 모델을 실행/학습하며, GGUF/MLX/safetensors 포맷 지원…",
-    "tags": [],
-    "score": 0.77
-  },
-  {
-    "date": "2026-08-14",
-    "source": "PyTorch KR",
-    "title": "Skill Recorder: Microsoft가 공개한, 화면 녹화를 에이전트 스킬로 바꾸는 도구",
-    "url": "https://discuss.pytorch.kr/t/skill-recorder-microsoft/11606",
-    "summary": "Skill Recorder: Microsoft가 공개한, 화면 녹화를 에이전트 스킬로 바꾸는 도구1536×1024 226 KB Skill Recorder 소개 에이전트에게 반복 업무를 맡기려면 그 업무의 절차를 글로 옮겨 적어야 합니다. 문제는 손에…",
-    "tags": [
-      "mit-license",
-      "agent-skills",
-      "github-copilot",
-      "electron"
-    ],
-    "score": 0.63
   }
 ]
