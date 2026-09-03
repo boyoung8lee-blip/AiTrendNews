@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-09-04",
+    "source": "GeekNews",
+    "title": "zg(zvec-grep) - 키워드를 넘어서는 로컬 검색 인프라",
+    "url": "https://news.hada.io/topic?id=33183",
+    "summary": "Qwen 팀이 사람과 에이전트를 위한 로컬 우선 검색 도구 zg(zvec-grep) 를 오픈소스로 공개함. ripgrep의 정확한 텍스트 검색에 벡터 검색/BM25/하이브리드 검색을 결합해 코드와 문서를 자연어 의도로 탐색하고 정확한 위치까지 좁힐…",
+    "tags": [],
+    "score": 0.78
+  },
+  {
+    "date": "2026-09-04",
+    "source": "PyTorch KR",
+    "title": "AI 에이전트들로 만든 외계 행성 문명 생성 시뮬레이션 공개",
+    "url": "https://discuss.pytorch.kr/t/ai/11777",
+    "summary": "문명은 창발했는가, 암송했는가 — 대조군으로 다시 본 멀티에이전트 \"창발\" VIDRAFT · CIVOS | 라이브 데모: VIDraft/ai-world (Hugging Face Space) | 원문(EN):…",
+    "tags": [
+      "ai",
+      "agent",
+      "비드래프트",
+      "김민식"
+    ],
+    "score": 0.74
+  },
+  {
+    "date": "2026-09-04",
+    "source": "GeekNews",
+    "title": "Claude로 커머스 에이전트 구축하기",
+    "url": "https://news.hada.io/topic?id=33176",
+    "summary": "Anthropic이 소매, 여행, 통신, 티켓 플랫폼에서 쇼핑 에이전트와 판매자 에이전트를 며칠 안에 구축할 수 있는 블루프린트와 Claude Code 플러그인을 공개함 쇼핑 에이전트는 여러 상품이 포함된 자연어 요청을 이해해 카탈로그 검색과 비교,…",
+    "tags": [],
+    "score": 0.73
+  },
+  {
     "date": "2026-09-03",
     "source": "GeekNews",
     "title": "Gemini 3.8 Flash와 보안 특화 모델 Flash Cyber 공개",
@@ -611,37 +643,5 @@
       "python"
     ],
     "score": 0.6
-  },
-  {
-    "date": "2026-08-15",
-    "source": "GeekNews",
-    "title": "넓게 만들고, 좁게 출시하기",
-    "url": "https://news.hada.io/topic?id=32507",
-    "summary": "AI가 구현과 브랜치 분해 비용을 낮추면서, 작업 경계를 처음부터 확정하는 대신 전체 기능을 먼저 구현하고 실제 코드에 드러난 경계에 따라 작은 PR로 나눌 수 있게 됨 설계를 생략하는 방식은 아니며, 계획을 충분히 검증하고 새로운 설계라면 명세를…",
-    "tags": [],
-    "score": 0.77
-  },
-  {
-    "date": "2026-08-15",
-    "source": "GeekNews",
-    "title": "Qwen3.8-27B Upcoming release",
-    "url": "https://news.hada.io/topic?id=32494",
-    "summary": "한국 시간으로 8월 15일 00시에 공개될 것 같습니다. 모델에 대한 내용은 있는데 벤치마크 결과는 아직 공개되지 않은 것 같습니다. 확장 가능한 토큰이 Qwen3.5, Qwen3.6, Qwen3.8-2.4T-A95B 까지는 1,010,000…",
-    "tags": [],
-    "score": 0.67
-  },
-  {
-    "date": "2026-08-15",
-    "source": "PyTorch KR",
-    "title": "9arm-skills: Claude Code에 디버깅 규율과 코드 리뷰 절차를 심는 에이전트 스킬 모음",
-    "url": "https://discuss.pytorch.kr/t/9arm-skills-claude-code/11605",
-    "summary": "9arm-skills: Claude Code에 디버깅 규율과 코드 리뷰 절차를 심는 에이전트 스킬 모음1536×1024 239 KB 9arm-skills 소개 코딩 에이전트에게 버그를 던지면 대개 몇 초 안에 수정안이 돌아옵니다. 곤란한 지점은 그…",
-    "tags": [
-      "claude-code",
-      "coding-agent",
-      "agent-skills",
-      "code-review"
-    ],
-    "score": 0.66
   }
 ]
