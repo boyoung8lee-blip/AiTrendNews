@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-09-05",
+    "source": "GeekNews",
+    "title": "Ask HN: MCP를 프로덕션에서 쓰시는 분 있나요?",
+    "url": "https://news.hada.io/topic?id=33224",
+    "summary": "MCP는 출시 초기 큰 관심을 받았지만 프로덕션 사용 사례는 많이 접하지 못해, 실제 활용 목적과 일반 API, 도구 직접 연동이나 CLI보다 어떤 장점이 있는지 묻는 질문 HN 댓글을 종합하면 MCP는 사내 운영 진단, SaaS 연동, 음성…",
+    "tags": [],
+    "score": 0.79
+  },
+  {
+    "date": "2026-09-05",
+    "source": "GeekNews",
+    "title": "Show GN: FlowSuite - 노코드 화면 자동화, AI 파일 정리 등 윈도우 생산성 도구 모음",
+    "url": "https://news.hada.io/topic?id=33235",
+    "summary": "업무를 하면서 매일 반복되는 단순 웹/시스템 로그인, 엑셀 취합, 지루한 클릭 노가다와 어지러운 다운로드 폴더 정리에 피로감을 느껴 주말마다 틈틈이 직접 만들어 쓰던 윈도우 생산성 유틸리티들을 모아 웹사이트와 함께 정리해 보았습니다. 기존…",
+    "tags": [],
+    "score": 0.76
+  },
+  {
+    "date": "2026-09-05",
+    "source": "PyTorch KR",
+    "title": "img2obj: 참조 이미지를 애니메이션 가능한 Three.js 절차적 코드로 재구성하는 Codex 플러그인",
+    "url": "https://discuss.pytorch.kr/t/img2obj-three-js-codex/11724",
+    "summary": "img2obj: 참조 이미지를 애니메이션 가능한 Three.js 절차적 코드로 재구성하는 Codex 플러그인1536×1024 245 KB img2obj 소개 웹에 3D 오브젝트를 하나 올리려면 보통 모델 파일을 구해 옵니다. 에셋 스토어에서…",
+    "tags": [
+      "codex",
+      "agent-skills",
+      "procedural-generation",
+      "3d-modeling"
+    ],
+    "score": 0.68
+  },
+  {
     "date": "2026-09-04",
     "source": "GeekNews",
     "title": "zg(zvec-grep) - 키워드를 넘어서는 로컬 검색 인프라",
@@ -611,37 +643,5 @@
       "non-commercial-license"
     ],
     "score": 0.56
-  },
-  {
-    "date": "2026-08-16",
-    "source": "GeekNews",
-    "title": "실전 루프 엔지니어링",
-    "url": "https://news.hada.io/topic?id=32519",
-    "summary": "AI 에이전트에 작업을 반복 실행시키는 핵심은 자율성을 높이는 것보다 완료 조건과 제약을 명확히 정의하고, 어떤 판단은 사람이 계속 맡을지 결정하는 데 있음 Claude Code의 /goal 은 측정 가능한 목표가 충족될 때까지 한 작업을 반복하고,",
-    "tags": [],
-    "score": 0.79
-  },
-  {
-    "date": "2026-08-16",
-    "source": "GeekNews",
-    "title": "Google, 동형 암호화로 프라이빗 AI를 실용화",
-    "url": "https://news.hada.io/topic?id=32522",
-    "summary": "Google은 암호화된 데이터를 복호화하지 않고 AI 추론에 활용하는 오픈소스 컴파일러 HEIR를 Private Computing Toolkit에 추가함 동형 암호화를 이용하면 서버가 암호문을 처리해 암호화된 결과를 반환하므로, 사용자 데이터와…",
-    "tags": [],
-    "score": 0.72
-  },
-  {
-    "date": "2026-08-16",
-    "source": "PyTorch KR",
-    "title": "ai-knowledge-graph: 비정형 텍스트에서 지식 그래프를 뽑아 시각화하는 파이썬 도구",
-    "url": "https://discuss.pytorch.kr/t/ai-knowledge-graph/11583",
-    "summary": "ai-knowledge-graph: 비정형 텍스트에서 지식 그래프를 뽑아 시각화하는 파이썬 도구1536×1024 266 KB ai-knowledge-graph 소개 사내 위키나 회의록, 조사 보고서처럼 쌓여만 가는 문서 더미에서 \"무엇이 무엇과…",
-    "tags": [
-      "llm",
-      "knowledge-graph",
-      "ollama",
-      "python"
-    ],
-    "score": 0.6
   }
 ]
