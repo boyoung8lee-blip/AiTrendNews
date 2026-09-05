@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-09-06",
+    "source": "GeekNews",
+    "title": "DHH가 바라본 프로그래밍의 미래: 직접 코딩에서 AI 에이전트 팀 운영으로 [유튜브]",
+    "url": "https://news.hada.io/topic?id=33245",
+    "summary": "최근 AI 발전은 수십 년치 변화에 해당하며, DHH는 Opus 4.5와 에이전트 하네스를 기점으로 AI가 보조 도구에서 문제 해결 전반을 맡는 제작 주체로 바뀌었다고 평가 Omarchy Quattro는 최근 3개월간 코드의 거의 100%를…",
+    "tags": [],
+    "score": 0.84
+  },
+  {
+    "date": "2026-09-06",
+    "source": "GeekNews",
+    "title": "Stave - AWS 설정 사이에 숨어 있는 공격 경로를 찾는 보안 검증 도구",
+    "url": "https://news.hada.io/topic?id=33243",
+    "summary": "AWS 리소스의 설정뿐 아니라 리소스 사이의 권한과 연결 관계를 분석해, 개별 검사에서는 드러나지 않는 복합적인 보안 위험을 찾음 예를 들어 S3의 암호화와 공개 접근 차단이 정상이어도, Bedrock 에이전트 → Lambda → 민감한 S3…",
+    "tags": [],
+    "score": 0.82
+  },
+  {
+    "date": "2026-09-06",
+    "source": "PyTorch KR",
+    "title": "sepia: AI가 작성한 티를 없애기 위해, 어휘 교정 뿐만 아니라 서사 구조까지 종합적으로 살펴보고 개선하는 에이전트 스킬",
+    "url": "https://discuss.pytorch.kr/t/sepia-ai/11813",
+    "summary": "sepia: 어휘 교정이 아니라 서사 구조부터 고치는 AI 글 개고 에이전트 스킬1536×1024 186 KB sepia 소개 AI가 쓴 글을 사람 글처럼 만들어 준다는 도구는 이미 많습니다. 대부분은 단어와 문장 구조를 손봅니다. 상투적인 형용사를…",
+    "tags": [
+      "claude-code",
+      "prompt-engineering",
+      "agent-skills",
+      "ai-writing"
+    ],
+    "score": 0.72
+  },
+  {
     "date": "2026-09-05",
     "source": "GeekNews",
     "title": "Ask HN: MCP를 프로덕션에서 쓰시는 분 있나요?",
@@ -611,37 +643,5 @@
       "신약"
     ],
     "score": 0.51
-  },
-  {
-    "date": "2026-08-17",
-    "source": "GeekNews",
-    "title": "소프트웨어 엔지니어링 기본기가 어느 때보다 중요해짐",
-    "url": "https://news.hada.io/topic?id=32552",
-    "summary": "에이전트 하네스와 모델은 소프트웨어를 구현하는 강력한 도구가 됐지만, 무엇을 어떻게 조합할지 결정하는 엔지니어링 판단력까지 대신하지는 못함 프롬프트로 red/green TDD를 요구하면 작동하고 테스트 가능한 코드를 얻을 수 있으나, 인터페이스와…",
-    "tags": [],
-    "score": 0.83
-  },
-  {
-    "date": "2026-08-17",
-    "source": "GeekNews",
-    "title": "celld - 셀프호스팅 가능한 분산 Durable Objects",
-    "url": "https://news.hada.io/topic?id=32545",
-    "summary": "Deno가 공개한 오픈소스 런타임으로, Cloudflare Workers와 Durable Objects 모델을 자신의 서버에서 실행할 수 있게 함 Cloudflare용 코드를 비교적 적은 변경으로 셀프호스팅하는 것이 목표: 기존 Wrangler…",
-    "tags": [],
-    "score": 0.68
-  },
-  {
-    "date": "2026-08-17",
-    "source": "PyTorch KR",
-    "title": "Gathered Scenes Zine: 사진을 종이 질감의 편집 디자인 작품으로 바꾸는 Codex 스킬",
-    "url": "https://discuss.pytorch.kr/t/gathered-scenes-zine-codex/11607",
-    "summary": "Gathered Scenes Zine: 사진을 종이 질감의 편집 디자인 작품으로 바꾸는 Codex 스킬1536×1024 422 KB Gathered Scenes Zine 소개 이미지 생성 모델에 사진을 넣고 스타일을 입혀 달라고 하면 대개 필터를…",
-    "tags": [
-      "codex",
-      "agent-skills",
-      "image-generation",
-      "non-commercial-license"
-    ],
-    "score": 0.56
   }
 ]
