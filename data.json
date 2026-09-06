@@ -1,5 +1,42 @@
 [
   {
+    "date": "2026-09-07",
+    "source": "GeekNews",
+    "title": "grep이 LSP를 이긴다고? 코딩 에이전트가 더 정교한 도구를 무시하는 이유",
+    "url": "https://news.hada.io/topic?id=33273",
+    "summary": "Claude 모델 3종을 비교한 소규모 실험에서, 코드 구조를 이해하는 LSP 기반 탐색 도구를 제공해도 단순 코드 위치 찾기에는 대부분 grep을 사용했으며 LSP를 먼저 쓰도록 강제하면 성공률이 떨어지기도 함 차이는 검색 정확도뿐 아니라 결과를…",
+    "tags": [],
+    "score": 0.8
+  },
+  {
+    "date": "2026-09-07",
+    "source": "PyTorch KR",
+    "title": "OpenAI GPT-6 Astra 출시: 사이버보안 Critical 등급 첫 도달과 낮아진 CoT 모니터링 가능성",
+    "url": "https://discuss.pytorch.kr/t/openai-gpt-6-astra-critical-cot/11819",
+    "summary": "GPT-6 Astra 출시, 사이버보안 Critical 첫 도달과 낮아진 CoT 모니터링 가능성1536×1024 276 KB GPT-6 Astra 소개 OpenAI가 새로운 프런티어 모델 GPT-6 Astra를 공개했습니다. 컴퓨터 사용, 브라우징,…",
+    "tags": [
+      "llm",
+      "openai",
+      "agent",
+      "ai-safety"
+    ],
+    "score": 0.69
+  },
+  {
+    "date": "2026-09-07",
+    "source": "PyTorch KR",
+    "title": "Goal-Driven: 완료 기준을 검사해 서브 에이전트를 계속 다시 실행하는 다중 에이전트 프롬프트 도구",
+    "url": "https://discuss.pytorch.kr/t/goal-driven/11783",
+    "summary": "Goal-Driven: 완료 기준을 검사해 서브 에이전트를 계속 다시 세우는 다중 에이전트 프롬프트1536×1024 175 KB Goal-Driven 소개 코딩 에이전트에게 규모가 큰 작업을 맡겨 본 사람이라면 익숙한 장면이 있습니다. 에이전트가…",
+    "tags": [
+      "claude-code",
+      "coding-agent",
+      "multi-agent",
+      "prompt-engineering"
+    ],
+    "score": 0.68
+  },
+  {
     "date": "2026-09-06",
     "source": "GeekNews",
     "title": "DHH가 바라본 프로그래밍의 미래: 직접 코딩에서 AI 에이전트 팀 운영으로 [유튜브]",
@@ -611,37 +648,5 @@
       "career"
     ],
     "score": 0.58
-  },
-  {
-    "date": "2026-08-18",
-    "source": "GeekNews",
-    "title": "Qwen 3.8 27B는 뛰어나지만 기본 설정에서 지나치게 오래 추론함",
-    "url": "https://news.hada.io/topic?id=32578",
-    "summary": "Alibaba Qwen 연구소의 Qwen 3.8 27B는 Apache 2 라이선스와 비전 기능, 262,144토큰 문맥을 갖췄으며, 17GB 양자화 파일로 노트북에서 코드 작성·도구 호출·이미지 분석을 수행함 기본 추론 강도인 xhigh 는 단순…",
-    "tags": [],
-    "score": 0.72
-  },
-  {
-    "date": "2026-08-18",
-    "source": "GeekNews",
-    "title": "플랫폼 엔지니어링은 여전히 중요함",
-    "url": "https://news.hada.io/topic?id=32569",
-    "summary": "Agentic Coding으로 코드 작성 비용이 크게 낮아졌어도 재사용의 경제성까지 사라진 것은 아님. 매번 전체 스택을 새로 생성하는 것보다 이미 잘 만들어진 하위 플랫폼을 활용해 필요한 부분만 만드는 편이 여전히 저렴함 \"코드 작성 비용이 0으로…",
-    "tags": [],
-    "score": 0.62
-  },
-  {
-    "date": "2026-08-18",
-    "source": "PyTorch KR",
-    "title": "누구나 AI로 신약 발견을 할 수 있는 시대, 신약개발 공익 챌린지가 허깅페이스에 공개되다",
-    "url": "https://discuss.pytorch.kr/t/ai/11625",
-    "summary": "AI가 만든 신약 후보, 과연 믿을 수 있을까? 말라리아 치료제 발굴을 위한 공개 검증 프로젝트, Open Discovery Challenge AI는 이제 하루에도 수천 개의 새로운 분자를 만들어낼 수 있다. 그러나 신약 개발에서 정말 어려운 문제는…",
-    "tags": [
-      "ai",
-      "vidraft",
-      "비드래프트",
-      "신약"
-    ],
-    "score": 0.51
   }
 ]
