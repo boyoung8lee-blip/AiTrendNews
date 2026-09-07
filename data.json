@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-09-08",
+    "source": "PyTorch KR",
+    "title": "OpenAI가 공개한 GPT-6 Astra 공식 활용 가이드: 자주 되묻는 모델을 끝까지 일하게 하는 프롬프팅과 마이그레이션",
+    "url": "https://discuss.pytorch.kr/t/openai-gpt-6-astra/11846",
+    "summary": "OpenAI GPT-6 Astra 공식 활용 가이드, 자주 되묻는 모델을 끝까지 일하게 하는 프롬프팅과 마이그레이션1536×1024 190 KB GPT-6 Astra 모델 가이드 소개 OpenAI가 GPT-6 Astra 출시와 함께 개발자 문서…",
+    "tags": [
+      "openai",
+      "agent",
+      "guide",
+      "migration"
+    ],
+    "score": 0.89
+  },
+  {
+    "date": "2026-09-08",
+    "source": "GeekNews",
+    "title": "GPT-6 Astra: 하네스가 곧 제품이다",
+    "url": "https://news.hada.io/topic?id=33301",
+    "summary": "같은 GPT-6 Astra도 ARC-AGI-3의 동일한 High 추론 설정에서 하네스에 따라 54.8%와 99.9% 를 기록함. 즉, 장기 실행 에이전트는 모델뿐 아니라 메모리, 도구, 문맥 관리, 제어 루프를 합친 시스템으로 평가해야 함 요청…",
+    "tags": [],
+    "score": 0.65
+  },
+  {
+    "date": "2026-09-08",
+    "source": "GeekNews",
+    "title": "Terence Tao: “AI만으로 수학 문제를 성급하게 푸는 것”의 위험",
+    "url": "https://news.hada.io/topic?id=33326",
+    "summary": "순수수학의 난제는 정답뿐 아니라 해결 과정에서 새로운 통찰과 이론을 만드는 데 가치가 있으며, 과정을 공개하지 않는 AI 단독 해결은 이 역할을 훼손할 수 있음 Navier-Stokes 전역 정칙성 문제를 인간 수학자가 AI와 함께 시행착오를…",
+    "tags": [],
+    "score": 0.61
+  },
+  {
     "date": "2026-09-07",
     "source": "GeekNews",
     "title": "grep이 LSP를 이긴다고? 코딩 에이전트가 더 정교한 도구를 무시하는 이유",
@@ -616,37 +648,5 @@
       "macos"
     ],
     "score": 0.64
-  },
-  {
-    "date": "2026-08-19",
-    "source": "GeekNews",
-    "title": "GitHub Copilot이 놓친 수정으로 Snowflake Jira 침해 가능해져",
-    "url": "https://news.hada.io/topic?id=32595",
-    "summary": "Wiz의 자율 보안 도구 Red Agent가 Snowflake 공개 저장소에서 GitHub 이슈 제목만으로 임의 명령을 실행하고 Jira 자격 증명을 탈취할 수 있는 GitHub Actions 취약점을 발견함 2026년 6월 18일 병합된 PR…",
-    "tags": [],
-    "score": 0.82
-  },
-  {
-    "date": "2026-08-19",
-    "source": "GeekNews",
-    "title": "Show GN: Codex 한도 차감 없이 ChatGPT 웹 채팅으로 코딩해보기",
-    "url": "https://news.hada.io/topic?id=32606",
-    "summary": "ChatGPT 웹 채팅은 Codex 한도와 별도로 사용할 수 있습니다. 최근 변경 이후 ChatGPT는 무료 사용자에게도 관대한 (Luna 모델) 채팅 사용량을 제공하고 있습니다. 웹 채팅에는 간단한 코드를 직접 실행할 수 있는 작업 컨테이너 환경도…",
-    "tags": [],
-    "score": 0.69
-  },
-  {
-    "date": "2026-08-19",
-    "source": "PyTorch KR",
-    "title": "Andrew Ng의 AI Engineering Skills Map: 개발자가 갖춰야 할 4가지 핵심 역량들",
-    "url": "https://discuss.pytorch.kr/t/andrew-ng-ai-engineering-skills-map-4/11638",
-    "summary": "Andrew Ng의 AI Engineering Skills Map, 네 갈래 경로가 뻗어 나가는 역량 지도 일러스트1536×1024 186 KB AI Engineering Skills Map 소개 AI Engineering Skills Map은…",
-    "tags": [
-      "coding-agent",
-      "andrew-ng",
-      "ai-engineering",
-      "career"
-    ],
-    "score": 0.58
   }
 ]
