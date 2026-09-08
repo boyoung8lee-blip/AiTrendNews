@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-09-09",
+    "source": "GeekNews",
+    "title": "Show GN: Hermeum - 팀에 필요한 Hermes agent를 딸깍으로 만들고 배포해주는 오픈소스 플랫폼",
+    "url": "https://news.hada.io/topic?id=33357",
+    "summary": "회사에서 팀 마다 직접 에이전트를 만들고 슬랙에 연동하다 보니 사일로가 늘어나는 게 보였습니다. Hermeum은 이 문제를 해결하기 위해서 시작한 프로젝트입니다. Hermeum은 Hermes agent에 소울(soul), 스킬, mcp, 플러그인,…",
+    "tags": [],
+    "score": 0.88
+  },
+  {
+    "date": "2026-09-09",
+    "source": "GeekNews",
+    "title": "Show GN: /take-my-data - 코딩 에이전트 세션을 로컬에서 정제해 공개 데이터셋으로 기부하는 스킬",
+    "url": "https://news.hada.io/topic?id=33361",
+    "summary": "코딩 에이전트(Claude Code, Codex, Pi, OpenCode) 세션 로그를 기부받아 CC0 공개 데이터셋으로 만드는 도구와 허브입니다. 한국어 에이전트 궤적(툴콜, 가져오기, 테스트 결과가 포함된 세션) 공개 데이터가 거의 없어서…",
+    "tags": [],
+    "score": 0.81
+  },
+  {
+    "date": "2026-09-09",
+    "source": "PyTorch KR",
+    "title": "free PhD labor: 고정된 워크플로우 대신 에이전트가 다음 단계를 정하는 연구 자동화 프레임워크",
+    "url": "https://discuss.pytorch.kr/t/free-phd-labor/11838",
+    "summary": "freephdlabor: 고정된 워크플로우 대신 에이전트가 다음 단계를 정하는 연구 자동화 프레임워크1536×1024 228 KB freephdlabor 소개 지난 1년 사이 연구 과정을 자동화하는 에이전트 시스템이 여럿 나왔지만, 대부분은 아이디어…",
+    "tags": [
+      "multi-agent",
+      "agent-framework",
+      "autoresearch",
+      "research-automation"
+    ],
+    "score": 0.59
+  },
+  {
     "date": "2026-09-08",
     "source": "PyTorch KR",
     "title": "OpenAI가 공개한 GPT-6 Astra 공식 활용 가이드: 자주 되묻는 모델을 끝까지 일하게 하는 프롬프팅과 마이그레이션",
@@ -616,37 +648,5 @@
       "agent-harness"
     ],
     "score": 0.69
-  },
-  {
-    "date": "2026-08-20",
-    "source": "GeekNews",
-    "title": "Show GN: Oh My Portal - 브라우저에서 CLI 에이전트를 원격으로 사용하기",
-    "url": "https://news.hada.io/topic?id=32652",
-    "summary": "CLI 에이전트를 브라우저에서 사용할 수 있게 해주는 스킬 모음 Claude code Codex CLI Gemini CLI OpenCode OMP Portal Tunnel을 이용해 브라우저에서 접근할 수 있는 URL 생성",
-    "tags": [],
-    "score": 0.74
-  },
-  {
-    "date": "2026-08-20",
-    "source": "GeekNews",
-    "title": "GrapheneOS 지원 Motorola 기기, 2027년 출시 예정",
-    "url": "https://news.hada.io/topic?id=32669",
-    "summary": "첫 Motorola 지원 기기는 2027년 출시될 예정이며, Pixel보다 고성능·고가인 플래그십 모델로 시작함 보급형 기기는 업데이트 기간과 보안 기능이 요구 수준에 미치지 못해 지원까지 더 오래 걸리며, 주된 제약은 Qualcomm의 지원 방식임…",
-    "tags": [],
-    "score": 0.73
-  },
-  {
-    "date": "2026-08-20",
-    "source": "PyTorch KR",
-    "title": "phone-harness: Xcode나 WebDriverAgent 없이 AI 에이전트가 실제 아이폰을 조작하는 도구",
-    "url": "https://discuss.pytorch.kr/t/phone-harness-xcode-webdriveragent-ai/11644",
-    "summary": "phone-harness: Xcode나 WebDriverAgent 없이 AI 에이전트가 실제 아이폰을 조작하는 도구1536×1024 259 KB phone-harness 소개 아이폰에서만 되는 일이 아직 많습니다. iOS 전용 앱, 사용자의…",
-    "tags": [
-      "agent",
-      "mit-license",
-      "ocr",
-      "macos"
-    ],
-    "score": 0.64
   }
 ]
