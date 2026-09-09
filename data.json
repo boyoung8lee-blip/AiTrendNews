@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-09-10",
+    "source": "GeekNews",
+    "title": "Desert Ant Labs, 기기에서 직접 음성·이미지·텍스트를 처리하는 빠른 로컬 AI 모델 18개 공개",
+    "url": "https://news.hada.io/topic?id=33446",
+    "summary": "음성 인식, 녹음 음질 개선, 개인정보 가리기 등을 기기 안에서 처리하는 소형 특화 모델 18개를 공개함. 안정 버전 12개와 베타 6개로 구성 반복 작업마다 대형 모델 API를 호출하는 대신 작업에 맞는 작은 모델을 로컬에서 실행해, 서버 왕복과…",
+    "tags": [],
+    "score": 0.75
+  },
+  {
+    "date": "2026-09-10",
+    "source": "GeekNews",
+    "title": "GPT-6 Astra를 위한 스킬과 프롬프트 다시 생각하기",
+    "url": "https://news.hada.io/topic?id=33404",
+    "summary": "코딩 에이전트의 성능 향상으로 과거에 필요했던 세세한 유도와 보조 절차의 필요성이 줄어들었으며, GPT-6 Astra에서는 누적된 Skills/AGENTS.md/작업 프롬프트를 재검토하는 일이 더욱 중요해짐 스킬 설명은 짧고 사용 조건이 명확해야…",
+    "tags": [],
+    "score": 0.66
+  },
+  {
+    "date": "2026-09-10",
+    "source": "PyTorch KR",
+    "title": "Goldie: 코딩 에이전트가 앱을 직접 실행해 앱스토어 스크린샷과 미리보기 영상을 만드는 CLI 도구",
+    "url": "https://discuss.pytorch.kr/t/goldie-cli/11864",
+    "summary": "Goldie: 코딩 에이전트가 앱을 직접 실행해 앱스토어 스크린샷과 미리보기 영상을 만드는 CLI1536×1024 242 KB Goldie 소개 모바일 앱을 스토어에 올릴 때 마지막까지 남는 일은 등록용 이미지입니다. 시뮬레이터를 띄워 화면을 하나씩…",
+    "tags": [
+      "agent-skills",
+      "mobile-app",
+      "app-store",
+      "ios-simulator"
+    ],
+    "score": 0.59
+  },
+  {
     "date": "2026-09-09",
     "source": "GeekNews",
     "title": "Show GN: Hermeum - 팀에 필요한 Hermes agent를 딸깍으로 만들고 배포해주는 오픈소스 플랫폼",
@@ -616,37 +648,5 @@
       "deepseek"
     ],
     "score": 0.66
-  },
-  {
-    "date": "2026-08-21",
-    "source": "GeekNews",
-    "title": "fx - Unix 셸처럼 가볍게 쓰고 임베드할 수 있는 코딩 에이전트",
-    "url": "https://news.hada.io/topic?id=32686",
-    "summary": "Vercel Labs가 만든 작고 빠른 오픈소스 코딩 에이전트 하네스/CLI로, Zig로 작성됐으며 바이너리 크기는 약 7.8MiB Claude Code 같은 무거운 터미널 IDE 형태보다 Unix 셸에 가까운 단순한 인터페이스를 지향하며, 프로젝트…",
-    "tags": [],
-    "score": 0.73
-  },
-  {
-    "date": "2026-08-21",
-    "source": "GeekNews",
-    "title": "일반 텍스트 회계가 꽤 멋진 이유",
-    "url": "https://news.hada.io/topic?id=32684",
-    "summary": "계좌 연결이 불안정한 금융 서비스에서 벗어나 hledger 기반 복식부기로 거래를 직접 관리하고, 순자산·지출·저축률 보고서를 생성함 회계 데이터를 일반 텍스트로 보관하면 편집기·Git·자체 도구·Claude Code로 다룰 수 있고,…",
-    "tags": [],
-    "score": 0.72
-  },
-  {
-    "date": "2026-08-21",
-    "source": "PyTorch KR",
-    "title": "Cindy: Claude Code와 Codex를 작업 도중에 바꿔 가며 쓰는 오픈소스 AI 에이전트 클라이언트",
-    "url": "https://discuss.pytorch.kr/t/cindy-claude-code-codex-ai/11657",
-    "summary": "Cindy: Claude Code와 Codex를 작업 도중에 바꿔 가며 쓰는 오픈소스 AI 에이전트 클라이언트1536×1024 261 KB Cindy 소개 코딩 에이전트를 두 개 이상 쓰다 보면 도구를 바꾸는 순간마다 작업이 처음으로 돌아갑니다.…",
-    "tags": [
-      "claude-code",
-      "ai-agent",
-      "codex",
-      "agent-harness"
-    ],
-    "score": 0.69
   }
 ]
