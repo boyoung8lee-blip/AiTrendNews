@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-09-13",
+    "source": "GeekNews",
+    "title": "Dario에게 보내는 공개서한: 진심이라면 모델 가중치를 공개하라",
+    "url": "https://news.hada.io/topic?id=33595",
+    "summary": "프런티어 AI 개발 속도를 늦추기 위해, 기업이 대중에게 제공하는 모든 AI 모델의 가중치 공개를 법으로 의무화하자고 제안함 공개 의무는 대중에게 제공하는 모델에만 적용하며, 내부용 모델과 연구용 모델은 제외하고 정부의 미출시 모델 접근도 허용함",
+    "tags": [],
+    "score": 0.79
+  },
+  {
+    "date": "2026-09-13",
+    "source": "GeekNews",
+    "title": "젠장, 그래도 만들자",
+    "url": "https://news.hada.io/topic?id=33582",
+    "summary": "프롬프트 하나로 도구와 게임을 만드는 시대가 되면서, 수년간 어렵게 배운 기술과 직접 만든 결과물이 무슨 가치가 있는지 회의가 들 수 있음 LLM이 코드를 잘 만든다는 사실과 그 도구로 프로그래밍하는 일이 즐거운지는 별개이며, 결과물이 내 것처럼…",
+    "tags": [],
+    "score": 0.68
+  },
+  {
+    "date": "2026-09-13",
+    "source": "PyTorch KR",
+    "title": "OpenAI Codex 팀이 권하는 GPT-6 Astra 전환 준비, 스킬 설명은 좁게 AGENTS.md는 조건부로",
+    "url": "https://discuss.pytorch.kr/t/openai-codex-gpt-6-astra-agents-md/11900",
+    "summary": "OpenAI Codex 팀이 정리한 GPT-6 Astra용 스킬 설명과 AGENTS.md 재점검 기준1536×1024 253 KB GPT-6 Astra에 맞춘 스킬과 AGENTS.md 재점검 가이드 소개 OpenAI의 Codex 팀이 2026년 9월…",
+    "tags": [
+      "openai",
+      "codex",
+      "prompt-engineering",
+      "agent-skills"
+    ],
+    "score": 0.49
+  },
+  {
     "date": "2026-09-12",
     "source": "GeekNews",
     "title": "Hugging Face의 security.txt: “우리를 해킹하지 말고 벤치마크나 풀어라”",
@@ -616,37 +648,5 @@
       "deep-research"
     ],
     "score": 0.66
-  },
-  {
-    "date": "2026-08-24",
-    "source": "GeekNews",
-    "title": "소프트웨어가 계속 느린 데는 이유가 있다",
-    "url": "https://news.hada.io/topic?id=32798",
-    "summary": "LLM이 최적화 구현 비용을 낮춰도 성능 예산·우선순위와 프로덕션 출시 비용까지 해결하지는 못하므로, 소프트웨어가 더 이상 느릴 이유가 없다는 전제는 현실에서 자주 무너짐 에이전트 작업이 비동기화되고 기능이 늘면서 사용자가 지연을 받아들이는 범위는…",
-    "tags": [],
-    "score": 0.81
-  },
-  {
-    "date": "2026-08-24",
-    "source": "GeekNews",
-    "title": "로컬 LLM이 실제 성능보다 더 멍청하게 느껴지는 이유",
-    "url": "https://news.hada.io/topic?id=32791",
-    "summary": "같은 모델이라도 GPU·추론 엔진·어텐션 구현·양자화 방식이 달라지면 계산 결과가 조금씩 달라지고, 긴 문맥에서는 그 차이가 실제 응답과 도구 호출 실패로 이어질 수 있음 약 10만 토큰의 실제 에이전트 작업 문맥에서 Qwen3.6-27B를 비교한…",
-    "tags": [],
-    "score": 0.76
-  },
-  {
-    "date": "2026-08-24",
-    "source": "PyTorch KR",
-    "title": "IP as Logo: 일관되게 제약조건을 적용하여 일관성있는 기업 IP 마스코트 로고를 만드는 에이전트 스킬",
-    "url": "https://discuss.pytorch.kr/t/ip-as-logo-ip/11687",
-    "summary": "IP as Logo: 3가지 방향과 6장의 후보로 기업 IP 마스코트 로고를 만드는 에이전트 스킬1536×1024 205 KB IP as Logo 소개 이미지 생성 모델로 회사 마스코트를 만들어 본 사람이라면, 문제가 생성 품질이 아니라 일관성이라는…",
-    "tags": [
-      "codex",
-      "agent-skills",
-      "image-generation",
-      "logo-design"
-    ],
-    "score": 0.59
   }
 ]
