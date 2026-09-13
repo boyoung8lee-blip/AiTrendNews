@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-09-14",
+    "source": "GeekNews",
+    "title": "Real-SWE: 비공개 실무 기업 코드베이스에서 AI 모델을 평가하는 벤치마크",
+    "url": "https://news.hada.io/topic?id=33609",
+    "summary": "Real-SWE는 실제 기업에서 사용 허가를 받은 비공개 프로덕션 코드베이스와 업무를 바탕으로, 코딩 에이전트가 소프트웨어 엔지니어의 실무를 수행할 수 있는지 평가함 모델 단독이 아니라 모델과 기본 하네스의 조합을 평가하며, 과제마다 8회 독립…",
+    "tags": [],
+    "score": 0.71
+  },
+  {
+    "date": "2026-09-14",
+    "source": "GeekNews",
+    "title": "프로그래밍 언어의 몇 가지 좋은 아이디어",
+    "url": "https://news.hada.io/topic?id=33644",
+    "summary": "흐름 타이핑, 차용 검사, 계약 프로그래밍은 각각 타입 추론, 메모리 접근 규칙, 불변식 명시를 통해 프로그램을 다루는 유용한 언어 기능임 Crystal의 흐름 타이핑은 코드 위치에 따라 변수의 타입을 추론하고, 여러 타입이 가능하면 유니온 타입...",
+    "tags": [],
+    "score": 0.61
+  },
+  {
+    "date": "2026-09-14",
+    "source": "PyTorch KR",
+    "title": "OKF Agent Memory: 벡터 DB 없이 Git 저장소의 마크다운으로 AI 코딩 에이전트 기억을 관리하는 도구",
+    "url": "https://discuss.pytorch.kr/t/okf-agent-memory-db-git-ai/11884",
+    "summary": "OKF Agent Memory: 벡터 DB 없이 Git 저장소의 마크다운으로 AI 코딩 에이전트 기억을 관리하는 Go 도구1536×1024 257 KB OKF Agent Memory 소개 코딩 에이전트와 나눈 대화는 컨텍스트 창이 닫히는 순간…",
+    "tags": [
+      "mcp",
+      "coding-agent",
+      "agent-memory",
+      "golang"
+    ],
+    "score": 0.44
+  },
+  {
     "date": "2026-09-13",
     "source": "GeekNews",
     "title": "Dario에게 보내는 공개서한: 진심이라면 모델 가중치를 공개하라",
@@ -616,37 +648,5 @@
       "enterprise-ai"
     ],
     "score": 0.65
-  },
-  {
-    "date": "2026-08-25",
-    "source": "GeekNews",
-    "title": "agent.md로 LLM 생성 코드의 품질 높이기",
-    "url": "https://news.hada.io/topic?id=32833",
-    "summary": "2025년에는 컴파일조차 못 하던 LLM이 2026년에는 복잡한 구현과 버그 분석까지 해냈지만, 스파게티 코드와 부족한 주석·구조 탓에 프로덕션에 바로 쓰기 어려웠음 세션마다 반복하던 코드 리뷰 지침을 agent.md에 모아 프롬프트에 자동…",
-    "tags": [],
-    "score": 0.78
-  },
-  {
-    "date": "2026-08-25",
-    "source": "GeekNews",
-    "title": "Show GN: 내 GPU로 어떤 LLM을 돌릴 수 있는지 계산해주는 오픈소스 도구 만들었습니다",
-    "url": "https://news.hada.io/topic?id=32834",
-    "summary": "AI 인프라 견적/자문 일을 하면서 \"이 GPU로 이 모델 돌아가요?\"라는 질문에 매번 VRAM을 손으로 계산해서 답하는 게 반복돼서, 이걸 자동화하는 계산기를 만들어 오픈소스로 공개했습니다. 무엇을 하는지: GPU를 고르면 실행 가능한…",
-    "tags": [],
-    "score": 0.69
-  },
-  {
-    "date": "2026-08-25",
-    "source": "PyTorch KR",
-    "title": "hyperresearch: 읽은 자료를 보관해 다음 리서치에 재사용하는 Claude Code용 16단계 조사 파이프라인",
-    "url": "https://discuss.pytorch.kr/t/hyperresearch-claude-code-16/11646",
-    "summary": "hyperresearch: 읽은 자료를 보관해 다음 리서치에 재사용하는 Claude Code용 16단계 조사 파이프라인1536×1024 236 KB hyperresearch 소개 심층 조사(deep research) 기능을 한 번 써 보면 두 가지가…",
-    "tags": [
-      "claude-code",
-      "agent",
-      "mit-license",
-      "deep-research"
-    ],
-    "score": 0.66
   }
 ]
