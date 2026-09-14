@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-09-15",
+    "source": "PyTorch KR",
+    "title": "Anthropic, Claude Code 시스템 프롬프트 80% 삭제: Claude 5 세대 컨텍스트 엔지니어링 규칙 6가지",
+    "url": "https://discuss.pytorch.kr/t/anthropic-claude-code-80-claude-5-6/11845",
+    "summary": "Claude Code 시스템 프롬프트의 80%를 삭제한 이유를 다룬 Anthropic 블로그 소개 이미지1536×1024 204 KB Claude 5 세대를 위한 컨텍스트 엔지니어링 규칙 소개 Anthropic은 Claude Code의 시스템…",
+    "tags": [
+      "claude-code",
+      "anthropic",
+      "agent-skills",
+      "guide"
+    ],
+    "score": 0.8
+  },
+  {
+    "date": "2026-09-15",
+    "source": "GeekNews",
+    "title": "OpenArch - LLM 아키텍처를 모델별 한 파일로 구현한 PyTorch 코드 모음",
+    "url": "https://news.hada.io/topic?id=33700",
+    "summary": "Llama, Qwen, DeepSeek 등 LLM의 내부 구조를 코드로 읽고 비교하며 공부할 수 있도록, 각 아키텍처를 하나의 PyTorch 파일로 직접 구현한 저장소 가독성과 학습을 우선하며, 어텐션 유형, 정규화, 계층 구성, MoE 라우팅,…",
+    "tags": [],
+    "score": 0.72
+  },
+  {
+    "date": "2026-09-15",
+    "source": "GeekNews",
+    "title": "Apple Siri의 AI를 Claude와 ChatGPT로 교체할 수 있는 코드 발견",
+    "url": "https://news.hada.io/topic?id=33695",
+    "summary": "iOS 27과 macOS Golden Gate의 비공개 코드에서 Siri에 외부 AI를 연결하거나, 서버 측 모델 자체를 교체할 수 있는 구조가 발견됨 Claude를 확장 기능으로 연결한 시연에서는 Claude가 요청을 해석하고 Siri가 미리…",
+    "tags": [],
+    "score": 0.68
+  },
+  {
     "date": "2026-09-14",
     "source": "GeekNews",
     "title": "Real-SWE: 비공개 실무 기업 코드베이스에서 AI 모델을 평가하는 벤치마크",
@@ -615,38 +647,6 @@
     "url": "https://news.hada.io/topic?id=32906",
     "summary": "사용자의 요청이 없어도 스스로 계속 생각하고 행동하는 지속형 에이전시를 실험하는 오픈소스 에이전트 하네스 일반 에이전트가 요청을 처리한 뒤 멈추는 것과 달리, 하나의 생각 흐름을 계속 유지하면서 관심사·우선순위·프로젝트를 스스로 정하고 필요하면 먼저…",
     "tags": [],
-    "score": 0.65
-  },
-  {
-    "date": "2026-08-26",
-    "source": "GeekNews",
-    "title": "Show GN: forge-harness — AI가 쓴 코드를 커밋 전에 막는 Claude Code 게이트 하네스 (오픈소스)",
-    "url": "https://news.hada.io/topic?id=32868",
-    "summary": "AI 에이전트에게 코드를 맡기면서 「이거 믿어도 되나」를 매번 손으로 확인하는 게 싫어서, 검증을 기계로 굳혀 두는 하네스를 만들고 있습니다. git 훅으로 커밋 직전에 도는 검사들이고, 통과 못 하면 커밋이 멈춥니다. 언어나 프레임워크를 가리지…",
-    "tags": [],
-    "score": 0.79
-  },
-  {
-    "date": "2026-08-26",
-    "source": "GeekNews",
-    "title": "Apple, 성능과 AI 연산을 크게 높인 M6·M5 Ultra 공개",
-    "url": "https://news.hada.io/topic?id=32879",
-    "summary": "새 Mac mini용 M6와 새 Mac Studio용 M5 Ultra가 온디바이스 AI부터 전문 3D·영상·과학 작업까지 데스크톱 연산 범위를 넓힘 Apple 최초의 2nm 칩인 M6는 12코어 CPU·12코어 GPU·Dual 16코어 Neural…",
-    "tags": [],
-    "score": 0.72
-  },
-  {
-    "date": "2026-08-26",
-    "source": "PyTorch KR",
-    "title": "Slack은 어떻게 대화를 조직의 지식으로 바꾸는가: Anthropic이 공개한 사람과 AI 에이전트가 함께 일하는 6가지 원칙 (feat. Claude Tag)",
-    "url": "https://discuss.pytorch.kr/t/slack-anthropic-ai-6-feat-claude-tag/11702",
-    "summary": "비공개 대화에 흩어지던 업무 맥락이 공개 채널에서 사람과 AI 에이전트의 공유 맥락이 되는 인간 에이전트 팀 개념도1536×1024 218 KB 인간 에이전트 팀(Human-Agent Teams) 소개: Slack의 최고제품책임자에게 듣는 실전…",
-    "tags": [
-      "agent",
-      "anthropic",
-      "claude",
-      "enterprise-ai"
-    ],
     "score": 0.65
   }
 ]
