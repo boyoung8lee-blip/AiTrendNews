@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-09-17",
+    "source": "GeekNews",
+    "title": "Dream-RSI: 진화하는 세계를 통한 재귀적 자기 개선",
+    "url": "https://news.hada.io/topic?id=33804",
+    "summary": "Dream-RSI는 코딩 에이전트 자체를 바꾸지 않고, 어느 탐색을 이어가고 병렬화하며 중단할지 결정하는 탐색 정책 코드를 반복적으로 개선하는 프레임워크임 완료된 탐색 이력을 재생 시뮬레이터로 만들어 대안 정책을 저비용으로 평가함. 코딩 에...",
+    "tags": [],
+    "score": 1.0
+  },
+  {
+    "date": "2026-09-17",
+    "source": "GeekNews",
+    "title": "2026년의 추론 하드웨어 혁명",
+    "url": "https://news.hada.io/topic?id=33796",
+    "summary": "LLM 활용 증가에 추론형 모델과 AI 에이전트가 더해지면서, AI 하드웨어의 중심이 대규모 학습에서 급증하는 추론 수요 대응으로 이동하고 있음 추론의 디코드 단계는 토큰을 하나씩 생성하며 모델 가중치와 문맥을 반복해서 읽기 때문에, 연산 능력보다…",
+    "tags": [],
+    "score": 0.69
+  },
+  {
+    "date": "2026-09-17",
+    "source": "PyTorch KR",
+    "title": "Paperthin: 코딩 에이전트가 작업 중 생성한 문서와 코드를 덜어내는 오픈소스 스킬 모음 (28-in-1)",
+    "url": "https://discuss.pytorch.kr/t/paperthin-28-in-1/11921",
+    "summary": "Paperthin: 코딩 에이전트가 늘려놓은 문서와 코드를 덜어내는 스킬 28종1536×1024 210 KB Paperthin 소개 코딩 에이전트에 목표를 하나 던져 주면 에이전트는 대체로 무언가를 더합니다. 파일이 늘고, 옵션이 붙고, 친절해…",
+    "tags": [
+      "claude-code",
+      "coding-agent",
+      "codex",
+      "agent-skills"
+    ],
+    "score": 0.68
+  },
+  {
     "date": "2026-09-16",
     "source": "PyTorch KR",
     "title": "Meta, Muse Spark 1.3 출시: 1M 컨텍스트 검색 55.5점에서 98.1점으로, 코딩 도구 호출 20% 절감",
@@ -616,37 +648,5 @@
       "local-llm"
     ],
     "score": 0.64
-  },
-  {
-    "date": "2026-08-28",
-    "source": "GeekNews",
-    "title": "이력서를 꾸미려 오픈소스 프로젝트를 AI 쓰레기로 뒤덮지 말아 주세요",
-    "url": "https://news.hada.io/topic?id=32957",
-    "summary": "GitHub 기여 기록이 채용에서 평판 자산처럼 쓰이자, LLM으로 PR과 보안 보고서를 손쉽게 만들어 활동을 부풀리는 사례가 늘고 있음 최근 외부 기여는 이슈보다 PR로 들어오는 경우가 많아졌으며, 이슈와 취약점 보고서에도 AI 생성 분석·수정안이…",
-    "tags": [],
-    "score": 0.8
-  },
-  {
-    "date": "2026-08-28",
-    "source": "GeekNews",
-    "title": "Gemini 3.5 Transcribe: 실시간·녹음 음성을 정밀하게 텍스트로 변환",
-    "url": "https://news.hada.io/topic?id=32967",
-    "summary": "Google이 배경 소음과 전문 용어, 말더듬, 자기 수정까지 처리해 정돈된 텍스트로 바꾸는 고정밀 음성-텍스트 모델을 공개함 gemini-3.5-transcribe-live는 Live API에서 1초 미만 지연 시간의 양방향 스트리밍을,…",
-    "tags": [],
-    "score": 0.78
-  },
-  {
-    "date": "2026-08-28",
-    "source": "PyTorch KR",
-    "title": "Effective HTML: 와이어프레임부터 동작하는 프로토타입까지 코딩 에이전트로 만드는 HTML 스킬 6종",
-    "url": "https://discuss.pytorch.kr/t/effective-html-html-6/11725",
-    "summary": "Effective HTML: 와이어프레임부터 동작하는 프로토타입까지 코딩 에이전트로 만드는 HTML 스킬 6종1536×1024 209 KB Effective HTML 소개 코딩 에이전트에게 화면 구조나 배포 계획을 정리해 달라고 하면 대개 마크다운…",
-    "tags": [
-      "claude-code",
-      "codex",
-      "agent-skills",
-      "html"
-    ],
-    "score": 0.65
   }
 ]
