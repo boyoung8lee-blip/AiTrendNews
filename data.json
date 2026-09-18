@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-09-19",
+    "source": "GeekNews",
+    "title": "ZCode 내부 분석: 사용자 모르게 Git 이력을 클라우드에 업로드",
+    "url": "https://news.hada.io/topic?id=33902",
+    "summary": "Zhipu의 AI 코딩 데스크톱 앱 ZCode는 로그인 상태에서 작업 공간을 백그라운드로 압축하고 암호화해 Aliyun OSS로 업로드함. 전체 Git 이력, LFS 캐시, reflog, 전역 앱 설정까지 수집함 암호화에 쓰는 RSA 공개키는 서버가…",
+    "tags": [],
+    "score": 0.74
+  },
+  {
+    "date": "2026-09-19",
+    "source": "GeekNews",
+    "title": "Qwen 3.8 Omni Flash",
+    "url": "https://news.hada.io/topic?id=33884",
+    "summary": "Qwen3.8-Omni-Flash는 텍스트, 이미지, 오디오, 비디오를 입력받아 콘텐츠 이해부터 작업 계획, 도구 호출, 결과물 제작까지 수행하는 네이티브 옴니모달 모델로, 100만 토큰 컨텍스트를 지원함 Qwen 공개 평가에서 이전…",
+    "tags": [],
+    "score": 0.7
+  },
+  {
+    "date": "2026-09-19",
+    "source": "PyTorch KR",
+    "title": "Three.js Game Skills: 코딩 에이전트가 만든 브라우저 게임을 점수표로 검증하는 스킬 9종",
+    "url": "https://discuss.pytorch.kr/t/three-js-game-skills-9/11916",
+    "summary": "Three.js Game Skills: 코딩 에이전트가 만든 브라우저 게임을 점수표로 검증하게 하는 스킬 9종1536×1024 223 KB Three.js Game Skills 소개 코딩 에이전트에게 브라우저 게임을 만들어 달라고 하면 대체로…",
+    "tags": [
+      "claude-code",
+      "coding-agent",
+      "codex",
+      "agent-skills"
+    ],
+    "score": 0.59
+  },
+  {
     "date": "2026-09-18",
     "source": "GeekNews",
     "title": "security-audit - 코딩 에이전트를 보안 감사자로 바꿔주는 스킬",
@@ -616,37 +648,5 @@
       "ai-safety"
     ],
     "score": 0.58
-  },
-  {
-    "date": "2026-08-30",
-    "source": "GeekNews",
-    "title": "버그 소문만으로 익스플로잇이 만들어지는 시대",
-    "url": "https://news.hada.io/topic?id=33005",
-    "summary": "OCaml cohttp 6.3.0의 경로 순회 취약점 수정 PR을 공개하자 약 10분 만에 실제 서버로 같은 패턴의 탐색 요청이 들어왔으며, AI 에이전트는 대략적인 취약점 유형만으로 1분 안에 공격 코드를 생성함 에이전트가 상세 패치 없이도…",
-    "tags": [],
-    "score": 0.81
-  },
-  {
-    "date": "2026-08-30",
-    "source": "GeekNews",
-    "title": "LLM 메모리를 만들다 우연히 프로그램 분석 엔진이 된 이야기",
-    "url": "https://news.hada.io/topic?id=33015",
-    "summary": "장시간 취약점 조사에서 폐기된 가정과 그에 의존한 결론이 되살아나는 문제를 해결하려다, 지식을 검색하는 메모리 대신 현재 유효한 분석 상태를 유지하는 Datalog 엔진 Lemmalog를 개발함 LLM은 자연어·코드·디버거 출력을 구조화된 사실로…",
-    "tags": [],
-    "score": 0.64
-  },
-  {
-    "date": "2026-08-30",
-    "source": "PyTorch KR",
-    "title": "Vibe-Research: AI가 의사 결정을 하기 위해 필요한 데이터만 모아 주는 개인용 투자 리서치 대시보드",
-    "url": "https://discuss.pytorch.kr/t/vibe-research-ai/11726",
-    "summary": "Vibe-Research: AI가 의사 결정을 하기 위해 필요한 데이터만 모아 주는 개인용 투자 리서치 대시보드1536×1024 231 KB Vibe-Research 소개 LLM으로 시장 데이터를 다루는 오픈소스 프로젝트는 대부분 파이프라인 끝에…",
-    "tags": [
-      "mcp",
-      "multi-agent",
-      "fastapi",
-      "fintech"
-    ],
-    "score": 0.59
   }
 ]
