@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-09-20",
+    "source": "GeekNews",
+    "title": "Agent-Native - 하나의 액션을 UI/에이전트/API에서 함께 쓰는 앱 프레임워크",
+    "url": "https://news.hada.io/topic?id=33920",
+    "summary": "기존 앱과 AI 에이전트를 별개로 만들지 않고 하나의 애플리케이션 안에서 같은 기능과 데이터를 공유하게 하는 프레임워크 작업을 defineAction으로 한 번 정의하면 UI, 에이전트 도구, HTTP API, MCP, A2A, CLI에서 같은…",
+    "tags": [],
+    "score": 0.75
+  },
+  {
+    "date": "2026-09-20",
+    "source": "GeekNews",
+    "title": "과학은 오픈 소프트웨어다",
+    "url": "https://news.hada.io/topic?id=33954",
+    "summary": "현대 과학, 적어도 계산과학에서 오픈소스 소프트웨어는 과학 그 자체임. 소프트웨어는 예측 모델을 실행 가능한 형태로 담고 공유하는 수단이기 때문임 재현성은 같은 결과를 반복하는 데 그치지 않음. 다른 사람이 과학적 아이디어를 자신의 모델에 통합하고,…",
+    "tags": [],
+    "score": 0.65
+  },
+  {
+    "date": "2026-09-20",
+    "source": "PyTorch KR",
+    "title": "[A2A 알아보기 3편] A2A CLI: 클라이언트 코드 없이, 터미널에서 A2A 에이전트를 호출하고 띄우는 공식 명령줄 도구",
+    "url": "https://discuss.pytorch.kr/t/a2a-3-a2a-cli-a2a/11894",
+    "summary": "A2A CLI: 클라이언트 코드 없이 터미널에서 A2A 에이전트를 호출하고 띄우는 공식 명령줄 도구1536×1024 164 KB A2A CLI 소개 A2A CLI는 A2A(Agent2Agent) 프로토콜 ( [A2A 알아보기 1편] A2A 프로토콜:…",
+    "tags": [
+      "multi-agent",
+      "developer-tools",
+      "a2a",
+      "agent-protocol"
+    ],
+    "score": 0.56
+  },
+  {
     "date": "2026-09-19",
     "source": "GeekNews",
     "title": "ZCode 내부 분석: 사용자 모르게 Git 이력을 클라우드에 업로드",
@@ -616,37 +648,5 @@
       "slides"
     ],
     "score": 0.76
-  },
-  {
-    "date": "2026-08-31",
-    "source": "GeekNews",
-    "title": "Tencent Hy4 프리뷰 공개",
-    "url": "https://news.hada.io/topic?id=33023",
-    "summary": "Tencent가 전체 770B·활성 49B 매개변수와 100만 토큰이 넘는 컨텍스트 창을 갖춘 차세대 LLM Hy4 프리뷰를 공개하고 오픈소스로 배포함 코딩·문서 작업·게임 개발·과학 연구 같은 실제 생산성 작업에 초점을 맞췄으며, Tencent...",
-    "tags": [],
-    "score": 0.66
-  },
-  {
-    "date": "2026-08-31",
-    "source": "GeekNews",
-    "title": "Show GN: memnest, 세션이 바뀌어도 AI 코딩 에이전트가 기억을 잃지 않게 하는 로컬 메모리 서비스",
-    "url": "https://news.hada.io/topic?id=33025",
-    "summary": "세션이 끝나면 에이전트가 전부 잊어버리는 게 계속 불편했습니다. 서비스가 어느 포트에서 도는지, 왜 이 라이브러리를 골랐는지, 두 번이나 고친 버그의 해결책이 뭐였는지를 매번 다시 설명하고 있었습니다. 하네스마다 반쪽짜리 메모리 기능이 따로 있긴…",
-    "tags": [],
-    "score": 0.62
-  },
-  {
-    "date": "2026-08-31",
-    "source": "PyTorch KR",
-    "title": "OpenAI의 내부 모델 평가 중 Hugging Face를 해킹한 사건에 대한 조사 보고서 3편 정리: OpenAI, Hugging Face, METR 등",
-    "url": "https://discuss.pytorch.kr/t/openai-hugging-face-3-openai-hugging-face-metr/11734",
-    "summary": "채점기를 속이려 Hugging Face를 뚫은 에이전트 1200대, METR과 Redwood의 독립 조사1536×1024 387 KB METR과 Redwood Research의 독립 조사 소개 2026년 8월 26일, METR과 Redwood…",
-    "tags": [
-      "llm",
-      "openai",
-      "agent",
-      "ai-safety"
-    ],
-    "score": 0.58
   }
 ]
