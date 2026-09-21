@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-09-22",
+    "source": "GeekNews",
+    "title": "샤오미, MiMo-V2.6 공개 - 강화학습 과정을 공개한 멀티모달 모델",
+    "url": "https://news.hada.io/topic?id=34085",
+    "summary": "텍스트, 이미지, 영상, 오디오를 함께 이해하고 코딩과 도구 사용, 컴퓨터 조작을 수행하는 모델군으로, 고성능 Pro와 비용 효율적인 Flash를 공개함 Pro는 발표 기준 Artificial Analysis 지능 지수 46.32점으로 공개 모델 중…",
+    "tags": [],
+    "score": 0.79
+  },
+  {
+    "date": "2026-09-22",
+    "source": "GeekNews",
+    "title": "MCP는 처음부터 잘못된 아이디어였다",
+    "url": "https://news.hada.io/topic?id=34059",
+    "summary": "코드를 실행하고 API를 직접 호출할 수 있는 에이전트에는 기존 API를 다시 감싼 MCP 서버가 불필요해졌으며, 필요한 기능이 이미 있는 HTTP API와 CLI를 직접 사용하면 됨 MCP 서버를 늘릴수록 도구 설명과 스키마가 컨텍스트를 과도하게…",
+    "tags": [],
+    "score": 0.78
+  },
+  {
+    "date": "2026-09-22",
+    "source": "PyTorch KR",
+    "title": "OpenArm: 원격 조작부터 학습 정책 평가까지 공개한 오픈소스 양팔 로봇",
+    "url": "https://discuss.pytorch.kr/t/openarm/11947",
+    "summary": "OpenArm: 원격 조작부터 학습 정책 평가까지 공개한 오픈소스 양팔 로봇1536×1024 250 KB OpenArm 소개 로봇 팔로 조작 데이터를 모으는 연구는 팔을 손에 넣었다고 시작되지 않습니다. 사람이 어떤 장치로 팔을 조종해 시연을…",
+    "tags": [
+      "robotics",
+      "physical-ai",
+      "imitation-learning",
+      "robot-arm"
+    ],
+    "score": 0.52
+  },
+  {
     "date": "2026-09-21",
     "source": "GeekNews",
     "title": "Show GN: AutoRAG Agent - 컴퓨터에 있는 모든 것을 검색해주는 에이전트 (파일, 메신저 대화 기록, 이메일, 노션...",
@@ -616,37 +648,5 @@
       "agent-skills"
     ],
     "score": 0.82
-  },
-  {
-    "date": "2026-09-02",
-    "source": "GeekNews",
-    "title": "ChatGPT Work 도구와 스킬 레퍼런스",
-    "url": "https://news.hada.io/topic?id=33127",
-    "summary": "ChatGPT Work와 Codex에서 쓰는 파일 편집·명령 실행·웹 검색·에이전트 협업 도구의 입력 형식과 호출 조건을 한데 정리한 레퍼런스임 자동화는 일정·조건 감시와 Gmail·Slack·GitHub 웹훅을 지원하지만, 개인 시간대 설정,…",
-    "tags": [],
-    "score": 0.88
-  },
-  {
-    "date": "2026-09-02",
-    "source": "PyTorch KR",
-    "title": "Agent Flow: Claude Code와 Codex의 에이전트 실행 과정을 실시간 노드 그래프로 보여주는 도구",
-    "url": "https://discuss.pytorch.kr/t/agent-flow-claude-code-codex/11767",
-    "summary": "Agent Flow: Claude Code와 Codex의 에이전트 실행 과정을 실시간 노드 그래프로 보여주는 도구1536×1024 223 KB Agent Flow 소개 코딩 에이전트에게 작업을 맡기고 나면 한동안 볼 수 있는 것은 스크롤로 흘러가는…",
-    "tags": [
-      "claude-code",
-      "coding-agent",
-      "codex",
-      "observability"
-    ],
-    "score": 0.76
-  },
-  {
-    "date": "2026-09-02",
-    "source": "GeekNews",
-    "title": "Claude Fable 5.1·Claude Mythos 5.1 공개",
-    "url": "https://news.hada.io/topic?id=33129",
-    "summary": "Anthropic이 코딩·지식 노동·장기 문제 해결·과학 연구 성능을 높인 동일한 기반 모델을 공개함. Fable 5.1은 일반 제공하고, 보호 장치를 완화한 Mythos 5.1은 검증된 사이버 보안·생명과학 사용자에게만 제공함 Fable 5.1은…",
-    "tags": [],
-    "score": 0.75
   }
 ]
