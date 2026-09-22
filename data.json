@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-09-23",
+    "source": "GeekNews",
+    "title": "GPT-6 Sol과 Luna 출시",
+    "url": "https://news.hada.io/topic?id=34138",
+    "summary": "GPT-6 Astra의 코딩, 전문 업무, 컴퓨터 사용 능력을 더 빠르고 저렴한 모델로 확장하며, 사실 정확성과 사용자 지시를 따르는 능력도 개선함 API 가격은 이전 GPT-5.6 프로모션 가격보다 절반 수준으로 낮아짐. 100만 토큰당 입력/출력…",
+    "tags": [],
+    "score": 0.77
+  },
+  {
+    "date": "2026-09-23",
+    "source": "GeekNews",
+    "title": "내 하드웨어에서 실행하는 최첨단 AI",
+    "url": "https://news.hada.io/topic?id=34116",
+    "summary": "dlab은 로컬 추론, 에이전트 하네스, 자율 연구 시스템을 하나의 생태계로 묶어 공개할 예정. 소수의 연구자와 GPU만으로 최첨단 연구소와 경쟁할 수 있는 시스템을 만드는 것이 목표 자체 추론 프레임워크는 125B 모델을 단일 24GB GPU에서…",
+    "tags": [],
+    "score": 0.73
+  },
+  {
+    "date": "2026-09-23",
+    "source": "PyTorch KR",
+    "title": "Fast Jev Compaction: 컨텍스트 정리 시, 불필요한 도구 호출 결과를 제외하는 Claude Code 플러그인",
+    "url": "https://discuss.pytorch.kr/t/fast-jev-compaction-claude-code/11970",
+    "summary": "Fast Jev Compaction: 컨텍스트 정리 시, 불필요한 내용 및 도구 호출을 제외하는 Claude Code 플러그인1536×1024 269 KB Fast Jev Compaction 소개 코딩 에이전트와 한 세션을 오래 이어 가면 주고받은…",
+    "tags": [
+      "claude-code",
+      "coding-agent",
+      "plugin",
+      "typesafe-ai"
+    ],
+    "score": 0.53
+  },
+  {
     "date": "2026-09-22",
     "source": "GeekNews",
     "title": "샤오미, MiMo-V2.6 공개 - 강화학습 과정을 공개한 멀티모달 모델",
@@ -616,37 +648,5 @@
     "summary": "Anthropic이 소매, 여행, 통신, 티켓 플랫폼에서 쇼핑 에이전트와 판매자 에이전트를 며칠 안에 구축할 수 있는 블루프린트와 Claude Code 플러그인을 공개함 쇼핑 에이전트는 여러 상품이 포함된 자연어 요청을 이해해 카탈로그 검색과 비교,…",
     "tags": [],
     "score": 0.73
-  },
-  {
-    "date": "2026-09-03",
-    "source": "GeekNews",
-    "title": "Gemini 3.8 Flash와 보안 특화 모델 Flash Cyber 공개",
-    "url": "https://news.hada.io/topic?id=33161",
-    "summary": "Google이 6주 사이 세 번째 Flash 모델을 출시하며, Gemini 3.8 Flash는 장기 코딩·에이전트 작업을, Flash Cyber는 취약점 탐지·자동 패치를 강화함 3.8 Flash는 3.7 Flash와 같은 속도와 도입 가격인 입력…",
-    "tags": [],
-    "score": 0.98
-  },
-  {
-    "date": "2026-09-03",
-    "source": "GeekNews",
-    "title": "TrueForge - LLM을 실제 에이전트로 실행하는 오픈소스 하네스",
-    "url": "https://news.hada.io/topic?id=33138",
-    "summary": "모델 호출부터 도구 사용/샌드박스/승인/컨텍스트/세션까지 에이전트 실행 루프 전체를 관리하는 런타임 에이전트를 직접 구현할 때 필요한 스트리밍, 대화 저장, MCP 연결, 권한 확인과 UI를 한곳에서 처리 내장 채팅 화면과 HTTP…",
-    "tags": [],
-    "score": 0.85
-  },
-  {
-    "date": "2026-09-03",
-    "source": "PyTorch KR",
-    "title": "WikiSkill: 에이전트의 실행 경험을 위키에 쌓아 스킬을 진화시키는 3계층 구조에 대한 연구",
-    "url": "https://discuss.pytorch.kr/t/wikiskill-3/11772",
-    "summary": "WikiSkill의 3계층 작업 공간을 나타낸 그림. 아래에서부터 실행 로그를 봉인해 보관하는 원본 계층, 색인과 패턴 문서로 지식을 누적하는 위키 계층, 실행 가능한 절차 문서를 담는 스킬 계층이 쌓여 있고 왼쪽 화살표가 순환을…",
-    "tags": [
-      "llm",
-      "paper",
-      "agent",
-      "agent-skills"
-    ],
-    "score": 0.82
   }
 ]
