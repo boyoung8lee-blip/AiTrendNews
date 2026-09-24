@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-09-25",
+    "source": "GeekNews",
+    "title": "Show GN: TODO Flow — 선택한 TODO를 코딩 에이전트의 병렬 작업·검증·리뷰로 연결하는 오픈소스",
+    "url": "https://news.hada.io/topic?id=34232",
+    "summary": "안녕하세요. Claude 또는 Codex CLI로 여러 개발 작업을 진행할 때, 작업 상태와 검증 근거를 대화 세션 밖에 남기고 관리할 수 있는 TODO Flow를 만들었습니다. 작업 계획을 등록하고 실행할 TODO를 선택하면, 각 작업을 별도의…",
+    "tags": [],
+    "score": 0.82
+  },
+  {
+    "date": "2026-09-25",
+    "source": "GeekNews",
+    "title": "대조 언어 모델",
+    "url": "https://news.hada.io/topic?id=34240",
+    "summary": "Contrastive Language Models(CLM) 는 상태와 행동을 대조 학습으로 연결하는 시스템 1 모델로, 현재 상태와 후보 행동의 임베딩을 비교해 가장 높은 점수의 행동을 선택함 공개한 CLM-8B는 컴퓨터 사용, 게임, 도구 호출…",
+    "tags": [],
+    "score": 0.78
+  },
+  {
+    "date": "2026-09-25",
+    "source": "PyTorch KR",
+    "title": "kev: 비공개 모델 Jev를 Qwen과 LoRA로 재현해 맥북에서 학습하고 실행하는 결정 모델",
+    "url": "https://discuss.pytorch.kr/t/kev-jev-qwen-lora/11963",
+    "summary": "kev: 비공개 모델 Jev를 Qwen과 LoRA로 재현해 맥북에서 학습하고 실행하는 결정 모델1536×1024 186 KB kev 소개 소프트웨어가 사람 손을 거치지 않고 내리는 판단, 예를 들어 들어온 문의를 어느 팀으로 보낼지나 이 요청을…",
+    "tags": [
+      "qwen",
+      "lora",
+      "structured-output",
+      "typesafe-ai"
+    ],
+    "score": 0.59
+  },
+  {
     "date": "2026-09-24",
     "source": "GeekNews",
     "title": "No Sloptober - 10월 한 달 LLM 도구 사용하지 않기",
@@ -616,37 +648,5 @@
       "ai-writing"
     ],
     "score": 0.72
-  },
-  {
-    "date": "2026-09-05",
-    "source": "GeekNews",
-    "title": "Ask HN: MCP를 프로덕션에서 쓰시는 분 있나요?",
-    "url": "https://news.hada.io/topic?id=33224",
-    "summary": "MCP는 출시 초기 큰 관심을 받았지만 프로덕션 사용 사례는 많이 접하지 못해, 실제 활용 목적과 일반 API, 도구 직접 연동이나 CLI보다 어떤 장점이 있는지 묻는 질문 HN 댓글을 종합하면 MCP는 사내 운영 진단, SaaS 연동, 음성…",
-    "tags": [],
-    "score": 0.79
-  },
-  {
-    "date": "2026-09-05",
-    "source": "GeekNews",
-    "title": "Show GN: FlowSuite - 노코드 화면 자동화, AI 파일 정리 등 윈도우 생산성 도구 모음",
-    "url": "https://news.hada.io/topic?id=33235",
-    "summary": "업무를 하면서 매일 반복되는 단순 웹/시스템 로그인, 엑셀 취합, 지루한 클릭 노가다와 어지러운 다운로드 폴더 정리에 피로감을 느껴 주말마다 틈틈이 직접 만들어 쓰던 윈도우 생산성 유틸리티들을 모아 웹사이트와 함께 정리해 보았습니다. 기존…",
-    "tags": [],
-    "score": 0.76
-  },
-  {
-    "date": "2026-09-05",
-    "source": "PyTorch KR",
-    "title": "img2obj: 참조 이미지를 애니메이션 가능한 Three.js 절차적 코드로 재구성하는 Codex 플러그인",
-    "url": "https://discuss.pytorch.kr/t/img2obj-three-js-codex/11724",
-    "summary": "img2obj: 참조 이미지를 애니메이션 가능한 Three.js 절차적 코드로 재구성하는 Codex 플러그인1536×1024 245 KB img2obj 소개 웹에 3D 오브젝트를 하나 올리려면 보통 모델 파일을 구해 옵니다. 에셋 스토어에서…",
-    "tags": [
-      "codex",
-      "agent-skills",
-      "procedural-generation",
-      "3d-modeling"
-    ],
-    "score": 0.68
   }
 ]
