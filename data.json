@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-09-26",
+    "source": "GeekNews",
+    "title": "Ollaya - 오픈소스 Jev 스타일 의사결정 모델을 위한 Ollama",
+    "url": "https://news.hada.io/topic?id=34288",
+    "summary": "Ollaya는 텍스트나 JSON에 타입이 지정된 질문을 하고, 보정된 답을 로컬 하드웨어에서 얻는 오픈소스 의사결정 모델 실행 도구임 토큰을 순차 생성하지 않고 한 번의 순전파로 답하며, RTX 4090에서 Laya로 질문 5개를 처리하는 HTTP…",
+    "tags": [],
+    "score": 0.8
+  },
+  {
+    "date": "2026-09-26",
+    "source": "GeekNews",
+    "title": "기밀 추산으로 드러난 NSA의 수십억 달러 규모 AI 모델 테스트 지출",
+    "url": "https://news.hada.io/topic?id=34281",
+    "summary": "기밀 추산을 아는 소식통 2명에 따르면, NSA는 올해 첨단 AI 모델 평가와 테스트에 수십억 달러의 세금을 쓰고 있다고 의원들에게 알림 잇따른 해킹과 보안 사고 이후 NSA의 Artificial Intelligence Security Center가…",
+    "tags": [],
+    "score": 0.64
+  },
+  {
+    "date": "2026-09-26",
+    "source": "PyTorch KR",
+    "title": "StepFun Step 5 Preview 출시: Kimi K3와 같은 지능, 작업 비용은 1/3, 가중치 공개는 10/15 예정",
+    "url": "https://discuss.pytorch.kr/t/stepfun-step-5-preview-kimi-k3-1-3-10-15/11987",
+    "summary": "StepFun이 공개한 에이전트용 플래그십 모델 Step 5 Preview의 핵심 사양과 비용 구조1536×1024 263 KB Step 5 Preview 소개 StepFun(阶跃星辰)이 에이전트 작업을 겨냥한 플래그십 모델 Step 5…",
+    "tags": [
+      "llm",
+      "agent",
+      "benchmark",
+      "open-weights"
+    ],
+    "score": 0.52
+  },
+  {
     "date": "2026-09-25",
     "source": "GeekNews",
     "title": "Show GN: TODO Flow — 선택한 TODO를 코딩 에이전트의 병렬 작업·검증·리뷰로 연결하는 오픈소스",
@@ -616,37 +648,5 @@
       "prompt-engineering"
     ],
     "score": 0.68
-  },
-  {
-    "date": "2026-09-06",
-    "source": "GeekNews",
-    "title": "DHH가 바라본 프로그래밍의 미래: 직접 코딩에서 AI 에이전트 팀 운영으로 [유튜브]",
-    "url": "https://news.hada.io/topic?id=33245",
-    "summary": "최근 AI 발전은 수십 년치 변화에 해당하며, DHH는 Opus 4.5와 에이전트 하네스를 기점으로 AI가 보조 도구에서 문제 해결 전반을 맡는 제작 주체로 바뀌었다고 평가 Omarchy Quattro는 최근 3개월간 코드의 거의 100%를…",
-    "tags": [],
-    "score": 0.84
-  },
-  {
-    "date": "2026-09-06",
-    "source": "GeekNews",
-    "title": "Stave - AWS 설정 사이에 숨어 있는 공격 경로를 찾는 보안 검증 도구",
-    "url": "https://news.hada.io/topic?id=33243",
-    "summary": "AWS 리소스의 설정뿐 아니라 리소스 사이의 권한과 연결 관계를 분석해, 개별 검사에서는 드러나지 않는 복합적인 보안 위험을 찾음 예를 들어 S3의 암호화와 공개 접근 차단이 정상이어도, Bedrock 에이전트 → Lambda → 민감한 S3…",
-    "tags": [],
-    "score": 0.82
-  },
-  {
-    "date": "2026-09-06",
-    "source": "PyTorch KR",
-    "title": "sepia: AI가 작성한 티를 없애기 위해, 어휘 교정 뿐만 아니라 서사 구조까지 종합적으로 살펴보고 개선하는 에이전트 스킬",
-    "url": "https://discuss.pytorch.kr/t/sepia-ai/11813",
-    "summary": "sepia: 어휘 교정이 아니라 서사 구조부터 고치는 AI 글 개고 에이전트 스킬1536×1024 186 KB sepia 소개 AI가 쓴 글을 사람 글처럼 만들어 준다는 도구는 이미 많습니다. 대부분은 단어와 문장 구조를 손봅니다. 상투적인 형용사를…",
-    "tags": [
-      "claude-code",
-      "prompt-engineering",
-      "agent-skills",
-      "ai-writing"
-    ],
-    "score": 0.72
   }
 ]
