@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-09-27",
+    "source": "GeekNews",
+    "title": "AI 없이 보낸 한 달",
+    "url": "https://news.hada.io/topic?id=34323",
+    "summary": "업무에서 AI 코딩 에이전트에 구현과 테스트, 커밋까지 맡기던 개발자가 코드에 대한 통제력을 잃었다고 느껴 사용을 중단하고, 한 달 동안 직접 개발하는 방식으로 돌아옴 여러 에이전트를 병렬로 실행하자 코드 생성은 빨라졌지만, 검토 부담과 문맥 전환이…",
+    "tags": [],
+    "score": 0.81
+  },
+  {
+    "date": "2026-09-27",
+    "source": "GeekNews",
+    "title": "비전 모델까지 지원하는 Jev 스타일 LLM 래퍼",
+    "url": "https://news.hada.io/topic?id=34327",
+    "summary": "일반 LLM을 긴 답변 대신 선택지별 확률과 점수를 반환하는 도구로 사용하는 Python 함수 score()를 구현함 질문과 A/B/C 선택지를 주고 답에 해당하는 문자만 생성하게 한 뒤, 토큰별 확률을 읽어 분류 결과, 참일 확률, 단계별 점수를…",
+    "tags": [],
+    "score": 0.74
+  },
+  {
+    "date": "2026-09-27",
+    "source": "PyTorch KR",
+    "title": "Andrew Ng의 AI Engineering Skills Map: 코딩 에이전트 활용 역량(Using coding agents)",
+    "url": "https://discuss.pytorch.kr/t/andrew-ng-ai-engineering-skills-map-using-coding-agents/11994",
+    "summary": "코딩 에이전트 활용 역량1536×1024 166 KB 코딩 에이전트를 잘 쓰는 역량 소개 Andrew Ng는 AI Engineering Skills Map의 세 번째 축으로 코딩 에이전트를 활용하는 능력을 제시합니다. 에이전트가 코드를 작성하는…",
+    "tags": [
+      "agent",
+      "coding-agent",
+      "guide",
+      "andrew-ng"
+    ],
+    "score": 0.6
+  },
+  {
     "date": "2026-09-26",
     "source": "GeekNews",
     "title": "Ollaya - 오픈소스 Jev 스타일 의사결정 모델을 위한 Ollama",
@@ -611,42 +643,5 @@
     "summary": "순수수학의 난제는 정답뿐 아니라 해결 과정에서 새로운 통찰과 이론을 만드는 데 가치가 있으며, 과정을 공개하지 않는 AI 단독 해결은 이 역할을 훼손할 수 있음 Navier-Stokes 전역 정칙성 문제를 인간 수학자가 AI와 함께 시행착오를…",
     "tags": [],
     "score": 0.61
-  },
-  {
-    "date": "2026-09-07",
-    "source": "GeekNews",
-    "title": "grep이 LSP를 이긴다고? 코딩 에이전트가 더 정교한 도구를 무시하는 이유",
-    "url": "https://news.hada.io/topic?id=33273",
-    "summary": "Claude 모델 3종을 비교한 소규모 실험에서, 코드 구조를 이해하는 LSP 기반 탐색 도구를 제공해도 단순 코드 위치 찾기에는 대부분 grep을 사용했으며 LSP를 먼저 쓰도록 강제하면 성공률이 떨어지기도 함 차이는 검색 정확도뿐 아니라 결과를…",
-    "tags": [],
-    "score": 0.8
-  },
-  {
-    "date": "2026-09-07",
-    "source": "PyTorch KR",
-    "title": "OpenAI GPT-6 Astra 출시: 사이버보안 Critical 등급 첫 도달과 낮아진 CoT 모니터링 가능성",
-    "url": "https://discuss.pytorch.kr/t/openai-gpt-6-astra-critical-cot/11819",
-    "summary": "GPT-6 Astra 출시, 사이버보안 Critical 첫 도달과 낮아진 CoT 모니터링 가능성1536×1024 276 KB GPT-6 Astra 소개 OpenAI가 새로운 프런티어 모델 GPT-6 Astra를 공개했습니다. 컴퓨터 사용, 브라우징,…",
-    "tags": [
-      "llm",
-      "openai",
-      "agent",
-      "ai-safety"
-    ],
-    "score": 0.69
-  },
-  {
-    "date": "2026-09-07",
-    "source": "PyTorch KR",
-    "title": "Goal-Driven: 완료 기준을 검사해 서브 에이전트를 계속 다시 실행하는 다중 에이전트 프롬프트 도구",
-    "url": "https://discuss.pytorch.kr/t/goal-driven/11783",
-    "summary": "Goal-Driven: 완료 기준을 검사해 서브 에이전트를 계속 다시 세우는 다중 에이전트 프롬프트1536×1024 175 KB Goal-Driven 소개 코딩 에이전트에게 규모가 큰 작업을 맡겨 본 사람이라면 익숙한 장면이 있습니다. 에이전트가…",
-    "tags": [
-      "claude-code",
-      "coding-agent",
-      "multi-agent",
-      "prompt-engineering"
-    ],
-    "score": 0.68
   }
 ]
