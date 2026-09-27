@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-09-28",
+    "source": "GeekNews",
+    "title": "OpenAI 에이전트, 정부 사이트 보안 우회하고 이용자 이미지도 외부 전송",
+    "url": "https://news.hada.io/topic?id=34356",
+    "summary": "OpenAI가 미국 SEC·인구조사국·교육부 등을 포함한 전 세계 수십 개 기관에 에이전트의 부적절한 웹사이트 활동 가능성을 통보함 공개 정보를 찾던 일부 에이전트가 보안 조치를 우회했으며, SEC에서 수집한 정보를 다른 사이트에 게시하는 의도하지…",
+    "tags": [],
+    "score": 0.64
+  },
+  {
+    "date": "2026-09-28",
+    "source": "PyTorch KR",
+    "title": "Anthropic, Claude Opus 5.5 출시: Fable 5.1급 성능에 Opus 5보다 40% 낮은 실행 비용",
+    "url": "https://discuss.pytorch.kr/t/anthropic-claude-opus-5-5-fable-5-1-opus-5-40/11988",
+    "summary": "Claude Opus 5.5가 추론 강도 단계별로 Opus 5보다 적은 비용에 더 높은 성능에 도달하는 곡선1536×1024 162 KB Claude Opus 5.5 소개 Anthropic이 2026년 9월 22일 새 5.5 세대의 첫 모델인…",
+    "tags": [
+      "llm",
+      "agent",
+      "anthropic",
+      "claude"
+    ],
+    "score": 0.61
+  },
+  {
+    "date": "2026-09-28",
+    "source": "GeekNews",
+    "title": "Atlas - 코딩 에이전트를 위한 소스 관리 도구",
+    "url": "https://news.hada.io/topic?id=34344",
+    "summary": "코드 변경뿐 아니라 에이전트가 받은 요청, 도구 사용과 작업 맥락까지 Git 커밋에 연결해 기록하는 데스크톱 개발 도구 Claude Code, Codex, 자체 에이전트와 ACP 호환 에이전트를 한 화면에서 병렬 실행 에이전트끼리 작업 맥락을…",
+    "tags": [],
+    "score": 0.6
+  },
+  {
     "date": "2026-09-27",
     "source": "GeekNews",
     "title": "AI 없이 보낸 한 달",
@@ -611,37 +643,5 @@
       "research-automation"
     ],
     "score": 0.59
-  },
-  {
-    "date": "2026-09-08",
-    "source": "PyTorch KR",
-    "title": "OpenAI가 공개한 GPT-6 Astra 공식 활용 가이드: 자주 되묻는 모델을 끝까지 일하게 하는 프롬프팅과 마이그레이션",
-    "url": "https://discuss.pytorch.kr/t/openai-gpt-6-astra/11846",
-    "summary": "OpenAI GPT-6 Astra 공식 활용 가이드, 자주 되묻는 모델을 끝까지 일하게 하는 프롬프팅과 마이그레이션1536×1024 190 KB GPT-6 Astra 모델 가이드 소개 OpenAI가 GPT-6 Astra 출시와 함께 개발자 문서…",
-    "tags": [
-      "openai",
-      "agent",
-      "guide",
-      "migration"
-    ],
-    "score": 0.89
-  },
-  {
-    "date": "2026-09-08",
-    "source": "GeekNews",
-    "title": "GPT-6 Astra: 하네스가 곧 제품이다",
-    "url": "https://news.hada.io/topic?id=33301",
-    "summary": "같은 GPT-6 Astra도 ARC-AGI-3의 동일한 High 추론 설정에서 하네스에 따라 54.8%와 99.9% 를 기록함. 즉, 장기 실행 에이전트는 모델뿐 아니라 메모리, 도구, 문맥 관리, 제어 루프를 합친 시스템으로 평가해야 함 요청…",
-    "tags": [],
-    "score": 0.65
-  },
-  {
-    "date": "2026-09-08",
-    "source": "GeekNews",
-    "title": "Terence Tao: “AI만으로 수학 문제를 성급하게 푸는 것”의 위험",
-    "url": "https://news.hada.io/topic?id=33326",
-    "summary": "순수수학의 난제는 정답뿐 아니라 해결 과정에서 새로운 통찰과 이론을 만드는 데 가치가 있으며, 과정을 공개하지 않는 AI 단독 해결은 이 역할을 훼손할 수 있음 Navier-Stokes 전역 정칙성 문제를 인간 수학자가 AI와 함께 시행착오를…",
-    "tags": [],
-    "score": 0.61
   }
 ]
