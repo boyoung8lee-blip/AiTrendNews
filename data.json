@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-09-29",
+    "source": "GeekNews",
+    "title": "제대로 된 AI 제품은 어떤 모습이어야 할까?",
+    "url": "https://news.hada.io/topic?id=34452",
+    "summary": "“AI는 실수할 수 있으니 확인하세요”라고 요구한다면, 확인할 도구도 제공해야 함. 오류 검증은 작은 면책 문구가 아니라 제품의 핵심 기능이어야 함 답변보다 원문 인용과 데이터 출처를 앞세우고, 원본 자료·API에서 가져온 데이터와 모델이 생성하거나…",
+    "tags": [],
+    "score": 0.74
+  },
+  {
+    "date": "2026-09-29",
+    "source": "GeekNews",
+    "title": "인덱스 하나 더의 참을 수 없는 가벼움",
+    "url": "https://news.hada.io/topic?id=34455",
+    "summary": "코딩 에이전트가 만든 PostgreSQL 인덱스는 개별 쿼리에는 적절했지만, 쓰기가 집중되는 테이블에 누적되는 비용을 충분히 고려하지 못함 지원 도구의 tickets 벤치마크에서 인덱스가 16개인 생성 스키마는 수작업 기준 스키마보다 WAL을…",
+    "tags": [],
+    "score": 0.72
+  },
+  {
+    "date": "2026-09-29",
+    "source": "PyTorch KR",
+    "title": "Claude Opus 5.5 프롬프팅 & 마이그레이션 가이드: Anthropic이 공개한, Opus 5, 4.x, Sonnet 5 코드를 400 오류 없이 옮기는 법",
+    "url": "https://discuss.pytorch.kr/t/claude-opus-5-5-anthropic-opus-5-4-x-sonnet-5-400/12002",
+    "summary": "Claude Opus 5.5 프롬프팅 및 마이그레이션 가이드, 코드 마이그레이션과 프롬프트 조정을 함께 진행하는 두 영역 구성1536×1024 225 KB Claude Opus 5.5 마이그레이션 가이드 소개 Anthropic의 Claude Opus…",
+    "tags": [
+      "llm",
+      "agent",
+      "anthropic",
+      "claude"
+    ],
+    "score": 0.61
+  },
+  {
     "date": "2026-09-28",
     "source": "GeekNews",
     "title": "OpenAI 에이전트, 정부 사이트 보안 우회하고 이용자 이미지도 외부 전송",
@@ -609,38 +641,6 @@
       "mobile-app",
       "app-store",
       "ios-simulator"
-    ],
-    "score": 0.59
-  },
-  {
-    "date": "2026-09-09",
-    "source": "GeekNews",
-    "title": "Show GN: Hermeum - 팀에 필요한 Hermes agent를 딸깍으로 만들고 배포해주는 오픈소스 플랫폼",
-    "url": "https://news.hada.io/topic?id=33357",
-    "summary": "회사에서 팀 마다 직접 에이전트를 만들고 슬랙에 연동하다 보니 사일로가 늘어나는 게 보였습니다. Hermeum은 이 문제를 해결하기 위해서 시작한 프로젝트입니다. Hermeum은 Hermes agent에 소울(soul), 스킬, mcp, 플러그인,…",
-    "tags": [],
-    "score": 0.88
-  },
-  {
-    "date": "2026-09-09",
-    "source": "GeekNews",
-    "title": "Show GN: /take-my-data - 코딩 에이전트 세션을 로컬에서 정제해 공개 데이터셋으로 기부하는 스킬",
-    "url": "https://news.hada.io/topic?id=33361",
-    "summary": "코딩 에이전트(Claude Code, Codex, Pi, OpenCode) 세션 로그를 기부받아 CC0 공개 데이터셋으로 만드는 도구와 허브입니다. 한국어 에이전트 궤적(툴콜, 가져오기, 테스트 결과가 포함된 세션) 공개 데이터가 거의 없어서…",
-    "tags": [],
-    "score": 0.81
-  },
-  {
-    "date": "2026-09-09",
-    "source": "PyTorch KR",
-    "title": "free PhD labor: 고정된 워크플로우 대신 에이전트가 다음 단계를 정하는 연구 자동화 프레임워크",
-    "url": "https://discuss.pytorch.kr/t/free-phd-labor/11838",
-    "summary": "freephdlabor: 고정된 워크플로우 대신 에이전트가 다음 단계를 정하는 연구 자동화 프레임워크1536×1024 228 KB freephdlabor 소개 지난 1년 사이 연구 과정을 자동화하는 에이전트 시스템이 여럿 나왔지만, 대부분은 아이디어…",
-    "tags": [
-      "multi-agent",
-      "agent-framework",
-      "autoresearch",
-      "research-automation"
     ],
     "score": 0.59
   }
