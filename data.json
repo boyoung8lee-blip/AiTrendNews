@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-09-30",
+    "source": "GeekNews",
+    "title": "OpenAI Dots - 상시 작동하는 AI 에이전트 공개",
+    "url": "https://news.hada.io/topic?id=34501",
+    "summary": "OpenAI가 GPT-6 Astra 기반 Dots를 공개함. 자체 클라우드 컴퓨터에서 여러 프로젝트를 진행하고, 피드백을 통해 사용자의 선호와 업무 기준을 익히는 상시 작동 에이전트 고객 피드백을 코드 수정·테스트·PR로 만들거나, 새 데이터에 맞춰…",
+    "tags": [],
+    "score": 0.83
+  },
+  {
+    "date": "2026-09-30",
+    "source": "GeekNews",
+    "title": "Show GN: Blyck Video Understanding - Claude·Codex가 영상을 시각 근거와 함께 분석·검색하게 해주는 MCP",
+    "url": "https://news.hada.io/topic?id=34498",
+    "summary": "직접 만든 영상 분석 MCP 서버를 소개합니다. 무엇인가요 Claude Desktop, Claude Code, Codex, ChatGPT Desktop에 연결하는 영상 분석 도구(MCP 서버 + 스킬)입니다. 공개 YouTube 링크나 직접 올린…",
+    "tags": [],
+    "score": 0.82
+  },
+  {
+    "date": "2026-09-30",
+    "source": "PyTorch KR",
+    "title": "Jev 생태계: Jev 모델 기반의 GitHub 프로젝트 1천여개를 23개 분야로 정리한 프로젝트 목록",
+    "url": "https://discuss.pytorch.kr/t/jev-jev-github-1-23/12003",
+    "summary": "Jev 생태계 1,142개 GitHub 프로젝트 지도1536×1024 173 KB Jev 생태계 프로젝트 목록 소개 Jev는 TypeSafe AI가 공개한 첫 System One 모델입니다. 앱이 현재 상태와 타입이 정해진 질문을 보내면, Jev는…",
+    "tags": [
+      "agent",
+      "awesome-list",
+      "jev",
+      "structured-output"
+    ],
+    "score": 0.69
+  },
+  {
     "date": "2026-09-29",
     "source": "GeekNews",
     "title": "제대로 된 AI 제품은 어떤 모습이어야 할까?",
@@ -609,38 +641,6 @@
       "agent",
       "mcp",
       "ai-gateway"
-    ],
-    "score": 0.59
-  },
-  {
-    "date": "2026-09-10",
-    "source": "GeekNews",
-    "title": "Desert Ant Labs, 기기에서 직접 음성·이미지·텍스트를 처리하는 빠른 로컬 AI 모델 18개 공개",
-    "url": "https://news.hada.io/topic?id=33446",
-    "summary": "음성 인식, 녹음 음질 개선, 개인정보 가리기 등을 기기 안에서 처리하는 소형 특화 모델 18개를 공개함. 안정 버전 12개와 베타 6개로 구성 반복 작업마다 대형 모델 API를 호출하는 대신 작업에 맞는 작은 모델을 로컬에서 실행해, 서버 왕복과…",
-    "tags": [],
-    "score": 0.75
-  },
-  {
-    "date": "2026-09-10",
-    "source": "GeekNews",
-    "title": "GPT-6 Astra를 위한 스킬과 프롬프트 다시 생각하기",
-    "url": "https://news.hada.io/topic?id=33404",
-    "summary": "코딩 에이전트의 성능 향상으로 과거에 필요했던 세세한 유도와 보조 절차의 필요성이 줄어들었으며, GPT-6 Astra에서는 누적된 Skills/AGENTS.md/작업 프롬프트를 재검토하는 일이 더욱 중요해짐 스킬 설명은 짧고 사용 조건이 명확해야…",
-    "tags": [],
-    "score": 0.66
-  },
-  {
-    "date": "2026-09-10",
-    "source": "PyTorch KR",
-    "title": "Goldie: 코딩 에이전트가 앱을 직접 실행해 앱스토어 스크린샷과 미리보기 영상을 만드는 CLI 도구",
-    "url": "https://discuss.pytorch.kr/t/goldie-cli/11864",
-    "summary": "Goldie: 코딩 에이전트가 앱을 직접 실행해 앱스토어 스크린샷과 미리보기 영상을 만드는 CLI1536×1024 242 KB Goldie 소개 모바일 앱을 스토어에 올릴 때 마지막까지 남는 일은 등록용 이미지입니다. 시뮬레이터를 띄워 화면을 하나씩…",
-    "tags": [
-      "agent-skills",
-      "mobile-app",
-      "app-store",
-      "ios-simulator"
     ],
     "score": 0.59
   }
