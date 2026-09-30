@@ -1,5 +1,42 @@
 [
   {
+    "date": "2026-10-01",
+    "source": "GeekNews",
+    "title": "OpenAI, Jev와 경쟁할 Luna 기반 Decision API 공개",
+    "url": "https://news.hada.io/topic?id=34528",
+    "summary": "OpenAI가 DevDay에서 소형 모델 Luna 기반의 Decision API를 공개 개발자가 질문, 답변 후보, 맥락을 입력하면 미리 정한 답변 후보에 신뢰도 점수를 제공하는 방식 주요 활용처는 콘텐츠 분류, 요청 라우팅, AI 에이전트의 다음…",
+    "tags": [],
+    "score": 0.61
+  },
+  {
+    "date": "2026-10-01",
+    "source": "PyTorch KR",
+    "title": "Andrew Ng의 AI Engineering Skills Map: 개발자의 소프트웨어 기본기(Software engineering fundamentals)",
+    "url": "https://discuss.pytorch.kr/t/andrew-ng-ai-engineering-skills-map-software-engineering-fundamentals/11993",
+    "summary": "개발자의 소프트웨어 기본기1536×1024 203 KB 코딩 에이전트 시대에도 소프트웨어 기본기가 필요한 이유 Andrew Ng는 AI Engineering Skills Map의 두 번째 축으로 소프트웨어 엔지니어링 기본기를 꼽습니다. 코딩…",
+    "tags": [
+      "coding-agent",
+      "guide",
+      "andrew-ng",
+      "ai-engineering"
+    ],
+    "score": 0.58
+  },
+  {
+    "date": "2026-10-01",
+    "source": "PyTorch KR",
+    "title": "Andrew Ng의 AI Engineering Skills Map: AI 앱 구축과 운영 역량 (Building and deploying AI applications)",
+    "url": "https://discuss.pytorch.kr/t/andrew-ng-ai-engineering-skills-map-ai-building-and-deploying-ai-applications/11992",
+    "summary": "AI 앱 구축과 운영 역량1536×1024 142 KB AI 애플리케이션을 만들고 운영하는 역량 소개 Andrew Ng가 설명한 AI Engineering Skills Map의 첫 번째 축은 AI 애플리케이션을 만들고 실제 사용자에게 제공하는…",
+    "tags": [
+      "llm",
+      "agent",
+      "guide",
+      "andrew-ng"
+    ],
+    "score": 0.57
+  },
+  {
     "date": "2026-09-30",
     "source": "GeekNews",
     "title": "OpenAI Dots - 상시 작동하는 AI 에이전트 공개",
@@ -611,37 +648,5 @@
       "reference-implementation"
     ],
     "score": 0.51
-  },
-  {
-    "date": "2026-09-11",
-    "source": "GeekNews",
-    "title": "Cognition, Fable 5.1·GPT-Astra에 필적하는 코딩 모델 SWE-2 출시",
-    "url": "https://news.hada.io/topic?id=33494",
-    "summary": "2.8조 매개변수 Kimi K3를 후속 학습한 SWE-2는 FrontierCode 1.1 Main에서 50.0%를 기록해 Fable 5.1과 0.9%p 차이를 보이면서도 비용은 64% 낮음 추론 노력 수준별로 기반 모델의 비용·성능 곡선 기울기에…",
-    "tags": [],
-    "score": 0.79
-  },
-  {
-    "date": "2026-09-11",
-    "source": "GeekNews",
-    "title": "Hitachi, 태양광 친화적 전기요금제에 대응하는 CO2 히트펌프 온수기 출시",
-    "url": "https://news.hada.io/topic?id=33489",
-    "summary": "태양광 발전 확대에 따라 낮 시간 온수 가열을 장려하는 일본 전기요금제에 맞춰, Hitachi Global Life Solutions가 요금제 대응을 확대한 EcoCute Y 시리즈를 공개함 일본 가정용 370리터·460리터 모델을 2026년…",
-    "tags": [],
-    "score": 0.75
-  },
-  {
-    "date": "2026-09-11",
-    "source": "PyTorch KR",
-    "title": "Envoy AI Gateway가 Agent Router로, AAIF 합류 후에도 CRD와 aigw CLI는 그대로",
-    "url": "https://discuss.pytorch.kr/t/envoy-ai-gateway-agent-router-aaif-crd-aigw-cli/11880",
-    "summary": "Envoy AI Gateway가 Agent Router로 바뀌면서 유지되는 CRD와 aigw CLI1536×1024 205 KB Agent Router 소개 Agent Router는 애플리케이션과 에이전트가 하나의 OpenAI 호환 API로 모든…",
-    "tags": [
-      "opensource",
-      "agent",
-      "mcp",
-      "ai-gateway"
-    ],
-    "score": 0.59
   }
 ]
