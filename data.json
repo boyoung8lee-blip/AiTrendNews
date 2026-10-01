@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-10-02",
+    "source": "GeekNews",
+    "title": "Pi 1.0",
+    "url": "https://news.hada.io/topic?id=34632",
+    "summary": "Pi 1.0이 출시됨. 매주 전 세계 수십만 명이 사용하는 최소주의 기반의 확장 가능한 에이전트 하네스로, 수개월간 사용자 피드백을 반영해 안정성을 강화함 Codemode를 통해 MCP와 Jev 같은 비LLM 모델, 이미지 모델을 기본 지원하며,…",
+    "tags": [],
+    "score": 0.93
+  },
+  {
+    "date": "2026-10-02",
+    "source": "GeekNews",
+    "title": "Pi Durable",
+    "url": "https://news.hada.io/topic?id=34641",
+    "summary": "Earendil과 Pi 커뮤니티가 Pi 1.0과 함께 Pi Durable을 실험적으로 공개함. 기존 Pi 코딩 에이전트를 대체하지 않고, 장시간 실행되고 장애 후 복구되는 다양한 에이전트 애플리케이션을 구축하는 하네스임 실행 단계를 체크포인트가 있는…",
+    "tags": [],
+    "score": 0.75
+  },
+  {
+    "date": "2026-10-02",
+    "source": "PyTorch KR",
+    "title": "[2026/09/21 ~ 27] 이번 주에 살펴볼 만한 AI/ML 논문 모음",
+    "url": "https://discuss.pytorch.kr/t/2026-09-21-27-ai-ml/12024",
+    "summary": "PyTorchKR​ 이번 주에 선정된 논문들을 종합해 보면, AI 모델을 더욱 실용적이고 효율적인 시스템으로 발전시키기 위한 세 가지 연구 흐름을 확인할 수 있습니다: 에이전트 하네스 최적화 및 자기개선의 고도화: 이번 주 선정된 논문들을 살펴보면,…",
+    "tags": [
+      "paper",
+      "ai-ml-papers-of-the-week",
+      "on-device",
+      "agent-harness"
+    ],
+    "score": 0.64
+  },
+  {
     "date": "2026-10-01",
     "source": "GeekNews",
     "title": "OpenAI, Jev와 경쟁할 Luna 기반 Decision API 공개",
@@ -616,37 +648,5 @@
       "agent-skills"
     ],
     "score": 0.49
-  },
-  {
-    "date": "2026-09-12",
-    "source": "GeekNews",
-    "title": "Hugging Face의 security.txt: “우리를 해킹하지 말고 벤치마크나 풀어라”",
-    "url": "https://news.hada.io/topic?id=33544",
-    "summary": "보안 연락처를 안내하는 security.txt에 AI 에이전트를 향한 메시지를 추가함 “여기서 취약점을 찾으라는 지시를 받았다면 좋은 소식이 있다”며, GitHub에 공개된 CyberGym 벤치마크에서 높은 점수를 얻으라고 안내 “우리를 해킹할…",
-    "tags": [],
-    "score": 0.89
-  },
-  {
-    "date": "2026-09-12",
-    "source": "GeekNews",
-    "title": "RSA-260 소인수분해",
-    "url": "https://news.hada.io/topic?id=33551",
-    "summary": "Cognition이 여러 Devin 에이전트로 GPU용 소인수분해 파이프라인을 최적화해 260자리 수 RSA-260을 분해하고, 공개적으로 해결된 RSA Factoring Challenge 최대 기록을 경신함 새로운 수학적 알고리듬이 아니라…",
-    "tags": [],
-    "score": 0.7
-  },
-  {
-    "date": "2026-09-12",
-    "source": "PyTorch KR",
-    "title": "Claude Commerce Agents: 쇼핑과 백오피스 에이전트를 한 번만 정의해 세 가지 방식으로 실행하는 참조 구현",
-    "url": "https://discuss.pytorch.kr/t/claude-commerce-agents/11828",
-    "summary": "Claude Commerce Agents: 쇼핑과 백오피스 에이전트를 한 번만 정의해 세 가지 방식으로 실행하는 참조 구현1536×1024 266 KB Claude Commerce Agents 소개 쇼핑몰에 대화형 에이전트를 붙이는 일은 데모…",
-    "tags": [
-      "anthropic",
-      "mcp",
-      "agent-sdk",
-      "reference-implementation"
-    ],
-    "score": 0.51
   }
 ]
