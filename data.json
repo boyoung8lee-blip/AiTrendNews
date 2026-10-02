@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-10-03",
+    "source": "GeekNews",
+    "title": "Audionaut - AI 에이전트로 편집할 수 있는 오픈소스 멀티트랙 오디오 편집기",
+    "url": "https://news.hada.io/topic?id=34682",
+    "summary": "음악·팟캐스트·멀티트랙 녹음을 위한 무료 오픈소스 오디오 편집기로, 복잡한 음악 제작 환경 대신 필요한 구간을 자르고 조합하는 작업에 집중함 MCP로 Claude 등 AI 에이전트에 편집을 맡길 수 있으며, 열린 프로젝트에서 변경 내용을 확인하고 각…",
+    "tags": [],
+    "score": 0.83
+  },
+  {
+    "date": "2026-10-03",
+    "source": "GeekNews",
+    "title": "리눅스 커널 개발자 Greg Kroah-Hartman, LLM 시대의 보안 [영상]",
+    "url": "https://news.hada.io/topic?id=34683",
+    "summary": "LLM이 찾아낸 취약점의 숫자보다 실제 버그를 검증하고 고치는 일이 중요함. 리눅스 커널 개발자 Greg Kroah-Hartman이 AI 보안 도구의 성과와 한계, 유지보수자의 대응을 다룬 발표 Mythos가 발견했다는 리눅스 취약점 79개에는…",
+    "tags": [],
+    "score": 0.74
+  },
+  {
+    "date": "2026-10-03",
+    "source": "PyTorch KR",
+    "title": "Laya: 텍스트 생성 없이 한 번의 순전파로 결정을 내리는 Jev 호환 오픈 가중치 모델과 로컬 실행 도구들",
+    "url": "https://discuss.pytorch.kr/t/laya-jev/12027",
+    "summary": "Laya: 텍스트 생성 없이 한 번의 순전파로 결정을 내리는 Jev 호환 오픈 가중치 모델과 로컬 실행 도구들1536×1024 185 KB Laya 소개 문의 메일을 어느 팀에 배정할지, 이 프롬프트가 탈옥(jailbreak) 시도인지, 고객이…",
+    "tags": [
+      "apple-silicon",
+      "mlx",
+      "jev",
+      "decision-model"
+    ],
+    "score": 0.59
+  },
+  {
     "date": "2026-10-02",
     "source": "GeekNews",
     "title": "Pi 1.0",
@@ -616,37 +648,5 @@
       "golang"
     ],
     "score": 0.44
-  },
-  {
-    "date": "2026-09-13",
-    "source": "GeekNews",
-    "title": "Dario에게 보내는 공개서한: 진심이라면 모델 가중치를 공개하라",
-    "url": "https://news.hada.io/topic?id=33595",
-    "summary": "프런티어 AI 개발 속도를 늦추기 위해, 기업이 대중에게 제공하는 모든 AI 모델의 가중치 공개를 법으로 의무화하자고 제안함 공개 의무는 대중에게 제공하는 모델에만 적용하며, 내부용 모델과 연구용 모델은 제외하고 정부의 미출시 모델 접근도 허용함",
-    "tags": [],
-    "score": 0.79
-  },
-  {
-    "date": "2026-09-13",
-    "source": "GeekNews",
-    "title": "젠장, 그래도 만들자",
-    "url": "https://news.hada.io/topic?id=33582",
-    "summary": "프롬프트 하나로 도구와 게임을 만드는 시대가 되면서, 수년간 어렵게 배운 기술과 직접 만든 결과물이 무슨 가치가 있는지 회의가 들 수 있음 LLM이 코드를 잘 만든다는 사실과 그 도구로 프로그래밍하는 일이 즐거운지는 별개이며, 결과물이 내 것처럼…",
-    "tags": [],
-    "score": 0.68
-  },
-  {
-    "date": "2026-09-13",
-    "source": "PyTorch KR",
-    "title": "OpenAI Codex 팀이 권하는 GPT-6 Astra 전환 준비, 스킬 설명은 좁게 AGENTS.md는 조건부로",
-    "url": "https://discuss.pytorch.kr/t/openai-codex-gpt-6-astra-agents-md/11900",
-    "summary": "OpenAI Codex 팀이 정리한 GPT-6 Astra용 스킬 설명과 AGENTS.md 재점검 기준1536×1024 253 KB GPT-6 Astra에 맞춘 스킬과 AGENTS.md 재점검 가이드 소개 OpenAI의 Codex 팀이 2026년 9월…",
-    "tags": [
-      "openai",
-      "codex",
-      "prompt-engineering",
-      "agent-skills"
-    ],
-    "score": 0.49
   }
 ]
