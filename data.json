@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-10-05",
+    "source": "GeekNews",
+    "title": "Pi pod - 자체 서버의 샌드박스에서 pi 코딩 에이전트 실행하기",
+    "url": "https://news.hada.io/topic?id=34766",
+    "summary": "pi pod는 직접 운영하는 서버에서 pi 세션을 격리된 샌드박스인 pod로 실행하며, 조합 가능한 환경을 지원하는 오픈소스 프로젝트임 기존에 사용자가 다듬어 온 pi 하네스의 사용 경험을 유지하면서, 최소한의 엄선된 도구로 샌드박스 실행에 필요...",
+    "tags": [],
+    "score": 0.78
+  },
+  {
+    "date": "2026-10-05",
+    "source": "GeekNews",
+    "title": "Qwen 3.8 Flash Next(125B)를 소비자용 하드웨어(RTX 4090)에서 초당 100토큰으로 실행하기",
+    "url": "https://news.hada.io/topic?id=34761",
+    "summary": "Strata는 1,250억 매개변수 모델 Qwen3.8-Flash-Next를 일반 PC에서 실행하는 무료 오픈소스 도구로, 대화, 코드 작성, 이미지 읽기와 코딩 에이전트 연동을 지원하며 데이터는 PC 밖으로 나가지 않음 GPU, RAM, CPU,…",
+    "tags": [],
+    "score": 0.74
+  },
+  {
+    "date": "2026-10-05",
+    "source": "PyTorch KR",
+    "title": "OpenRig: Claude Code와 Codex 세션들을 저장하고 불러올 수 있도록 하는 멀티 에이전트 하네스",
+    "url": "https://discuss.pytorch.kr/t/openrig-claude-code-codex/12042",
+    "summary": "OpenRig: Claude Code와 Codex를 한 팀으로 묶어 재부팅 후에도 이어 쓰는 로컬 멀티 에이전트 하네스1536×1024 188 KB OpenRig 소개 코딩 에이전트를 여러 개 함께 쓰다 보면 에이전트보다 세션 관리가 먼저 문제가…",
+    "tags": [
+      "claude-code",
+      "coding-agent",
+      "multi-agent",
+      "codex"
+    ],
+    "score": 0.56
+  },
+  {
     "date": "2026-10-04",
     "source": "GeekNews",
     "title": "Show GN: 5달러 시계에 Claude·Codex 사용량을 띄워봤습니다",
@@ -616,37 +648,5 @@
     "summary": "AI 활용 방식은 구현 이해를 유지하는 가속형 개발자와 구현 및 수정을 위임하는 바이브코더로 나뉨. 차이는 AI가 작성한 코드의 양이 아니라 결과물을 이해하고 유지보수하는 방식에 있음 프로그래밍의 핵심 자산은 코드보다 도메인에 대한 모델과 이해...",
     "tags": [],
     "score": 0.64
-  },
-  {
-    "date": "2026-09-15",
-    "source": "PyTorch KR",
-    "title": "Anthropic, Claude Code 시스템 프롬프트 80% 삭제: Claude 5 세대 컨텍스트 엔지니어링 규칙 6가지",
-    "url": "https://discuss.pytorch.kr/t/anthropic-claude-code-80-claude-5-6/11845",
-    "summary": "Claude Code 시스템 프롬프트의 80%를 삭제한 이유를 다룬 Anthropic 블로그 소개 이미지1536×1024 204 KB Claude 5 세대를 위한 컨텍스트 엔지니어링 규칙 소개 Anthropic은 Claude Code의 시스템…",
-    "tags": [
-      "claude-code",
-      "anthropic",
-      "agent-skills",
-      "guide"
-    ],
-    "score": 0.8
-  },
-  {
-    "date": "2026-09-15",
-    "source": "GeekNews",
-    "title": "OpenArch - LLM 아키텍처를 모델별 한 파일로 구현한 PyTorch 코드 모음",
-    "url": "https://news.hada.io/topic?id=33700",
-    "summary": "Llama, Qwen, DeepSeek 등 LLM의 내부 구조를 코드로 읽고 비교하며 공부할 수 있도록, 각 아키텍처를 하나의 PyTorch 파일로 직접 구현한 저장소 가독성과 학습을 우선하며, 어텐션 유형, 정규화, 계층 구성, MoE 라우팅,…",
-    "tags": [],
-    "score": 0.72
-  },
-  {
-    "date": "2026-09-15",
-    "source": "GeekNews",
-    "title": "Apple Siri의 AI를 Claude와 ChatGPT로 교체할 수 있는 코드 발견",
-    "url": "https://news.hada.io/topic?id=33695",
-    "summary": "iOS 27과 macOS Golden Gate의 비공개 코드에서 Siri에 외부 AI를 연결하거나, 서버 측 모델 자체를 교체할 수 있는 구조가 발견됨 Claude를 확장 기능으로 연결한 시연에서는 Claude가 요청을 해석하고 Siri가 미리…",
-    "tags": [],
-    "score": 0.68
   }
 ]
