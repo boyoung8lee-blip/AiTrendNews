@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-10-06",
+    "source": "GeekNews",
+    "title": "Show GN: Agent Guard - Claude Code·Codex의 비밀정보 노출을 줄이는 로컬 보안 도구",
+    "url": "https://news.hada.io/topic?id=34831",
+    "summary": "Claude Code나 Codex가 .env를 읽거나, 명령어 출력에 API 키와 토큰이 포함되면 Git에 커밋하지 않더라도 비밀정보가 에이전트의 컨텍스트나 대화 기록에 들어갈 수 있습니다. 이런 노출 경로를 줄이기 위해 Agent Guard를…",
+    "tags": [],
+    "score": 0.83
+  },
+  {
+    "date": "2026-10-06",
+    "source": "GeekNews",
+    "title": "Cloudflare, AI 에이전트를 위한 Web Search API 베타 공개",
+    "url": "https://news.hada.io/topic?id=34826",
+    "summary": "Cloudflare가 Web Search API를 베타로 공개해, AI 에이전트와 애플리케이션이 인터넷을 검색하고 실시간 정보를 근거로 응답할 수 있게 함 출시 시점에는 Ceramic.ai, Exa, Linkup의 세 검색 제공업체를 선택할 수 있음…",
+    "tags": [],
+    "score": 0.69
+  },
+  {
+    "date": "2026-10-06",
+    "source": "PyTorch KR",
+    "title": "ChatGPT Pro 3단계 개편 정리: Pro 200 사용량 축소와 Pro 500 Ultrafast의 속도 대비 비용 (feat. Codex)",
+    "url": "https://discuss.pytorch.kr/t/chatgpt-pro-3-pro-200-pro-500-ultrafast-feat-codex/12054",
+    "summary": "ChatGPT Pro 요금제가 Pro 100, Pro 200, Pro 500 세 계단으로 나뉘고 Pro 500에만 Ultrafast가 붙는 모습을 표현한 일러스트1536×1024 156 KB ChatGPT Pro 요금제 개편 소개 OpenAI가…",
+    "tags": [
+      "openai",
+      "chatgpt",
+      "codex",
+      "product-launch"
+    ],
+    "score": 0.58
+  },
+  {
     "date": "2026-10-05",
     "source": "GeekNews",
     "title": "Pi pod - 자체 서버의 샌드박스에서 pi 코딩 에이전트 실행하기",
@@ -611,42 +643,5 @@
       "agent-skills"
     ],
     "score": 0.68
-  },
-  {
-    "date": "2026-09-16",
-    "source": "PyTorch KR",
-    "title": "Meta, Muse Spark 1.3 출시: 1M 컨텍스트 검색 55.5점에서 98.1점으로, 코딩 도구 호출 20% 절감",
-    "url": "https://discuss.pytorch.kr/t/meta-muse-spark-1-3-1m-55-5-98-1-20/11860",
-    "summary": "Meta가 출시한 에이전트 작업용 모델 Muse Spark 1.3의 핵심 세 가지 개선1536×1024 237 KB Muse Spark 1.3 소개 Meta가 2026년 9월 2일 긴 에이전트 작업과 코딩에 초점을 맞춘 모델 Muse Spark…",
-    "tags": [
-      "llm",
-      "agent",
-      "coding-agent",
-      "meta"
-    ],
-    "score": 0.67
-  },
-  {
-    "date": "2026-09-16",
-    "source": "PyTorch KR",
-    "title": "[A2A 알아보기 2편] A2A Python SDK: 나의 에이전트를 다른 사람의 에이전트가 호출할 수 있도록 하기 위해 A2A 서버로 공개하기",
-    "url": "https://discuss.pytorch.kr/t/a2a-2-a2a-python-sdk-a2a/11893",
-    "summary": "A2A Python SDK: 내가 만든 에이전트를 다른 에이전트가 호출할 수 있는 A2A 서버로 공개하기1536×1024 223 KB A2A Python SDK 소개 A2A Python SDK는 파이썬으로 만든 에이전트를…",
-    "tags": [
-      "multi-agent",
-      "python",
-      "a2a",
-      "json-rpc"
-    ],
-    "score": 0.67
-  },
-  {
-    "date": "2026-09-16",
-    "source": "GeekNews",
-    "title": "아직도 코드를 읽나요?",
-    "url": "https://news.hada.io/topic?id=33735",
-    "summary": "AI 활용 방식은 구현 이해를 유지하는 가속형 개발자와 구현 및 수정을 위임하는 바이브코더로 나뉨. 차이는 AI가 작성한 코드의 양이 아니라 결과물을 이해하고 유지보수하는 방식에 있음 프로그래밍의 핵심 자산은 코드보다 도메인에 대한 모델과 이해...",
-    "tags": [],
-    "score": 0.64
   }
 ]
