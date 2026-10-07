@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-10-08",
+    "source": "GeekNews",
+    "title": "Docker Agent",
+    "url": "https://news.hada.io/topic?id=34968",
+    "summary": "Docker Agent는 YAML로 AI 에이전트를 정의하고 실행하는 Docker CLI 플러그인으로, 별도 코드 작성 없이 도구를 사용하는 에이전트를 만들 수 있음 멀티 에이전트 아키텍처로 전문화된 에이전트 팀을 구성하고 작업을 자동으로 위임해…",
+    "tags": [],
+    "score": 0.98
+  },
+  {
+    "date": "2026-10-08",
+    "source": "GeekNews",
+    "title": "Claude Haiku 5.5 출시 - 평균 실행 비용 75% 절감, Max·Team에 API 크레딧 제공",
+    "url": "https://news.hada.io/topic?id=34958",
+    "summary": "Anthropic이 더 빠르고 저렴한 소형 모델 Claude Haiku 5.5를 출시함. 요약, 문맥 압축, 데이터베이스 질의, 분류와 코딩 보조 에이전트처럼 대량으로 반복하는 작업에 최적화 프롬프트 10만 토큰 이하에서 입력·출력 가격을 Haiku…",
+    "tags": [],
+    "score": 0.81
+  },
+  {
+    "date": "2026-10-08",
+    "source": "PyTorch KR",
+    "title": "Crafting Apps: Adobe 소프트웨어 7종을 Rust로 다시 구현한 오픈소스 프로젝트 7종 공개",
+    "url": "https://discuss.pytorch.kr/t/crafting-apps-adobe-7-rust-7/12119",
+    "summary": "핵심 요약 ArtCraft 팀이 공개한 Crafting Apps는 Photoshop, Premiere Pro, InDesign 등 Adobe 앱 7종의 작업 방식을 Rust로 다시 구현한 앱 모음입니다. 이미지 편집기인 PhotoCraft를 비롯해…",
+    "tags": [
+      "ai-agent",
+      "mcp",
+      "rust",
+      "image-editing"
+    ],
+    "score": 0.62
+  },
+  {
     "date": "2026-10-07",
     "source": "GeekNews",
     "title": "EmbeddingGemma 2 - 개방형 경량 멀티모달 임베딩 모델",
@@ -611,37 +643,5 @@
       "agent-skills"
     ],
     "score": 0.59
-  },
-  {
-    "date": "2026-09-18",
-    "source": "GeekNews",
-    "title": "security-audit - 코딩 에이전트를 보안 감사자로 바꿔주는 스킬",
-    "url": "https://news.hada.io/topic?id=33852",
-    "summary": "코딩 에이전트를 보안 감사 도구로 전환하는 스킬로, 격리된 에이전트들을 조율해 코드베이스 정찰부터 취약점 탐색, 검증, 보고서 작성까지 수행함 커버리지 장부를 기준으로 탐색 작업을 배정하고, 발견한 에이전트와 별개의 검증 에이전트가 취약점 후보를…",
-    "tags": [],
-    "score": 0.94
-  },
-  {
-    "date": "2026-09-18",
-    "source": "GeekNews",
-    "title": "HarnessTax: 코딩 에이전트에서 하네스는 얼마나 중요할까?",
-    "url": "https://news.hada.io/topic?id=33842",
-    "summary": "7개 모델을 Claude Code, Codex CLI, Pi에 연결해 비교한 결과, 같은 모델이 비슷한 작업 성공률을 내면서도 토큰 비용은 최대 5배 차이가 났음 읽기, 쓰기, 편집, bash만 제공하는 단순한 하네스 Pi도 비용 대비 성공률에서…",
-    "tags": [],
-    "score": 0.76
-  },
-  {
-    "date": "2026-09-18",
-    "source": "PyTorch KR",
-    "title": "BrowserSkill: 사람이 사용하던 브라우저 상태 그대로 에이전트에게 사용할 수 있도록 하는 CLI 도구",
-    "url": "https://discuss.pytorch.kr/t/browserskill-cli/11936",
-    "summary": "BrowserSkill의 메인 비주얼1536×1024 209 KB BrowserSkill 소개 AI 에이전트가 브라우저를 직접 조작하게 하려면 보통 둘 중 하나를 감수해야 합니다. 매번 새 프로필로 로그인부터 다시 하는 헤드리스(headless)…",
-    "tags": [
-      "ai-agent",
-      "mit-license",
-      "rust",
-      "cli"
-    ],
-    "score": 0.62
   }
 ]
