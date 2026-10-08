@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-10-09",
+    "source": "GeekNews",
+    "title": "Whistle - 16.9 MB로 구현한 음성 텍스트 변환",
+    "url": "https://news.hada.io/topic?id=35027",
+    "summary": "Whistle은 16.9 MB 단일 파일로 배포되는 공개 음성 인식 모델로, 별도 의존성 없이 CPU에서 실행되며 7개 언어의 음성을 기기 내에서 텍스트로 변환함 전사, 단어별 타임스탬프, 음성 임베딩을 지원하며, 16 kHz 모노 오디오를 한 번에…",
+    "tags": [],
+    "score": 0.75
+  },
+  {
+    "date": "2026-10-09",
+    "source": "GeekNews",
+    "title": "Show GN: Porch - 클로드코드·코덱스로 한 일을 프로젝트별로 정리하는 맥 메뉴바 앱",
+    "url": "https://news.hada.io/topic?id=35010",
+    "summary": "클로드코드와 코덱스로 한 일을 프로젝트별로 하루·한 주·한 달 단위로 정리해 주는 맥 메뉴바 앱을 직접 만들었습니다. 오픈소스이고 가입 없이 쓸 수 있습니다. 여러 터미널에서 세션을 돌리다 보니 하루동안 어떤 작업에 시간을 썼는지, 스스로 에이전트…",
+    "tags": [],
+    "score": 0.74
+  },
+  {
+    "date": "2026-10-09",
+    "source": "PyTorch KR",
+    "title": "AgentCraft: Claude 에이전트 팀의 코딩 작업을 Minecraft 스튜디오에서 지켜보고 병합하는 모드",
+    "url": "https://discuss.pytorch.kr/t/agentcraft-claude-minecraft/12101",
+    "summary": "핵심 요약 AgentCraft는 Claude 에이전트 여러 개가 실제 git 저장소에서 계획, 구현, 리뷰를 나눠 맡는 과정을 Minecraft: Java Edition 안의 스튜디오 화면으로 보여주는 Fabric 모드와 오케스트레이터입니다. 리드…",
+    "tags": [
+      "coding-agent",
+      "mit-license",
+      "multi-agent",
+      "claude-agent-sdk"
+    ],
+    "score": 0.63
+  },
+  {
     "date": "2026-10-08",
     "source": "GeekNews",
     "title": "Docker Agent",
@@ -611,37 +643,5 @@
       "agent-protocol"
     ],
     "score": 0.56
-  },
-  {
-    "date": "2026-09-19",
-    "source": "GeekNews",
-    "title": "ZCode 내부 분석: 사용자 모르게 Git 이력을 클라우드에 업로드",
-    "url": "https://news.hada.io/topic?id=33902",
-    "summary": "Zhipu의 AI 코딩 데스크톱 앱 ZCode는 로그인 상태에서 작업 공간을 백그라운드로 압축하고 암호화해 Aliyun OSS로 업로드함. 전체 Git 이력, LFS 캐시, reflog, 전역 앱 설정까지 수집함 암호화에 쓰는 RSA 공개키는 서버가…",
-    "tags": [],
-    "score": 0.74
-  },
-  {
-    "date": "2026-09-19",
-    "source": "GeekNews",
-    "title": "Qwen 3.8 Omni Flash",
-    "url": "https://news.hada.io/topic?id=33884",
-    "summary": "Qwen3.8-Omni-Flash는 텍스트, 이미지, 오디오, 비디오를 입력받아 콘텐츠 이해부터 작업 계획, 도구 호출, 결과물 제작까지 수행하는 네이티브 옴니모달 모델로, 100만 토큰 컨텍스트를 지원함 Qwen 공개 평가에서 이전…",
-    "tags": [],
-    "score": 0.7
-  },
-  {
-    "date": "2026-09-19",
-    "source": "PyTorch KR",
-    "title": "Three.js Game Skills: 코딩 에이전트가 만든 브라우저 게임을 점수표로 검증하는 스킬 9종",
-    "url": "https://discuss.pytorch.kr/t/three-js-game-skills-9/11916",
-    "summary": "Three.js Game Skills: 코딩 에이전트가 만든 브라우저 게임을 점수표로 검증하게 하는 스킬 9종1536×1024 223 KB Three.js Game Skills 소개 코딩 에이전트에게 브라우저 게임을 만들어 달라고 하면 대체로…",
-    "tags": [
-      "claude-code",
-      "coding-agent",
-      "codex",
-      "agent-skills"
-    ],
-    "score": 0.59
   }
 ]
