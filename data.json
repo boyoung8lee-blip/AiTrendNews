@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-10-10",
+    "source": "GeekNews",
+    "title": "AI 에이전트가 화면에 큰 화살표, 상자, 텍스트를 그리게 하세요",
+    "url": "https://news.hada.io/topic?id=35071",
+    "summary": "big-arrow-on-the-screen은 AI 에이전트가 사람의 조작이 필요한 버튼이나 창을 화면 위에서 가리키도록 하는 macOS CLI와 에이전트 스킬임 권한 승인, 2FA, 결제 확인처럼 사람이 직접 결정하고 수행해야 하는 단계를 시각적으로…",
+    "tags": [],
+    "score": 0.85
+  },
+  {
+    "date": "2026-10-10",
+    "source": "GeekNews",
+    "title": "시스템으로 사고하고, 반복 루프로 출시하기",
+    "url": "https://news.hada.io/topic?id=35043",
+    "summary": "소프트웨어 엔지니어링의 중심이 직접 코드를 작성하는 일에서 AI가 대규모로 올바른 코드를 작성하도록 시스템을 설계하는 일로 옮겨감 Artemis는 플랫폼의 모든 코드를 에이전트가 작성하며, 엔지니어는 시스템 설계·제약 설정·결과 검토를 맡음 Grok…",
+    "tags": [],
+    "score": 0.68
+  },
+  {
+    "date": "2026-10-10",
+    "source": "PyTorch KR",
+    "title": "Hunk: 코딩 에이전트가 남긴 코드 변경 내역을 검토하는 터미널 diff 뷰어 프로젝트",
+    "url": "https://discuss.pytorch.kr/t/hunk-diff/12123",
+    "summary": "핵심 요약 Hunk는 코딩 에이전트가 만든 변경 사항을 터미널에서 검토하기 위한 diff 뷰어입니다. 여러 파일의 변경을 사이드바와 함께 한 화면에 이어서 보여 주고, 에이전트가 남긴 설명 메모를 해당 코드 바로 옆에 표시합니다. 에이전트는 다른…",
+    "tags": [
+      "coding-agent",
+      "code-review",
+      "tui",
+      "terminal"
+    ],
+    "score": 0.61
+  },
+  {
     "date": "2026-10-09",
     "source": "GeekNews",
     "title": "Whistle - 16.9 MB로 구현한 음성 텍스트 변환",
@@ -611,37 +643,5 @@
       "long-context"
     ],
     "score": 0.46
-  },
-  {
-    "date": "2026-09-20",
-    "source": "GeekNews",
-    "title": "Agent-Native - 하나의 액션을 UI/에이전트/API에서 함께 쓰는 앱 프레임워크",
-    "url": "https://news.hada.io/topic?id=33920",
-    "summary": "기존 앱과 AI 에이전트를 별개로 만들지 않고 하나의 애플리케이션 안에서 같은 기능과 데이터를 공유하게 하는 프레임워크 작업을 defineAction으로 한 번 정의하면 UI, 에이전트 도구, HTTP API, MCP, A2A, CLI에서 같은…",
-    "tags": [],
-    "score": 0.75
-  },
-  {
-    "date": "2026-09-20",
-    "source": "GeekNews",
-    "title": "과학은 오픈 소프트웨어다",
-    "url": "https://news.hada.io/topic?id=33954",
-    "summary": "현대 과학, 적어도 계산과학에서 오픈소스 소프트웨어는 과학 그 자체임. 소프트웨어는 예측 모델을 실행 가능한 형태로 담고 공유하는 수단이기 때문임 재현성은 같은 결과를 반복하는 데 그치지 않음. 다른 사람이 과학적 아이디어를 자신의 모델에 통합하고,…",
-    "tags": [],
-    "score": 0.65
-  },
-  {
-    "date": "2026-09-20",
-    "source": "PyTorch KR",
-    "title": "[A2A 알아보기 3편] A2A CLI: 클라이언트 코드 없이, 터미널에서 A2A 에이전트를 호출하고 띄우는 공식 명령줄 도구",
-    "url": "https://discuss.pytorch.kr/t/a2a-3-a2a-cli-a2a/11894",
-    "summary": "A2A CLI: 클라이언트 코드 없이 터미널에서 A2A 에이전트를 호출하고 띄우는 공식 명령줄 도구1536×1024 164 KB A2A CLI 소개 A2A CLI는 A2A(Agent2Agent) 프로토콜 ( [A2A 알아보기 1편] A2A 프로토콜:…",
-    "tags": [
-      "multi-agent",
-      "developer-tools",
-      "a2a",
-      "agent-protocol"
-    ],
-    "score": 0.56
   }
 ]
