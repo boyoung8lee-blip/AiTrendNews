@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-10-11",
+    "source": "GeekNews",
+    "title": "Mxc: Microsoft Execution Containers 버전 1.0.0",
+    "url": "https://news.hada.io/topic?id=35136",
+    "summary": "Microsoft Execution Containers(MXC) 가 정식 출시됨. 개발자와 IT 관리자가 에이전트에 허용할 파일과 네트워크 등의 자원을 선언하면, 컨테이너가 실행 중 해당 경계를 강제함 정책은 에이전트의 통제 밖에 유지되므로 모델,…",
+    "tags": [],
+    "score": 0.75
+  },
+  {
+    "date": "2026-10-11",
+    "source": "GeekNews",
+    "title": "Talorys - Cloudflare 무료 티어에서 셀프 호스팅하는 개인 AI 에이전트",
+    "url": "https://news.hada.io/topic?id=35128",
+    "summary": "Talorys는 사용자 자신의 Cloudflare 계정에서 실행되는 무료 오픈소스 개인 AI 비서로, 대화와 기억 관리, 작업/노트/프로젝트 관리, 예약 자동화를 지원함 1인 사용을 전제로 설계되어 회원가입이나 팀 기능이 없으며, 개발자가 운영하는…",
+    "tags": [],
+    "score": 0.69
+  },
+  {
+    "date": "2026-10-11",
+    "source": "PyTorch KR",
+    "title": "Jev와 유사한 오픈소스 결정 모델에 대한 정리: Decision Index와 JevBench로 비교한 결정 모델 성능 비교",
+    "url": "https://discuss.pytorch.kr/t/jev-decision-index-jevbench/12095",
+    "summary": "핵심 요약 Jev Decision Index는 Hugging Face의 ML 엔지니어 apolinário(multimodalart)가 운영하는 Space입니다. News 탭은 Jev 재현 산출물 66개를 모으고, Index 탭은 모델 70개를 같은…",
+    "tags": [
+      "benchmark",
+      "hugging-face",
+      "jev",
+      "structured-output"
+    ],
+    "score": 0.58
+  },
+  {
     "date": "2026-10-10",
     "source": "GeekNews",
     "title": "AI 에이전트가 화면에 큰 화살표, 상자, 텍스트를 그리게 하세요",
@@ -611,37 +643,5 @@
       "robot-arm"
     ],
     "score": 0.52
-  },
-  {
-    "date": "2026-09-21",
-    "source": "GeekNews",
-    "title": "Show GN: AutoRAG Agent - 컴퓨터에 있는 모든 것을 검색해주는 에이전트 (파일, 메신저 대화 기록, 이메일, 노션...",
-    "url": "https://news.hada.io/topic?id=34003",
-    "summary": "AutoRAG는 RAG 자동 최적화 프레임워크였으나, 에이전트 시대 고정된 하나의 RAG 파이프라인을 찾는 것보다는 진정한 RAG 에이전트 구축에 필요성을 느낌 이에 AutoRAG 팀과 RAG 전문회사 브레인크루, 투이컨설팅이 컨소시엄을 이루어…",
-    "tags": [],
-    "score": 0.78
-  },
-  {
-    "date": "2026-09-21",
-    "source": "GeekNews",
-    "title": "Ask GN: 3주간 코딩 에이전트에게 보낸 제 메시지를 분석해 봤습니다. 40%는 실제 작업이 아니었어요. 다른 분들...",
-    "url": "https://news.hada.io/topic?id=34012",
-    "summary": "여러 코딩 에이전트를 동시에 돌리고 있습니다. 주로 Claude Code와 Kimi를 쓰고, 가끔 Cursor와 Copilot도 씁니다. 요즘 작업 속도가 느리다는 느낌이 들어서, 지난 3주 동안 에이전트에게 보낸 메시지를 전부 내보낸 뒤, 모델이…",
-    "tags": [],
-    "score": 0.75
-  },
-  {
-    "date": "2026-09-21",
-    "source": "PyTorch KR",
-    "title": "Kaggle TPU Lab: 무료 Kaggle TPU에서 320B 크기의 GLM-5.3-Flash을 서빙하는 코딩 에이전트용 API 레시피 저장소",
-    "url": "https://discuss.pytorch.kr/t/kaggle-tpu-lab-kaggle-tpu-320b-glm-5-3-flash-api/11944",
-    "summary": "Kaggle TPU Lab: 무료 Kaggle TPU에서 320B 크기의 GLM-5.3-Flash을 서빙하는 코딩 에이전트용 API 레시피 저장소1536×1024 240 KB Kaggle TPU Lab 소개 가중치가 공개된 모델을 직접 서빙하려면…",
-    "tags": [
-      "coding-agent",
-      "mixture-of-experts",
-      "vllm",
-      "long-context"
-    ],
-    "score": 0.46
   }
 ]
