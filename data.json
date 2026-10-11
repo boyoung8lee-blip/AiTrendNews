@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-10-12",
+    "source": "GeekNews",
+    "title": "미안하지만, 여전히 직접 생각해야 합니다",
+    "url": "https://news.hada.io/topic?id=35189",
+    "summary": "AI 에이전트에 코드 재작성을 맡겨도 호환성, 지연 시간, 처리량, 메모리 한도 같은 설계 판단은 사라지지 않으며, 요구사항이 구체적이지 않으면 모델이 암묵적으로 결정함 Campfire Once의 Rust와 Elixir 재작성은 호환성과 구현…",
+    "tags": [],
+    "score": 0.82
+  },
+  {
+    "date": "2026-10-12",
+    "source": "GeekNews",
+    "title": "최신 AI 모델들, 인간의 알고리듬 혁신에 필적하는 성과를 내는 데 어려움 겪어",
+    "url": "https://news.hada.io/topic?id=35195",
+    "summary": "Epoch AI의 InnovationEval에서 Claude Fable 5와 GPT-5.6 Sol은 수천 달러 규모의 GPU 실험을 수행했지만, 인간이 개발한 후속 학습 기법 SDPO에 필적하는 혁신을 독자적으로 만들지 못함 평가는 아이디어 구상부터…",
+    "tags": [],
+    "score": 0.67
+  },
+  {
+    "date": "2026-10-12",
+    "source": "PyTorch KR",
+    "title": "Google이 공개한 AI 에이전트 프라이버시와 보안의 51가지 이슈에 대한 워크숍 보고서 [영문/PDF/116p]",
+    "url": "https://discuss.pytorch.kr/t/google-ai-51-pdf-116p/12113",
+    "summary": "핵심 요약 Google Research가 2026년 10월 5일 블로그 글과 함께 116쪽 분량의 워크숍 보고서를 공개했습니다. 2025년 11월 뉴욕에서 열린 CAPS 워크숍의 논의를 정리한 문서이며, 공저자는 66명입니다. 보고서는 AI…",
+    "tags": [
+      "agent",
+      "google",
+      "report",
+      "prompt-injection"
+    ],
+    "score": 0.55
+  },
+  {
     "date": "2026-10-11",
     "source": "GeekNews",
     "title": "Mxc: Microsoft Execution Containers 버전 1.0.0",
@@ -611,37 +643,5 @@
       "typesafe-ai"
     ],
     "score": 0.53
-  },
-  {
-    "date": "2026-09-22",
-    "source": "GeekNews",
-    "title": "샤오미, MiMo-V2.6 공개 - 강화학습 과정을 공개한 멀티모달 모델",
-    "url": "https://news.hada.io/topic?id=34085",
-    "summary": "텍스트, 이미지, 영상, 오디오를 함께 이해하고 코딩과 도구 사용, 컴퓨터 조작을 수행하는 모델군으로, 고성능 Pro와 비용 효율적인 Flash를 공개함 Pro는 발표 기준 Artificial Analysis 지능 지수 46.32점으로 공개 모델 중…",
-    "tags": [],
-    "score": 0.79
-  },
-  {
-    "date": "2026-09-22",
-    "source": "GeekNews",
-    "title": "MCP는 처음부터 잘못된 아이디어였다",
-    "url": "https://news.hada.io/topic?id=34059",
-    "summary": "코드를 실행하고 API를 직접 호출할 수 있는 에이전트에는 기존 API를 다시 감싼 MCP 서버가 불필요해졌으며, 필요한 기능이 이미 있는 HTTP API와 CLI를 직접 사용하면 됨 MCP 서버를 늘릴수록 도구 설명과 스키마가 컨텍스트를 과도하게…",
-    "tags": [],
-    "score": 0.78
-  },
-  {
-    "date": "2026-09-22",
-    "source": "PyTorch KR",
-    "title": "OpenArm: 원격 조작부터 학습 정책 평가까지 공개한 오픈소스 양팔 로봇",
-    "url": "https://discuss.pytorch.kr/t/openarm/11947",
-    "summary": "OpenArm: 원격 조작부터 학습 정책 평가까지 공개한 오픈소스 양팔 로봇1536×1024 250 KB OpenArm 소개 로봇 팔로 조작 데이터를 모으는 연구는 팔을 손에 넣었다고 시작되지 않습니다. 사람이 어떤 장치로 팔을 조종해 시연을…",
-    "tags": [
-      "robotics",
-      "physical-ai",
-      "imitation-learning",
-      "robot-arm"
-    ],
-    "score": 0.52
   }
 ]
