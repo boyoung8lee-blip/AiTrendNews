@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-10-14",
+    "source": "GeekNews",
+    "title": "Show GN: Flats – AI 에이전트가 만든 웹사이트를 내 컴퓨터에서 호스팅",
+    "url": "https://news.hada.io/topic?id=35303",
+    "summary": "안녕하세요. Claude Code, Codex 같은 AI 에이전트가 만든 결과물을 자신의 컴퓨터에서 실행하고 공유할 수 있는 오픈소스 프로젝트 Flats를 만들었습니다. Claude Artifacts나 ChatGPT의 Sites처럼 AI가 웹사이트나…",
+    "tags": [],
+    "score": 0.82
+  },
+  {
+    "date": "2026-10-14",
+    "source": "GeekNews",
+    "title": "Show GN: 나래 한글(나래팩) – AI 에이전트용 HWP/HWPX 편집·생성 CLI/스킬/템플릿 패키지",
+    "url": "https://news.hada.io/topic?id=35296",
+    "summary": "충청북도에서 4년차 특수교사로 일하고 있습니다. 원래 코딩에는 큰 관심이 없었습니다. 그런데 특수학교에서 처음 근무하면서, 일반 교육에는 과할 정도로 많은 에듀테크가 특수교육 쪽에는 너무 부족하고 환경도 열악하다는 걸 알게 됐습니다. 이쪽은 시장이…",
+    "tags": [],
+    "score": 0.76
+  },
+  {
+    "date": "2026-10-14",
+    "source": "PyTorch KR",
+    "title": "Vercel, 지난 6월 공개한 오픈소스 에이전트 프레임워크 eve를 기반으로 한 100개 이상의 사내 에이전트 운영 경험 공유",
+    "url": "https://discuss.pytorch.kr/t/vercel-6-eve-100/12139",
+    "summary": "핵심 요약 Vercel은 2026년 6월 17일 블로그 글을 통해 에이전트를 파일 디렉터리로 정의하는 오픈소스 프레임워크 eve를 공개했고, 사내에서 100개가 넘는 에이전트를 이 구조로 운영한다고 밝혔습니다. ( eve: 파일시스템을 저작…",
+    "tags": [
+      "ai-agent",
+      "agent-framework",
+      "typescript",
+      "human-in-the-loop"
+    ],
+    "score": 0.64
+  },
+  {
     "date": "2026-10-13",
     "source": "GeekNews",
     "title": "AI 코딩 에이전트(Claude Code·Codex·Gemini CLI) 세팅이 실패하는 15가지 패턴과 해결법",
@@ -611,37 +643,5 @@
       "typesafe-ai"
     ],
     "score": 0.59
-  },
-  {
-    "date": "2026-09-24",
-    "source": "GeekNews",
-    "title": "No Sloptober - 10월 한 달 LLM 도구 사용하지 않기",
-    "url": "https://news.hada.io/topic?id=34174",
-    "summary": "10월 한 달 동안 LLM 기반 도구를 사용하지 않는 개인 도전을 제안함. 타인을 평가하려는 것이 아니라, 사용을 멈춰 LLM의 장단점을 스스로 판단하는 기회로 삼음 가장 엄격한 방식은 집과 직장에서 AI 검색 요약, 챗봇, 코드 리뷰, 에이전트…",
-    "tags": [],
-    "score": 0.84
-  },
-  {
-    "date": "2026-09-24",
-    "source": "GeekNews",
-    "title": "Unreal Agent",
-    "url": "https://news.hada.io/topic?id=34163",
-    "summary": "Unreal Agent는 도구 호출을 완전히 비동기로 관리해, 모델이 대기와 폴링, 하트비트를 처리하는 데 쓰는 시간과 토큰을 줄이는 에이전트 하네스임 도구 실행이 끝나기 전에도 사용자의 추가 지시를 받을 수 있으며, 오래 걸리는 작업과 코드 탐색,…",
-    "tags": [],
-    "score": 0.75
-  },
-  {
-    "date": "2026-09-24",
-    "source": "PyTorch KR",
-    "title": "OpenAI, API 가격을 절반으로 낮춘 GPT-6 Sol과 Luna 출시: 추론 강도별 과제당 비용으로 본 성능과 정렬",
-    "url": "https://discuss.pytorch.kr/t/openai-api-gpt-6-sol-luna/11989",
-    "summary": "GPT-6 Sol과 Luna 출시, 최상위 Astra 아래 균형형 Sol과 경량형 Luna 티어를 계단으로 표현한 이미지1536×1024 176 KB GPT-6 Sol과 Luna 소개 OpenAI가 2026년 9월 22일, GPT-6 제품군의 중간…",
-    "tags": [
-      "llm",
-      "openai",
-      "agent",
-      "benchmark"
-    ],
-    "score": 0.51
   }
 ]
