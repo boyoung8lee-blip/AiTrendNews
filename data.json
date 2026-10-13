@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-10-13",
+    "source": "GeekNews",
+    "title": "AI 코딩 에이전트(Claude Code·Codex·Gemini CLI) 세팅이 실패하는 15가지 패턴과 해결법",
+    "url": "https://news.hada.io/topic?id=35266",
+    "summary": "코딩 에이전트를 몇 주 쓰다 보면 \"일은 많이 했는데 실제로 반영된 건 없는\" 상태가 돼요. 원인은 대부분 모델 성능이 아니라 운영 설정이에요. 증거 없는 \"완료\": 완료 기준에 \"실행한 명령과 실제 결과\"를 꼭 넣게 해요. \"테스트 통과\"가...",
+    "tags": [],
+    "score": 0.88
+  },
+  {
+    "date": "2026-10-13",
+    "source": "GeekNews",
+    "title": "StreamRender-H3 - 실시간 스트리밍 확산 렌더링으로 구현하는 코드 기반 인터랙티브 세계",
+    "url": "https://news.hada.io/topic?id=35269",
+    "summary": "코드 기반 게임 엔진이 세계의 상태와 규칙을 관리하고, 비디오 모델이 엔진의 시맨틱 맵을 사실적인 영상으로 바꾸는 구조임 시맨틱 맵은 장면 구조와 움직임을 전달하고, 참조 이미지와 프롬프트는 외관을 결정함. 같은 플레이 흐름도 엔진을 바...",
+    "tags": [],
+    "score": 0.8
+  },
+  {
+    "date": "2026-10-13",
+    "source": "PyTorch KR",
+    "title": "GuideLLM v0.8.0 공개, 지연 SLO를 지키는 최대 동시성 탐색과 에이전트 트레이스 재생 (feat. vLLM)",
+    "url": "https://discuss.pytorch.kr/t/guidellm-v0-8-0-slo-feat-vllm/12149",
+    "summary": "핵심 요약 vLLM 프로젝트가 2026년 9월 30일 GuideLLM v0.8.0 릴리스를 공개했습니다. 지연 목표(SLO)를 지킨 요청의 처리율(goodput)을 재고, 그 목표를 지키는 최대 동시 요청 수를 찾는 goodput 프로파일이…",
+    "tags": [
+      "agent",
+      "benchmark",
+      "vllm",
+      "llm-inference"
+    ],
+    "score": 0.64
+  },
+  {
     "date": "2026-10-12",
     "source": "GeekNews",
     "title": "미안하지만, 여전히 직접 생각해야 합니다",
@@ -611,37 +643,5 @@
       "benchmark"
     ],
     "score": 0.51
-  },
-  {
-    "date": "2026-09-23",
-    "source": "GeekNews",
-    "title": "GPT-6 Sol과 Luna 출시",
-    "url": "https://news.hada.io/topic?id=34138",
-    "summary": "GPT-6 Astra의 코딩, 전문 업무, 컴퓨터 사용 능력을 더 빠르고 저렴한 모델로 확장하며, 사실 정확성과 사용자 지시를 따르는 능력도 개선함 API 가격은 이전 GPT-5.6 프로모션 가격보다 절반 수준으로 낮아짐. 100만 토큰당 입력/출력…",
-    "tags": [],
-    "score": 0.77
-  },
-  {
-    "date": "2026-09-23",
-    "source": "GeekNews",
-    "title": "내 하드웨어에서 실행하는 최첨단 AI",
-    "url": "https://news.hada.io/topic?id=34116",
-    "summary": "dlab은 로컬 추론, 에이전트 하네스, 자율 연구 시스템을 하나의 생태계로 묶어 공개할 예정. 소수의 연구자와 GPU만으로 최첨단 연구소와 경쟁할 수 있는 시스템을 만드는 것이 목표 자체 추론 프레임워크는 125B 모델을 단일 24GB GPU에서…",
-    "tags": [],
-    "score": 0.73
-  },
-  {
-    "date": "2026-09-23",
-    "source": "PyTorch KR",
-    "title": "Fast Jev Compaction: 컨텍스트 정리 시, 불필요한 도구 호출 결과를 제외하는 Claude Code 플러그인",
-    "url": "https://discuss.pytorch.kr/t/fast-jev-compaction-claude-code/11970",
-    "summary": "Fast Jev Compaction: 컨텍스트 정리 시, 불필요한 내용 및 도구 호출을 제외하는 Claude Code 플러그인1536×1024 269 KB Fast Jev Compaction 소개 코딩 에이전트와 한 세션을 오래 이어 가면 주고받은…",
-    "tags": [
-      "claude-code",
-      "coding-agent",
-      "plugin",
-      "typesafe-ai"
-    ],
-    "score": 0.53
   }
 ]
