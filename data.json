@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-10-17",
+    "source": "GeekNews",
+    "title": "Self-Evolving Agent Harness - 모델은 그대로, 하네스(프롬프트·기억·도구)를 스스로 고치는 에이전트",
+    "url": "https://news.hada.io/topic?id=35463",
+    "summary": "모델 가중치는 고정하고, 에이전트를 감싼 프롬프트 · 기억 · 워크플로 · 도구 코드를 실행 피드백으로 고쳐 나가는 「하네스 자기 진화」를 형식화한 논문 수정 대상과, 수정 안을 내는 방법, 적용 기준을 나눠서 봄 받아들인 수정은 다음 실행에도…",
+    "tags": [],
+    "score": 0.79
+  },
+  {
+    "date": "2026-10-17",
+    "source": "GeekNews",
+    "title": "Postgres 19 출시 지연, AI 리뷰가 사람이 고칠 수 있는 양보다 많은 버그를 발견",
+    "url": "https://news.hada.io/topic?id=35488",
+    "summary": "PostgreSQL 19 정식 출시가 9월 말~10월 초에서 11월 19일경으로 미뤄졌으며, 주요 기능 8~10개가 이번 릴리스에서 제외됨 핵심 커미터 Peter Eisentraut는 기능 철회의 원인 중 일부가 LLM 보조 코드 리뷰일 수 있다고…",
+    "tags": [],
+    "score": 0.77
+  },
+  {
+    "date": "2026-10-17",
+    "source": "PyTorch KR",
+    "title": "Muse Wonder, Meta가 출시한 장기 코딩 평가 1위 및 Claude Opus 5.5과 유사한 성능의 에이전트 모델",
+    "url": "https://discuss.pytorch.kr/t/muse-wonder-meta-1-claude-opus-5-5/12171",
+    "summary": "핵심 요약 Meta가 2026년 10월 12일 Muse Wonder 발표 글에서 에이전트용 모델 Muse Wonder와 상위 변형 Muse Wonder Full을 출시했습니다. 가중치는 공개하지 않고 API와 구독으로만 제공합니다. Meta가 고른…",
+    "tags": [
+      "llm",
+      "agent",
+      "coding-agent",
+      "benchmark"
+    ],
+    "score": 0.57
+  },
+  {
     "date": "2026-10-16",
     "source": "GeekNews",
     "title": "Show GN: hone - 에이전트 평가 사이클을 자동으로 돌리고, 처음 보는 케이스로 판정하는 CLI",
@@ -610,38 +642,6 @@
     "url": "https://news.hada.io/topic?id=34344",
     "summary": "코드 변경뿐 아니라 에이전트가 받은 요청, 도구 사용과 작업 맥락까지 Git 커밋에 연결해 기록하는 데스크톱 개발 도구 Claude Code, Codex, 자체 에이전트와 ACP 호환 에이전트를 한 화면에서 병렬 실행 에이전트끼리 작업 맥락을…",
     "tags": [],
-    "score": 0.6
-  },
-  {
-    "date": "2026-09-27",
-    "source": "GeekNews",
-    "title": "AI 없이 보낸 한 달",
-    "url": "https://news.hada.io/topic?id=34323",
-    "summary": "업무에서 AI 코딩 에이전트에 구현과 테스트, 커밋까지 맡기던 개발자가 코드에 대한 통제력을 잃었다고 느껴 사용을 중단하고, 한 달 동안 직접 개발하는 방식으로 돌아옴 여러 에이전트를 병렬로 실행하자 코드 생성은 빨라졌지만, 검토 부담과 문맥 전환이…",
-    "tags": [],
-    "score": 0.81
-  },
-  {
-    "date": "2026-09-27",
-    "source": "GeekNews",
-    "title": "비전 모델까지 지원하는 Jev 스타일 LLM 래퍼",
-    "url": "https://news.hada.io/topic?id=34327",
-    "summary": "일반 LLM을 긴 답변 대신 선택지별 확률과 점수를 반환하는 도구로 사용하는 Python 함수 score()를 구현함 질문과 A/B/C 선택지를 주고 답에 해당하는 문자만 생성하게 한 뒤, 토큰별 확률을 읽어 분류 결과, 참일 확률, 단계별 점수를…",
-    "tags": [],
-    "score": 0.74
-  },
-  {
-    "date": "2026-09-27",
-    "source": "PyTorch KR",
-    "title": "Andrew Ng의 AI Engineering Skills Map: 코딩 에이전트 활용 역량(Using coding agents)",
-    "url": "https://discuss.pytorch.kr/t/andrew-ng-ai-engineering-skills-map-using-coding-agents/11994",
-    "summary": "코딩 에이전트 활용 역량1536×1024 166 KB 코딩 에이전트를 잘 쓰는 역량 소개 Andrew Ng는 AI Engineering Skills Map의 세 번째 축으로 코딩 에이전트를 활용하는 능력을 제시합니다. 에이전트가 코드를 작성하는…",
-    "tags": [
-      "agent",
-      "coding-agent",
-      "guide",
-      "andrew-ng"
-    ],
     "score": 0.6
   }
 ]
