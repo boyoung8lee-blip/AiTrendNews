@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-10-19",
+    "source": "GeekNews",
+    "title": "웹사이트들이 AI 에이전트에 문을 닫고 있음",
+    "url": "https://news.hada.io/topic?id=35590",
+    "summary": "예약과 쇼핑 등을 대신하는 AI 에이전트가 주요 웹사이트의 접근 제한에 부딪히고 있음. Meta Muse, xAI Grok, OpenAI Dots, Instinct 사용자들이 작업 차단을 겪고 있음 차단 이유는 보안 우려와 사업적 이해관계에 걸쳐…",
+    "tags": [],
+    "score": 0.64
+  },
+  {
+    "date": "2026-10-19",
+    "source": "GeekNews",
+    "title": "Anthropic이 제안한 AI 안전 법안, 50명 사망이나 10억 달러 피해 위험이 있어야 작동",
+    "url": "https://news.hada.io/topic?id=35588",
+    "summary": "Anthropic이 정부의 AI 모델 출시 차단을 대규모 피해 위험에 한정하는 법안을 추진 중임. 구체적인 기준은 10억 달러 피해 또는 50명 초과의 사망/부상 위험임 규제 대상 위험은 생물무기 생성/방출, AI를 활용한 사이버 공격, 연구소의…",
+    "tags": [],
+    "score": 0.58
+  },
+  {
+    "date": "2026-10-19",
+    "source": "PyTorch KR",
+    "title": "Unsloth, LLM을 Laya, Clef와 같인 Jev식 결정 모델을 미세조정하고 로컬에서 서빙하는 학습 가이드 공개",
+    "url": "https://discuss.pytorch.kr/t/unsloth-llm-laya-clef-jev/12158",
+    "summary": "핵심 요약 Unsloth의 결정 모델 학습 가이드가 공개되었습니다. Qwen, Gemma, Llama 같은 LLM에 작은 결정 헤드를 붙여 LoRA로 학습하면, 문장 대신 선택지별 확률을 돌려주는 Jev식 결정 모델이 됩니다. 학습은 Unsloth…",
+    "tags": [
+      "llm",
+      "fine-tuning",
+      "jev",
+      "lora"
+    ],
+    "score": 0.54
+  },
+  {
     "date": "2026-10-18",
     "source": "GeekNews",
     "title": "Amazon, AI로 영국 물류창고의 노조 결성 위험 감시",
@@ -611,37 +643,5 @@
       "structured-output"
     ],
     "score": 0.69
-  },
-  {
-    "date": "2026-09-29",
-    "source": "GeekNews",
-    "title": "제대로 된 AI 제품은 어떤 모습이어야 할까?",
-    "url": "https://news.hada.io/topic?id=34452",
-    "summary": "“AI는 실수할 수 있으니 확인하세요”라고 요구한다면, 확인할 도구도 제공해야 함. 오류 검증은 작은 면책 문구가 아니라 제품의 핵심 기능이어야 함 답변보다 원문 인용과 데이터 출처를 앞세우고, 원본 자료·API에서 가져온 데이터와 모델이 생성하거나…",
-    "tags": [],
-    "score": 0.74
-  },
-  {
-    "date": "2026-09-29",
-    "source": "GeekNews",
-    "title": "인덱스 하나 더의 참을 수 없는 가벼움",
-    "url": "https://news.hada.io/topic?id=34455",
-    "summary": "코딩 에이전트가 만든 PostgreSQL 인덱스는 개별 쿼리에는 적절했지만, 쓰기가 집중되는 테이블에 누적되는 비용을 충분히 고려하지 못함 지원 도구의 tickets 벤치마크에서 인덱스가 16개인 생성 스키마는 수작업 기준 스키마보다 WAL을…",
-    "tags": [],
-    "score": 0.72
-  },
-  {
-    "date": "2026-09-29",
-    "source": "PyTorch KR",
-    "title": "Claude Opus 5.5 프롬프팅 & 마이그레이션 가이드: Anthropic이 공개한, Opus 5, 4.x, Sonnet 5 코드를 400 오류 없이 옮기는 법",
-    "url": "https://discuss.pytorch.kr/t/claude-opus-5-5-anthropic-opus-5-4-x-sonnet-5-400/12002",
-    "summary": "Claude Opus 5.5 프롬프팅 및 마이그레이션 가이드, 코드 마이그레이션과 프롬프트 조정을 함께 진행하는 두 영역 구성1536×1024 225 KB Claude Opus 5.5 마이그레이션 가이드 소개 Anthropic의 Claude Opus…",
-    "tags": [
-      "llm",
-      "agent",
-      "anthropic",
-      "claude"
-    ],
-    "score": 0.61
   }
 ]
