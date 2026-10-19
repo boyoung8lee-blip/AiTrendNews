@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-10-20",
+    "source": "GeekNews",
+    "title": "MiniMax M3.1 Flash - 에이전트 성능을 높이고 사용 비용을 70% 낮춘 모델",
+    "url": "https://news.hada.io/topic?id=35657",
+    "summary": "MiniMax가 에이전트 작업, 코딩, 컴퓨터 사용, 사이버보안 역량을 강화한 M3.1 Flash를 출시함 MiniMax에 따르면 온라인 추론 속도는 약 3배 빨라졌으며, 에이전트 작업의 전체 사용 비용은 이전 모델보다 70% 낮아짐 복잡한…",
+    "tags": [],
+    "score": 0.8
+  },
+  {
+    "date": "2026-10-20",
+    "source": "GeekNews",
+    "title": "Harness Engineering 101 - Python 약 300줄로 배우는 AI 에이전트 구현",
+    "url": "https://news.hada.io/topic?id=35651",
+    "summary": "순수 Python으로 약 300줄의 AI 에이전트를 만들며 작동 원리를 배우는 입문서. 프레임워크나 SDK 없이 HTTP 요청부터 시작해, 16개 장에 걸쳐 실행 가능한 작은 코딩 에이전트로 확장 LLM은 두뇌, 하네스는 몸이라는 비유에서 출발.…",
+    "tags": [],
+    "score": 0.8
+  },
+  {
+    "date": "2026-10-20",
+    "source": "PyTorch KR",
+    "title": "LeanREA: REA의 MCP 도구 207개 대신 8KB 스킬 파일 하나로 리버스 엔지니어링을 안내하는 에이전트 스킬 (≠ REA 공식 경량판)",
+    "url": "https://discuss.pytorch.kr/t/leanrea-rea-mcp-207-8kb-rea/12233",
+    "summary": "핵심 요약 leanrea는 리버스 엔지니어링 MCP 서버인 REA(Reverse Engineer Anything) 대신, 8KB짜리 SKILL.md 한 장으로 코딩 에이전트가 otool, nm, go version -m, rg 같은 명령줄 도구를…",
+    "tags": [
+      "claude-code",
+      "coding-agent",
+      "mcp",
+      "agent-skills"
+    ],
+    "score": 0.65
+  },
+  {
     "date": "2026-10-19",
     "source": "GeekNews",
     "title": "웹사이트들이 AI 에이전트에 문을 닫고 있음",
@@ -611,37 +643,5 @@
       "andrew-ng"
     ],
     "score": 0.57
-  },
-  {
-    "date": "2026-09-30",
-    "source": "GeekNews",
-    "title": "OpenAI Dots - 상시 작동하는 AI 에이전트 공개",
-    "url": "https://news.hada.io/topic?id=34501",
-    "summary": "OpenAI가 GPT-6 Astra 기반 Dots를 공개함. 자체 클라우드 컴퓨터에서 여러 프로젝트를 진행하고, 피드백을 통해 사용자의 선호와 업무 기준을 익히는 상시 작동 에이전트 고객 피드백을 코드 수정·테스트·PR로 만들거나, 새 데이터에 맞춰…",
-    "tags": [],
-    "score": 0.83
-  },
-  {
-    "date": "2026-09-30",
-    "source": "GeekNews",
-    "title": "Show GN: Blyck Video Understanding - Claude·Codex가 영상을 시각 근거와 함께 분석·검색하게 해주는 MCP",
-    "url": "https://news.hada.io/topic?id=34498",
-    "summary": "직접 만든 영상 분석 MCP 서버를 소개합니다. 무엇인가요 Claude Desktop, Claude Code, Codex, ChatGPT Desktop에 연결하는 영상 분석 도구(MCP 서버 + 스킬)입니다. 공개 YouTube 링크나 직접 올린…",
-    "tags": [],
-    "score": 0.82
-  },
-  {
-    "date": "2026-09-30",
-    "source": "PyTorch KR",
-    "title": "Jev 생태계: Jev 모델 기반의 GitHub 프로젝트 1천여개를 23개 분야로 정리한 프로젝트 목록",
-    "url": "https://discuss.pytorch.kr/t/jev-jev-github-1-23/12003",
-    "summary": "Jev 생태계 1,142개 GitHub 프로젝트 지도1536×1024 173 KB Jev 생태계 프로젝트 목록 소개 Jev는 TypeSafe AI가 공개한 첫 System One 모델입니다. 앱이 현재 상태와 타입이 정해진 질문을 보내면, Jev는…",
-    "tags": [
-      "agent",
-      "awesome-list",
-      "jev",
-      "structured-output"
-    ],
-    "score": 0.69
   }
 ]
