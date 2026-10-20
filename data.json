@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-10-21",
+    "source": "GeekNews",
+    "title": "Voxtral 3 - 50개 이상 언어의 음성 인식 모델과 실시간 음성 에이전트 SDK",
+    "url": "https://news.hada.io/topic?id=35725",
+    "summary": "Mistral이 Voxtral 3 음성 모델군과 음성 에이전트 SDK를 공개함. 음성 인식, 추론, 도구 호출, 음성 합성을 하나의 실시간 스트리밍 파이프라인으로 연결함 음성 전사는 50개 언어를 지원하며, 화자 분리와 문맥 기반 인식 보정을…",
+    "tags": [],
+    "score": 0.87
+  },
+  {
+    "date": "2026-10-21",
+    "source": "PyTorch KR",
+    "title": "[오픈소스] 하네스 논문 세 편을 에이전트 하나로 묶어 봤습니다: LongHarness + Harmony Harness + Harness² 경량 구현 (비공식)",
+    "url": "https://discuss.pytorch.kr/t/longharness-harmony-harness-harness/12248",
+    "summary": "지난주 이번 주에 살펴볼 만한 AI/ML 논문 모음(10/12~18)에서 첫 번째 흐름으로 묶인 세 편을 읽었습니다. 셋 다 모델이 아니라 하네스를 고칩니다. 하네스는 모델 바깥의 시스템 프롬프트, 도구 안내, 스킬, 검증 규칙, 예산을 말합니다.…",
+    "tags": [
+      "llm",
+      "claude-code",
+      "agent",
+      "opensource"
+    ],
+    "score": 0.85
+  },
+  {
+    "date": "2026-10-21",
+    "source": "GeekNews",
+    "title": "Google, TPU용 네이티브 PyTorch 백엔드 TorchTPU 오픈소스로 공개",
+    "url": "https://news.hada.io/topic?id=35728",
+    "summary": "TorchTPU는 Google의 TPU에서 PyTorch 모델과 연산을 실행할 수 있게 하는 백엔드임 TPU용 ATen 커널과 XLA 연산 실행을 최적화하는 컴파일 캐시를 포함함 torch.compile() 과 통합해 그래프 모드 실행을...",
+    "tags": [],
+    "score": 0.8
+  },
+  {
     "date": "2026-10-20",
     "source": "GeekNews",
     "title": "MiniMax M3.1 Flash - 에이전트 성능을 높이고 사용 비용을 70% 낮춘 모델",
@@ -606,42 +638,5 @@
       "agent-harness"
     ],
     "score": 0.64
-  },
-  {
-    "date": "2026-10-01",
-    "source": "GeekNews",
-    "title": "OpenAI, Jev와 경쟁할 Luna 기반 Decision API 공개",
-    "url": "https://news.hada.io/topic?id=34528",
-    "summary": "OpenAI가 DevDay에서 소형 모델 Luna 기반의 Decision API를 공개 개발자가 질문, 답변 후보, 맥락을 입력하면 미리 정한 답변 후보에 신뢰도 점수를 제공하는 방식 주요 활용처는 콘텐츠 분류, 요청 라우팅, AI 에이전트의 다음…",
-    "tags": [],
-    "score": 0.61
-  },
-  {
-    "date": "2026-10-01",
-    "source": "PyTorch KR",
-    "title": "Andrew Ng의 AI Engineering Skills Map: 개발자의 소프트웨어 기본기(Software engineering fundamentals)",
-    "url": "https://discuss.pytorch.kr/t/andrew-ng-ai-engineering-skills-map-software-engineering-fundamentals/11993",
-    "summary": "개발자의 소프트웨어 기본기1536×1024 203 KB 코딩 에이전트 시대에도 소프트웨어 기본기가 필요한 이유 Andrew Ng는 AI Engineering Skills Map의 두 번째 축으로 소프트웨어 엔지니어링 기본기를 꼽습니다. 코딩…",
-    "tags": [
-      "coding-agent",
-      "guide",
-      "andrew-ng",
-      "ai-engineering"
-    ],
-    "score": 0.58
-  },
-  {
-    "date": "2026-10-01",
-    "source": "PyTorch KR",
-    "title": "Andrew Ng의 AI Engineering Skills Map: AI 앱 구축과 운영 역량 (Building and deploying AI applications)",
-    "url": "https://discuss.pytorch.kr/t/andrew-ng-ai-engineering-skills-map-ai-building-and-deploying-ai-applications/11992",
-    "summary": "AI 앱 구축과 운영 역량1536×1024 142 KB AI 애플리케이션을 만들고 운영하는 역량 소개 Andrew Ng가 설명한 AI Engineering Skills Map의 첫 번째 축은 AI 애플리케이션을 만들고 실제 사용자에게 제공하는…",
-    "tags": [
-      "llm",
-      "agent",
-      "guide",
-      "andrew-ng"
-    ],
-    "score": 0.57
   }
 ]
