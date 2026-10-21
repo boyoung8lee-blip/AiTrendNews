@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-10-22",
+    "source": "GeekNews",
+    "title": "Patch the Planet: 에이전트가 발견하는 취약점에 대응하기 위한 글로벌 공조",
+    "url": "https://news.hada.io/topic?id=35771",
+    "summary": "OpenAI는 PHP의 심각한 취약점 대응을 위해 유지관리자, 연구자, 보안업체와 두 달간 협력했으며, PHP 유지관리자가 수정과 배포를 주도함 AI의 취약점 발견 능력은 방어자가 공개 전에 패치와 보호책을 준비할 기회를 주지만, 공격자의 공격…",
+    "tags": [],
+    "score": 0.85
+  },
+  {
+    "date": "2026-10-22",
+    "source": "GeekNews",
+    "title": "Qwen3-Coder, 미국 고객용이라고 지시하면 보안이 더 취약한 코드 생성",
+    "url": "https://news.hada.io/topic?id=35762",
+    "summary": "Hirundo가 Qwen3-Coder-30B-A3B-Instruct에 같은 비밀정보 저장 앱을 반복 생성하게 한 실험에서, 미국 방산업체용 앱의 공격 성공률은 70%로 중국 방산업체용의 59%보다 상대적으로 19% 높았음 홍콩 민주주의 옹호 단체용…",
+    "tags": [],
+    "score": 0.84
+  },
+  {
+    "date": "2026-10-22",
+    "source": "PyTorch KR",
+    "title": "LLM 에이전트의 외부화(Externalization)에 대한 리뷰 논문 (1/2): 가중치에서 하네스로, 메모리와 스킬",
+    "url": "https://discuss.pytorch.kr/t/llm-externalization-1-2/12177",
+    "summary": "핵심 요약 Externalization in LLM Agents는 상하이교통대학교 등 5개 기관 연구진이 정리한 54쪽 분량의 리뷰 논문입니다. 저자들은 최근 LLM 에이전트의 발전을, 모델 가중치를 바꾸는 일이 아니라 모델이 감당하던 인지 부담을…",
+    "tags": [
+      "survey-paper",
+      "llm-agent",
+      "agent-skills",
+      "agent-memory"
+    ],
+    "score": 0.68
+  },
+  {
     "date": "2026-10-21",
     "source": "GeekNews",
     "title": "Voxtral 3 - 50개 이상 언어의 음성 인식 모델과 실시간 음성 에이전트 SDK",
@@ -606,37 +638,5 @@
       "decision-model"
     ],
     "score": 0.59
-  },
-  {
-    "date": "2026-10-02",
-    "source": "GeekNews",
-    "title": "Pi 1.0",
-    "url": "https://news.hada.io/topic?id=34632",
-    "summary": "Pi 1.0이 출시됨. 매주 전 세계 수십만 명이 사용하는 최소주의 기반의 확장 가능한 에이전트 하네스로, 수개월간 사용자 피드백을 반영해 안정성을 강화함 Codemode를 통해 MCP와 Jev 같은 비LLM 모델, 이미지 모델을 기본 지원하며,…",
-    "tags": [],
-    "score": 0.93
-  },
-  {
-    "date": "2026-10-02",
-    "source": "GeekNews",
-    "title": "Pi Durable",
-    "url": "https://news.hada.io/topic?id=34641",
-    "summary": "Earendil과 Pi 커뮤니티가 Pi 1.0과 함께 Pi Durable을 실험적으로 공개함. 기존 Pi 코딩 에이전트를 대체하지 않고, 장시간 실행되고 장애 후 복구되는 다양한 에이전트 애플리케이션을 구축하는 하네스임 실행 단계를 체크포인트가 있는…",
-    "tags": [],
-    "score": 0.75
-  },
-  {
-    "date": "2026-10-02",
-    "source": "PyTorch KR",
-    "title": "[2026/09/21 ~ 27] 이번 주에 살펴볼 만한 AI/ML 논문 모음",
-    "url": "https://discuss.pytorch.kr/t/2026-09-21-27-ai-ml/12024",
-    "summary": "PyTorchKR​ 이번 주에 선정된 논문들을 종합해 보면, AI 모델을 더욱 실용적이고 효율적인 시스템으로 발전시키기 위한 세 가지 연구 흐름을 확인할 수 있습니다: 에이전트 하네스 최적화 및 자기개선의 고도화: 이번 주 선정된 논문들을 살펴보면,…",
-    "tags": [
-      "paper",
-      "ai-ml-papers-of-the-week",
-      "on-device",
-      "agent-harness"
-    ],
-    "score": 0.64
   }
 ]
