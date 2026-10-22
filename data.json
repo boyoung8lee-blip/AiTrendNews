@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-10-23",
+    "source": "GeekNews",
+    "title": "Show GN: ZZO - 바로 사용하는 URL 단축 API와 MCP",
+    "url": "https://news.hada.io/topic?id=35824",
+    "summary": "URL 단축 서비스 zzo.kr 을 소개합니다. 긴 인터넷 주소를 짧은 링크로 변환하고, 간단히 QR코드로도 공유 할 수 있는 웹 서비스 입니다. 회원가입 없이 브라우저에서 URL 단축부터, API, MCP까지 사용할 수 있도록 만들었습니다. URL…",
+    "tags": [],
+    "score": 0.82
+  },
+  {
+    "date": "2026-10-23",
+    "source": "GeekNews",
+    "title": "OpenShell - 자율 AI 에이전트 군집을 위한 안전하고 프라이버시를 보호하는 런타임",
+    "url": "https://news.hada.io/topic?id=35833",
+    "summary": "OpenShell은 에이전트가 파일 읽기, 패키지 설치, API 호출, 자격 증명 사용을 수행하되 데이터, 비밀 정보, 네트워크에 무제한으로 접근하지 못하도록 에이전트별 정책을 강제함 커널 수준 격리로 샌드박스의 파일 접근과 시스템 호출을 제한하고,…",
+    "tags": [],
+    "score": 0.74
+  },
+  {
+    "date": "2026-10-23",
+    "source": "PyTorch KR",
+    "title": "Harness²: 정답 라벨 없이 작업마다 에이전트 하네스를 고치고, 그 경험을 다음 작업에 넘기는 프레임워크 (feat. Google)",
+    "url": "https://discuss.pytorch.kr/t/harness-feat-google/12231",
+    "summary": "핵심 요약 Harness²는 모델 가중치를 고정한 채, 처음 보는 작업마다 에이전트 하네스(시스템 프롬프트, 스킬, 스크립트 등 8가지 파일)를 고쳐 보고 그 경험을 도메인별 라이브러리에 쌓아 다음 작업에 넘기는 프레임워크입니다. 정답 라벨이나…",
+    "tags": [
+      "llm-agent",
+      "agent-harness",
+      "google-research",
+      "self-improvement"
+    ],
+    "score": 0.64
+  },
+  {
     "date": "2026-10-22",
     "source": "GeekNews",
     "title": "Patch the Planet: 에이전트가 발견하는 취약점에 대응하기 위한 글로벌 공조",
@@ -606,37 +638,5 @@
       "chatgpt"
     ],
     "score": 0.57
-  },
-  {
-    "date": "2026-10-03",
-    "source": "GeekNews",
-    "title": "Audionaut - AI 에이전트로 편집할 수 있는 오픈소스 멀티트랙 오디오 편집기",
-    "url": "https://news.hada.io/topic?id=34682",
-    "summary": "음악·팟캐스트·멀티트랙 녹음을 위한 무료 오픈소스 오디오 편집기로, 복잡한 음악 제작 환경 대신 필요한 구간을 자르고 조합하는 작업에 집중함 MCP로 Claude 등 AI 에이전트에 편집을 맡길 수 있으며, 열린 프로젝트에서 변경 내용을 확인하고 각…",
-    "tags": [],
-    "score": 0.83
-  },
-  {
-    "date": "2026-10-03",
-    "source": "GeekNews",
-    "title": "리눅스 커널 개발자 Greg Kroah-Hartman, LLM 시대의 보안 [영상]",
-    "url": "https://news.hada.io/topic?id=34683",
-    "summary": "LLM이 찾아낸 취약점의 숫자보다 실제 버그를 검증하고 고치는 일이 중요함. 리눅스 커널 개발자 Greg Kroah-Hartman이 AI 보안 도구의 성과와 한계, 유지보수자의 대응을 다룬 발표 Mythos가 발견했다는 리눅스 취약점 79개에는…",
-    "tags": [],
-    "score": 0.74
-  },
-  {
-    "date": "2026-10-03",
-    "source": "PyTorch KR",
-    "title": "Laya: 텍스트 생성 없이 한 번의 순전파로 결정을 내리는 Jev 호환 오픈 가중치 모델과 로컬 실행 도구들",
-    "url": "https://discuss.pytorch.kr/t/laya-jev/12027",
-    "summary": "Laya: 텍스트 생성 없이 한 번의 순전파로 결정을 내리는 Jev 호환 오픈 가중치 모델과 로컬 실행 도구들1536×1024 185 KB Laya 소개 문의 메일을 어느 팀에 배정할지, 이 프롬프트가 탈옥(jailbreak) 시도인지, 고객이…",
-    "tags": [
-      "apple-silicon",
-      "mlx",
-      "jev",
-      "decision-model"
-    ],
-    "score": 0.59
   }
 ]
