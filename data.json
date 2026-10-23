@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-10-24",
+    "source": "GeekNews",
+    "title": "Kimi K3.1 Pro와 K3.1 Pro Highspeed - 100만 토큰 문맥을 지원하는 3T급 모델",
+    "url": "https://news.hada.io/topic?id=35879",
+    "summary": "Kimi K3.1 Pro는 K3의 사후 학습을 확대해 코딩, 3D 제작, 금융 조사와 에이전트 역량을 강화한 3T급 모델로, 100만 토큰 문맥을 지원하며 전체 가중치는 2026년 11월 4일까지 공개할 예정임 K3.1 Pro Highspeed도…",
+    "tags": [],
+    "score": 0.7
+  },
+  {
+    "date": "2026-10-24",
+    "source": "GeekNews",
+    "title": "Show GN: claude-code-todo - 클로드 코드 옆에 띄워 두는 TODO pane",
+    "url": "https://news.hada.io/topic?id=35870",
+    "summary": "Claude Code로 작업하다 생기는 할 일을 바로 적고, 고치고, 지울 수 있게 만든 플러그인입니다. 세션을 닫아도 목록은 남습니다. 채팅 옆 pane에 전역 목록과 프로젝트 목록이 탭으로 나뉘어 있고, 프롬프트 위에는 남은 개수와 다음 할 일,…",
+    "tags": [],
+    "score": 0.67
+  },
+  {
+    "date": "2026-10-24",
+    "source": "PyTorch KR",
+    "title": "AAIF에 Agent Skills, Open Responses, OpenEnv, OpenSandbox 합류해 프로젝트 10개로",
+    "url": "https://discuss.pytorch.kr/t/aaif-agent-skills-open-responses-openenv-opensandbox-10/12275",
+    "summary": "핵심 요약 Agentic AI Foundation(AAIF)이 2026년 10월 22일 새 프로젝트 4개를 발표했습니다. Agent Skills(Anthropic), Open Responses(OpenAI), OpenEnv(Hugging Face),…",
+    "tags": [
+      "agent",
+      "opensource",
+      "agent-skills",
+      "linux-foundation"
+    ],
+    "score": 0.54
+  },
+  {
     "date": "2026-10-23",
     "source": "GeekNews",
     "title": "Show GN: ZZO - 바로 사용하는 URL 단축 API와 MCP",
@@ -606,37 +638,5 @@
       "codex"
     ],
     "score": 0.56
-  },
-  {
-    "date": "2026-10-04",
-    "source": "GeekNews",
-    "title": "Show GN: 5달러 시계에 Claude·Codex 사용량을 띄워봤습니다",
-    "url": "https://news.hada.io/topic?id=34724",
-    "summary": "알리에서 약 5달러에 산 시계에 Claude·Codex 사용량을 띄워봤습니다. 책상에 두니 생각보다 귀엽네요. 시계 펌웨어는 그대로이고, 켜 둔 컴퓨터가 화면을 갱신합니다. 코드 ·",
-    "tags": [],
-    "score": 0.77
-  },
-  {
-    "date": "2026-10-04",
-    "source": "GeekNews",
-    "title": "Show HN: 오픈소스 LEGO AI 생성기를 만들었습니다",
-    "url": "https://news.hada.io/topic?id=34723",
-    "summary": "ldraw-nova는 사용자가 모델 아이디어를 주고 제작을 안내하면 AI 에이전트가 실제 LDraw 부품으로 LEGO 모델을 설계하는 오픈소스 프로젝트임 에이전트가 직접 기하 계산을 수행하기보다 설계 계획과 Python 생성 스크립트를 만들고, 이를…",
-    "tags": [],
-    "score": 0.71
-  },
-  {
-    "date": "2026-10-04",
-    "source": "PyTorch KR",
-    "title": "OpenAI DevDay 2026 발표 25가지 총정리: 상시 에이전트 dots부터 GPT-6.1 Sol, 플러그인 확장까지",
-    "url": "https://discuss.pytorch.kr/t/openai-devday-2026-25-dots-gpt-6-1-sol/12053",
-    "summary": "OpenAI DevDay 2026 발표 25가지 총정리, 무대 위 에이전트 캐릭터와 코드 터미널, 문서, 플러그인 조각을 그린 이미지1536×1024 275 KB OpenAI DevDay 2026 소개 OpenAI가 2026년 9월 29일 개발자…",
-    "tags": [
-      "openai",
-      "agent",
-      "mcp",
-      "chatgpt"
-    ],
-    "score": 0.57
   }
 ]
