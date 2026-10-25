@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-10-26",
+    "source": "GeekNews",
+    "title": "fheroes2: Heroes of Might and Magic II 게임 엔진 재구현",
+    "url": "https://news.hada.io/topic?id=35979",
+    "summary": "fheroes2는 Heroes of Might and Magic II를 재현하기 위해 처음부터 작성한 오픈소스 멀티플랫폼 게임 엔진임 원작 재현에 더해 고해상도 그래픽 지원, 개선된 AI, 다수의 수정 사항과 사용자 인터페이스 개선을 제공함 엔진은…",
+    "tags": [],
+    "score": 0.71
+  },
+  {
+    "date": "2026-10-26",
+    "source": "GeekNews",
+    "title": "Kimi K3.1, Artificial Analysis에서 55점 기록하며 파레토 선에 위치",
+    "url": "https://news.hada.io/topic?id=35984",
+    "summary": "Kimi K3.1 Pro는 Artificial Analysis Intelligence Index에서 55점을 기록해 유사 가격대 모델의 중앙값인 27점을 크게 웃돎 과제당 평가 비용은 2.11달러이며, Kimi API 기준 100만 토큰당 입력…",
+    "tags": [],
+    "score": 0.7
+  },
+  {
+    "date": "2026-10-26",
+    "source": "PyTorch KR",
+    "title": "Docker와 Kubernetes를 같은 API로 다루는 에이전트 샌드박스 OpenSandbox, AAIF 프로젝트로 합류",
+    "url": "https://discuss.pytorch.kr/t/docker-kubernetes-api-opensandbox-aaif/12276",
+    "summary": "핵심 요약 Agentic AI Foundation(AAIF)이 2026년 10월 22일 블로그 글에서 OpenSandbox가 AAIF 프로젝트가 되었다고 발표했습니다. AAIF는 MCP, goose, AGENTS.md, A2A 등을 맡고 있는…",
+    "tags": [
+      "agent",
+      "opensource",
+      "sandbox",
+      "linux-foundation"
+    ],
+    "score": 0.59
+  },
+  {
     "date": "2026-10-25",
     "source": "GeekNews",
     "title": "이것이 사이버 보안의 새로운 일상인가?",
@@ -604,38 +636,6 @@
       "claude-code",
       "agent-skills",
       "arxiv"
-    ],
-    "score": 0.58
-  },
-  {
-    "date": "2026-10-06",
-    "source": "GeekNews",
-    "title": "Show GN: Agent Guard - Claude Code·Codex의 비밀정보 노출을 줄이는 로컬 보안 도구",
-    "url": "https://news.hada.io/topic?id=34831",
-    "summary": "Claude Code나 Codex가 .env를 읽거나, 명령어 출력에 API 키와 토큰이 포함되면 Git에 커밋하지 않더라도 비밀정보가 에이전트의 컨텍스트나 대화 기록에 들어갈 수 있습니다. 이런 노출 경로를 줄이기 위해 Agent Guard를…",
-    "tags": [],
-    "score": 0.83
-  },
-  {
-    "date": "2026-10-06",
-    "source": "GeekNews",
-    "title": "Cloudflare, AI 에이전트를 위한 Web Search API 베타 공개",
-    "url": "https://news.hada.io/topic?id=34826",
-    "summary": "Cloudflare가 Web Search API를 베타로 공개해, AI 에이전트와 애플리케이션이 인터넷을 검색하고 실시간 정보를 근거로 응답할 수 있게 함 출시 시점에는 Ceramic.ai, Exa, Linkup의 세 검색 제공업체를 선택할 수 있음…",
-    "tags": [],
-    "score": 0.69
-  },
-  {
-    "date": "2026-10-06",
-    "source": "PyTorch KR",
-    "title": "ChatGPT Pro 3단계 개편 정리: Pro 200 사용량 축소와 Pro 500 Ultrafast의 속도 대비 비용 (feat. Codex)",
-    "url": "https://discuss.pytorch.kr/t/chatgpt-pro-3-pro-200-pro-500-ultrafast-feat-codex/12054",
-    "summary": "ChatGPT Pro 요금제가 Pro 100, Pro 200, Pro 500 세 계단으로 나뉘고 Pro 500에만 Ultrafast가 붙는 모습을 표현한 일러스트1536×1024 156 KB ChatGPT Pro 요금제 개편 소개 OpenAI가…",
-    "tags": [
-      "openai",
-      "chatgpt",
-      "codex",
-      "product-launch"
     ],
     "score": 0.58
   }
