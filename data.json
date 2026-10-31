@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-11-01",
+    "source": "GeekNews",
+    "title": "악성코드, LLM으로 피해자의 금전적 가치에 따라 순위를 매김",
+    "url": "https://news.hada.io/topic?id=36347&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "Windows 정보 탈취 악성코드 VOLTA-AUTODOXER는 훔친 인증정보와 개인 데이터를 LLM에 보내, 피해자의 자산을 현금화 가치에 따라 평가하고 우선순위를 매김 단순한 정보 수집을 넘어 탈취한 세션으로 Gmail 영수증, 음식 배달 주문…",
+    "tags": [],
+    "score": 0.72
+  },
+  {
+    "date": "2026-11-01",
+    "source": "GeekNews",
+    "title": "Linode 보안 사고",
+    "url": "https://news.hada.io/topic?id=36320&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "Akamai가 최근 공개된 원격 코드 실행 취약점 CVE-2026-98432를 조사하며 완화 조치와 플랫폼 모니터링을 진행 중임 알려진 공격 경로에 대한 완화 조치를 배포 중이며, 그 밖의 잠재적 영향도 계속 분석하고 있음 최신 공지 시점에는…",
+    "tags": [],
+    "score": 0.67
+  },
+  {
+    "date": "2026-11-01",
+    "source": "PyTorch KR",
+    "title": "Digital Human Koubo: Renoise로 만든 AI 발표자 영상을 Remotion으로 편집하는 에이전트 스킬",
+    "url": "https://discuss.pytorch.kr/t/digital-human-koubo-renoise-ai-remotion/12340",
+    "summary": "핵심 요약 Digital Human Koubo는 AI 디지털 휴먼(가상 발표자)이 카메라를 보고 말하는 영상을 대본 작성부터 생성, 검수, 편집까지 코딩 에이전트에게 맡기는 에이전트 스킬입니다. 저장소에는 영상 생성 모델이 없고, 생성은 유료 서비스…",
+    "tags": [
+      "claude-code",
+      "mcp",
+      "video-generation",
+      "agent-skill"
+    ],
+    "score": 0.65
+  },
+  {
     "date": "2026-10-31",
     "source": "GeekNews",
     "title": "공식 Claude Code 확장 프로그램의 백도어",
@@ -609,37 +641,5 @@
       "llm-inference"
     ],
     "score": 0.64
-  },
-  {
-    "date": "2026-10-12",
-    "source": "GeekNews",
-    "title": "미안하지만, 여전히 직접 생각해야 합니다",
-    "url": "https://news.hada.io/topic?id=35189",
-    "summary": "AI 에이전트에 코드 재작성을 맡겨도 호환성, 지연 시간, 처리량, 메모리 한도 같은 설계 판단은 사라지지 않으며, 요구사항이 구체적이지 않으면 모델이 암묵적으로 결정함 Campfire Once의 Rust와 Elixir 재작성은 호환성과 구현…",
-    "tags": [],
-    "score": 0.82
-  },
-  {
-    "date": "2026-10-12",
-    "source": "GeekNews",
-    "title": "최신 AI 모델들, 인간의 알고리듬 혁신에 필적하는 성과를 내는 데 어려움 겪어",
-    "url": "https://news.hada.io/topic?id=35195",
-    "summary": "Epoch AI의 InnovationEval에서 Claude Fable 5와 GPT-5.6 Sol은 수천 달러 규모의 GPU 실험을 수행했지만, 인간이 개발한 후속 학습 기법 SDPO에 필적하는 혁신을 독자적으로 만들지 못함 평가는 아이디어 구상부터…",
-    "tags": [],
-    "score": 0.67
-  },
-  {
-    "date": "2026-10-12",
-    "source": "PyTorch KR",
-    "title": "Google이 공개한 AI 에이전트 프라이버시와 보안의 51가지 이슈에 대한 워크숍 보고서 [영문/PDF/116p]",
-    "url": "https://discuss.pytorch.kr/t/google-ai-51-pdf-116p/12113",
-    "summary": "핵심 요약 Google Research가 2026년 10월 5일 블로그 글과 함께 116쪽 분량의 워크숍 보고서를 공개했습니다. 2025년 11월 뉴욕에서 열린 CAPS 워크숍의 논의를 정리한 문서이며, 공저자는 66명입니다. 보고서는 AI…",
-    "tags": [
-      "agent",
-      "google",
-      "report",
-      "prompt-injection"
-    ],
-    "score": 0.55
   }
 ]
