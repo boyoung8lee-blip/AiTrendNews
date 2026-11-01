@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-11-02",
+    "source": "GeekNews",
+    "title": "Show GN: EBS Gurapinggala Teacher - 거짓말 에이전트",
+    "url": "https://news.hada.io/topic?id=36405&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "EBS Gurapingala Teacher - AI 거짓말 에이전트와 교사용 모니터링 대시보드 GitHub: https://github.com/NomaDamas/EBS-Gurapingala-teacher 소개: EBS <생각의 멸종>에서 학생 대상…",
+    "tags": [],
+    "score": 0.83
+  },
+  {
+    "date": "2026-11-02",
+    "source": "PyTorch KR",
+    "title": "tstack: 코딩 에이전트가 변경 증명부터 리뷰 봇 대응, PR 병합까지 맡게 하는 스킬 9종 (feat. Theo Browne)",
+    "url": "https://discuss.pytorch.kr/t/tstack-pr-9-feat-theo-browne/12342",
+    "summary": "핵심 요약 tstack은 Theo Browne이 매일 쓰는 에이전트 스킬 9개를 정리해 공개한 저장소로, Claude Code와 Codex에서 동작합니다. 스킬은 주로 코드를 쓴 뒤의 단계, 곧 변경 증명, 리뷰, PR 작성, CI와 리뷰 봇 대응,…",
+    "tags": [
+      "claude-code",
+      "coding-agent",
+      "codex",
+      "agent-skills"
+    ],
+    "score": 0.68
+  },
+  {
+    "date": "2026-11-02",
+    "source": "GeekNews",
+    "title": "JavaScript 프레임워크별 AI 개발 비용 비교",
+    "url": "https://news.hada.io/topic?id=36393&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "Opus 5.5에 같은 포켓몬 앱을 12개 프레임워크 조합으로 구현하게 하고, 개발 비용과 시간, 코드량, 성능과 접근성을 비교함 실행당 API 환산 비용 중앙값은 Hono+htmx 2.67달러, Angular 4.97달러였으며, SvelteKit과…",
+    "tags": [],
+    "score": 0.64
+  },
+  {
     "date": "2026-11-01",
     "source": "GeekNews",
     "title": "악성코드, LLM으로 피해자의 금전적 가치에 따라 순위를 매김",
@@ -607,38 +639,6 @@
       "agent-framework",
       "typescript",
       "human-in-the-loop"
-    ],
-    "score": 0.64
-  },
-  {
-    "date": "2026-10-13",
-    "source": "GeekNews",
-    "title": "AI 코딩 에이전트(Claude Code·Codex·Gemini CLI) 세팅이 실패하는 15가지 패턴과 해결법",
-    "url": "https://news.hada.io/topic?id=35266",
-    "summary": "코딩 에이전트를 몇 주 쓰다 보면 \"일은 많이 했는데 실제로 반영된 건 없는\" 상태가 돼요. 원인은 대부분 모델 성능이 아니라 운영 설정이에요. 증거 없는 \"완료\": 완료 기준에 \"실행한 명령과 실제 결과\"를 꼭 넣게 해요. \"테스트 통과\"가...",
-    "tags": [],
-    "score": 0.88
-  },
-  {
-    "date": "2026-10-13",
-    "source": "GeekNews",
-    "title": "StreamRender-H3 - 실시간 스트리밍 확산 렌더링으로 구현하는 코드 기반 인터랙티브 세계",
-    "url": "https://news.hada.io/topic?id=35269",
-    "summary": "코드 기반 게임 엔진이 세계의 상태와 규칙을 관리하고, 비디오 모델이 엔진의 시맨틱 맵을 사실적인 영상으로 바꾸는 구조임 시맨틱 맵은 장면 구조와 움직임을 전달하고, 참조 이미지와 프롬프트는 외관을 결정함. 같은 플레이 흐름도 엔진을 바...",
-    "tags": [],
-    "score": 0.8
-  },
-  {
-    "date": "2026-10-13",
-    "source": "PyTorch KR",
-    "title": "GuideLLM v0.8.0 공개, 지연 SLO를 지키는 최대 동시성 탐색과 에이전트 트레이스 재생 (feat. vLLM)",
-    "url": "https://discuss.pytorch.kr/t/guidellm-v0-8-0-slo-feat-vllm/12149",
-    "summary": "핵심 요약 vLLM 프로젝트가 2026년 9월 30일 GuideLLM v0.8.0 릴리스를 공개했습니다. 지연 목표(SLO)를 지킨 요청의 처리율(goodput)을 재고, 그 목표를 지키는 최대 동시 요청 수를 찾는 goodput 프로파일이…",
-    "tags": [
-      "agent",
-      "benchmark",
-      "vllm",
-      "llm-inference"
     ],
     "score": 0.64
   }
