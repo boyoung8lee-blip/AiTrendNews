@@ -1,5 +1,42 @@
 [
   {
+    "date": "2026-11-04",
+    "source": "GeekNews",
+    "title": "내 노트북의 Qwen 3.8 27B도 모델 가중치를 해석할 수 있다",
+    "url": "https://news.hada.io/topic?id=36542&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "노트북에서 실행한 Qwen 3.8 27B가 도구나 코드 실행 없이 신경망 가중치만 읽고, 해당 모델이 학습한 게임 중 Pac-Man, Pong, Breakout을 식별함실험은 단순화한 게임을 강화학습한 정책 신경망의 부동소수점 가중치를 텍스트로…",
+    "tags": [],
+    "score": 0.73
+  },
+  {
+    "date": "2026-11-04",
+    "source": "PyTorch KR",
+    "title": "OpenQodex: 코딩 에이전트의 변경을 push 전에 별도 Claude Code와 Codex 세션이 검토하는 도구",
+    "url": "https://discuss.pytorch.kr/t/openqodex-push-claude-code-codex/12335",
+    "summary": "핵심 요약 OpenQodex는 코딩 에이전트가 작성한 변경을 push 전에 별도의 Claude Code 또는 Codex 프로세스가 검토하게 하는 오픈소스 코드 리뷰 도구입니다. 리뷰 대상은 아직 push하지 않은 커밋과 커밋하지 않은 수정이고, 기본…",
+    "tags": [
+      "claude-code",
+      "coding-agent",
+      "mcp",
+      "codex"
+    ],
+    "score": 0.66
+  },
+  {
+    "date": "2026-11-04",
+    "source": "PyTorch KR",
+    "title": "[프로젝트 공유] day-trader-skill-kr: 미국 주식 전용 Day Trader Skill을 국내 주식용으로 옮기고, 장기 투자 검증·대가 점검표·논지 추적을 더한 Claude 스킬 묶음",
+    "url": "https://discuss.pytorch.kr/t/day-trader-skill-kr-day-trader-skill-claude/12373",
+    "summary": "며칠 전 이 게시판에 Day Trader Skill이 소개됐습니다. 미국 주식 데이 트레이딩의 한 거래를 Claude 스킬로 나누고, 숫자는 Python이 계산하고, 주문은 사람이 승인해야 나가는 프로젝트였습니다. 소개 글 끝에 \"국내 주식에는 쓸…",
+    "tags": [
+      "claude-code",
+      "agent",
+      "claude-skills",
+      "trading-agents"
+    ],
+    "score": 0.66
+  },
+  {
     "date": "2026-11-03",
     "source": "PyTorch KR",
     "title": "KOMOS – 한국어 음성 품질 평가 모델을 오픈소스로 공개했습니다",
@@ -614,37 +651,5 @@
       "reverse-engineering"
     ],
     "score": 0.56
-  },
-  {
-    "date": "2026-10-15",
-    "source": "GeekNews",
-    "title": "게임 개발용 AI 하네스를 설계하는 방법",
-    "url": "https://news.hada.io/topic?id=35355",
-    "summary": "게임에서 LLM을 효과적으로 쓰려면 코드뿐 아니라 게임 상태, 데이터, 실행 결과를 에이전트가 읽고 조작할 수 있게 만들어야 함 결정론적 상태 재현과 저장/불러오기를 개발 초기부터 설계하면, 에이전트가 같은 조건에서 변경을 반복 검증할 수 있음…",
-    "tags": [],
-    "score": 0.64
-  },
-  {
-    "date": "2026-10-15",
-    "source": "PyTorch KR",
-    "title": "REA: Ghidra와 IDA 같은 분석 도구를 하나의 MCP로 묶어 코딩 에이전트에 연결하는 리버스 엔지니어링 도구",
-    "url": "https://discuss.pytorch.kr/t/rea-ghidra-ida-mcp/12150",
-    "summary": "핵심 요약 REA는 코딩 에이전트가 소스 코드 없이 실행 파일, JavaScript와 Electron 앱, .NET 어셈블리, 웹사이트를 조사하도록 분석 도구를 하나의 MCP 서버와 CLI로 묶은 프로젝트입니다. 네이티브 바이너리 분석은…",
-    "tags": [
-      "coding-agent",
-      "mcp",
-      "reverse-engineering",
-      "binary-analysis"
-    ],
-    "score": 0.63
-  },
-  {
-    "date": "2026-10-15",
-    "source": "GeekNews",
-    "title": "Show HN: OpenAI 구독으로 오디오북 만들기",
-    "url": "https://news.hada.io/topic?id=35353",
-    "summary": "PDF TO MP3는 AI 채팅에 첨부한 PDF를 MCP로 처리해 오디오북으로 만드는 흐름을 제공함 문서 처리에는 이미 결제한 AI 구독을 사용하며, PDF TO MP3에 내는 비용은 0달러임 음성 생성 비용은 별도이며, 음성용 API 키...",
-    "tags": [],
-    "score": 0.62
   }
 ]
