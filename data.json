@@ -1,5 +1,42 @@
 [
   {
+    "date": "2026-11-03",
+    "source": "PyTorch KR",
+    "title": "KOMOS – 한국어 음성 품질 평가 모델을 오픈소스로 공개했습니다",
+    "url": "https://discuss.pytorch.kr/t/komos/12380",
+    "summary": "안녕하세요. 한국어 음성의 품질을 평가하는 MOS(Mean Opinion Score) 예측 모델 KOMOS를 개발하고 오픈소스로 공개했습니다. 기존 UTMOS 모델을 한국어 음성에 적용하면서 발견한 한계를 개선하고자 시작한 프로젝트입니다. 개발 배경…",
+    "tags": [
+      "ai",
+      "opensource",
+      "tts",
+      "evaluation"
+    ],
+    "score": 0.82
+  },
+  {
+    "date": "2026-11-03",
+    "source": "PyTorch KR",
+    "title": "Claude Code 팀의 코드 리뷰 방식: 병합 PR이 2배로 늘 때 되돌림 비율은 40% 넘게 줄인 방법 (feat. Anthropic)",
+    "url": "https://discuss.pytorch.kr/t/claude-code-pr-2-40-feat-anthropic/12336",
+    "summary": "핵심 요약 Anthropic의 Claude Code 팀 코드 리뷰 글에 따르면, 2026년 6월부터 9월까지 Claude Code 저장소의 병합 PR 수는 2배 넘게 늘었고 되돌린(revert) PR의 비율은 상대값으로 40% 넘게 줄었습니다. 이…",
+    "tags": [
+      "claude-code",
+      "agent",
+      "anthropic",
+      "coding-agent"
+    ],
+    "score": 0.69
+  },
+  {
+    "date": "2026-11-03",
+    "source": "GeekNews",
+    "title": "Postgres 19 출시가 늦어지는 건 AI 때문이다 - 버그 발견이 수정을 앞지르다",
+    "url": "https://news.hada.io/topic?id=36491&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "LLM으로 발견한 버그 제보가 급증하면서 PostgreSQL의 수정 부담이 커짐. PostgreSQL 19는 예년의 9~10월보다 늦은 11월 출시가 예상되며, 베타 후반에 대형 기능 3개도 철회됨버그 발견은 훨씬 쉬워졌지만 수정은 같은 만큼…",
+    "tags": [],
+    "score": 0.59
+  },
+  {
     "date": "2026-11-02",
     "source": "GeekNews",
     "title": "Show GN: EBS Gurapinggala Teacher - 거짓말 에이전트",
@@ -609,37 +646,5 @@
     "summary": "PDF TO MP3는 AI 채팅에 첨부한 PDF를 MCP로 처리해 오디오북으로 만드는 흐름을 제공함 문서 처리에는 이미 결제한 AI 구독을 사용하며, PDF TO MP3에 내는 비용은 0달러임 음성 생성 비용은 별도이며, 음성용 API 키...",
     "tags": [],
     "score": 0.62
-  },
-  {
-    "date": "2026-10-14",
-    "source": "GeekNews",
-    "title": "Show GN: Flats – AI 에이전트가 만든 웹사이트를 내 컴퓨터에서 호스팅",
-    "url": "https://news.hada.io/topic?id=35303",
-    "summary": "안녕하세요. Claude Code, Codex 같은 AI 에이전트가 만든 결과물을 자신의 컴퓨터에서 실행하고 공유할 수 있는 오픈소스 프로젝트 Flats를 만들었습니다. Claude Artifacts나 ChatGPT의 Sites처럼 AI가 웹사이트나…",
-    "tags": [],
-    "score": 0.82
-  },
-  {
-    "date": "2026-10-14",
-    "source": "GeekNews",
-    "title": "Show GN: 나래 한글(나래팩) – AI 에이전트용 HWP/HWPX 편집·생성 CLI/스킬/템플릿 패키지",
-    "url": "https://news.hada.io/topic?id=35296",
-    "summary": "충청북도에서 4년차 특수교사로 일하고 있습니다. 원래 코딩에는 큰 관심이 없었습니다. 그런데 특수학교에서 처음 근무하면서, 일반 교육에는 과할 정도로 많은 에듀테크가 특수교육 쪽에는 너무 부족하고 환경도 열악하다는 걸 알게 됐습니다. 이쪽은 시장이…",
-    "tags": [],
-    "score": 0.76
-  },
-  {
-    "date": "2026-10-14",
-    "source": "PyTorch KR",
-    "title": "Vercel, 지난 6월 공개한 오픈소스 에이전트 프레임워크 eve를 기반으로 한 100개 이상의 사내 에이전트 운영 경험 공유",
-    "url": "https://discuss.pytorch.kr/t/vercel-6-eve-100/12139",
-    "summary": "핵심 요약 Vercel은 2026년 6월 17일 블로그 글을 통해 에이전트를 파일 디렉터리로 정의하는 오픈소스 프레임워크 eve를 공개했고, 사내에서 100개가 넘는 에이전트를 이 구조로 운영한다고 밝혔습니다. ( eve: 파일시스템을 저작…",
-    "tags": [
-      "ai-agent",
-      "agent-framework",
-      "typescript",
-      "human-in-the-loop"
-    ],
-    "score": 0.64
   }
 ]
