@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-11-06",
+    "source": "GeekNews",
+    "title": "MCP Explained - AI 앱과 도구를 연결하는 Model Context Protocol의 작동 방식",
+    "url": "https://news.hada.io/topic?id=36665&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "MCP(Model Context Protocol) 는 AI 앱을 도구와 데이터에 연결하는 개방형 표준으로, 서버가 제공하는 기능을 앱이 모델에 전달하고 실행 결과를 돌려주는 방식으로 작동함호스트는 Claude, Cursor, ChatGPT 같은 AI…",
+    "tags": [],
+    "score": 0.66
+  },
+  {
+    "date": "2026-11-06",
+    "source": "PyTorch KR",
+    "title": "Anatomy: 상자와 화살표 대신 움직이는 기계 그림으로 기술 개념을 설명하는 에이전트 스킬",
+    "url": "https://discuss.pytorch.kr/t/anatomy/12412",
+    "summary": "핵심 요약 Anatomy는 기술 개념을 상자와 화살표 대신, 그 개념대로 움직이는 가상의 기계 그림으로 만드는 에이전트 스킬입니다. 예를 들어 LRU(Least Recently Used) 캐시는 4칸짜리 책장이 되고, 블룸 필터는 릴 3개짜리…",
+    "tags": [
+      "claude-code",
+      "agent-skills",
+      "visualization",
+      "webgl"
+    ],
+    "score": 0.63
+  },
+  {
+    "date": "2026-11-06",
+    "source": "GeekNews",
+    "title": "AI와 개발한 1년 — 사라진 건 없고, 달라진 건 많다",
+    "url": "https://news.hada.io/topic?id=36647&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "AI 에이전트와 1년여간 혼자 개발하며, 코드 작성보다 에이전트의 진행과 결과를 통제하고 개선하는 개발 과정을 만드는 데 집중한 경험을 공유해봅니다. 시리즈로 여러편 써보려는데 그 첫번째 편입니다. 하네스 엔지니어링을 에이전트 설정과 도구 조합을…",
+    "tags": [],
+    "score": 0.51
+  },
+  {
     "date": "2026-11-05",
     "source": "PyTorch KR",
     "title": "Auto Ontology: DB 메타데이터로 온톨로지를 생성해 AI 에이전트의 SQL을 검증하는 NVIDIA의 시맨틱 레이어 프레임워크",
@@ -622,38 +654,6 @@
       "anthropic",
       "claude",
       "llm-evaluation"
-    ],
-    "score": 0.57
-  },
-  {
-    "date": "2026-10-17",
-    "source": "GeekNews",
-    "title": "Self-Evolving Agent Harness - 모델은 그대로, 하네스(프롬프트·기억·도구)를 스스로 고치는 에이전트",
-    "url": "https://news.hada.io/topic?id=35463",
-    "summary": "모델 가중치는 고정하고, 에이전트를 감싼 프롬프트 · 기억 · 워크플로 · 도구 코드를 실행 피드백으로 고쳐 나가는 「하네스 자기 진화」를 형식화한 논문 수정 대상과, 수정 안을 내는 방법, 적용 기준을 나눠서 봄 받아들인 수정은 다음 실행에도…",
-    "tags": [],
-    "score": 0.79
-  },
-  {
-    "date": "2026-10-17",
-    "source": "GeekNews",
-    "title": "Postgres 19 출시 지연, AI 리뷰가 사람이 고칠 수 있는 양보다 많은 버그를 발견",
-    "url": "https://news.hada.io/topic?id=35488",
-    "summary": "PostgreSQL 19 정식 출시가 9월 말~10월 초에서 11월 19일경으로 미뤄졌으며, 주요 기능 8~10개가 이번 릴리스에서 제외됨 핵심 커미터 Peter Eisentraut는 기능 철회의 원인 중 일부가 LLM 보조 코드 리뷰일 수 있다고…",
-    "tags": [],
-    "score": 0.77
-  },
-  {
-    "date": "2026-10-17",
-    "source": "PyTorch KR",
-    "title": "Muse Wonder, Meta가 출시한 장기 코딩 평가 1위 및 Claude Opus 5.5과 유사한 성능의 에이전트 모델",
-    "url": "https://discuss.pytorch.kr/t/muse-wonder-meta-1-claude-opus-5-5/12171",
-    "summary": "핵심 요약 Meta가 2026년 10월 12일 Muse Wonder 발표 글에서 에이전트용 모델 Muse Wonder와 상위 변형 Muse Wonder Full을 출시했습니다. 가중치는 공개하지 않고 API와 구독으로만 제공합니다. Meta가 고른…",
-    "tags": [
-      "llm",
-      "agent",
-      "coding-agent",
-      "benchmark"
     ],
     "score": 0.57
   }
