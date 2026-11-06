@@ -1,5 +1,42 @@
 [
   {
+    "date": "2026-11-07",
+    "source": "GeekNews",
+    "title": "Show GN: K-Humanizer - 한국어 글에서 번역투를 덜어내는 Agent Skill",
+    "url": "https://news.hada.io/topic?id=36707&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "AI로 쓴 이력서, 업무 메일, 제품 안내를 다듬는 K-Humanizer를 만들었습니다. Cursor, Claude, Codex에서 쓸 수 있고 MIT 라이선스로 공개했습니다.버튼의 ‘작성 중인 내용의 임시 저장을 수행합니다’는 ‘임시 저장’이면…",
+    "tags": [],
+    "score": 0.56
+  },
+  {
+    "date": "2026-11-07",
+    "source": "PyTorch KR",
+    "title": "OpenAI, 사람의 일상 과제를 대신 처리하는 능력을 재기 위한 LifeVal 벤치마크 및 최신 GPT 모델들의 측정 결과 공개",
+    "url": "https://discuss.pytorch.kr/t/openai-lifeval-gpt/12392",
+    "summary": "핵심 요약 OpenAI가 2026년 11월 2일 LifeVal 발표 글에서 육아, 건강, 행정 서류, 장보기 같은 일상 과제 169개로 만든 평가 LifeVal을 소개했습니다. 과제당 여러 번 시도한 평균 보상을 다시 169개 과제에 같은 비중으로…",
+    "tags": [
+      "agent",
+      "openai",
+      "benchmark",
+      "evaluation"
+    ],
+    "score": 0.45
+  },
+  {
+    "date": "2026-11-07",
+    "source": "PyTorch KR",
+    "title": "TensorRT Edge-LLM으로 DGX Spark에서 Nemotron 3.5 Lightning 실행하기 (DSpark로 생성 속도 최대 1.7배)",
+    "url": "https://discuss.pytorch.kr/t/tensorrt-edge-llm-dgx-spark-nemotron-3-5-lightning-dspark-1-7/12401",
+    "summary": "핵심 요약 NVIDIA가 기술 블로그 튜토리얼에서 DGX Spark 64GB에 TensorRT Edge-LLM 0.11.1을 설치해 Nemotron 3.5 Lightning(전체 30B, 활성 3B, NVFP4)을 실행하는 절차를 공개했습니다.…",
+    "tags": [
+      "nvidia",
+      "on-device",
+      "guide",
+      "speculative-decoding"
+    ],
+    "score": 0.44
+  },
+  {
     "date": "2026-11-06",
     "source": "GeekNews",
     "title": "MCP Explained - AI 앱과 도구를 연결하는 Model Context Protocol의 작동 방식",
@@ -624,37 +661,5 @@
       "lora"
     ],
     "score": 0.54
-  },
-  {
-    "date": "2026-10-18",
-    "source": "GeekNews",
-    "title": "Amazon, AI로 영국 물류창고의 노조 결성 위험 감시",
-    "url": "https://news.hada.io/topic?id=35543",
-    "summary": "캐나다 노조와의 법적 분쟁에서 공개된 내부 문서에 따르면, Amazon의 AI 예측 도구 Atlas가 미국, 캐나다, 영국 물류창고의 노조 결성, 점거 농성 등 노동행동 가능성을 평가하는 것으로 나타남 Reddit 게시물과 직원 설문 응답 등 수백…",
-    "tags": [],
-    "score": 0.87
-  },
-  {
-    "date": "2026-10-18",
-    "source": "GeekNews",
-    "title": "Show GN: 수노(Suno)용 한국어 작사 Claude 스킬 – 부를 수 있는 가사와 Style 입력을 같이 설계",
-    "url": "https://news.hada.io/topic?id=35531",
-    "summary": "직접 Suno로 곡을 만들어 유튜브에 올리고 있고(수익도 나고 있습니다), 그 과정에서 이런 실패를 줄이려고 쓰던 작사 규칙을 Claude 에이전트 스킬로 정리해 공개했습니다. Suno로 노래를 만들면 가사는 멀쩡한데 이상하게 들리는 경우가…",
-    "tags": [],
-    "score": 0.78
-  },
-  {
-    "date": "2026-10-18",
-    "source": "PyTorch KR",
-    "title": "Anthropic이 공개한, Claude 모델 평가 중 발생한 4가지 의도치 않은 행동들에 대한 모델 행동 보고서",
-    "url": "https://discuss.pytorch.kr/t/anthropic-claude-4/12165",
-    "summary": "핵심 요약 Anthropic은 2026년 10월 9일 Investigating unintended model actions in our evaluations and internal use 보고서에서, Claude가 평가와 사내 사용 중 실제…",
-    "tags": [
-      "agent",
-      "anthropic",
-      "claude",
-      "llm-evaluation"
-    ],
-    "score": 0.57
   }
 ]
