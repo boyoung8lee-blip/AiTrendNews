@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-11-08",
+    "source": "GeekNews",
+    "title": "Zed의 Delta 공개 베타 - 자체 저장소에서 PR을 끄고 작업 스레드에서 리뷰",
+    "url": "https://news.hada.io/topic?id=36761&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "Zed가 Delta 공개 베타를 출시함. 에이전트와의 대화 스레드에 동료를 초대해 코딩과 리뷰를 함께 진행하며, 협업을 위해 먼저 코드를 커밋하고 푸시할 필요가 없음리뷰 하위 스레드는 원래 에이전트의 맥락과 격리된 작업 트리를 제공함. 리뷰어는 기존…",
+    "tags": [],
+    "score": 0.58
+  },
+  {
+    "date": "2026-11-08",
+    "source": "GeekNews",
+    "title": "10달러짜리 OpenStick 홈랩에서 돌리는 것들",
+    "url": "https://news.hada.io/topic?id=36776&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "배송비 포함 10달러에 구매한 OpenStick에서 Debian과 Podman을 이용해 DNS 차단, AI 에이전트, 모니터링, RSS 등 여러 서비스를 직접 운영함하드웨어는 RAM 512MB, 1GHz ARM Cortex-A53 4코어와 4GB…",
+    "tags": [],
+    "score": 0.58
+  },
+  {
+    "date": "2026-11-08",
+    "source": "PyTorch KR",
+    "title": "OpenAI, 승인된 보안 조직 전용 GPT-6 Cyber 출시: 범위 밖 공격 0.07%, Linux 익스플로잇 948건",
+    "url": "https://discuss.pytorch.kr/t/openai-gpt-6-cyber-0-07-linux-948/12434",
+    "summary": "핵심 요약 OpenAI가 2026년 11월 5일 GPT-6 Cyber 발표 글에서 취약점 검증과 익스플로잇 개발용 모델 GPT-6 Cyber를 공개했습니다. 처음에는 별도 모델 승인을 받은 Daybreak Red 고객만 API와 Codex로 쓸 수…",
+    "tags": [
+      "llm",
+      "agent",
+      "openai",
+      "product-launch"
+    ],
+    "score": 0.44
+  },
+  {
     "date": "2026-11-07",
     "source": "GeekNews",
     "title": "Show GN: K-Humanizer - 한국어 글에서 번역투를 덜어내는 Agent Skill",
@@ -629,37 +661,5 @@
       "agent-skills"
     ],
     "score": 0.65
-  },
-  {
-    "date": "2026-10-19",
-    "source": "GeekNews",
-    "title": "웹사이트들이 AI 에이전트에 문을 닫고 있음",
-    "url": "https://news.hada.io/topic?id=35590",
-    "summary": "예약과 쇼핑 등을 대신하는 AI 에이전트가 주요 웹사이트의 접근 제한에 부딪히고 있음. Meta Muse, xAI Grok, OpenAI Dots, Instinct 사용자들이 작업 차단을 겪고 있음 차단 이유는 보안 우려와 사업적 이해관계에 걸쳐…",
-    "tags": [],
-    "score": 0.64
-  },
-  {
-    "date": "2026-10-19",
-    "source": "GeekNews",
-    "title": "Anthropic이 제안한 AI 안전 법안, 50명 사망이나 10억 달러 피해 위험이 있어야 작동",
-    "url": "https://news.hada.io/topic?id=35588",
-    "summary": "Anthropic이 정부의 AI 모델 출시 차단을 대규모 피해 위험에 한정하는 법안을 추진 중임. 구체적인 기준은 10억 달러 피해 또는 50명 초과의 사망/부상 위험임 규제 대상 위험은 생물무기 생성/방출, AI를 활용한 사이버 공격, 연구소의…",
-    "tags": [],
-    "score": 0.58
-  },
-  {
-    "date": "2026-10-19",
-    "source": "PyTorch KR",
-    "title": "Unsloth, LLM을 Laya, Clef와 같인 Jev식 결정 모델을 미세조정하고 로컬에서 서빙하는 학습 가이드 공개",
-    "url": "https://discuss.pytorch.kr/t/unsloth-llm-laya-clef-jev/12158",
-    "summary": "핵심 요약 Unsloth의 결정 모델 학습 가이드가 공개되었습니다. Qwen, Gemma, Llama 같은 LLM에 작은 결정 헤드를 붙여 LoRA로 학습하면, 문장 대신 선택지별 확률을 돌려주는 Jev식 결정 모델이 됩니다. 학습은 Unsloth…",
-    "tags": [
-      "llm",
-      "fine-tuning",
-      "jev",
-      "lora"
-    ],
-    "score": 0.54
   }
 ]
