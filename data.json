@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-11-11",
+    "source": "GeekNews",
+    "title": "Claude Whiteboards, Claude Sheets, Claude Data - 팀 협업 보드, 스프레드시트, 데이터 분석 도구",
+    "url": "https://news.hada.io/topic?id=36958&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "Anthropic이 Claude Whiteboards와 Sheets를 베타 출시하고, 기존 Claude Dashboards를 Claude Data로 정식 출시함. 모두 유료 플랜에서 이용할 수 있음Whiteboards는 Claude와 팀원이…",
+    "tags": [],
+    "score": 0.69
+  },
+  {
+    "date": "2026-11-11",
+    "source": "GeekNews",
+    "title": "AlphaProof Code - Signal 암호화 구현을 기계어 수준에서 형식 검증",
+    "url": "https://news.hada.io/topic?id=36944&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "Google DeepMind가 인간 전문가와 AI 에이전트를 결합한 AlphaProof Code로 Signal 프로토콜의 실제 코드가 지정된 핵심 보안 속성을 충족함을 수학적으로 증명함Signal 프로토콜의 참조 구현인 libsignal을…",
+    "tags": [],
+    "score": 0.64
+  },
+  {
+    "date": "2026-11-11",
+    "source": "PyTorch KR",
+    "title": "ToyBlocks: AllenAI가 공개한, 블록 조작으로 로봇 학습의 실패 원인을 분석하는 공개 실험 환경",
+    "url": "https://discuss.pytorch.kr/t/toyblocks-allenai/12448",
+    "summary": "핵심 요약 ToyBlocks는 블록 조작 시연을 자동으로 생성하고 모델 학습과 평가를 연결하는 공개 로봇 실험 프레임워크입니다. 계획 모델과 동작 모델을 각각 평가할 수 있어, 로봇 학습 실험에서 실패 원인을 구분하는 데 활용할 수 있습니다. 공개…",
+    "tags": [
+      "opensource",
+      "robotics",
+      "world-model",
+      "vla"
+    ],
+    "score": 0.4
+  },
+  {
     "date": "2026-11-10",
     "source": "GeekNews",
     "title": "raea - AI가 코드로 만든 영상/3D/게임을 GPU에서 렌더링하는 엔진",
@@ -624,37 +656,5 @@
       "self-improvement"
     ],
     "score": 0.64
-  },
-  {
-    "date": "2026-10-22",
-    "source": "GeekNews",
-    "title": "Patch the Planet: 에이전트가 발견하는 취약점에 대응하기 위한 글로벌 공조",
-    "url": "https://news.hada.io/topic?id=35771",
-    "summary": "OpenAI는 PHP의 심각한 취약점 대응을 위해 유지관리자, 연구자, 보안업체와 두 달간 협력했으며, PHP 유지관리자가 수정과 배포를 주도함 AI의 취약점 발견 능력은 방어자가 공개 전에 패치와 보호책을 준비할 기회를 주지만, 공격자의 공격…",
-    "tags": [],
-    "score": 0.85
-  },
-  {
-    "date": "2026-10-22",
-    "source": "GeekNews",
-    "title": "Qwen3-Coder, 미국 고객용이라고 지시하면 보안이 더 취약한 코드 생성",
-    "url": "https://news.hada.io/topic?id=35762",
-    "summary": "Hirundo가 Qwen3-Coder-30B-A3B-Instruct에 같은 비밀정보 저장 앱을 반복 생성하게 한 실험에서, 미국 방산업체용 앱의 공격 성공률은 70%로 중국 방산업체용의 59%보다 상대적으로 19% 높았음 홍콩 민주주의 옹호 단체용…",
-    "tags": [],
-    "score": 0.84
-  },
-  {
-    "date": "2026-10-22",
-    "source": "PyTorch KR",
-    "title": "LLM 에이전트의 외부화(Externalization)에 대한 리뷰 논문 (1/2): 가중치에서 하네스로, 메모리와 스킬",
-    "url": "https://discuss.pytorch.kr/t/llm-externalization-1-2/12177",
-    "summary": "핵심 요약 Externalization in LLM Agents는 상하이교통대학교 등 5개 기관 연구진이 정리한 54쪽 분량의 리뷰 논문입니다. 저자들은 최근 LLM 에이전트의 발전을, 모델 가중치를 바꾸는 일이 아니라 모델이 감당하던 인지 부담을…",
-    "tags": [
-      "survey-paper",
-      "llm-agent",
-      "agent-skills",
-      "agent-memory"
-    ],
-    "score": 0.68
   }
 ]
