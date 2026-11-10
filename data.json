@@ -1,5 +1,32 @@
 [
   {
+    "date": "2026-11-10",
+    "source": "GeekNews",
+    "title": "raea - AI가 코드로 만든 영상/3D/게임을 GPU에서 렌더링하는 엔진",
+    "url": "https://news.hada.io/topic?id=36917&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "만들고 싶은 것을 말하면 AI 에이전트가 React/TypeScript 코드로 작성하고 GPU로 렌더링영상 및 모션 그래픽은 텍스트, SVG, 애니메이션을 합성해 MP4로 작성3D/게임은 Bevy로 렌더링하며, 입력/물리/사운드를 넣어 실시간으로…",
+    "tags": [],
+    "score": 0.67
+  },
+  {
+    "date": "2026-11-10",
+    "source": "GeekNews",
+    "title": "Muse Ember - Meta의 가장 작고 효율적인 모델",
+    "url": "https://news.hada.io/topic?id=36903&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "Meta가 복잡한 추론과 반복적인 도구 호출, 코딩 하위 작업, 라우팅, 정보 추출, 긴 문서 파싱을 위한 모델 Muse Ember를 공개함Artificial Analysis 평가에서 Claude Haiku 5.5의 최고 점수에 근접한 성능을 약…",
+    "tags": [],
+    "score": 0.56
+  },
+  {
+    "date": "2026-11-10",
+    "source": "PyTorch KR",
+    "title": "모델 학습도 이제 코딩 에이전트에게: Claude Code에 맡겼더니 20분 만에 계약서 검토 모델이 배포됐습니다 (정확도 69.5→87.8%, 오픈소스 Overmind)",
+    "url": "https://discuss.pytorch.kr/t/claude-code-20-69-5-87-8-overmind/12451",
+    "summary": "안녕하세요, (한국어가 서툴러 번역 도움을 받아 썼습니다. 어색한 문장이 있어도 너그럽게 봐주세요 ) 한 줄 요약 코딩은 이미 Claude Code나 Codex에 맡기고 계시죠. Overmind는 모델 학습도 코딩 에이전트에게 맡길 수 있게 해 주는…",
+    "tags": [],
+    "score": 0.54
+  },
+  {
     "date": "2026-11-09",
     "source": "GeekNews",
     "title": "나는 AI로 인한 두뇌 과부하에 이렇게 대처한다",
@@ -629,37 +656,5 @@
       "agent-memory"
     ],
     "score": 0.68
-  },
-  {
-    "date": "2026-10-21",
-    "source": "GeekNews",
-    "title": "Voxtral 3 - 50개 이상 언어의 음성 인식 모델과 실시간 음성 에이전트 SDK",
-    "url": "https://news.hada.io/topic?id=35725",
-    "summary": "Mistral이 Voxtral 3 음성 모델군과 음성 에이전트 SDK를 공개함. 음성 인식, 추론, 도구 호출, 음성 합성을 하나의 실시간 스트리밍 파이프라인으로 연결함 음성 전사는 50개 언어를 지원하며, 화자 분리와 문맥 기반 인식 보정을…",
-    "tags": [],
-    "score": 0.87
-  },
-  {
-    "date": "2026-10-21",
-    "source": "PyTorch KR",
-    "title": "[오픈소스] 하네스 논문 세 편을 에이전트 하나로 묶어 봤습니다: LongHarness + Harmony Harness + Harness² 경량 구현 (비공식)",
-    "url": "https://discuss.pytorch.kr/t/longharness-harmony-harness-harness/12248",
-    "summary": "지난주 이번 주에 살펴볼 만한 AI/ML 논문 모음(10/12~18)에서 첫 번째 흐름으로 묶인 세 편을 읽었습니다. 셋 다 모델이 아니라 하네스를 고칩니다. 하네스는 모델 바깥의 시스템 프롬프트, 도구 안내, 스킬, 검증 규칙, 예산을 말합니다.…",
-    "tags": [
-      "llm",
-      "claude-code",
-      "agent",
-      "opensource"
-    ],
-    "score": 0.85
-  },
-  {
-    "date": "2026-10-21",
-    "source": "GeekNews",
-    "title": "Google, TPU용 네이티브 PyTorch 백엔드 TorchTPU 오픈소스로 공개",
-    "url": "https://news.hada.io/topic?id=35728",
-    "summary": "TorchTPU는 Google의 TPU에서 PyTorch 모델과 연산을 실행할 수 있게 하는 백엔드임 TPU용 ATen 커널과 XLA 연산 실행을 최적화하는 컴파일 캐시를 포함함 torch.compile() 과 통합해 그래프 모드 실행을...",
-    "tags": [],
-    "score": 0.8
   }
 ]
