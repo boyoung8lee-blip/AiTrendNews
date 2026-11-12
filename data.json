@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-11-13",
+    "source": "GeekNews",
+    "title": "Show GN: kr-career-skill - 채용 사이트 270 여곳의 공고 검색과 기업분석 및 자소서 초안 작성을 하는 한국 취...",
+    "url": "https://news.hada.io/topic?id=37079&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "취업·이직용 에이전트 스킬입니다.퇴근하면 체력이 바닥나서 저녁 먹고 나면 이직 준비할 여력이 없다는 친구가 있어, 그 친구를 생각하며 만들었습니다. 공고를 찾고 초안을 잡는 일을 에이전트에게 맡기면 덜 지치게 할 수 있을까 싶었습니다.쓰는…",
+    "tags": [],
+    "score": 0.9
+  },
+  {
+    "date": "2026-11-13",
+    "source": "GeekNews",
+    "title": "Jane Street의 소프트웨어 엔지니어링 면접이 조금 달라집니다",
+    "url": "https://news.hada.io/topic?id=37075&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "Jane Street가 대학생 지원자의 현장 면접에서 코드 작성 비중을 줄이고, 소프트웨어 설계와 코드 검증, LLM 활용을 평가하는 새 면접 유형을 시험 중임코드 생성 비용이 낮아지면서 무엇을 만들지 판단하는 안목, 오래 유지할 수 있는 추상화…",
+    "tags": [],
+    "score": 0.69
+  },
+  {
+    "date": "2026-11-13",
+    "source": "PyTorch KR",
+    "title": "Solo to Team: 여러 AI 에이전트에게 맡긴 작업을 회수하고 증거로 검증하는 협업 스킬 4종",
+    "url": "https://discuss.pytorch.kr/t/solo-to-team-ai-4/12487",
+    "summary": "핵심 요약 Solo to Team은 한 사람이 여러 AI 어시스턴트에게 작업을 나눠 맡길 때 따를 절차를 스킬 4종과 작업 등록 행 템플릿 1종으로 정리한 프로젝트입니다. 작업을 맡기기 전에 '수령 대기' 한 줄을 먼저 적고, 접수와 결과 수령,…",
+    "tags": [
+      "multi-agent",
+      "codex",
+      "agent-skills",
+      "cursor"
+    ],
+    "score": 0.67
+  },
+  {
     "date": "2026-11-12",
     "source": "GeekNews",
     "title": "Gemini Decisions API - 입력 하나에 최대 1,000개 질문을 평가하는 멀티모달 API",
@@ -619,37 +651,5 @@
       "hugging-face"
     ],
     "score": 0.57
-  },
-  {
-    "date": "2026-10-24",
-    "source": "GeekNews",
-    "title": "Kimi K3.1 Pro와 K3.1 Pro Highspeed - 100만 토큰 문맥을 지원하는 3T급 모델",
-    "url": "https://news.hada.io/topic?id=35879",
-    "summary": "Kimi K3.1 Pro는 K3의 사후 학습을 확대해 코딩, 3D 제작, 금융 조사와 에이전트 역량을 강화한 3T급 모델로, 100만 토큰 문맥을 지원하며 전체 가중치는 2026년 11월 4일까지 공개할 예정임 K3.1 Pro Highspeed도…",
-    "tags": [],
-    "score": 0.7
-  },
-  {
-    "date": "2026-10-24",
-    "source": "GeekNews",
-    "title": "Show GN: claude-code-todo - 클로드 코드 옆에 띄워 두는 TODO pane",
-    "url": "https://news.hada.io/topic?id=35870",
-    "summary": "Claude Code로 작업하다 생기는 할 일을 바로 적고, 고치고, 지울 수 있게 만든 플러그인입니다. 세션을 닫아도 목록은 남습니다. 채팅 옆 pane에 전역 목록과 프로젝트 목록이 탭으로 나뉘어 있고, 프롬프트 위에는 남은 개수와 다음 할 일,…",
-    "tags": [],
-    "score": 0.67
-  },
-  {
-    "date": "2026-10-24",
-    "source": "PyTorch KR",
-    "title": "AAIF에 Agent Skills, Open Responses, OpenEnv, OpenSandbox 합류해 프로젝트 10개로",
-    "url": "https://discuss.pytorch.kr/t/aaif-agent-skills-open-responses-openenv-opensandbox-10/12275",
-    "summary": "핵심 요약 Agentic AI Foundation(AAIF)이 2026년 10월 22일 새 프로젝트 4개를 발표했습니다. Agent Skills(Anthropic), Open Responses(OpenAI), OpenEnv(Hugging Face),…",
-    "tags": [
-      "agent",
-      "opensource",
-      "agent-skills",
-      "linux-foundation"
-    ],
-    "score": 0.54
   }
 ]
