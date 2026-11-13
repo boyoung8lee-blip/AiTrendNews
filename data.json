@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-11-14",
+    "source": "PyTorch KR",
+    "title": "Google, 에이전트가 텍스트 대신 네이티브 화면으로 답하게 하는 생성형 UI 프로토콜 A2UI 1.0 공개 (feat. MCP Apps)",
+    "url": "https://discuss.pytorch.kr/t/google-ui-a2ui-1-0-feat-mcp-apps/12496",
+    "summary": "핵심 요약 Google A2UI 팀이 2026년 11월 11일 A2UI 1.0 발표 글에서 생성형 UI 오픈 프로토콜 A2UI의 첫 안정 버전을 공개했습니다. 에이전트는 보여 줄 화면을 데이터로 설명하고, 앱은 자기가 등록한 네이티브 컴포넌트로만 그…",
+    "tags": [
+      "agent",
+      "mcp",
+      "google",
+      "release"
+    ],
+    "score": 0.76
+  },
+  {
+    "date": "2026-11-14",
+    "source": "GeekNews",
+    "title": "Claude 서비스 장애 발생",
+    "url": "https://news.hada.io/topic?id=37122&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "claude.ai, Claude API, Claude Code 등에서 오류 증가가 발생했으며, 제공된 장애 이력상 2026년 11월 13일의 두 장애는 모두 해결됨Microsoft 365 커넥터와 Claude for Outlook은 회복 조짐을…",
+    "tags": [],
+    "score": 0.63
+  },
+  {
+    "date": "2026-11-14",
+    "source": "GeekNews",
+    "title": "No AI Slop 선언문",
+    "url": "https://news.hada.io/topic?id=37128&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "AIE Code Summit 2026의 발표자와 참가자들이 함께 작성한 선언문2001년 17명의 엔지니어가 문서 중심의 무거운 개발 프로세스에 맞서 애자일 선언문을 만들었듯이, AI 시대의 과제인 슬롭(slop)에 대응하는 가치와 원칙을 정리함AI…",
+    "tags": [],
+    "score": 0.61
+  },
+  {
     "date": "2026-11-13",
     "source": "GeekNews",
     "title": "Show GN: kr-career-skill - 채용 사이트 270 여곳의 공고 검색과 기업분석 및 자소서 초안 작성을 하는 한국 취...",
@@ -619,37 +651,5 @@
       "linux-foundation"
     ],
     "score": 0.59
-  },
-  {
-    "date": "2026-10-25",
-    "source": "GeekNews",
-    "title": "이것이 사이버 보안의 새로운 일상인가?",
-    "url": "https://news.hada.io/topic?id=35907",
-    "summary": "PHP, GitLab, 인증기관, 클라우드, 패키지 공급망에서 심각한 보안 사고가 잇따르며 취약점 공개와 방어 사이의 시간이 핵심 문제로 떠오름 LLM은 이론적 취약점이나 패치 차이를 실제 공격 코드로 전환하는 속도를 높임. 다만 작동하지 않는 공격…",
-    "tags": [],
-    "score": 0.7
-  },
-  {
-    "date": "2026-10-25",
-    "source": "GeekNews",
-    "title": "삼성 TV를 역공학 분석해서 공유하던 해커, OpenAI 계정 정지 경험 공개",
-    "url": "https://news.hada.io/topic?id=35918",
-    "summary": "삼성 TV의 개인정보 수집 기능을 분석하던 개발자가 OpenAI 계정 정지 통보를 받은 경험을 공개 TV에서 개 짖는 소리와 아기 울음을 구분하고 감지 횟수를 기록하는 코드를 찾았다며 관련 분석 화면 게시 자동 콘텐츠 인식과 위치 정보, 네트워크…",
-    "tags": [],
-    "score": 0.65
-  },
-  {
-    "date": "2026-10-25",
-    "source": "PyTorch KR",
-    "title": "Hugging Face, Apple Foundation Models 코드를 그대로 로컬과 클라우드에서 사용 가능한 AnyLanguageModel 1.0 공개",
-    "url": "https://discuss.pytorch.kr/t/hugging-face-apple-foundation-models-anylanguagemodel-1-0/12258",
-    "summary": "핵심 요약 Hugging Face가 Apple Foundation Models API를 그대로 따르는 Swift 패키지인 AnyLanguageModel 1.0을 발표했습니다. import 한 줄만 바꾸면 같은 세션 코드로 시스템 모델, MLX,…",
-    "tags": [
-      "llm",
-      "on-device",
-      "apple",
-      "hugging-face"
-    ],
-    "score": 0.57
   }
 ]
