@@ -1,5 +1,42 @@
 [
   {
+    "date": "2026-11-16",
+    "source": "GeekNews",
+    "title": "vLLM으로 NVIDIA DGX Station 2대에서 GLM-5.3을 초당 607.8토큰으로 서빙하기",
+    "url": "https://news.hada.io/topic?id=37221&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "GLM-5.3 NVFP4의 약 464GB 체크포인트를 DGX Station 2대의 GPU에 나눠 올리고, CPU 가중치 오프로딩 없이 하나의 OpenAI 호환 API로 서빙함텐서 병렬화(TP=2) 로 두 GB300 GPU가 가중치와 연산을 분담하며,…",
+    "tags": [],
+    "score": 0.56
+  },
+  {
+    "date": "2026-11-16",
+    "source": "PyTorch KR",
+    "title": "BotPsy: 2B 모델보다 도구 사용 성능이 뛰어난, Qwen3.5-0.8B 기반 On-Device Agent 모델",
+    "url": "https://discuss.pytorch.kr/t/botpsy-2b-qwen3-5-0-8b-on-device-agent/12486",
+    "summary": "핵심 요약 Tether AI Research가 BotPsy 발표 글과 함께 Qwen3.5-0.8B를 사후 학습한 0.8B 크기의 도구 호출용 모델 BotPsy-0.8B를 Apache 2.0 라이선스로 공개했습니다. 개발사가 직접 측정한 도구 사용…",
+    "tags": [
+      "agent",
+      "on-device",
+      "qwen",
+      "small-language-model"
+    ],
+    "score": 0.52
+  },
+  {
+    "date": "2026-11-16",
+    "source": "PyTorch KR",
+    "title": "Anthropic, Claude Fable 5.2와 Mythos 5.2 출시: 가격 인하와 최대 30% 빠른 출력 (feat. Opus 5.5)",
+    "url": "https://discuss.pytorch.kr/t/anthropic-claude-fable-5-2-mythos-5-2-30-feat-opus-5-5/12478",
+    "summary": "핵심 요약 Anthropic은 Claude Fable 5.2와 Mythos 5.2 발표 글에서 두 모델이 같은 기반 모델이라고 밝혔습니다. Fable은 사이버보안과 생물학 안전장치를 붙여 모든 사용자에게, Mythos는 Cyber 또는 Life…",
+    "tags": [
+      "llm",
+      "agent",
+      "anthropic",
+      "benchmark"
+    ],
+    "score": 0.52
+  },
+  {
     "date": "2026-11-15",
     "source": "PyTorch KR",
     "title": "[오픈소스] HWP까지 읽는 문서 → Markdown 변환기 OpenDocKit을 만들었습니다 (LangChain, LlamaIndex, MCP 지원)",
@@ -624,37 +661,5 @@
     "summary": "Apple이 12코어 CPU와 12코어 GPU를 탑재한 MacBook Pro 14를 공개함. M5 모델보다 그래픽 성능은 최대 30%, 온디바이스 AI 워크로드 성능은 최대 25% 향상됨 GPU 코어별 Neural Accelerator와 듀얼…",
     "tags": [],
     "score": 0.75
-  },
-  {
-    "date": "2026-10-27",
-    "source": "GeekNews",
-    "title": "인기 오픈웨이트 AI 모델에서 발견된 우려스러운 행동",
-    "url": "https://news.hada.io/topic?id=36062",
-    "summary": "Cohere의 보안 평가에서 Qwen3.8-Flash-Next가 탐지 규칙 작성 지시를 벗어나 실행 환경을 조사하고, 베이징의 Alibaba Cloud 버킷으로 시험 파일 업로드를 시도함 추론 기록과 실제 도구 호출이 불일치했으며, 외부 통신은…",
-    "tags": [],
-    "score": 0.8
-  },
-  {
-    "date": "2026-10-27",
-    "source": "PyTorch KR",
-    "title": "Corgi: Claude Code, Codex 등 여러 코딩 에이전트를 한 터미널에서 지켜보는 멀티플렉서 (feat. Ghostty, herdr)",
-    "url": "https://discuss.pytorch.kr/t/corgi-claude-code-codex-feat-ghostty-herdr/12290",
-    "summary": "핵심 요약 Corgi는 Claude Code, Codex, Pi, OpenCode를 여러 창에 띄워 쓰는 개발자를 위한 터미널 멀티플렉서로, 사이드바에서 에이전트마다 작업 중, 입력 대기, 완료 상태를 보여 줍니다. tmux처럼…",
-    "tags": [
-      "claude-code",
-      "coding-agent",
-      "codex",
-      "developer-tools"
-    ],
-    "score": 0.78
-  },
-  {
-    "date": "2026-10-27",
-    "source": "GeekNews",
-    "title": "PaperPilot - AI 에이전트와 브라우저에서 쓰는 로컬 PDF 도구",
-    "url": "https://news.hada.io/topic?id=36034",
-    "summary": "PDF 병합과 분할, 압축, 텍스트 추출과 OCR을 로컬에서 처리하는 Rust 기반 문서 도구 MCP로 Claude Code, Codex, Claude Desktop, Cursor 등에 연결해 “두 PDF를 합치고 압축해 줘”처럼 문서 작업을 요청…",
-    "tags": [],
-    "score": 0.78
   }
 ]
