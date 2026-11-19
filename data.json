@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-11-19",
+    "source": "GeekNews",
+    "title": "Tencent Hy4 Flash - 100만 토큰 컨텍스트를 지원하는 저비용 멀티모달 모델",
+    "url": "https://news.hada.io/topic?id=37434&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "Tencent가 Hy4 flash를 공개함. 약 2,200억 파라미터 중 토큰당 120억 개를 활성화하며, 네이티브 멀티모달과 100만 토큰 컨텍스트를 지원함API 요금은 100만 토큰당 입력 0.070달러, 출력 0.281달러로, Hy4보다 크게…",
+    "tags": [],
+    "score": 0.71
+  },
+  {
+    "date": "2026-11-19",
+    "source": "GeekNews",
+    "title": "Microsoft AI, 가격 대비 성능을 앞세운 새 모델 7종 공개",
+    "url": "https://news.hada.io/topic?id=37419&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "Microsoft AI가 보안, 코딩, 이미지, 음성, 의사결정 분야의 새 모델 7종을 출시함. 실제 엔지니어링 작업을 수행하는 에이전트를 24시간 운영할 수 있는 가격대를 목표로 함MAI Code 2는 Microsoft의 일상적인 기업 코딩…",
+    "tags": [],
+    "score": 0.7
+  },
+  {
+    "date": "2026-11-19",
+    "source": "PyTorch KR",
+    "title": "GPT-6.2 Astra 및 Sol 프롬프팅 가이드: 대화 이력을 고치면 추론이 버려지는 API 변경과 대응법",
+    "url": "https://discuss.pytorch.kr/t/gpt-6-2-astra-sol-api/12563",
+    "summary": "핵심 요약 OpenAI의 GPT-6.2 사용 가이드에 따르면, GPT-6.2부터 API는 대화 중간에 이력이 바뀐 것을 감지하면 그 뒤의 추론 항목을 버립니다. 도구 결과를 줄이거나 개발자 메시지를 고치는 통합은 비용과 품질이 함께 나빠질 수…",
+    "tags": [
+      "llm",
+      "agent",
+      "openai",
+      "codex"
+    ],
+    "score": 0.63
+  },
+  {
     "date": "2026-11-18",
     "source": "GeekNews",
     "title": "실제로 등장한 curl의 Rust 재작성 프로젝트들",
@@ -626,37 +658,5 @@
       "coding-agent"
     ],
     "score": 0.68
-  },
-  {
-    "date": "2026-10-30",
-    "source": "PyTorch KR",
-    "title": "Day Trader Skill: Python으로 숫자들을 계산하고, 주문은 사람의 2번 승인이 필요한 (미국 주식 전용) Claude용 트레이딩 스킬",
-    "url": "https://discuss.pytorch.kr/t/day-trader-skill-python-2-claude/12307",
-    "summary": "핵심 요약 Day Trader skill은 미국 주식 데이 트레이딩(Day Trading)의 한 거래를 차트 검색부터 주문까지 11개의 Claude 스킬로 나눈 묶음입니다. 패턴 판정, 확률, 주문 수량 같은 매매 수치는 LLM이 아니라 표준…",
-    "tags": [
-      "claude-skills",
-      "finance",
-      "trading-agent",
-      "alpaca"
-    ],
-    "score": 0.74
-  },
-  {
-    "date": "2026-10-30",
-    "source": "GeekNews",
-    "title": "Show GN: anti-stuck - Claude Code가 멈춘 명령·서브에이전트를 영원히 기다리지 않게 하는 플러그인",
-    "url": "https://news.hada.io/topic?id=36210",
-    "summary": "제가 만든 Claude Code 플러그인입니다. Flutter 앱을 Claude Code로 개발하면서 가장 비싼 실패는 틀린 코드가 아니라 \"기다림\"이었습니다. 하루 동안 실제로 겪은 것들: Marionette MCP connect가 10분 넘게…",
-    "tags": [],
-    "score": 0.73
-  },
-  {
-    "date": "2026-10-30",
-    "source": "GeekNews",
-    "title": "Mistral Large 4(Le Chonk), 가중치 공개",
-    "url": "https://news.hada.io/topic?id=36233",
-    "summary": "Mistral이 1조 파라미터 네이티브 멀티모달 모델 Mistral Large 4의 개선된 가중치를 공개함. 공개 프리뷰 이후 강화학습을 확대해 코딩, 방어적 사이버보안, 추론 효율을 높임 Artificial Analysis Coding Agent…",
-    "tags": [],
-    "score": 0.72
   }
 ]
