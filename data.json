@@ -1,5 +1,42 @@
 [
   {
+    "date": "2026-11-20",
+    "source": "GeekNews",
+    "title": "이해 가능성을 위한 설계",
+    "url": "https://news.hada.io/topic?id=37494&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "LLM이 코드를 더 많이 작성할수록 개발자의 핵심 책임은 코드 품질 판단과 검토에 있음. 생성된 코드를 이해하지 못하면 LLM은 복잡성을 빠르게 늘리는 도구에 그칠 수 있음계약에 의한 설계, 데이터 불변식, 부수 효과와 전역 상태 의존성의 격리를…",
+    "tags": [],
+    "score": 0.8
+  },
+  {
+    "date": "2026-11-20",
+    "source": "PyTorch KR",
+    "title": "ECC: 계획, 테스트, 리뷰, 기억 절차를 Claude Code와 Codex 등 코딩 에이전트에 설치하는 도구 (이전 Everything Claude Code)",
+    "url": "https://discuss.pytorch.kr/t/ecc-claude-code-codex-everything-claude-code/12585",
+    "summary": "핵심 요약 ECC는 PyTorchKR이 2026년 1월에 소개한 Everything Claude Code의 새 이름입니다. 1월 18일 커밋에는 에이전트 9개, 스킬 7개, 명령 9개가 있었습니다. 지금 main 브랜치에는 에이전트 72개, 스킬…",
+    "tags": [
+      "claude-code",
+      "coding-agent",
+      "codex",
+      "agent-skills"
+    ],
+    "score": 0.66
+  },
+  {
+    "date": "2026-11-20",
+    "source": "PyTorch KR",
+    "title": "코딩 에이전트 Devin이 만든 사내 도구를 클라우드 머신에서 바로 실행하고 운영하는 Devin Apps 출시",
+    "url": "https://discuss.pytorch.kr/t/devin-devin-apps/12555",
+    "summary": "핵심 요약 Cognition은 2026년 11월 13일 Introducing Devin Apps 발표 글에서 Devin이 만든 웹 앱을 Devin의 클라우드 머신에서 바로 호스팅하는 Devin Apps를 공개했습니다. 팀은 고정 URL 하나로 그…",
+    "tags": [
+      "ai-agent",
+      "coding-agent",
+      "product-launch",
+      "devin"
+    ],
+    "score": 0.64
+  },
+  {
     "date": "2026-11-19",
     "source": "GeekNews",
     "title": "Tencent Hy4 Flash - 100만 토큰 컨텍스트를 지원하는 저비용 멀티모달 모델",
@@ -626,37 +663,5 @@
       "agent-skill"
     ],
     "score": 0.65
-  },
-  {
-    "date": "2026-10-31",
-    "source": "GeekNews",
-    "title": "공식 Claude Code 확장 프로그램의 백도어",
-    "url": "https://news.hada.io/topic?id=36287",
-    "summary": "Kevin Beaumont에 따르면 Claude Code 확장 프로그램 2.1.313에 원격 접근 악성코드가 포함됐으며, Cursor는 자사 확장 마켓플레이스에서 해당 버전의 보안 사고를 확인함 악성코드는 피해 시스템 정보를 수집한 뒤 역방향 SSH…",
-    "tags": [],
-    "score": 0.75
-  },
-  {
-    "date": "2026-10-31",
-    "source": "GeekNews",
-    "title": "Show GN: Vicem - 로컬 AI 코딩 에이전트 간 작업 컨텍스트를 전달하는 CLI/GUI 도구",
-    "url": "https://news.hada.io/topic?id=36286",
-    "summary": "안녕하세요, 여러 AI 코딩 에이전트를 번갈아 쓰면서 작업 맥락을 옮기는 과정을 자동화하려고 직접 만든 오픈소스 도구 Vicem을 소개합니다. 무엇을 하는 도구인가요? Claude Code, OpenAI Codex, Cursor,…",
-    "tags": [],
-    "score": 0.74
-  },
-  {
-    "date": "2026-10-31",
-    "source": "PyTorch KR",
-    "title": "Nanbeige4.3-33B, 3B 증류용 교사 학습으로 만든 33B 규모의, 유사 크기 모델들 대비 우수한 성능을 보인 에이전트 모델 공개",
-    "url": "https://discuss.pytorch.kr/t/nanbeige4-3-33b-3b-33b/12332",
-    "summary": "핵심 요약 중국 채용 플랫폼 BOSS Zhipin을 운영하는 Kanzhun의 Nanbeige 팀이 Nanbeige4.3-33B 모델 카드와 함께 33B 밀집(dense) 모델의 가중치를 Apache 2.0으로 공개했습니다. 컨텍스트는 512K…",
-    "tags": [
-      "llm",
-      "agent",
-      "opensource",
-      "coding-agent"
-    ],
-    "score": 0.68
   }
 ]
