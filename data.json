@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-11-22",
+    "source": "GeekNews",
+    "title": "5.4 GB 메모리의 Inkling-2-Mini",
+    "url": "https://news.hada.io/topic?id=37595&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "LookAtMyQuant가 Inkling-2-Mini의 텍스트 가중치를 18.89 GB에서 5.38 GB로 압축함. 이 수치는 가중치 크기이며, 공개된 M5 Max 실행 측정의 활성 RAM 사용량은 5.98 GB임5.38 GB 모델은 GSM8K…",
+    "tags": [],
+    "score": 0.61
+  },
+  {
+    "date": "2026-11-22",
+    "source": "PyTorch KR",
+    "title": "[도구 공개] 에이전트가 쓴 보고서의 숫자마다 영수증을 붙이는 스킬, receipts",
+    "url": "https://discuss.pytorch.kr/t/receipts/12592",
+    "summary": "에이전트에게 보고서를 쓰게 하면 끝에 \"숫자를 모두 확인했습니다\"라는 말이 붙곤 합니다. 그런데 어느 숫자를 무엇과 대조했는지는 남지 않습니다. 일부만 확인했거나 확인하지 않았어도 읽는 사람은 구별할 수 없습니다. receipts는 이 확인을 코드에…",
+    "tags": [],
+    "score": 0.52
+  },
+  {
+    "date": "2026-11-22",
+    "source": "PyTorch KR",
+    "title": "OpenAI, 에이전트가 실제 카드번호 없이 결제하는 ChatGPT Wallet 출시: 구매마다 생체 인증 (미국, Pro 요금제 한정)",
+    "url": "https://discuss.pytorch.kr/t/openai-chatgpt-wallet-pro/12538",
+    "summary": "핵심 요약 OpenAI가 2026년 11월 13일 ChatGPT Wallet 발표 글에서 에이전트가 사용자의 실제 카드 정보를 보지 않고 결제하는 지갑을 공개했습니다. 사용자는 구매마다 품목, 총액, 카드를 확인하고 Face ID나 지문으로…",
+    "tags": [
+      "agent",
+      "openai",
+      "chatgpt",
+      "product-launch"
+    ],
+    "score": 0.52
+  },
+  {
     "date": "2026-11-21",
     "source": "GeekNews",
     "title": "외력이 없는 Euler와 Navier-Stokes 방정식의 특이점과 일반화 리만 가설",
@@ -631,37 +663,5 @@
     "summary": "LLM으로 발견한 버그 제보가 급증하면서 PostgreSQL의 수정 부담이 커짐. PostgreSQL 19는 예년의 9~10월보다 늦은 11월 출시가 예상되며, 베타 후반에 대형 기능 3개도 철회됨버그 발견은 훨씬 쉬워졌지만 수정은 같은 만큼…",
     "tags": [],
     "score": 0.59
-  },
-  {
-    "date": "2026-11-02",
-    "source": "GeekNews",
-    "title": "Show GN: EBS Gurapinggala Teacher - 거짓말 에이전트",
-    "url": "https://news.hada.io/topic?id=36405&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "summary": "EBS Gurapingala Teacher - AI 거짓말 에이전트와 교사용 모니터링 대시보드 GitHub: https://github.com/NomaDamas/EBS-Gurapingala-teacher 소개: EBS <생각의 멸종>에서 학생 대상…",
-    "tags": [],
-    "score": 0.83
-  },
-  {
-    "date": "2026-11-02",
-    "source": "PyTorch KR",
-    "title": "tstack: 코딩 에이전트가 변경 증명부터 리뷰 봇 대응, PR 병합까지 맡게 하는 스킬 9종 (feat. Theo Browne)",
-    "url": "https://discuss.pytorch.kr/t/tstack-pr-9-feat-theo-browne/12342",
-    "summary": "핵심 요약 tstack은 Theo Browne이 매일 쓰는 에이전트 스킬 9개를 정리해 공개한 저장소로, Claude Code와 Codex에서 동작합니다. 스킬은 주로 코드를 쓴 뒤의 단계, 곧 변경 증명, 리뷰, PR 작성, CI와 리뷰 봇 대응,…",
-    "tags": [
-      "claude-code",
-      "coding-agent",
-      "codex",
-      "agent-skills"
-    ],
-    "score": 0.68
-  },
-  {
-    "date": "2026-11-02",
-    "source": "GeekNews",
-    "title": "JavaScript 프레임워크별 AI 개발 비용 비교",
-    "url": "https://news.hada.io/topic?id=36393&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "summary": "Opus 5.5에 같은 포켓몬 앱을 12개 프레임워크 조합으로 구현하게 하고, 개발 비용과 시간, 코드량, 성능과 접근성을 비교함 실행당 API 환산 비용 중앙값은 Hono+htmx 2.67달러, Angular 4.97달러였으며, SvelteKit과…",
-    "tags": [],
-    "score": 0.64
   }
 ]
