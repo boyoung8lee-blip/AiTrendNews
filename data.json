@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-11-21",
+    "source": "GeekNews",
+    "title": "외력이 없는 Euler와 Navier-Stokes 방정식의 특이점과 일반화 리만 가설",
+    "url": "https://news.hada.io/topic?id=37546&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "AI를 활용한 Euler 방정식, Navier-Stokes 방정식, 일반화 리만 가설의 증명 자료가 공개됨. 사람이 읽을 수 있는 논증까지 정리된 결과부터, 방대한 Lean 코드의 검증과 해석이 진행 중인 결과까지 단계가 다름외력이 없는 3차원…",
+    "tags": [],
+    "score": 0.76
+  },
+  {
+    "date": "2026-11-21",
+    "source": "GeekNews",
+    "title": "우리는 개발자들에게 알리지도 않고 아키텍트로 승진시켰다",
+    "url": "https://news.hada.io/topic?id=37548&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "AI에 요구사항만 전달하고 아키텍처를 지정하지 않으면, 성능과 데이터 설계에 관한 결정까지 AI에 맡기게 됨Google Forms 애드온에서 AI가 작성한 설치 로그 코드가 사용자 이메일과 ID를 차례로 조회하면서, 정적인 환영 화면을 띄우는 데…",
+    "tags": [],
+    "score": 0.65
+  },
+  {
+    "date": "2026-11-21",
+    "source": "PyTorch KR",
+    "title": "Sevren, 휴대폰에서 오프라인으로 돌아가는 10B-A1B 추론 모델 Embla 1 공개 (feat. embla-metal)",
+    "url": "https://discuss.pytorch.kr/t/sevren-10b-a1b-embla-1-feat-embla-metal/12556",
+    "summary": "핵심 요약 덴마크 코펜하겐의 AI 연구소 Sevren이 휴대폰에서 실행하도록 설계한 추론 모델 Embla 1을 Embla 1 발표 글과 함께 공개했습니다. 전체 10B(이 중 3B는 Engram 표) 파라미터에 토큰당 활성 파라미터는 1B인 MoE…",
+    "tags": [
+      "llm",
+      "on-device",
+      "moe",
+      "release"
+    ],
+    "score": 0.54
+  },
+  {
     "date": "2026-11-20",
     "source": "GeekNews",
     "title": "이해 가능성을 위한 설계",
@@ -631,37 +663,5 @@
     "summary": "Opus 5.5에 같은 포켓몬 앱을 12개 프레임워크 조합으로 구현하게 하고, 개발 비용과 시간, 코드량, 성능과 접근성을 비교함 실행당 API 환산 비용 중앙값은 Hono+htmx 2.67달러, Angular 4.97달러였으며, SvelteKit과…",
     "tags": [],
     "score": 0.64
-  },
-  {
-    "date": "2026-11-01",
-    "source": "GeekNews",
-    "title": "악성코드, LLM으로 피해자의 금전적 가치에 따라 순위를 매김",
-    "url": "https://news.hada.io/topic?id=36347&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "summary": "Windows 정보 탈취 악성코드 VOLTA-AUTODOXER는 훔친 인증정보와 개인 데이터를 LLM에 보내, 피해자의 자산을 현금화 가치에 따라 평가하고 우선순위를 매김 단순한 정보 수집을 넘어 탈취한 세션으로 Gmail 영수증, 음식 배달 주문…",
-    "tags": [],
-    "score": 0.72
-  },
-  {
-    "date": "2026-11-01",
-    "source": "GeekNews",
-    "title": "Linode 보안 사고",
-    "url": "https://news.hada.io/topic?id=36320&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "summary": "Akamai가 최근 공개된 원격 코드 실행 취약점 CVE-2026-98432를 조사하며 완화 조치와 플랫폼 모니터링을 진행 중임 알려진 공격 경로에 대한 완화 조치를 배포 중이며, 그 밖의 잠재적 영향도 계속 분석하고 있음 최신 공지 시점에는…",
-    "tags": [],
-    "score": 0.67
-  },
-  {
-    "date": "2026-11-01",
-    "source": "PyTorch KR",
-    "title": "Digital Human Koubo: Renoise로 만든 AI 발표자 영상을 Remotion으로 편집하는 에이전트 스킬",
-    "url": "https://discuss.pytorch.kr/t/digital-human-koubo-renoise-ai-remotion/12340",
-    "summary": "핵심 요약 Digital Human Koubo는 AI 디지털 휴먼(가상 발표자)이 카메라를 보고 말하는 영상을 대본 작성부터 생성, 검수, 편집까지 코딩 에이전트에게 맡기는 에이전트 스킬입니다. 저장소에는 영상 생성 모델이 없고, 생성은 유료 서비스…",
-    "tags": [
-      "claude-code",
-      "mcp",
-      "video-generation",
-      "agent-skill"
-    ],
-    "score": 0.65
   }
 ]
