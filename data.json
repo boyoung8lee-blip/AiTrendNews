@@ -1,5 +1,42 @@
 [
   {
+    "date": "2026-11-23",
+    "source": "GeekNews",
+    "title": "Show HN: OpenComputer - Devin의 오픈소스 대안",
+    "url": "https://news.hada.io/topic?id=37650&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "OpenComputer는 Slack 스레드에서 @Computer에 작업을 맡기면 자체 컴퓨터에서 코딩하고 결과를 풀 리퀘스트로 만드는 에이전트로, 팀이 진행 과정을 지켜보고 방향을 조정할 수 있음컴퓨팅 계층부터 오픈소스로 공개되어 전체 시스템을 자체…",
+    "tags": [],
+    "score": 0.58
+  },
+  {
+    "date": "2026-11-23",
+    "source": "PyTorch KR",
+    "title": "DSA: 미국, 중국, 한국 등, 6개 주요 주식 시장의 관심 종목을 매일 LLM으로 분석해 메신저로 보내주는 주식 리서치 시스템",
+    "url": "https://discuss.pytorch.kr/t/dsa-6-llm/12589",
+    "summary": "핵심 요약 DSA(Daily Stock Analysis)는 관심 종목의 시세, 뉴스, 기술 지표를 모아 LLM으로 종목별 리포트를 만들고 텔레그램, 슬랙, 디스코드, 이메일 등으로 보내 주는 Python 프로젝트입니다. 중국 본토, 홍콩, 미국,…",
+    "tags": [
+      "multi-agent",
+      "llm-agent",
+      "litellm",
+      "github-actions"
+    ],
+    "score": 0.57
+  },
+  {
+    "date": "2026-11-23",
+    "source": "PyTorch KR",
+    "title": "Phai-A1: Qwen3.6-35B-A3B를 화웨이 Ascend 칩에서 사후 학습한 1M 컨텍스트의 코딩 에이전트용 공개 모델",
+    "url": "https://discuss.pytorch.kr/t/phai-a1-qwen3-6-35b-a3b-ascend-1m/12587",
+    "summary": "핵심 요약 Phanthy(范式)가 코딩과 에이전트 작업용 오픈 가중치 모델 Phai-A1-35B-1M을 공개했습니다. Qwen3.6-35B-A3B에 SFT와 GRPO 강화 학습을 더한 사후 학습(Post-training) 모델이고, 사후 학습 전…",
+    "tags": [
+      "llm",
+      "coding-agent",
+      "open-weights",
+      "moe"
+    ],
+    "score": 0.53
+  },
+  {
     "date": "2026-11-22",
     "source": "GeekNews",
     "title": "5.4 GB 메모리의 Inkling-2-Mini",
@@ -626,42 +663,5 @@
       "trading-agents"
     ],
     "score": 0.66
-  },
-  {
-    "date": "2026-11-03",
-    "source": "PyTorch KR",
-    "title": "KOMOS – 한국어 음성 품질 평가 모델을 오픈소스로 공개했습니다",
-    "url": "https://discuss.pytorch.kr/t/komos/12380",
-    "summary": "안녕하세요. 한국어 음성의 품질을 평가하는 MOS(Mean Opinion Score) 예측 모델 KOMOS를 개발하고 오픈소스로 공개했습니다. 기존 UTMOS 모델을 한국어 음성에 적용하면서 발견한 한계를 개선하고자 시작한 프로젝트입니다. 개발 배경…",
-    "tags": [
-      "ai",
-      "opensource",
-      "tts",
-      "evaluation"
-    ],
-    "score": 0.82
-  },
-  {
-    "date": "2026-11-03",
-    "source": "PyTorch KR",
-    "title": "Claude Code 팀의 코드 리뷰 방식: 병합 PR이 2배로 늘 때 되돌림 비율은 40% 넘게 줄인 방법 (feat. Anthropic)",
-    "url": "https://discuss.pytorch.kr/t/claude-code-pr-2-40-feat-anthropic/12336",
-    "summary": "핵심 요약 Anthropic의 Claude Code 팀 코드 리뷰 글에 따르면, 2026년 6월부터 9월까지 Claude Code 저장소의 병합 PR 수는 2배 넘게 늘었고 되돌린(revert) PR의 비율은 상대값으로 40% 넘게 줄었습니다. 이…",
-    "tags": [
-      "claude-code",
-      "agent",
-      "anthropic",
-      "coding-agent"
-    ],
-    "score": 0.69
-  },
-  {
-    "date": "2026-11-03",
-    "source": "GeekNews",
-    "title": "Postgres 19 출시가 늦어지는 건 AI 때문이다 - 버그 발견이 수정을 앞지르다",
-    "url": "https://news.hada.io/topic?id=36491&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "summary": "LLM으로 발견한 버그 제보가 급증하면서 PostgreSQL의 수정 부담이 커짐. PostgreSQL 19는 예년의 9~10월보다 늦은 11월 출시가 예상되며, 베타 후반에 대형 기능 3개도 철회됨버그 발견은 훨씬 쉬워졌지만 수정은 같은 만큼…",
-    "tags": [],
-    "score": 0.59
   }
 ]
