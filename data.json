@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-11-25",
+    "source": "GeekNews",
+    "title": "오픈 소스에서 월 반복 매출 2만 달러까지: EmailEngine의 여정",
+    "url": "https://news.hada.io/topic?id=37804&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "이메일 계정을 REST API로 다루는 EmailEngine은 무료 오픈소스와 선택적 상업용 라이선스 판매에서 사용에 유료 구독이 필요한 소스 공개형 소프트웨어로 전환한 뒤, 월 반복 매출 2만 달러에 도달함고객들은 AGPL 대신 MIT 라이선스를…",
+    "tags": [],
+    "score": 0.69
+  },
+  {
+    "date": "2026-11-25",
+    "source": "PyTorch KR",
+    "title": "하네스 기반, RL로 학습한 Qwen3.8-27B LoRA 어댑터 공개: 정확도는 상승하면서 도구 호출 횟수는 감소",
+    "url": "https://discuss.pytorch.kr/t/rl-qwen3-8-27b-lora/12610",
+    "summary": "핵심 요약 Hugging Face 연구진이 2026년 11월 20일 Introducing harness adapters 블로그 글을 공개했습니다. 연구진은 Qwen3.8-27B 가중치를 고정한 채, pi, OpenCode, Hermes Agent…",
+    "tags": [
+      "coding-agent",
+      "reinforcement-learning",
+      "qwen",
+      "hugging-face"
+    ],
+    "score": 0.65
+  },
+  {
+    "date": "2026-11-25",
+    "source": "GeekNews",
+    "title": "Ternary Bonsai 2.5 27B - 5.9GB 크기를 유지하며 에이전트 코딩을 강화한 로컬 AI 모델",
+    "url": "https://news.hada.io/topic?id=37796&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "PrismML이 Qwen3.8 27B 기반 Ternary Bonsai 2.5 27B를 공개함. 이전 버전의 5.9GB 모델 크기를 유지하면서 에이전트 코딩, 여러 턴에 걸친 도구 사용, 다단계 작업 실행을 강화함연속된 도구 호출에서 결과 해석, 실패…",
+    "tags": [],
+    "score": 0.64
+  },
+  {
     "date": "2026-11-24",
     "source": "GeekNews",
     "title": "NariQ: BF16 수준의 Qwen3.8-27B를 10GB 파일에 담다",
@@ -626,42 +658,5 @@
     "summary": "AI 에이전트와 1년여간 혼자 개발하며, 코드 작성보다 에이전트의 진행과 결과를 통제하고 개선하는 개발 과정을 만드는 데 집중한 경험을 공유해봅니다. 시리즈로 여러편 써보려는데 그 첫번째 편입니다. 하네스 엔지니어링을 에이전트 설정과 도구 조합을…",
     "tags": [],
     "score": 0.51
-  },
-  {
-    "date": "2026-11-05",
-    "source": "PyTorch KR",
-    "title": "Auto Ontology: DB 메타데이터로 온톨로지를 생성해 AI 에이전트의 SQL을 검증하는 NVIDIA의 시맨틱 레이어 프레임워크",
-    "url": "https://discuss.pytorch.kr/t/auto-ontology-db-ai-sql-nvidia/12402",
-    "summary": "핵심 요약 Auto Ontology는 NVIDIA가 공개한 파이썬 프레임워크로, 기업 데이터베이스의 메타데이터에서 온톨로지(용어 정의, 컬럼 매핑, 관계)를 생성하고 이를 근거로 자연어 질문을 SQL로 바꿔 실행합니다. AI 에이전트는 읽기 전용…",
-    "tags": [
-      "ai-agent",
-      "mcp",
-      "nvidia",
-      "text-to-sql"
-    ],
-    "score": 0.84
-  },
-  {
-    "date": "2026-11-05",
-    "source": "GeekNews",
-    "title": "Tencent, 오픈소스 최상위권을 목표로 한 멀티모달 AI 모델 Hy4 공개",
-    "url": "https://news.hada.io/topic?id=36613&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "summary": "Tencent가 멀티모달 AI 모델 Hy4 정식 버전을 공개함. Tencent Cloud와 OpenRouter에서 먼저 제공하며, 모델 가중치는 추후 공개할 예정임Hy4 계열에 처음으로 시각 인식과 컴퓨터 조작을 도입함. 이미지와 차트를 읽고,…",
-    "tags": [],
-    "score": 0.78
-  },
-  {
-    "date": "2026-11-05",
-    "source": "PyTorch KR",
-    "title": "Google, Antigravity용 Cheminformatics Skills 출시: 크리조티닙 사례로 본 에이전트 신약 설계 (feat. RDKit, ChEMBL)",
-    "url": "https://discuss.pytorch.kr/t/google-antigravity-cheminformatics-skills-feat-rdkit-chembl/12413",
-    "summary": "핵심 요약 Google DeepMind가 Antigravity용 Cheminformatics Skills를 소개한 글(2026년 11월 3일)입니다. 보통 며칠 걸리는 신약 설계 한 번의 반복을, 문헌 검색부터 거대고리 설계까지 약 한 시간 안에…",
-    "tags": [
-      "agent-skills",
-      "google-deepmind",
-      "ai-for-science",
-      "google-antigravity"
-    ],
-    "score": 0.6
   }
 ]
