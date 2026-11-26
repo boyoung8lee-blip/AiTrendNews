@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-11-26",
+    "source": "GeekNews",
+    "title": "LLM으로 문서 없는 9달러 AliExpress ‘YP3’ MP3 플레이어에 Rockbox 포팅하기",
+    "url": "https://news.hada.io/topic?id=37853&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "RAM이 512 KiB뿐인 9달러 MP3 플레이어에 오픈소스 음악 재생 펌웨어 Rockbox를 이식함. LLM이 코드를 작성하고 사람이 개발 방향과 테스트를 맡아, 약 일주일 만에 부팅과 음악 재생에 성공한 뒤 한 달가량 최적화와 버그 수정을…",
+    "tags": [],
+    "score": 0.61
+  },
+  {
+    "date": "2026-11-26",
+    "source": "PyTorch KR",
+    "title": "Hugging Face가 공개한 에이전트 평가를 위한 구축 가이드",
+    "url": "https://discuss.pytorch.kr/t/hugging-face/12636",
+    "summary": "핵심 요약 Hugging Face가 2026년 11월 23일 에이전트 평가 구축 가이드를 공개했습니다. 공개 과제인 그래핀 라만 스펙트럼 피팅을 가져와 8단계로 다시 만드는 과정을 보여 줍니다. 피크를 피팅하지 않고 높이만 읽는 지름길 스크립트가…",
+    "tags": [
+      "agent",
+      "benchmark",
+      "hugging-face",
+      "guide"
+    ],
+    "score": 0.6
+  },
+  {
+    "date": "2026-11-26",
+    "source": "GeekNews",
+    "title": "똑똑하고 진심으로 책임지는 사람들은 도구를 쓴다",
+    "url": "https://news.hada.io/topic?id=37851&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "LLM은 사용자의 기존 태도를 증폭함. 호기심과 책임감이 강한 엔지니어는 구현과 검증의 범위를 넓힐 수 있지만, 무책임한 엔지니어는 생성된 코드를 이해하지 않은 채 더 빠르게 배포할 수 있음책임감 있는 엔지니어에게 부족했던 것은 의지보다 시간이었음.…",
+    "tags": [],
+    "score": 0.57
+  },
+  {
     "date": "2026-11-25",
     "source": "GeekNews",
     "title": "오픈 소스에서 월 반복 매출 2만 달러까지: EmailEngine의 여정",
@@ -626,37 +658,5 @@
       "speculative-decoding"
     ],
     "score": 0.44
-  },
-  {
-    "date": "2026-11-06",
-    "source": "GeekNews",
-    "title": "MCP Explained - AI 앱과 도구를 연결하는 Model Context Protocol의 작동 방식",
-    "url": "https://news.hada.io/topic?id=36665&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "summary": "MCP(Model Context Protocol) 는 AI 앱을 도구와 데이터에 연결하는 개방형 표준으로, 서버가 제공하는 기능을 앱이 모델에 전달하고 실행 결과를 돌려주는 방식으로 작동함호스트는 Claude, Cursor, ChatGPT 같은 AI…",
-    "tags": [],
-    "score": 0.66
-  },
-  {
-    "date": "2026-11-06",
-    "source": "PyTorch KR",
-    "title": "Anatomy: 상자와 화살표 대신 움직이는 기계 그림으로 기술 개념을 설명하는 에이전트 스킬",
-    "url": "https://discuss.pytorch.kr/t/anatomy/12412",
-    "summary": "핵심 요약 Anatomy는 기술 개념을 상자와 화살표 대신, 그 개념대로 움직이는 가상의 기계 그림으로 만드는 에이전트 스킬입니다. 예를 들어 LRU(Least Recently Used) 캐시는 4칸짜리 책장이 되고, 블룸 필터는 릴 3개짜리…",
-    "tags": [
-      "claude-code",
-      "agent-skills",
-      "visualization",
-      "webgl"
-    ],
-    "score": 0.63
-  },
-  {
-    "date": "2026-11-06",
-    "source": "GeekNews",
-    "title": "AI와 개발한 1년 — 사라진 건 없고, 달라진 건 많다",
-    "url": "https://news.hada.io/topic?id=36647&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "summary": "AI 에이전트와 1년여간 혼자 개발하며, 코드 작성보다 에이전트의 진행과 결과를 통제하고 개선하는 개발 과정을 만드는 데 집중한 경험을 공유해봅니다. 시리즈로 여러편 써보려는데 그 첫번째 편입니다. 하네스 엔지니어링을 에이전트 설정과 도구 조합을…",
-    "tags": [],
-    "score": 0.51
   }
 ]
